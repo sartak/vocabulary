@@ -5,8 +5,12 @@ use Template::Declare::Tags;
 
 our $japanese = $0 =~ /japanese/i;
 
+my $prev_date = '';
 sub word {
     my %args = @_;
+
+    br {} if $prev_date ne $args{date};
+    $prev_date = $args{date};
 
     li {
         for my $field ('date', 'word', 'definition', 'english') {
