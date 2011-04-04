@@ -9,7 +9,7 @@ my $prev_date = '';
 sub word {
     my %args = @_;
 
-    br {} if $prev_date ne $args{date};
+    br {} if $prev_date && $prev_date ne $args{date};
     $prev_date = $args{date};
 
     li {
