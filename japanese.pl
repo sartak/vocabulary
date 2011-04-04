@@ -493,3 +493,10 @@ word(
     furigana   => 'よ',
     english    => 'world; society',
 );
+
+word(
+    date       => '2011-04-04',
+    word       => '聖書',
+    furigana   => 'せいしょ',
+    english    => 'the Bible',
+);
