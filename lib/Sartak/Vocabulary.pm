@@ -93,13 +93,13 @@ EOF
 
     if ($japanese) {
         print '<a href="vocabulary.html">(English)</a>';
-        print '<hr />';
     }
     else {
         print '<a href="語彙.html">(Japanese)</a>';
-        print '<hr />';
     }
 
+    print ' <a href="https://github.com/sartak/vocabulary">(GitHub)</a>';
+    print '<hr />';
     print '<ul>';
 }
 
