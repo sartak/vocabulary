@@ -465,3 +465,31 @@ word(
     furigana   => 'かりる',
     english    => 'borrow',
 );
+
+word(
+    date       => '2011-04-03',
+    word       => '妹',
+    furigana   => 'いもうと',
+    english    => 'younger sister',
+);
+
+word(
+    date       => '2011-04-03',
+    word       => '苦しい',
+    furigana   => 'くるしい',
+    english    => 'painful',
+);
+
+word(
+    date       => '2011-04-03',
+    word       => '長い',
+    furigana   => 'ながい',
+    english    => 'long',
+);
+
+word(
+    date       => '2011-04-03',
+    word       => '世',
+    furigana   => 'よ',
+    english    => 'world; society',
+);
