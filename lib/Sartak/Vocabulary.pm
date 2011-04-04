@@ -5,12 +5,15 @@ use Template::Declare::Tags;
 
 our $japanese = $0 =~ /japanese/i;
 
+my %seen;
 my $prev_date = '';
 sub word {
     my %args = @_;
 
     br {} if $prev_date && $prev_date ne $args{date};
     $prev_date = $args{date};
+
+    warn "Already seen $args{word}\n" if $seen{$args{word}}++;
 
     li {
         for my $field ('date', 'word', 'definition', 'english') {
