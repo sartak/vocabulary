@@ -54,3 +54,9 @@ word(
     definition => 'the use of a word referring to or replacing a word used earlier in a sentence, to avoid repetition',
 );
 
+word(
+    date       => '2011-04-05',
+    word       => 'truss',
+    definition => 'tie up the wings and legs of (a chicken or other bird) before cooking',
+);
+
