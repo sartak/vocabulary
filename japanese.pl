@@ -521,3 +521,24 @@ word(
     furigana   => 'おもいで',
     english    => 'a memory',
 );
+
+word(
+    date       => '2011-04-05',
+    word       => '見つめる',
+    furigana   => 'みつめる',
+    english    => 'gaze',
+);
+
+word(
+    date       => '2011-04-05',
+    word       => '秘密',
+    furigana   => 'ひみつ',
+    english    => 'secret',
+);
+
+word(
+    date       => '2011-04-05',
+    word       => '贈り物',
+    furigana   => 'おくりもの',
+    english    => 'gift',
+);
