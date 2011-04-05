@@ -500,3 +500,10 @@ word(
     furigana   => 'せいしょ',
     english    => 'the Bible',
 );
+
+word(
+    date       => '2011-04-04',
+    word       => '戻る',
+    furigana   => 'もどる',
+    english    => 'return',
+);
