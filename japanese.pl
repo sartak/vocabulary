@@ -507,3 +507,10 @@ word(
     furigana   => 'もどる',
     english    => 'return',
 );
+
+word(
+    date       => '2011-04-04',
+    word       => '旅行',
+    furigana   => 'りょこう',
+    english    => 'travel',
+);
