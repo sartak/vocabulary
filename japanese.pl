@@ -514,3 +514,10 @@ word(
     furigana   => 'りょこう',
     english    => 'travel',
 );
+
+word(
+    date       => '2011-04-04',
+    word       => '思い出',
+    furigana   => 'おもいで',
+    english    => 'a memory',
+);
