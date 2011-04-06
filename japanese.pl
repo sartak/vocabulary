@@ -542,3 +542,24 @@ word(
     furigana   => 'おくりもの',
     english    => 'gift',
 );
+
+word(
+    date       => '2011-04-05',
+    word       => '作成用',
+    furigana   => 'さくせいよう',
+    english    => 'for creating',
+);
+
+word(
+    date       => '2011-04-05',
+    word       => '例外',
+    furigana   => 'れいがい',
+    english    => 'exception',
+);
+
+word(
+    date       => '2011-04-05',
+    word       => '投げる',
+    furigana   => 'なげる',
+    english    => 'throw',
+);
