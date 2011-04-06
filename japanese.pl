@@ -563,3 +563,10 @@ word(
     furigana   => 'なげる',
     english    => 'throw',
 );
+
+word(
+    date       => '2011-04-06',
+    word       => '墓',
+    furigana   => 'はか',
+    english    => 'grave',
+);
