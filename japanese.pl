@@ -570,3 +570,17 @@ word(
     furigana   => 'はか',
     english    => 'grave',
 );
+
+word(
+    date       => '2011-04-06',
+    word       => '怒る',
+    furigana   => 'おこる',
+    english    => 'angry',
+);
+
+word(
+    date       => '2011-04-06',
+    word       => '太る',
+    furigana   => 'ふとる',
+    english    => 'gain weight',
+);
