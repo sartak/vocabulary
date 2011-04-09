@@ -622,3 +622,10 @@ word(
     word       => 'まず',
     english    => 'firstly',
 );
+
+word(
+    date       => '2011-04-09',
+    word       => '最大',
+    furigana   => 'さいだい',
+    english    => 'maximum',
+);
