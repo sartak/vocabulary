@@ -584,3 +584,17 @@ word(
     furigana   => 'ふとる',
     english    => 'gain weight',
 );
+
+word(
+    date       => '2011-04-08',
+    word       => '彼氏',
+    furigana   => 'かれし',
+    english    => 'boyfriend',
+);
+
+word(
+    date       => '2011-04-08',
+    word       => '工科大学',
+    furigana   => 'こうかだいがく',
+    english    => 'institute of technology',
+);
