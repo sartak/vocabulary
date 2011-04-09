@@ -598,3 +598,37 @@ word(
     furigana   => 'こうかだいがく',
     english    => 'institute of technology',
 );
+
+word(
+    date       => '2011-04-09',
+    word       => '宣言',
+    furigana   => 'せんげん',
+    english    => 'declaration',
+);
+
+word(
+    date       => '2011-04-09',
+    word       => '可能',
+    furigana   => 'かのう',
+    english    => 'possible',
+);
+
+word(
+    date       => '2011-04-09',
+    word       => '継承',
+    furigana   => 'けいしょう',
+    english    => 'inherit',
+);
+
+word(
+    date       => '2011-04-09',
+    word       => '削除',
+    furigana   => 'さくじょ',
+    english    => 'delete',
+);
+
+word(
+    date       => '2011-04-09',
+    word       => 'まず',
+    english    => 'firstly',
+);
