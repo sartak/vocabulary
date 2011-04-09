@@ -11,7 +11,6 @@ word(
     date       => '2011-01-03',
     word       => 'テーマパーク',
     english    => 'theme park',
-    sentence   => 'テーマパークに行こう！',
 );
 
 word(
@@ -19,7 +18,6 @@ word(
     word       => '自由',
     furigana   => 'じゆう',
     english    => 'freedom; liberty',
-    sentence   => '自由だ！',
 );
 
 word(
@@ -27,7 +25,6 @@ word(
     word       => '語彙',
     furigana   => 'ごい',
     english    => 'vocabulary; lexicon',
-    sentence   => '彼は語彙が少ない',
 );
 
 word(
@@ -35,7 +32,6 @@ word(
     word       => '少ない',
     furigana   => 'すくない',
     english    => 'few; little',
-    sentence   => '昨年は雨が少なかった',
 );
 
 word(
@@ -43,7 +39,6 @@ word(
     word       => '昨年',
     furigana   => 'さくねん',
     english    => 'last year',
-    sentence   => '昨年は地震が多い年でした',
 );
 
 word(
@@ -341,7 +336,6 @@ word(
     word       => '祝福',
     furigana   => 'しゅくふく',
     english    => 'blessing',
-    sentence   => '祝福された回復の薬をみつけた',
 );
 
 word(
@@ -349,7 +343,6 @@ word(
     word       => '回復',
     furigana   => 'かいふく',
     english    => 'healing',
-    sentence   => '祝福された回復の薬をみつけた',
 );
 
 word(
@@ -357,7 +350,6 @@ word(
     word       => '薬',
     furigana   => 'くすり',
     english    => 'potion',
-    sentence   => '祝福された回復の薬をみつけた',
 );
 
 word(
@@ -365,7 +357,6 @@ word(
     word       => '望み',
     furigana   => 'のぞみ',
     english    => 'wish',
-    sentence   => '何を望み？',
 );
 
 word(
@@ -373,7 +364,6 @@ word(
     word       => '杖',
     furigana   => 'つえ',
     english    => 'wand',
-    sentence   => '願いの杖',
 );
 
 word(
