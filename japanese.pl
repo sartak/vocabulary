@@ -629,3 +629,10 @@ word(
     furigana   => 'さいだい',
     english    => 'maximum',
 );
+
+word(
+    date       => '2011-04-09',
+    word       => '北東',
+    furigana   => 'ほくとう',
+    english    => 'northeast',
+);
