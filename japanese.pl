@@ -657,3 +657,10 @@ word(
     furigana   => 'かた',
     english    => 'type',
 );
+
+word(
+    date       => '2011-04-10',
+    word       => '指定',
+    furigana   => 'してい',
+    english    => 'specification',
+);
