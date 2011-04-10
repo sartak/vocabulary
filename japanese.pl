@@ -636,3 +636,24 @@ word(
     furigana   => 'ほくとう',
     english    => 'northeast',
 );
+
+word(
+    date       => '2011-04-10',
+    word       => '同様',
+    furigana   => 'どうよう',
+    english    => 'similar',
+);
+
+word(
+    date       => '2011-04-10',
+    word       => '返す',
+    furigana   => 'かえす',
+    english    => 'return',
+);
+
+word(
+    date       => '2011-04-10',
+    word       => '型',
+    furigana   => 'かた',
+    english    => 'type',
+);
