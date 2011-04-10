@@ -60,3 +60,8 @@ word(
     definition => 'tie up the wings and legs of (a chicken or other bird) before cooking',
 );
 
+word(
+    date       => '2011-04-10',
+    word       => 'simpatico',
+    definition => 'likable and easy to get along with',
+);
