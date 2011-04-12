@@ -664,3 +664,46 @@ word(
     furigana   => 'してい',
     english    => 'specification',
 );
+
+word(
+    date       => '2011-04-11',
+    word       => '赤ちゃん',
+    furigana   => 'あかちゃん',
+    english    => 'baby',
+);
+
+word(
+    date       => '2011-04-11',
+    word       => '泣き声',
+    furigana   => 'なきごえ',
+    english    => 'crying',
+);
+
+word(
+    date       => '2011-04-11',
+    word       => '関数',
+    furigana   => 'かんすう',
+    english    => 'function',
+);
+
+word(
+    date       => '2011-04-11',
+    word       => '用意',
+    furigana   => 'ようい',
+    english    => 'prepare',
+);
+
+word(
+    date       => '2011-04-11',
+    word       => '風',
+    furigana   => 'かぜ',
+    english    => 'wind',
+);
+
+word(
+    date       => '2011-04-11',
+    word       => '冷たい',
+    furigana   => 'つめたい',
+    english    => 'cool',
+);
+
