@@ -707,3 +707,10 @@ word(
     english    => 'cool',
 );
 
+word(
+    date       => '2011-04-11',
+    word       => '気に入る',
+    furigana   => 'きにいる',
+    english    => 'favorite',
+);
+
