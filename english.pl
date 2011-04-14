@@ -65,3 +65,9 @@ word(
     word       => 'simpatico',
     definition => 'likable and easy to get along with',
 );
+
+word(
+    date       => '2011-04-14',
+    word       => 'agog',
+    definition => 'very eager or curious to hear or see something',
+);
