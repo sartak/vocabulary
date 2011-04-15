@@ -714,3 +714,10 @@ word(
     english    => 'favorite',
 );
 
+word(
+    date       => '2011-04-14',
+    word       => '図書館',
+    furigana   => 'としょかん',
+    english    => 'library',
+);
+
