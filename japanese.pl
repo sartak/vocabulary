@@ -721,3 +721,10 @@ word(
     english    => 'library',
 );
 
+word(
+    date       => '2011-04-16',
+    word       => '海老',
+    furigana   => 'えび',
+    english    => 'shrimp',
+);
+
