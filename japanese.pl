@@ -728,3 +728,10 @@ word(
     english    => 'shrimp',
 );
 
+word(
+    date       => '2011-04-16',
+    word       => '御礼',
+    furigana   => 'おれい',
+    english    => 'thanks',
+);
+
