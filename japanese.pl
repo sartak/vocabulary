@@ -775,3 +775,10 @@ word(
     word       => 'ならば',
     english    => 'if',
 );
+
+word(
+    date       => '2011-04-18',
+    word       => '涙',
+    furigana   => 'なみだ',
+    english    => 'tears',
+);
