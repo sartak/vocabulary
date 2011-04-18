@@ -735,3 +735,38 @@ word(
     english    => 'thanks',
 );
 
+word(
+    date       => '2011-04-18',
+    word       => '腕',
+    furigana   => 'うで',
+    english    => 'arm',
+);
+
+word(
+    date       => '2011-04-18',
+    word       => '腕時計',
+    furigana   => 'うでどけい',
+    english    => 'wristwatch',
+);
+
+word(
+    date       => '2011-04-18',
+    word       => '兄さん',
+    furigana   => 'にいさん',
+    english    => 'older brother',
+);
+
+word(
+    date       => '2011-04-18',
+    word       => '臭い',
+    furigana   => 'におい',
+    english    => 'smell',
+);
+
+word(
+    date       => '2011-04-18',
+    word       => '己',
+    furigana   => 'おのれ',
+    english    => 'self',
+);
+
