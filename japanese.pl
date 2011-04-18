@@ -770,3 +770,8 @@ word(
     english    => 'self',
 );
 
+word(
+    date       => '2011-04-18',
+    word       => 'ならば',
+    english    => 'if',
+);
