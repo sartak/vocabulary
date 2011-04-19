@@ -782,3 +782,9 @@ word(
     furigana   => 'なみだ',
     english    => 'tears',
 );
+
+word(
+    date       => '2011-04-19',
+    word       => 'さらに',
+    english    => 'more',
+);
