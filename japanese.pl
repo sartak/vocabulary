@@ -788,3 +788,10 @@ word(
     word       => 'さらに',
     english    => 'more',
 );
+
+word(
+    date       => '2011-04-21',
+    word       => '伊藤園',
+    furigana   => 'いとうえん',
+    english    => 'ItōEn',
+);
