@@ -790,6 +790,13 @@ word(
 );
 
 word(
+    date       => '2011-04-20',
+    word       => '伝説',
+    furigana   => 'でんせつ',
+    english    => 'legend',
+);
+
+word(
     date       => '2011-04-21',
     word       => '伊藤園',
     furigana   => 'いとうえん',
