@@ -802,3 +802,38 @@ word(
     furigana   => 'いとうえん',
     english    => 'ItōEn',
 );
+
+word(
+    date       => '2011-04-23',
+    word       => '献本',
+    furigana   => 'けんぽん',
+    english    => 'complimentary copy',
+);
+
+word(
+    date       => '2011-04-23',
+    word       => '尋ねる',
+    furigana   => 'たずねる',
+    english    => 'ask',
+);
+
+word(
+    date       => '2011-04-23',
+    word       => '渡す',
+    furigana   => 'わたす',
+    english    => 'transfer',
+);
+
+word(
+    date       => '2011-04-23',
+    word       => '行う',
+    furigana   => 'おこなう',
+    english    => 'do; make',
+);
+
+word(
+    date       => '2011-04-23',
+    word       => '例',
+    furigana   => 'れい',
+    english    => 'example',
+);
