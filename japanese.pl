@@ -837,3 +837,23 @@ word(
     furigana   => 'れい',
     english    => 'example',
 );
+
+word(
+    date       => '2011-04-25',
+    word       => '変わる',
+    furigana   => 'かわる',
+    english    => 'change',
+);
+
+word(
+    date       => '2011-04-25',
+    word       => '住所',
+    furigana   => 'じゅうしょ',
+    english    => 'address',
+);
+
+word(
+    date       => '2011-04-25',
+    word       => 'よける',
+    english    => 'evade',
+);
