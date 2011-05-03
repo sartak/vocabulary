@@ -870,3 +870,37 @@ word(
     word       => 'じじい',
     english    => 'old man',
 );
+
+word(
+    date       => '2011-04-27',
+    word       => '進化',
+    furigana   => 'しんか',
+    english    => 'evolution; development',
+);
+
+word(
+    date       => '2011-04-27',
+    word       => '尽きる',
+    furigana   => 'つきる',
+    english    => 'exhaust',
+);
+
+word(
+    date       => '2011-04-27',
+    word       => '体力',
+    furigana   => 'たいりょく',
+    english    => 'stamina',
+);
+
+word(
+    date       => '2011-04-27',
+    word       => 'ぐうぐう',
+    english    => 'fast asleep',
+);
+
+word(
+    date       => '2011-04-27',
+    word       => '変化',
+    furigana   => 'へんか',
+    english    => 'change',
+);
