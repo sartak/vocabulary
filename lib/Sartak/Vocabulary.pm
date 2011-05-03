@@ -120,6 +120,8 @@ END {
 
         print '</p></body></html>';
     }
+
+    warn "Learned " . scalar(keys %seen) . ($japanese ? " Japanese" : " English") . " words\n";
 }
 
 1;
