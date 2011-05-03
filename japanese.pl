@@ -907,12 +907,6 @@ word(
 
 word(
     date       => '2011-04-30',
-    word       => 'ばかり',
-    english    => 'just',
-);
-
-word(
-    date       => '2011-04-30',
     word       => '負ける',
     furigana   => 'まける',
     english    => 'be defeated',
