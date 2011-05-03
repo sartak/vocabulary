@@ -924,3 +924,24 @@ word(
     furigana   => 'かつ',
     english    => 'defeat',
 );
+
+word(
+    date       => '2011-05-01',
+    word       => '参る',
+    furigana   => 'まいる',
+    english    => 'be overwhelmed',
+);
+
+word(
+    date       => '2011-05-01',
+    word       => '捜す',
+    furigana   => 'さがす',
+    english    => 'search',
+);
+
+word(
+    date       => '2011-05-01',
+    word       => '鍵',
+    furigana   => 'かぎ',
+    english    => 'key',
+);
