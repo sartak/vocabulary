@@ -945,3 +945,37 @@ word(
     furigana   => 'かぎ',
     english    => 'key',
 );
+
+word(
+    date       => '2011-05-03',
+    word       => '起きる',
+    furigana   => 'おきる',
+    english    => 'occur',
+);
+
+word(
+    date       => '2011-05-03',
+    word       => '者',
+    furigana   => 'もの',
+    english    => 'person',
+);
+
+word(
+    date       => '2011-05-03',
+    word       => '生きかえる',
+    furigana   => 'いきかえる',
+    english    => 'revive',
+);
+
+word(
+    date       => '2011-05-03',
+    word       => 'くたばる',
+    english    => 'kick the bucket',
+);
+
+word(
+    date       => '2011-05-03',
+    word       => '不老不死',
+    furigana   => 'ふろうふし',
+    english    => 'perpetual youth',
+);
