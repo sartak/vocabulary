@@ -857,3 +857,16 @@ word(
     word       => 'よける',
     english    => 'evade',
 );
+
+word(
+    date       => '2011-04-26',
+    word       => '相手',
+    furigana   => 'あいて',
+    english    => 'partner; opponent',
+);
+
+word(
+    date       => '2011-04-26',
+    word       => 'じじい',
+    english    => 'old man',
+);
