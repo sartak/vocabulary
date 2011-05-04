@@ -980,3 +980,31 @@ word(
     furigana   => 'そら',
     english    => 'sky',
 );
+
+word(
+    date       => '2011-05-04',
+    word       => '失敗',
+    furigana   => 'しっぱい',
+    english    => 'failure',
+);
+
+word(
+    date       => '2011-05-04',
+    word       => '仮定',
+    furigana   => 'かてい',
+    english    => 'supposition',
+);
+
+word(
+    date       => '2011-05-04',
+    word       => '確認',
+    furigana   => 'かくにん',
+    english    => 'confirmation',
+);
+
+word(
+    date       => '2011-05-04',
+    word       => '実装',
+    furigana   => 'じっそう',
+    english    => 'package; implementation',
+);
