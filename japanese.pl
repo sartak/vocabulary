@@ -973,3 +973,10 @@ word(
     furigana   => 'ふろうふし',
     english    => 'perpetual youth',
 );
+
+word(
+    date       => '2011-05-03',
+    word       => '空',
+    furigana   => 'そら',
+    english    => 'sky',
+);
