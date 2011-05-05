@@ -942,8 +942,8 @@ word(
 
 word(
     date       => '2011-05-03',
-    word       => '起きる',
-    furigana   => 'おきる',
+    word       => '起こる',
+    furigana   => 'おこる',
     english    => 'occur',
 );
 
