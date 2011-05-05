@@ -1008,3 +1008,17 @@ word(
     furigana   => 'じっそう',
     english    => 'package; implementation',
 );
+
+word(
+    date       => '2011-05-04',
+    word       => '猿',
+    furigana   => 'さる',
+    english    => 'monkey',
+);
+
+word(
+    date       => '2011-05-04',
+    word       => '勝負',
+    furigana   => 'しょうぶ',
+    english    => 'match',
+);
