@@ -1022,3 +1022,17 @@ word(
     furigana   => 'しょうぶ',
     english    => 'match',
 );
+
+word(
+    date       => '2011-05-06',
+    word       => '殺気',
+    furigana   => 'さっき',
+    english    => 'bloodlust',
+);
+
+word(
+    date       => '2011-05-06',
+    word       => '駄馬',
+    furigana   => 'だば',
+    english    => 'pack horse',
+);
