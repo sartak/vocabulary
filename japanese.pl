@@ -1036,3 +1036,24 @@ word(
     furigana   => 'だば',
     english    => 'pack horse',
 );
+
+word(
+    date       => '2011-05-10',
+    word       => '呼び出す',
+    furigana   => 'よびだす',
+    english    => 'summon',
+);
+
+word(
+    date       => '2011-05-10',
+    word       => '実行',
+    furigana   => 'じっこう',
+    english    => 'execute',
+);
+
+word(
+    date       => '2011-05-10',
+    word       => '伝える',
+    furigana   => 'つたえる',
+    english    => 'convey',
+);
