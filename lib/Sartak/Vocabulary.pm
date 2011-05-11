@@ -10,12 +10,15 @@ my $prev_date = '';
 sub word {
     my %args = @_;
 
-    br {} if $prev_date && $prev_date ne $args{date};
+    my $new_date = $prev_date && $prev_date ne $args{date};
+    br {} if $new_date;
     $prev_date = $args{date};
 
     warn "Already seen $args{word}\n" if $seen{$args{word}}++;
 
     li {
+        id is $args{date} if $new_date;
+
         for my $field ('date', 'word', 'definition', 'english') {
             next if !$args{$field};
 
