@@ -1057,3 +1057,10 @@ word(
     furigana   => 'つたえる',
     english    => 'convey',
 );
+
+word(
+    date       => '2011-05-10',
+    word       => '指摘',
+    furigana   => 'してき',
+    english    => 'point out',
+);
