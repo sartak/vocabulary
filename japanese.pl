@@ -1064,3 +1064,37 @@ word(
     furigana   => 'してき',
     english    => 'point out',
 );
+
+word(
+    date       => '2011-05-12',
+    word       => '命令',
+    furigana   => 'めいれい',
+    english    => 'orders',
+);
+
+word(
+    date       => '2011-05-12',
+    word       => '呼ぶ',
+    furigana   => 'よぶ',
+    english    => 'call',
+);
+
+word(
+    date       => '2011-05-12',
+    word       => '青い',
+    furigana   => 'あおい',
+    english    => 'blue',
+);
+
+word(
+    date       => '2011-05-12',
+    word       => 'さらば',
+    english    => 'farewell',
+);
+
+word(
+    date       => '2011-05-12',
+    word       => '命',
+    furigana   => 'いのち',
+    english    => 'life',
+);
