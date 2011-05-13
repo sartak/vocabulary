@@ -1098,3 +1098,23 @@ word(
     furigana   => 'いのち',
     english    => 'life',
 );
+
+word(
+    date       => '2011-05-13',
+    word       => 'お巡りさん',
+    furigana   => 'おまわりさん',
+    english    => 'policeman',
+);
+
+word(
+    date       => '2011-05-13',
+    word       => '世の中',
+    furigana   => 'よのなか',
+    english    => 'world',
+);
+
+word(
+    date       => '2011-05-13',
+    word       => 'しゃべる',
+    english    => 'talk',
+);
