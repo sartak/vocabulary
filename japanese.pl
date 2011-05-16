@@ -1118,3 +1118,51 @@ word(
     word       => 'しゃべる',
     english    => 'talk',
 );
+
+word(
+    date       => '2011-05-15',
+    word       => '病院',
+    furigana   => 'びょういん',
+    english    => 'hospital',
+);
+
+word(
+    date       => '2011-05-15',
+    word       => 'わーい',
+    english    => 'yippee',
+);
+
+word(
+    date       => '2011-05-15',
+    word       => '悲しい',
+    furigana   => 'かなしい',
+    english    => 'sad',
+);
+
+word(
+    date       => '2011-05-15',
+    word       => '悲しむ',
+    furigana   => 'かなしむ',
+    english    => 'be sad',
+);
+
+word(
+    date       => '2011-05-15',
+    word       => '映像',
+    furigana   => 'えいぞう',
+    english    => 'image',
+);
+
+word(
+    date       => '2011-05-15',
+    word       => '魔女',
+    furigana   => 'まじょ',
+    english    => 'witch',
+);
+
+word(
+    date       => '2011-05-15',
+    word       => '小説',
+    furigana   => 'しょうせつ',
+    english    => 'novel',
+);
