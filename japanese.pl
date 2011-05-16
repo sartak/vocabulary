@@ -1166,3 +1166,17 @@ word(
     furigana   => 'しょうせつ',
     english    => 'novel',
 );
+
+word(
+    date       => '2011-05-16',
+    word       => '無効',
+    furigana   => 'むこう',
+    english    => 'invalid',
+);
+
+word(
+    date       => '2011-05-16',
+    word       => '追加',
+    furigana   => 'ついか',
+    english    => 'supplement',
+);
