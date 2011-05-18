@@ -1180,3 +1180,17 @@ word(
     furigana   => 'ついか',
     english    => 'supplement',
 );
+
+word(
+    date       => '2011-05-17',
+    word       => '死刑',
+    furigana   => 'しけい',
+    english    => 'death penalty',
+);
+
+word(
+    date       => '2011-05-17',
+    word       => '試す',
+    furigana   => 'ためす',
+    english    => 'test',
+);
