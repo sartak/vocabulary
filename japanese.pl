@@ -1194,3 +1194,10 @@ word(
     furigana   => 'ためす',
     english    => 'test',
 );
+
+word(
+    date       => '2011-05-20',
+    word       => '〜団',
+    furigana   => '〜だん',
+    english    => 'group',
+);
