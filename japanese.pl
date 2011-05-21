@@ -1201,3 +1201,17 @@ word(
     furigana   => '〜だん',
     english    => 'group',
 );
+
+word(
+    date       => '2011-05-21',
+    word       => '接続',
+    furigana   => 'せつぞく',
+    english    => 'connection',
+);
+
+word(
+    date       => '2011-05-21',
+    word       => '泳ぐ',
+    furigana   => 'およぐ',
+    english    => 'swim',
+);
