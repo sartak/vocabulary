@@ -1215,3 +1215,45 @@ word(
     furigana   => 'およぐ',
     english    => 'swim',
 );
+
+word(
+    date       => '2011-05-22',
+    word       => '交換',
+    furigana   => 'こうかん',
+    english    => 'exchange',
+);
+
+word(
+    date       => '2011-05-22',
+    word       => '選ぶ',
+    furigana   => 'えらぶ',
+    english    => 'choose',
+);
+
+word(
+    date       => '2011-05-22',
+    word       => '釣る',
+    furigana   => 'つる',
+    english    => 'fishing',
+);
+
+word(
+    date       => '2011-05-22',
+    word       => '釣り上げる',
+    furigana   => 'つりあげる',
+    english    => 'catch (a fish)',
+);
+
+word(
+    date       => '2011-05-22',
+    word       => '取る',
+    furigana   => 'とる',
+    english    => 'take',
+);
+
+word(
+    date       => '2011-05-22',
+    word       => '疲れる',
+    furigana   => 'つかれる',
+    english    => 'get tired',
+);
