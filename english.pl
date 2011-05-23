@@ -71,3 +71,9 @@ word(
     word       => 'agog',
     definition => 'very eager or curious to hear or see something',
 );
+
+word(
+    date       => '2011-05-23',
+    word       => 'avocation',
+    definition => 'a hobby or minor occupation',
+);
