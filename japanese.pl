@@ -1257,3 +1257,10 @@ word(
     furigana   => 'つかれる',
     english    => 'get tired',
 );
+
+word(
+    date       => '2011-05-25',
+    word       => 'やばい',
+    english    => 'cool',
+);
+
