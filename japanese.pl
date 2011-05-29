@@ -1264,3 +1264,23 @@ word(
     english    => 'cool',
 );
 
+word(
+    date       => '2011-05-28',
+    word       => '好む',
+    furigana   => 'このむ',
+    english    => 'like',
+);
+
+word(
+    date       => '2011-05-28',
+    word       => '歴史',
+    furigana   => 'れきし',
+    english    => 'history',
+);
+
+word(
+    date       => '2011-05-28',
+    word       => '乗り換え',
+    furigana   => 'のりかえ',
+    english    => 'transfer',
+);
