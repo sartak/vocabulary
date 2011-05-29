@@ -1284,3 +1284,24 @@ word(
     furigana   => 'のりかえ',
     english    => 'transfer',
 );
+
+word(
+    date       => '2011-05-29',
+    word       => '激しい',
+    furigana   => 'はげしい',
+    english    => 'violent',
+);
+
+word(
+    date       => '2011-05-29',
+    word       => '技',
+    furigana   => 'わざ',
+    english    => 'technique',
+);
+
+word(
+    date       => '2011-05-29',
+    word       => '磨く',
+    furigana   => 'みがく',
+    english    => 'polish',
+);
