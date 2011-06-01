@@ -1305,3 +1305,17 @@ word(
     furigana   => 'みがく',
     english    => 'polish',
 );
+
+word(
+    date       => '2011-06-01',
+    word       => '王妃',
+    furigana   => 'おうひ',
+    english    => 'queen',
+);
+
+word(
+    date       => '2011-06-01',
+    word       => '王',
+    furigana   => 'おう',
+    english    => 'king',
+);
