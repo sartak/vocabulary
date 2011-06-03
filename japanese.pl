@@ -1319,3 +1319,17 @@ word(
     furigana   => 'おう',
     english    => 'king',
 );
+
+word(
+    date       => '2011-06-02',
+    word       => '当たる',
+    furigana   => 'あたる',
+    english    => 'hit',
+);
+
+word(
+    date       => '2011-06-02',
+    word       => '八つ当たり',
+    furigana   => 'やつあたり',
+    english    => 'vent anger',
+);
