@@ -1333,3 +1333,10 @@ word(
     furigana   => 'やつあたり',
     english    => 'vent anger',
 );
+
+word(
+    date       => '2011-06-06',
+    word       => '嫁',
+    furigana   => 'よめ',
+    english    => 'bride',
+);
