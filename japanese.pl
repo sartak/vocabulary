@@ -1340,3 +1340,24 @@ word(
     furigana   => 'よめ',
     english    => 'bride',
 );
+
+word(
+    date       => '2011-06-09',
+    word       => '空港',
+    furigana   => 'くうこう',
+    english    => 'airport',
+);
+
+word(
+    date       => '2011-06-09',
+    word       => 'かかる',
+    english    => 'come at',
+);
+
+word(
+    date       => '2011-06-09',
+    word       => '集まる',
+    furigana   => 'あつまる',
+    english    => 'gather',
+);
+
