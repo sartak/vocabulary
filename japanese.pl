@@ -1375,3 +1375,36 @@ word(
     english    => 'town',
 );
 
+word(
+    date       => '2011-06-10',
+    word       => '乗る',
+    furigana   => 'のる',
+    english    => 'mount',
+);
+
+word(
+    date       => '2011-06-10',
+    word       => 'ちょうだい',
+    english    => 'please',
+);
+
+word(
+    date       => '2011-06-10',
+    word       => '風呂',
+    furigana   => 'ふろ',
+    english    => 'bath',
+);
+
+word(
+    date       => '2011-06-10',
+    word       => '食う',
+    furigana   => 'くう',
+    english    => 'eat',
+);
+
+word(
+    date       => '2011-06-10',
+    word       => '豚',
+    furigana   => 'ぶた',
+    english    => 'pig',
+);
