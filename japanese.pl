@@ -1361,3 +1361,17 @@ word(
     english    => 'gather',
 );
 
+word(
+    date       => '2011-06-10',
+    word       => '隣',
+    furigana   => 'となり',
+    english    => 'neighboring',
+);
+
+word(
+    date       => '2011-06-10',
+    word       => '都市',
+    furigana   => 'とし',
+    english    => 'town',
+);
+
