@@ -1408,3 +1408,30 @@ word(
     furigana   => 'ぶた',
     english    => 'pig',
 );
+
+word(
+    date       => '2011-06-11',
+    word       => '以降',
+    furigana   => 'いこう',
+    english    => 'and onward',
+);
+
+word(
+    date       => '2011-06-11',
+    word       => 'あれこれ',
+    english    => 'this and that',
+);
+
+word(
+    date       => '2011-06-11',
+    word       => '順番',
+    furigana   => 'じゅんばん',
+    english    => 'order',
+);
+
+word(
+    date       => '2011-06-11',
+    word       => '存在',
+    furigana   => 'そんざい',
+    english    => 'existence',
+);
