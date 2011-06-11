@@ -1435,3 +1435,10 @@ word(
     furigana   => 'そんざい',
     english    => 'existence',
 );
+
+word(
+    date       => '2011-06-11',
+    word       => '終バス',
+    furigana   => 'しゅうばす',
+    english    => 'last bus',
+);
