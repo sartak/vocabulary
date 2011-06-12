@@ -1442,3 +1442,10 @@ word(
     furigana   => 'しゅうばす',
     english    => 'last bus',
 );
+
+word(
+    date       => '2011-06-11',
+    word       => '早とちり',
+    furigana   => 'はやとちり',
+    english    => 'jump to the wrong conclusion',
+);
