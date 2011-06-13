@@ -1468,3 +1468,17 @@ word(
     word       => 'うるさい',
     english    => 'noisy',
 );
+
+word(
+    date       => '2011-06-13',
+    word       => '評価',
+    furigana   => 'ひょうか',
+    english    => 'assessment',
+);
+
+word(
+    date       => '2011-06-13',
+    word       => '現在',
+    furigana   => 'げんざい',
+    english    => 'present time',
+);
