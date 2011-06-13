@@ -1462,3 +1462,9 @@ word(
     word       => 'なるべく',
     english    => 'as much as possible',
 );
+
+word(
+    date       => '2011-06-12',
+    word       => 'うるさい',
+    english    => 'noisy',
+);
