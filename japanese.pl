@@ -1449,3 +1449,16 @@ word(
     furigana   => 'はやとちり',
     english    => 'jump to the wrong conclusion',
 );
+
+word(
+    date       => '2011-06-12',
+    word       => '避ける',
+    furigana   => 'さける',
+    english    => 'avoid',
+);
+
+word(
+    date       => '2011-06-12',
+    word       => 'なるべく',
+    english    => 'as much as possible',
+);
