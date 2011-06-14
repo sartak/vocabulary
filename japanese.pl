@@ -1482,3 +1482,25 @@ word(
     furigana   => 'げんざい',
     english    => 'present time',
 );
+
+word(
+    date       => '2011-06-14',
+    word       => '胸',
+    furigana   => 'むね',
+    english    => 'chest',
+);
+
+word(
+    date       => '2011-06-14',
+    word       => '葉',
+    furigana   => 'は',
+    english    => 'leaf',
+);
+
+word(
+    date       => '2011-06-14',
+    word       => '理由',
+    furigana   => 'りゆう',
+    english    => 'reason',
+);
+
