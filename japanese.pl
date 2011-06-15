@@ -1517,3 +1517,38 @@ word(
     furigana   => 'たいふう',
     english    => 'typhoon',
 );
+
+word(
+    date       => '2011-06-15',
+    word       => '幾つ',
+    furigana   => 'いくつ',
+    english    => 'how many',
+);
+
+word(
+    date       => '2011-06-15',
+    word       => '裸',
+    furigana   => 'はだか',
+    english    => 'nude',
+);
+
+word(
+    date       => '2011-06-15',
+    word       => '服',
+    furigana   => 'ふく',
+    english    => 'clothing',
+);
+
+word(
+    date       => '2011-06-15',
+    word       => 'さっき',
+    english    => 'a short time ago',
+);
+
+word(
+    date       => '2011-06-15',
+    word       => '方法',
+    furigana   => 'ほうほう',
+    english    => 'method',
+);
+
