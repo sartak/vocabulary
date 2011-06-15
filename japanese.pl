@@ -1504,3 +1504,16 @@ word(
     english    => 'reason',
 );
 
+word(
+    date       => '2011-06-14',
+    word       => '遅れる',
+    furigana   => 'おくれる',
+    english    => 'be late',
+);
+
+word(
+    date       => '2011-06-14',
+    word       => '台風',
+    furigana   => 'たいふう',
+    english    => 'typhoon',
+);
