@@ -77,3 +77,9 @@ word(
     word       => 'avocation',
     definition => 'a hobby or minor occupation',
 );
+
+word(
+    date       => '2011-06-17',
+    word       => 'sprezzatura',
+    definition => 'studied carelessness',
+);
