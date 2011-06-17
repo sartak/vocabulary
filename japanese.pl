@@ -1578,3 +1578,31 @@ word(
     furigana   => 'じまく',
     english    => 'subtitles',
 );
+
+word(
+    date       => '2011-06-17',
+    word       => '混沌',
+    furigana   => 'こんとん',
+    english    => 'chaos',
+);
+
+word(
+    date       => '2011-06-17',
+    word       => '満月',
+    furigana   => 'まんげつ',
+    english    => 'full moon',
+);
+
+word(
+    date       => '2011-06-17',
+    word       => '光',
+    furigana   => 'ひかり',
+    english    => 'light',
+);
+
+word(
+    date       => '2011-06-17',
+    word       => '呪う',
+    furigana   => 'のろう',
+    english    => 'curse',
+);
