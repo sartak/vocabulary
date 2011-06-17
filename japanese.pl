@@ -1552,3 +1552,29 @@ word(
     english    => 'method',
 );
 
+word(
+    date       => '2011-06-16',
+    word       => 'すいか',
+    english    => 'watermelon',
+);
+
+word(
+    date       => '2011-06-16',
+    word       => '果物',
+    furigana   => 'くだもの',
+    english    => 'fruit',
+);
+
+word(
+    date       => '2011-06-16',
+    word       => '本名',
+    furigana   => 'ほんみょう',
+    english    => 'real name',
+);
+
+word(
+    date       => '2011-06-16',
+    word       => '字幕',
+    furigana   => 'じまく',
+    english    => 'subtitles',
+);
