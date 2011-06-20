@@ -1620,3 +1620,38 @@ word(
     furigana   => 'ねがお',
     english    => 'sleeping face',
 );
+
+word(
+    date       => '2011-06-20',
+    word       => '海水',
+    furigana   => 'かいすい',
+    english    => 'seawater',
+);
+
+word(
+    date       => '2011-06-20',
+    word       => '塩',
+    furigana   => 'しお',
+    english    => 'salt',
+);
+
+word(
+    date       => '2011-06-20',
+    word       => '塩辛い',
+    furigana   => 'しおからい',
+    english    => 'salty',
+);
+
+word(
+    date       => '2011-06-20',
+    word       => '足りない',
+    furigana   => 'たりない',
+    english    => 'need',
+);
+
+word(
+    date       => '2011-06-20',
+    word       => '自殺',
+    furigana   => 'じさつ',
+    english    => 'suicide',
+);
