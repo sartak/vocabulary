@@ -1606,3 +1606,17 @@ word(
     furigana   => 'のろう',
     english    => 'curse',
 );
+
+word(
+    date       => '2011-06-20',
+    word       => '数える',
+    furigana   => 'かぞえる',
+    english    => 'count',
+);
+
+word(
+    date       => '2011-06-20',
+    word       => '寝顔',
+    furigana   => 'ねがお',
+    english    => 'sleeping face',
+);
