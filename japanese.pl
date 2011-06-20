@@ -1655,3 +1655,17 @@ word(
     furigana   => 'じさつ',
     english    => 'suicide',
 );
+
+word(
+    date       => '2011-06-20',
+    word       => '疑う',
+    furigana   => 'うたがう',
+    english    => 'doubt',
+);
+
+word(
+    date       => '2011-06-20',
+    word       => '傷',
+    furigana   => 'きず',
+    english    => 'wound',
+);
