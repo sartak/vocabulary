@@ -1669,3 +1669,37 @@ word(
     furigana   => 'きず',
     english    => 'wound',
 );
+
+word(
+    date       => '2011-06-21',
+    word       => 'ウズウズ',
+    english    => 'impatient',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '一年生',
+    furigana   => 'いちねんせい',
+    english    => 'freshman',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '立ち止まる',
+    furigana   => 'たちどまる',
+    english    => 'stand still',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '金庫',
+    furigana   => 'きんこ',
+    english    => 'vault',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '無くす',
+    furigana   => 'なくす',
+    english    => 'lose',
+);
