@@ -1703,3 +1703,58 @@ word(
     furigana   => 'なくす',
     english    => 'lose',
 );
+
+word(
+    date       => '2011-06-21',
+    word       => '眺める',
+    furigana   => 'ながめる',
+    english    => 'gaze',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '簡単',
+    furigana   => 'かんたん',
+    english    => 'easy',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '穴',
+    furigana   => 'あな',
+    english    => 'hole',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '鍵穴',
+    furigana   => 'かぎあな',
+    english    => 'keyhole',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '青い顔',
+    furigana   => 'あおいかお',
+    english    => 'pale face',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '答える',
+    furigana   => 'こたえる',
+    english    => 'answer',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => 'ちと',
+    english    => 'a little',
+);
+
+word(
+    date       => '2011-06-21',
+    word       => '最低',
+    furigana   => 'さいてい',
+    english    => 'minimum',
+);
