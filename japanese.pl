@@ -1758,3 +1758,58 @@ word(
     furigana   => 'さいてい',
     english    => 'minimum',
 );
+
+word(
+    date       => '2011-06-24',
+    word       => 'ふざける',
+    english    => 'fool around',
+);
+
+word(
+    date       => '2011-06-24',
+    word       => '減らす',
+    furigana   => 'へらす',
+    english    => 'reduce',
+);
+
+word(
+    date       => '2011-06-24',
+    word       => '段階',
+    furigana   => 'だんかい',
+    english    => 'rank',
+);
+
+word(
+    date       => '2011-06-24',
+    word       => '質問',
+    furigana   => 'しつもん',
+    english    => 'question',
+);
+
+word(
+    date       => '2011-06-24',
+    word       => '対する',
+    furigana   => 'たいする',
+    english    => 'against',
+);
+
+word(
+    date       => '2011-06-24',
+    word       => '親子',
+    furigana   => 'おやこ',
+    english    => 'parent and child',
+);
+
+word(
+    date       => '2011-06-24',
+    word       => '無理',
+    furigana   => 'むり',
+    english    => 'impossible',
+);
+
+word(
+    date       => '2011-06-24',
+    word       => '貸す',
+    furigana   => 'かす',
+    english    => 'lend',
+);
