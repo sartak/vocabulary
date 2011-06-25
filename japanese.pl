@@ -1813,3 +1813,44 @@ word(
     furigana   => 'かす',
     english    => 'lend',
 );
+
+word(
+    date       => '2011-06-25',
+    word       => '感染',
+    furigana   => 'かんせん',
+    english    => 'infection',
+);
+
+word(
+    date       => '2011-06-25',
+    word       => '群れ',
+    furigana   => 'むれ',
+    english    => 'horde',
+);
+
+word(
+    date       => '2011-06-25',
+    word       => '身',
+    furigana   => 'み',
+    english    => 'flesh',
+);
+
+word(
+    date       => '2011-06-25',
+    word       => '守る',
+    furigana   => 'まもる',
+    english    => 'protect',
+);
+
+word(
+    date       => '2011-06-25',
+    word       => 'おびえる',
+    english    => 'be frightened',
+);
+
+word(
+    date       => '2011-06-25',
+    word       => '襲う',
+    furigana   => 'おそう',
+    english    => 'attack',
+);
