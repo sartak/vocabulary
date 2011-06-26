@@ -1854,3 +1854,10 @@ word(
     furigana   => 'おそう',
     english    => 'attack',
 );
+
+word(
+    date       => '2011-06-26',
+    word       => '飛行機',
+    furigana   => 'ひこうき',
+    english    => '✈ ',
+);
