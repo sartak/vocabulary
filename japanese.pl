@@ -1861,3 +1861,17 @@ word(
     furigana   => 'ひこうき',
     english    => '✈ ',
 );
+
+word(
+    date       => '2011-06-29',
+    word       => '移動',
+    furigana   => 'いどう',
+    english    => 'move',
+);
+
+word(
+    date       => '2011-06-29',
+    word       => '重要',
+    furigana   => 'じゅうよう',
+    english    => 'importance',
+);
