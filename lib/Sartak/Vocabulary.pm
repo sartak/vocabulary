@@ -10,16 +10,20 @@ my $prev_date = '';
 sub word {
     my %args = @_;
 
-    my $new_date = $prev_date && $prev_date ne $args{date};
-    br {} if $new_date;
+    my $new_date = $prev_date ne $args{date};
     $prev_date = $args{date};
 
     warn "Already seen $args{word}\n" if $seen{$args{word}}++;
 
-    li {
-        id is $args{date} if $new_date;
+    if ($new_date) {
+        dt {
+            id is $args{date};
+            outs $args{date};
+        }
+    }
 
-        for my $field ('date', 'word', 'definition', 'english') {
+    dd {
+        for my $field ('word', 'definition', 'english') {
             next if !$args{$field};
 
             span {
@@ -40,7 +44,7 @@ sub word {
                 }
             }
         }
-    }
+    };
 }
 
 my $imported;
@@ -73,10 +77,6 @@ sub import {
     <head>
         <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
         <style type="text/css">
-            .date {
-                font-style: italic;
-                font-size: .8em;
-            }
             .word {
                 font-weight: bold;
             }
@@ -103,7 +103,7 @@ EOF
 
     print ' <a href="https://github.com/sartak/vocabulary">(GitHub)</a>';
     print '<hr />';
-    print '<ul>';
+    print '<dl>';
 }
 
 END {
@@ -111,7 +111,7 @@ END {
         Template::Declare->buffer->flush;
         my $timestamp = gmtime;
 
-        print '</ul><hr />';
+        print '</dl><hr />';
         print '<p class="last-updated">';
 
         if ($japanese) {
