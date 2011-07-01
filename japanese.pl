@@ -1909,3 +1909,126 @@ word(
     furigana   => 'ひがし',
     english    => 'east',
 );
+
+word(
+    date       => '2011-07-01',
+    word       => '弱点',
+    furigana   => 'じゃくてん',
+    english    => 'weak point',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => 'バッチリ',
+    english    => 'sure thing',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '歯医者',
+    furigana   => 'はいしゃ',
+    english    => 'dentist',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '亀',
+    furigana   => 'かめ',
+    english    => 'turtle',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '仙人',
+    furigana   => 'せんにん',
+    english    => 'unworldly man',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '老師',
+    furigana   => 'ろうし',
+    english    => 'sage',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => 'つつく',
+    english    => 'nudge',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => 'たまげる',
+    english    => 'astounded',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '記述',
+    furigana   => 'きじゅつ',
+    english    => 'description',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '以下',
+    furigana   => 'いか',
+    english    => 'as below',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '単純',
+    furigana   => 'たんじゅん',
+    english    => 'simplicity',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '二倍',
+    furigana   => 'にばい',
+    english    => 'double',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '値',
+    furigana   => 'あたい',
+    english    => 'value',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '属',
+    furigana   => 'ぞく',
+    english    => 'belong',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '設定',
+    furigana   => 'せってい',
+    english    => 'establishment',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '実際',
+    furigana   => 'じっさい',
+    english    => 'actuality',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '本文',
+    furigana   => 'ほんぶん',
+    english    => 'text (of a book)',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '処理',
+    furigana   => 'しょり',
+    english    => 'dispose',
+);
