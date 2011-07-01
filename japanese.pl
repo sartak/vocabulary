@@ -1875,3 +1875,37 @@ word(
     furigana   => 'じゅうよう',
     english    => 'importance',
 );
+
+word(
+    date       => '2011-07-01',
+    word       => '一日',
+    furigana   => 'ついたち',
+    english    => 'first of the month',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '全体',
+    furigana   => 'ぜんたい',
+    english    => 'entirety',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => 'わたる',
+    english    => 'cover',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '空く',
+    furigana   => 'あく',
+    english    => 'available',
+);
+
+word(
+    date       => '2011-07-01',
+    word       => '東',
+    furigana   => 'ひがし',
+    english    => 'east',
+);
