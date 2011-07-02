@@ -2032,3 +2032,16 @@ word(
     furigana   => 'しょり',
     english    => 'dispose',
 );
+
+word(
+    date       => '2011-07-02',
+    word       => '二日',
+    furigana   => 'ふつか',
+    english    => 'second of the month',
+);
+
+word(
+    date       => '2011-07-02',
+    word       => '〜ごと',
+    english    => 'every',
+);
