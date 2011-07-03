@@ -2087,3 +2087,24 @@ word(
     furigana   => 'まなつ',
     english    => 'midsummer',
 );
+
+word(
+    date       => '2011-07-03',
+    word       => '三日',
+    furigana   => 'みっか',
+    english    => 'third of the month',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '坊主',
+    furigana   => 'ぼうず',
+    english    => 'monk',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '三日坊主',
+    furigana   => 'みっかぼうず',
+    english    => 'unsteady worker',
+);
