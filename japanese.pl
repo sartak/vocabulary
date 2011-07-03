@@ -2136,3 +2136,87 @@ word(
     furigana   => 'ちゅうもん',
     english    => 'order',
 );
+
+word(
+    date       => '2011-07-03',
+    word       => '木',
+    furigana   => 'き',
+    english    => 'tree; wood',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '机',
+    furigana   => 'つくえ',
+    english    => 'desk',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '置く',
+    furigana   => 'おく',
+    english    => 'put',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '掛かる',
+    furigana   => 'かかる',
+    english    => 'locked',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '成功',
+    furigana   => 'せいこう',
+    english    => 'success',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '外す',
+    furigana   => 'はずす',
+    english    => 'undo',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '命中',
+    furigana   => 'めいちゅう',
+    english    => 'direct hit',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '両方',
+    furigana   => 'りょうほう',
+    english    => 'both ways',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '祭壇',
+    furigana   => 'さいだん',
+    english    => 'altar',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '酸',
+    furigana   => 'さん',
+    english    => 'acid',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '文字',
+    furigana   => 'もじ',
+    english    => 'letter',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '灰色',
+    furigana   => 'はいいろ',
+    english    => 'grey',
+);
