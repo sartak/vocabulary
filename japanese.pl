@@ -2045,3 +2045,45 @@ word(
     word       => '〜ごと',
     english    => 'every',
 );
+
+word(
+    date       => '2011-07-02',
+    word       => '真',
+    furigana   => 'ま',
+    english    => 'true',
+);
+
+word(
+    date       => '2011-07-02',
+    word       => '真っ暗',
+    furigana   => 'まっくら',
+    english    => 'pitch-black',
+);
+
+word(
+    date       => '2011-07-02',
+    word       => '真っ黒',
+    furigana   => 'まっくろ',
+    english    => 'jet black',
+);
+
+word(
+    date       => '2011-07-02',
+    word       => '真っ白',
+    furigana   => 'まっしろ',
+    english    => 'snow white',
+);
+
+word(
+    date       => '2011-07-02',
+    word       => '真っ裸',
+    furigana   => 'まっぱだか',
+    english    => 'stark naked',
+);
+
+word(
+    date       => '2011-07-02',
+    word       => '真夏',
+    furigana   => 'まなつ',
+    english    => 'midsummer',
+);
