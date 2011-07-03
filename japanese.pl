@@ -2108,3 +2108,31 @@ word(
     furigana   => 'みっかぼうず',
     english    => 'unsteady worker',
 );
+
+word(
+    date       => '2011-07-03',
+    word       => '注',
+    furigana   => 'ちゅう',
+    english    => 'annotation',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '版',
+    furigana   => 'はん',
+    english    => 'edition',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '新版',
+    furigana   => 'しんぱん',
+    english    => 'new edition',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '注文',
+    furigana   => 'ちゅうもん',
+    english    => 'order',
+);
