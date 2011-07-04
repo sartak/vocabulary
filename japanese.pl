@@ -2220,3 +2220,52 @@ word(
     furigana   => 'はいいろ',
     english    => 'grey',
 );
+
+word(
+    date       => '2011-07-03',
+    word       => '指輪',
+    furigana   => 'ゆびわ',
+    english    => 'ring',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '空ける',
+    furigana   => 'あける',
+    english    => 'vacate',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '紫',
+    furigana   => 'むらさき',
+    english    => 'violet',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '缶',
+    furigana   => 'かん',
+    english    => 'can',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '捨てる',
+    furigana   => 'すてる',
+    english    => 'discard',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '物体',
+    furigana   => 'ぶったい',
+    english    => 'object',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '保存',
+    furigana   => 'ほぞん',
+    english    => 'save',
+);
