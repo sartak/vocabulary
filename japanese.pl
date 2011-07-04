@@ -2269,3 +2269,17 @@ word(
     furigana   => 'ほぞん',
     english    => 'save',
 );
+
+word(
+    date       => '2011-07-03',
+    word       => '文字化け',
+    furigana   => 'もじばけ',
+    english    => 'mojibake',
+);
+
+word(
+    date       => '2011-07-03',
+    word       => '盗む',
+    furigana   => 'ぬすむ',
+    english    => 'steal',
+);
