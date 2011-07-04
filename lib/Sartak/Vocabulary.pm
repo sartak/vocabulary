@@ -5,6 +5,7 @@ use Template::Declare::Tags;
 
 our $japanese = $0 =~ /japanese/i;
 
+my %count;
 my %seen;
 my $prev_date = '';
 sub word {
@@ -12,6 +13,9 @@ sub word {
 
     my $new_date = $prev_date ne $args{date};
     $prev_date = $args{date};
+
+    my @dates = ($args{date} =~ /^(((\d\d\d\d)-\d\d)-\d\d)$/, 'all time');
+    $count{$_}++ for @dates;
 
     warn "Already seen $args{word}\n" if $seen{$args{word}}++;
 
@@ -23,6 +27,8 @@ sub word {
     }
 
     dd {
+        title is $args{word} . ': ' . join '; ', map { "#$count{$_} for $_" } @dates;
+
         for my $field ('word', 'definition', 'english') {
             next if !$args{$field};
 
