@@ -2283,3 +2283,10 @@ word(
     furigana   => 'ぬすむ',
     english    => 'steal',
 );
+
+word(
+    date       => '2011-07-04',
+    word       => '四日',
+    furigana   => 'よっか',
+    english    => 'fourth of the month',
+);
