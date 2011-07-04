@@ -2290,3 +2290,38 @@ word(
     furigana   => 'よっか',
     english    => 'fourth of the month',
 );
+
+word(
+    date       => '2011-07-04',
+    word       => '物語',
+    furigana   => 'ものがたり',
+    english    => 'story',
+);
+
+word(
+    date       => '2011-07-04',
+    word       => '冒険',
+    furigana   => 'ぼうけん',
+    english    => 'adventure',
+);
+
+word(
+    date       => '2011-07-04',
+    word       => '灰',
+    furigana   => 'はい',
+    english    => 'ash',
+);
+
+word(
+    date       => '2011-07-04',
+    word       => '天皇',
+    furigana   => 'てんおう',
+    english    => 'emperor',
+);
+
+word(
+    date       => '2011-07-04',
+    word       => '明治',
+    furigana   => 'めいじ',
+    english    => 'Meiji',
+);
