@@ -2325,3 +2325,37 @@ word(
     furigana   => 'めいじ',
     english    => 'Meiji',
 );
+
+word(
+    date       => '2011-07-04',
+    word       => '国語',
+    furigana   => 'こくご',
+    english    => 'Japanese',
+);
+
+word(
+    date       => '2011-07-04',
+    word       => 'ゴム',
+    english    => 'rubber',
+);
+
+word(
+    date       => '2011-07-04',
+    word       => '消しゴム',
+    furigana   => 'けしごむ',
+    english    => 'eraser',
+);
+
+word(
+    date       => '2011-07-04',
+    word       => '壊れる',
+    furigana   => 'こわれる',
+    english    => 'break',
+);
+
+word(
+    date       => '2011-07-04',
+    word       => '表示',
+    furigana   => 'ひょうじ',
+    english    => 'show',
+);
