@@ -2422,3 +2422,23 @@ word(
     furigana   => 'たんご',
     english    => 'word',
 );
+
+word(
+    date       => '2011-07-05',
+    word       => '坑夫',
+    furigana   => 'こうふ',
+    english    => 'miner',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => 'きっと',
+    english    => 'surely',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '寂しい',
+    furigana   => 'さびしい',
+    english    => 'lonely',
+);
