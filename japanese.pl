@@ -2359,3 +2359,66 @@ word(
     furigana   => 'ひょうじ',
     english    => 'show',
 );
+
+word(
+    date       => '2011-07-05',
+    word       => '五日',
+    furigana   => 'いつか',
+    english    => 'fifth of the month',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '調べる',
+    furigana   => 'しらべる',
+    english    => 'examine',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '見逃す',
+    furigana   => 'みのがす',
+    english    => 'overlook',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '隠す',
+    furigana   => 'かくす',
+    english    => 'conceal',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '危険',
+    furigana   => 'きけん',
+    english    => 'peril',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '信号',
+    furigana   => 'しんごう',
+    english    => 'signal',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '暗号',
+    furigana   => 'あんごう',
+    english    => 'cipher',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '学ぶ',
+    furigana   => 'まなぶ',
+    english    => 'study',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '単語',
+    furigana   => 'たんご',
+    english    => 'word',
+);
