@@ -2658,3 +2658,31 @@ word(
     furigana   => 'まつり',
     english    => 'festival',
 );
+
+word(
+    date       => '2011-07-06',
+    word       => 'メタ文字',
+    furigana   => 'めたもじ',
+    english    => 'metacharacter',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '配列',
+    furigana   => 'はいれつ',
+    english    => 'array',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '順',
+    furigana   => 'じゅん',
+    english    => 'order',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '壁',
+    furigana   => 'かべ',
+    english    => 'wall',
+);
