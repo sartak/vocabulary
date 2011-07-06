@@ -2491,3 +2491,38 @@ word(
     furigana   => 'うすれる',
     english    => 'fade',
 );
+
+word(
+    date       => '2011-07-06',
+    word       => '六日',
+    furigana   => 'むいか',
+    english    => 'sixth of the month',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '矢',
+    furigana   => 'や',
+    english    => 'dart',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '耐性',
+    furigana   => 'たいせい',
+    english    => 'resistance',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '毒',
+    furigana   => 'どく',
+    english    => 'poison',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '船',
+    furigana   => 'ふね',
+    english    => 'ship',
+);
