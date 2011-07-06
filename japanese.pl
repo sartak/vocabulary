@@ -2442,3 +2442,52 @@ word(
     furigana   => 'さびしい',
     english    => 'lonely',
 );
+
+word(
+    date       => '2011-07-05',
+    word       => '散らばる',
+    furigana   => 'ちらばる',
+    english    => 'scatter',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '床',
+    furigana   => 'ゆか',
+    english    => 'floor',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '恨めしい',
+    furigana   => 'うらめしい',
+    english    => 'reproach',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '一瞬',
+    furigana   => 'いっしゅん',
+    english    => 'moment',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '水色',
+    furigana   => 'みずいろ',
+    english    => 'light blue',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '輝く',
+    furigana   => 'かがやく',
+    english    => 'twinkle',
+);
+
+word(
+    date       => '2011-07-05',
+    word       => '薄れる',
+    furigana   => 'うすれる',
+    english    => 'fade',
+);
