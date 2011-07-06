@@ -2526,3 +2526,122 @@ word(
     furigana   => 'ふね',
     english    => 'ship',
 );
+
+word(
+    date       => '2011-07-06',
+    word       => '際',
+    furigana   => 'さい',
+    english    => 'occasion',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '外部',
+    furigana   => 'がいぶ',
+    english    => 'external',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '最新',
+    furigana   => 'さいしん',
+    english    => 'latest',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '大まか',
+    furigana   => 'おおまか',
+    english    => 'approximate',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '動作',
+    furigana   => 'どうさ',
+    english    => 'workings',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '開発',
+    furigana   => 'かいはつ',
+    english    => 'development',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '格納',
+    furigana   => 'かくのう',
+    english    => 'storage',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '章',
+    furigana   => 'しょう',
+    english    => 'chapter',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '参照',
+    furigana   => 'さんしょう',
+    english    => 'refer',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '不要',
+    furigana   => 'ふよう',
+    english    => 'unnecessary',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '必ず',
+    furigana   => 'かならず',
+    english    => 'certainly',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '完全',
+    furigana   => 'かんぜん',
+    english    => 'perfect',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '常に',
+    furigana   => 'つねに',
+    english    => 'always',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '変数',
+    furigana   => 'へんすう',
+    english    => 'variable',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '内',
+    furigana   => 'うち',
+    english    => 'inside',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '何かしら',
+    furigana   => 'なにかしら',
+    english    => 'something or other',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => 'せず',
+    english    => 'without',
+);
+
