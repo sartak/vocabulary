@@ -2645,3 +2645,16 @@ word(
     english    => 'without',
 );
 
+word(
+    date       => '2011-07-06',
+    word       => '正規表現',
+    furigana   => 'せいきひょうげん',
+    english    => 'regular expression',
+);
+
+word(
+    date       => '2011-07-06',
+    word       => '祭り',
+    furigana   => 'まつり',
+    english    => 'festival',
+);
