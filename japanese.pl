@@ -2749,3 +2749,80 @@ word(
     furigana   => 'はつおん',
     english    => 'pronunciation',
 );
+
+word(
+    date       => '2011-07-07',
+    word       => '岩',
+    furigana   => 'いわ',
+    english    => 'boulder',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '未払い',
+    furigana   => 'みはらい',
+    english    => 'unpaid',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '跳ぶ',
+    furigana   => 'とぶ',
+    english    => 'jump',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '透明',
+    furigana   => 'とうめい',
+    english    => 'transparent',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '〜化',
+    furigana   => '〜か',
+    english    => '-ize',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '食べ掛け',
+    furigana   => 'たべかけ',
+    english    => 'half-eaten',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '攻撃',
+    furigana   => 'こうげき',
+    english    => 'attack',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '外れる',
+    furigana   => 'はずれる',
+    english    => 'miss',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '紙',
+    furigana   => 'かみ',
+    english    => 'paper',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '森',
+    furigana   => 'もり',
+    english    => 'forest',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '腐る',
+    furigana   => 'くさる',
+    english    => 'rotten',
+);
