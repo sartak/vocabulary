@@ -2826,3 +2826,79 @@ word(
     furigana   => 'くさる',
     english    => 'rotten',
 );
+
+word(
+    date       => '2011-07-07',
+    word       => '奪う',
+    furigana   => 'うばう',
+    english    => 'rob',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '公爵',
+    furigana   => 'こうしゃく',
+    english    => 'duke',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '充電',
+    furigana   => 'じゅうでん',
+    english    => 'charge',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => 'たたく',
+    english    => 'strike',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '罰する',
+    furigana   => 'ばっする',
+    english    => 'punish',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '坐る',
+    furigana   => 'すわる',
+    english    => 'sit',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '殿',
+    furigana   => 'との',
+    english    => 'lord',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '諸君',
+    furigana   => 'しょくん',
+    english    => 'gentlemen',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '見事',
+    furigana   => 'みごと',
+    english    => 'splendid',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '男爵',
+    furigana   => 'だんしゃく',
+    english    => 'baron',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '砂漠',
+    furigana   => 'さばく',
+    english    => 'desert',
+);
