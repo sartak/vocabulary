@@ -2686,3 +2686,66 @@ word(
     furigana   => 'かべ',
     english    => 'wall',
 );
+
+word(
+    date       => '2011-07-07',
+    word       => '七日',
+    furigana   => 'なのか',
+    english    => 'seventh of the month',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '引力',
+    furigana   => 'いんりょく',
+    english    => 'attraction',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '警告',
+    furigana   => 'けいこく',
+    english    => 'warning',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '可能性',
+    furigana   => 'かのうせい',
+    english    => 'likelihood',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '発する',
+    furigana   => 'はっする',
+    english    => 'emit',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '明示',
+    furigana   => 'めいじ',
+    english    => 'explicit',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '変換',
+    furigana   => 'へんかん',
+    english    => 'convert',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '後述',
+    furigana   => 'こうじゅつ',
+    english    => 'later',
+);
+
+word(
+    date       => '2011-07-07',
+    word       => '発音',
+    furigana   => 'はつおん',
+    english    => 'pronunciation',
+);
