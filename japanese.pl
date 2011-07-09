@@ -2965,3 +2965,23 @@ word(
     furigana   => 'やつ',
     english    => 'guy',
 );
+
+word(
+    date       => '2011-07-08',
+    word       => 'ちらり',
+    english    => 'glance',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '方々',
+    furigana   => 'かたがた',
+    english    => 'people',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '先例',
+    furigana   => 'せんれい',
+    english    => 'precedent',
+);
