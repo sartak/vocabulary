@@ -3094,3 +3094,17 @@ word(
     word       => 'おの',
     english    => 'axe',
 );
+
+word(
+    date       => '2011-07-09',
+    word       => '苦手',
+    furigana   => 'にがて',
+    english    => 'weak point',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '実',
+    furigana   => 'じつ',
+    english    => 'actual',
+);
