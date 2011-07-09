@@ -3081,3 +3081,16 @@ word(
     furigana   => 'かたる',
     english    => 'tell',
 );
+
+word(
+    date       => '2011-07-09',
+    word       => '研ぐ',
+    furigana   => 'とぐ',
+    english    => 'sharpen',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => 'おの',
+    english    => 'axe',
+);
