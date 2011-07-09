@@ -2985,3 +2985,17 @@ word(
     furigana   => 'せんれい',
     english    => 'precedent',
 );
+
+word(
+    date       => '2011-07-09',
+    word       => '九日',
+    furigana   => 'ここのか',
+    english    => 'ninth of the month',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '届く',
+    furigana   => 'とどく',
+    english    => 'arrive',
+);
