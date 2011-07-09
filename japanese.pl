@@ -2999,3 +2999,85 @@ word(
     furigana   => 'とどく',
     english    => 'arrive',
 );
+
+word(
+    date       => '2011-07-09',
+    word       => 'ためらう',
+    english    => 'hesitate',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '印',
+    furigana   => 'しるし',
+    english    => 'mark',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => 'できるだけ',
+    english    => 'as much as possible',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '報告',
+    furigana   => 'ほうこく',
+    english    => 'report',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '微笑',
+    furigana   => 'びしょう',
+    english    => 'smile',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '真実',
+    furigana   => 'しんじつ',
+    english    => 'truth',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '引用文',
+    furigana   => 'いんようぶん',
+    english    => 'quotation',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '必死',
+    furigana   => 'ひっし',
+    english    => 'desperate',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '単に',
+    furigana   => 'たんに',
+    english    => 'simply',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '疑感',
+    furigana   => 'ぎかん',
+    english    => 'doubt',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '叫ぶ',
+    furigana   => 'さけぶ',
+    english    => 'shout',
+);
+
+word(
+    date       => '2011-07-09',
+    word       => '語る',
+    furigana   => 'かたる',
+    english    => 'tell',
+);
