@@ -2902,3 +2902,66 @@ word(
     furigana   => 'さばく',
     english    => 'desert',
 );
+
+word(
+    date       => '2011-07-08',
+    word       => '八日',
+    furigana   => 'ようか',
+    english    => 'eighth of the month',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '引用',
+    furigana   => 'いんよう',
+    english    => 'cite',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '乳白色',
+    furigana   => 'にゅうはくしょく',
+    english    => 'milky-white color',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '自体',
+    furigana   => 'じたい',
+    english    => 'itself',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '部分',
+    furigana   => 'ぶぶん',
+    english    => 'section',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '全く',
+    furigana   => 'まったく',
+    english    => 'completely',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '悪魔',
+    furigana   => 'あくま',
+    english    => 'demon',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '超絶',
+    furigana   => 'ちょうぜつ',
+    english    => 'superlative',
+);
+
+word(
+    date       => '2011-07-08',
+    word       => '奴',
+    furigana   => 'やつ',
+    english    => 'guy',
+);
