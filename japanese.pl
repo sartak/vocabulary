@@ -3108,3 +3108,10 @@ word(
     furigana   => 'じつ',
     english    => 'actual',
 );
+
+word(
+    date       => '2011-07-10',
+    word       => '十日',
+    furigana   => 'とおか',
+    english    => 'tenth of the month',
+);
