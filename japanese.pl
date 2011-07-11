@@ -3115,3 +3115,24 @@ word(
     furigana   => 'とおか',
     english    => 'tenth of the month',
 );
+
+word(
+    date       => '2011-07-11',
+    word       => '十一日',
+    furigana   => 'じゅういちにち',
+    english    => 'eleventh of the month',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '題',
+    furigana   => 'だい',
+    english    => 'topic',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '発表',
+    furigana   => 'はっぴょう',
+    english    => 'publish',
+);
