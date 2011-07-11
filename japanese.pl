@@ -3262,3 +3262,17 @@ word(
     furigana   => 'ようしき',
     english    => 'Western',
 );
+
+word(
+    date       => '2011-07-11',
+    word       => '日時',
+    furigana   => 'にちじ',
+    english    => 'date and time',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '特定',
+    furigana   => 'とくてい',
+    english    => 'specific',
+);
