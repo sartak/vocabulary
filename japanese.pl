@@ -3178,3 +3178,87 @@ word(
     furigana   => 'どうてき',
     english    => 'dynamic',
 );
+
+word(
+    date       => '2011-07-11',
+    word       => '対話',
+    furigana   => 'たいわ',
+    english    => 'dialog',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '一次',
+    furigana   => 'いちじ',
+    english    => 'primary',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '以外',
+    furigana   => 'いがい',
+    english    => 'in addition to',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '変更',
+    furigana   => 'へんこう',
+    english    => 'change',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '示す',
+    furigana   => 'しめす',
+    english    => 'show',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '属性',
+    furigana   => 'ぞくせい',
+    english    => 'attribute',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '形式',
+    furigana   => 'けいしき',
+    english    => 'format',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '述語',
+    furigana   => 'じゅつご',
+    english    => 'predicate',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '囲む',
+    furigana   => 'かこむ',
+    english    => 'encircle',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '式',
+    furigana   => 'しき',
+    english    => 'style',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '性質',
+    furigana   => 'せいしつ',
+    english    => 'property',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '洋式',
+    furigana   => 'ようしき',
+    english    => 'Western',
+);
