@@ -3136,3 +3136,45 @@ word(
     furigana   => 'はっぴょう',
     english    => 'publish',
 );
+
+word(
+    date       => '2011-07-11',
+    word       => '叶える',
+    furigana   => 'かなえる',
+    english    => 'grant',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '計測',
+    furigana   => 'けいそく',
+    english    => 'measurement',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '有効',
+    furigana   => 'ゆうこう',
+    english    => 'effective',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '起動',
+    furigana   => 'きどう',
+    english    => 'starting',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '機能',
+    furigana   => 'きのう',
+    english    => 'function',
+);
+
+word(
+    date       => '2011-07-11',
+    word       => '動的',
+    furigana   => 'どうてき',
+    english    => 'dynamic',
+);
