@@ -3332,3 +3332,85 @@ word(
     furigana   => 'はね',
     english    => 'wing',
 );
+
+word(
+    date       => '2011-07-12',
+    word       => 'よる',
+    english    => 'by',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '項目',
+    furigana   => 'こうもく',
+    english    => 'item',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '多数',
+    furigana   => 'たすう',
+    english    => 'numerous',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '継続',
+    furigana   => 'けいぞく',
+    english    => 'continuation',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '定数',
+    furigana   => 'ていすう',
+    english    => 'constant',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '挙動',
+    furigana   => 'きょどう',
+    english    => 'behavior',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '同様',
+    furigana   => 'どうよう',
+    english    => 'similar',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '以前',
+    furigana   => 'いぜん',
+    english    => 'formerly',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => 'つなぐ',
+    english    => 'fasten',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '何らか',
+    furigana   => 'なんらか',
+    english    => 'some sort',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '主な',
+    furigana   => 'おもな',
+    english    => 'principal',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '弱参照',
+    furigana   => 'じゃくさんしょう',
+    english    => 'weak reference',
+);
