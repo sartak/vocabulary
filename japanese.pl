@@ -3311,3 +3311,24 @@ word(
     furigana   => 'にし',
     english    => 'west',
 );
+
+word(
+    date       => '2011-07-12',
+    word       => '油',
+    furigana   => 'あぶら',
+    english    => 'oil',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '灯',
+    furigana   => 'ひ',
+    english    => 'light',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '羽',
+    furigana   => 'はね',
+    english    => 'wing',
+);
