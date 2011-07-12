@@ -3276,3 +3276,38 @@ word(
     furigana   => 'とくてい',
     english    => 'specific',
 );
+
+word(
+    date       => '2011-07-12',
+    word       => '十二日',
+    furigana   => 'じゅうににち',
+    english    => 'twelfth of the month',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '努力',
+    furigana   => 'どりょく',
+    english    => 'effort',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '予定',
+    furigana   => 'よてい',
+    english    => 'plan',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '近辺',
+    furigana   => 'きんぺん',
+    english    => 'neighborhood',
+);
+
+word(
+    date       => '2011-07-12',
+    word       => '西',
+    furigana   => 'にし',
+    english    => 'west',
+);
