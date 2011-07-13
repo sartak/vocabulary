@@ -3414,3 +3414,52 @@ word(
     furigana   => 'じゃくさんしょう',
     english    => 'weak reference',
 );
+
+word(
+    date       => '2011-07-13',
+    word       => '十三日',
+    furigana   => 'じゅうさんにち',
+    english    => 'thirteenth of the month',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '特に',
+    furigana   => 'とくに',
+    english    => 'specially',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '猛暑',
+    furigana   => 'もうしょ',
+    english    => 'heat wave',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '真夜中',
+    furigana   => 'まよなか',
+    english    => 'middle of the night',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '暗唱',
+    furigana   => 'あんしょう',
+    english    => 'recite',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '戦国時代',
+    furigana   => 'せんごくじだい',
+    english    => 'civil war period',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '決着',
+    furigana   => 'けっちゃく',
+    english    => 'conclusion',
+);
