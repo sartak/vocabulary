@@ -3463,3 +3463,31 @@ word(
     furigana   => 'けっちゃく',
     english    => 'conclusion',
 );
+
+word(
+    date       => '2011-07-13',
+    word       => '数字',
+    furigana   => 'すうじ',
+    english    => 'numeral',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '半角',
+    furigana   => 'はんかく',
+    english    => 'half-width',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '全角',
+    furigana   => 'ぜんかく',
+    english    => 'full-width',
+);
+
+word(
+    date       => '2011-07-13',
+    word       => '英数字',
+    furigana   => 'えいすうじ',
+    english    => 'Roman numeral',
+);
