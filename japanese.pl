@@ -3524,3 +3524,69 @@ word(
     furigana   => 'ふくむ',
     english    => 'include',
 );
+
+word(
+    date       => '2011-07-14',
+    word       => '龍',
+    furigana   => 'りゅう',
+    english    => 'dragon',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => 'とこ',
+    english    => 'place',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => 'めちゃくちゃ',
+    english    => 'absurd',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '安心',
+    furigana   => 'あんしん',
+    english    => 'peace of mind',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '棒',
+    furigana   => 'ぼう',
+    english    => 'pole',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '化ける',
+    furigana   => 'ばける',
+    english    => 'disguise',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '恋人',
+    furigana   => 'こいびと',
+    english    => 'sweetheart',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '居所',
+    furigana   => 'いどころ',
+    english    => 'whereabouts',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => 'いよいよ',
+    english    => 'more and more',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => 'でかい',
+    english    => 'huge',
+);
