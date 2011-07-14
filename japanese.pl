@@ -3590,3 +3590,24 @@ word(
     word       => 'でかい',
     english    => 'huge',
 );
+
+word(
+    date       => '2011-07-14',
+    word       => '竹',
+    furigana   => 'たけ',
+    english    => 'bamboo',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '失う',
+    furigana   => 'うしなう',
+    english    => 'lose',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '職',
+    furigana   => 'しょく',
+    english    => 'job',
+);
