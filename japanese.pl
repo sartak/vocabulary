@@ -3491,3 +3491,23 @@ word(
     furigana   => 'えいすうじ',
     english    => 'Roman numeral',
 );
+
+word(
+    date       => '2011-07-14',
+    word       => '十四日',
+    furigana   => 'じゅうよっか',
+    english    => 'fourteenth of the month',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => 'ゴクゴク',
+    english    => 'glug glug',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '晴天',
+    furigana   => 'せいてん',
+    english    => 'fine weather',
+);
