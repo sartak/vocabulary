@@ -3504,3 +3504,23 @@ word(
     furigana   => 'せいてん',
     english    => 'fine weather',
 );
+
+word(
+    date       => '2011-07-14',
+    word       => '在住',
+    furigana   => 'ざいじゅう',
+    english    => 'reside',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => 'ちゃんと',
+    english    => 'regularly',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '含む',
+    furigana   => 'ふくむ',
+    english    => 'include',
+);
