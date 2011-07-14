@@ -3611,3 +3611,58 @@ word(
     furigana   => 'しょく',
     english    => 'job',
 );
+
+word(
+    date       => '2011-07-14',
+    word       => '戦士',
+    furigana   => 'せんし',
+    english    => 'warrior',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => 'お姉さん',
+    furigana   => 'おねえさん',
+    english    => 'older sister',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '恐れる',
+    furigana   => 'おそれる',
+    english    => 'fear',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '女神',
+    furigana   => 'めがみ',
+    english    => 'goddess',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '近寄る',
+    furigana   => 'ちかよる',
+    english    => 'go near',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '使命',
+    furigana   => 'しめい',
+    english    => 'quest',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '旅',
+    furigana   => 'たび',
+    english    => 'travel',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => 'おいで',
+    english    => 'come',
+);
