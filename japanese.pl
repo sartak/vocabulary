@@ -3376,13 +3376,6 @@ word(
 
 word(
     date       => '2011-07-12',
-    word       => '同様',
-    furigana   => 'どうよう',
-    english    => 'similar',
-);
-
-word(
-    date       => '2011-07-12',
     word       => '以前',
     furigana   => 'いぜん',
     english    => 'formerly',
