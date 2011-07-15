@@ -3680,3 +3680,17 @@ word(
     furigana   => 'せんたく',
     english    => 'choice',
 );
+
+word(
+    date       => '2011-07-15',
+    word       => '十五日',
+    furigana   => 'じゅうごにち',
+    english    => 'fifteenth of the month',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '期間',
+    furigana   => 'きかん',
+    english    => 'time period',
+);
