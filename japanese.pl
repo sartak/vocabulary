@@ -3666,3 +3666,17 @@ word(
     word       => 'おいで',
     english    => 'come',
 );
+
+word(
+    date       => '2011-07-14',
+    word       => '装備',
+    furigana   => 'そうび',
+    english    => 'equipment',
+);
+
+word(
+    date       => '2011-07-14',
+    word       => '選択',
+    furigana   => 'せんたく',
+    english    => 'choice',
+);
