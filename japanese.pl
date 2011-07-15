@@ -3694,3 +3694,31 @@ word(
     furigana   => 'きかん',
     english    => 'time period',
 );
+
+word(
+    date       => '2011-07-15',
+    word       => '人魚',
+    furigana   => 'にんぎょ',
+    english    => 'mermaid',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '族',
+    furigana   => 'ぞく',
+    english    => 'tribe',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '七色',
+    furigana   => 'なないろ',
+    english    => 'seven prismatic colors',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '全快',
+    furigana   => 'ぜんかい',
+    english    => 'complete recovery',
+);
