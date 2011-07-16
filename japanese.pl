@@ -3771,3 +3771,10 @@ word(
     furigana   => 'ふかい',
     english    => 'deep',
 );
+
+word(
+    date       => '2011-07-15',
+    word       => '会議',
+    furigana   => 'かいぎ',
+    english    => 'conference',
+);
