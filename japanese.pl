@@ -3778,3 +3778,17 @@ word(
     furigana   => 'かいぎ',
     english    => 'conference',
 );
+
+word(
+    date       => '2011-07-16',
+    word       => '十六日',
+    furigana   => 'じゅうろくにち',
+    english    => 'sixteenth of the month',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '店員',
+    furigana   => 'てんいん',
+    english    => 'clerk',
+);
