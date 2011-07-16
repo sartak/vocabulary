@@ -3792,3 +3792,63 @@ word(
     furigana   => 'てんいん',
     english    => 'clerk',
 );
+
+word(
+    date       => '2011-07-16',
+    word       => '潰す',
+    furigana   => 'つぶす',
+    english    => 'squish',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => 'ガキ',
+    english    => 'brat',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => 'ひびく',
+    english    => 'echo',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '大地',
+    furigana   => 'だいち',
+    english    => 'Earth',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '神殿',
+    furigana   => 'しんでん',
+    english    => 'shrine',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => 'お供',
+    furigana   => 'おとも',
+    english    => 'accompany',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => 'たんす',
+    english    => 'bureau',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '何もかも',
+    furigana   => 'なにもかも',
+    english    => 'everything',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '背中',
+    furigana   => 'せなか',
+    english    => 'back',
+);
