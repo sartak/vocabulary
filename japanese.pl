@@ -3852,3 +3852,44 @@ word(
     furigana   => 'せなか',
     english    => 'back',
 );
+
+word(
+    date       => '2011-07-16',
+    word       => '羨ましい',
+    furigana   => 'うらやましい',
+    english    => 'jealous',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '元通り',
+    furigana   => 'もとどおり',
+    english    => 'restore',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '形',
+    furigana   => 'かたち',
+    english    => 'shape',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => 'もはや',
+    english    => 'already',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '結構',
+    furigana   => 'けっこう',
+    english    => 'excellent',
+);
+
+word(
+    date       => '2011-07-16',
+    word       => '芸術',
+    furigana   => 'げいじゅつ',
+    english    => 'art',
+);
