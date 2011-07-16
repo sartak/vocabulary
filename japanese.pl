@@ -3722,3 +3722,52 @@ word(
     furigana   => 'ぜんかい',
     english    => 'complete recovery',
 );
+
+word(
+    date       => '2011-07-15',
+    word       => '怪物',
+    furigana   => 'かいぶつ',
+    english    => 'monster',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '関係',
+    furigana   => 'かんけい',
+    english    => 'relation',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '作者',
+    furigana   => 'さくしゃ',
+    english    => 'author',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '内容',
+    furigana   => 'ないよう',
+    english    => 'contents',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '文字列',
+    furigana   => 'もじれつ',
+    english    => 'string',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '出力',
+    furigana   => 'しゅつりょく',
+    english    => 'output',
+);
+
+word(
+    date       => '2011-07-15',
+    word       => '深い',
+    furigana   => 'ふかい',
+    english    => 'deep',
+);
