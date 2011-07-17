@@ -3976,3 +3976,17 @@ word(
     furigana   => 'もと',
     english    => 'origin',
 );
+
+word(
+    date       => '2011-07-17',
+    word       => '検索',
+    furigana   => 'けんさく',
+    english    => 'retrieve',
+);
+
+word(
+    date       => '2011-07-17',
+    word       => '黄色',
+    furigana   => 'きいろ',
+    english    => 'yellow',
+);
