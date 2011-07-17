@@ -3934,3 +3934,17 @@ word(
     furigana   => 'お',
     english    => 'tail',
 );
+
+word(
+    date       => '2011-07-17',
+    word       => '弱肉強食',
+    furigana   => 'じゃくにくきょうしょく',
+    english    => 'survival of the fittest',
+);
+
+word(
+    date       => '2011-07-17',
+    word       => '正に',
+    furigana   => 'まさに',
+    english    => 'indeed',
+);
