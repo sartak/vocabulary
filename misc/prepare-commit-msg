@@ -2,18 +2,24 @@
 use strict;
 use warnings;
 use utf8::all;
-use Encode 'decode_utf8';
+use Encode;
 use File::Slurp 'slurp';
 use autodie;
 
 my $file = shift;
 
 my $msg = decode_utf8 slurp($file);
+
+# only operate if we are modifying just japanese.pl
 exit 0 unless $msg =~ /^#\s*modified:\s*japanese.pl$/m && $msg =~ /^#\s*modified:/mg == 1;
+
+# find new words in the commit diff
 my $new_words = join '、', $msg =~ /^\+\s*word\s*=>\s*['"](.+)['"],\s*$/gm;
 exit 0 unless $new_words;
+
+# add the new words to the message
 $msg =~ s/^/$new_words/;
 open my $fh, '>', $file;
-print $fh $msg;
+print $fh encode_utf8 $msg;
 close $fh;
 
