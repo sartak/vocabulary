@@ -3948,3 +3948,31 @@ word(
     furigana   => 'まさに',
     english    => 'indeed',
 );
+
+word(
+    date       => '2011-07-17',
+    word       => '結果',
+    furigana   => 'けっか',
+    english    => 'result',
+);
+
+word(
+    date       => '2011-07-17',
+    word       => '戻す',
+    furigana   => 'もどす',
+    english    => 'return',
+);
+
+word(
+    date       => '2011-07-17',
+    word       => '指す',
+    furigana   => 'さす',
+    english    => 'point at',
+);
+
+word(
+    date       => '2011-07-17',
+    word       => '元',
+    furigana   => 'もと',
+    english    => 'origin',
+);
