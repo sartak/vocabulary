@@ -3920,3 +3920,17 @@ word(
     furigana   => 'やど',
     english    => 'hotel',
 );
+
+word(
+    date       => '2011-07-17',
+    word       => '人形',
+    furigana   => 'にんぎょう',
+    english    => 'puppet',
+);
+
+word(
+    date       => '2011-07-17',
+    word       => '尾',
+    furigana   => 'お',
+    english    => 'tail',
+);
