@@ -3906,3 +3906,17 @@ word(
     word       => 'びり',
     english    => 'bottom',
 );
+
+word(
+    date       => '2011-07-17',
+    word       => '十七日',
+    furigana   => 'じゅうななにち',
+    english    => 'seventeenth of the month',
+);
+
+word(
+    date       => '2011-07-17',
+    word       => '宿',
+    furigana   => 'やど',
+    english    => 'hotel',
+);
