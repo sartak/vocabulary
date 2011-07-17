@@ -3,6 +3,9 @@ use strict;
 use warnings;
 use Template::Declare::Tags;
 
+our $dryrun = shift @ARGV;
+our $failed = 0;
+
 our $japanese = $0 =~ /japanese/i;
 
 my %count;
@@ -17,7 +20,13 @@ sub word {
     my @dates = ($args{date} =~ /^(((\d\d\d\d)-\d\d)-\d\d)$/, 'all time');
     $count{$_}++ for @dates;
 
-    warn "Already seen $args{word}\n" if $seen{$args{word}}++;
+    if ($seen{$args{word}}++) {
+        warn "Already seen $args{word}\n";
+        if ($dryrun) {
+            $failed = 1;
+            exit 1;
+        }
+    }
 
     if ($new_date) {
         dt {
@@ -113,24 +122,27 @@ EOF
 }
 
 END {
-    if ($imported && !$?) {
-        Template::Declare->buffer->flush;
-        my $timestamp = gmtime;
+    if (!$failed) {
+        if ($imported && !$?) {
+            Template::Declare->buffer->flush;
+            my $timestamp = gmtime;
 
-        print '</dl><hr />';
-        print '<p class="last-updated">';
+            print '</dl><hr />';
+            print '<p class="last-updated">';
 
-        if ($japanese) {
-            print "$timestampに更新した";
+            if ($japanese) {
+                print "$timestampに更新した";
+            }
+            else {
+                print "Last updated at $timestamp.";
+            }
+
+            print '</p></body></html>';
         }
-        else {
-            print "Last updated at $timestamp.";
-        }
 
-        print '</p></body></html>';
+        warn "Learned " . scalar(keys %seen) . ($japanese ? " Japanese" : " English") . " words\n"
+            unless $dryrun;
     }
-
-    warn "Learned " . scalar(keys %seen) . ($japanese ? " Japanese" : " English") . " words\n";
 }
 
 1;
