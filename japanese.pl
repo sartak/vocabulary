@@ -3893,3 +3893,16 @@ word(
     furigana   => 'げいじゅつ',
     english    => 'art',
 );
+
+word(
+    date       => '2011-07-16',
+    word       => '竜頭蛇尾',
+    furigana   => 'りゅうとうだび',
+    english    => "dragon's head, snake's tail",
+);
+
+word(
+    date       => '2011-07-16',
+    word       => 'びり',
+    english    => 'bottom',
+);
