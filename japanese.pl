@@ -4155,3 +4155,17 @@ word(
     furigana   => 'しょうしょう',
     english    => 'little',
 );
+
+word(
+    date       => '2011-07-18',
+    word       => '新品',
+    furigana   => 'しんぴん',
+    english    => 'new',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '新品同様',
+    furigana   => 'しんぴんどうよう',
+    english    => 'just like new',
+);
