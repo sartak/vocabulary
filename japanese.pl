@@ -3997,3 +3997,10 @@ word(
     furigana   => 'さいよう',
     english    => 'adopt',
 );
+
+word(
+    date       => '2011-07-18',
+    word       => '十八日',
+    furigana   => 'じゅうはちにち',
+    english    => 'eighteenth of the month',
+);
