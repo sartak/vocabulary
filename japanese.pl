@@ -3910,7 +3910,7 @@ word(
 word(
     date       => '2011-07-17',
     word       => '十七日',
-    furigana   => 'じゅうななにち',
+    furigana   => 'じゅうしちにち',
     english    => 'seventeenth of the month',
 );
 
