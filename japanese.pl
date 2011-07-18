@@ -4004,3 +4004,133 @@ word(
     furigana   => 'じゅうはちにち',
     english    => 'eighteenth of the month',
 );
+
+word(
+    date       => '2011-07-18',
+    word       => '容赦',
+    furigana   => 'ようしゃ',
+    english    => 'mercy',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => 'ご苦労様',
+    furigana   => 'ごくろうさま',
+    english    => 'thank you',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '配達',
+    furigana   => 'はいたつ',
+    english    => 'delivery',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => 'ずつ',
+    english    => 'each',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '牛乳',
+    furigana   => 'ぎゅうにゅう',
+    english    => 'milk',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => 'のんびり',
+    english    => 'carefree',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '階段',
+    furigana   => 'かいだん',
+    english    => 'stairs',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '配る',
+    furigana   => 'くばる',
+    english    => 'distribute',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '見所',
+    furigana   => 'みどころ',
+    english    => 'promising',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '天下',
+    furigana   => 'てんか',
+    english    => 'the world',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '武道',
+    furigana   => 'ぶどう',
+    english    => 'martial arts',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '会',
+    furigana   => 'かい',
+    english    => 'meeting',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '厳しい',
+    furigana   => 'きびしい',
+    english    => 'strict',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '畑',
+    furigana   => 'はたけ',
+    english    => 'farm',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '昼寝',
+    furigana   => 'ひるね',
+    english    => 'nap',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '湖',
+    furigana   => 'みずうみ',
+    english    => 'lake',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => 'サメ',
+    english    => 'shark',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '敵',
+    furigana   => 'てき',
+    english    => 'enemy',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '事件',
+    furigana   => 'じけん',
+    english    => 'event',
+);
