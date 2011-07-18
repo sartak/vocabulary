@@ -4134,3 +4134,24 @@ word(
     furigana   => 'じけん',
     english    => 'event',
 );
+
+word(
+    date       => '2011-07-18',
+    word       => '無料',
+    furigana   => 'むりょう',
+    english    => 'free (as in beer)',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '少年',
+    furigana   => 'しょうねん',
+    english    => 'boy',
+);
+
+word(
+    date       => '2011-07-18',
+    word       => '少々',
+    furigana   => 'しょうしょう',
+    english    => 'little',
+);
