@@ -3990,3 +3990,10 @@ word(
     furigana   => 'きいろ',
     english    => 'yellow',
 );
+
+word(
+    date       => '2011-07-17',
+    word       => '採用',
+    furigana   => 'さいよう',
+    english    => 'adopt',
+);
