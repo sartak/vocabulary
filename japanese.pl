@@ -4211,3 +4211,38 @@ word(
     furigana   => 'こい',
     english    => 'passion',
 );
+
+word(
+    date       => '2011-07-19',
+    word       => '無造作',
+    furigana   => 'むぞうさ',
+    english    => 'easily',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '潜む',
+    furigana   => 'ひそむ',
+    english    => 'be latent',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '意識',
+    furigana   => 'いしき',
+    english    => 'conciousness',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '冷える',
+    furigana   => 'ひえる',
+    english    => 'feel chilly',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '結う',
+    furigana   => 'ゆう',
+    english    => 'tie',
+);
