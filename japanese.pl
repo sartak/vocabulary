@@ -4169,3 +4169,24 @@ word(
     furigana   => 'しんぴんどうよう',
     english    => 'just like new',
 );
+
+word(
+    date       => '2011-07-19',
+    word       => '十九日',
+    furigana   => 'じゅうくにち',
+    english    => 'nineteenth of the month',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '日付',
+    furigana   => 'ひづけ',
+    english    => 'date',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '手紙',
+    furigana   => 'てがみ',
+    english    => 'letter',
+);
