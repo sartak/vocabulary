@@ -4246,3 +4246,59 @@ word(
     furigana   => 'ゆう',
     english    => 'tie',
 );
+
+word(
+    date       => '2011-07-19',
+    word       => '拳法',
+    furigana   => 'けんぽう',
+    english    => 'kung fu',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '励む',
+    furigana   => 'はげむ',
+    english    => 'strive',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '思い切り',
+    furigana   => 'おもいきり',
+    english    => "will all one's might",
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '競技',
+    furigana   => 'きょうぎ',
+    english    => 'competition',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '一対一',
+    furigana   => 'いちたいいち',
+    english    => 'one-on-one',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '台',
+    furigana   => 'だい',
+    english    => 'stand',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '気絶',
+    furigana   => 'きぜつ',
+    english    => 'faint',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '出場',
+    furigana   => 'しゅつじょう',
+    english    => 'participation',
+);
