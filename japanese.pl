@@ -4190,3 +4190,24 @@ word(
     furigana   => 'てがみ',
     english    => 'letter',
 );
+
+word(
+    date       => '2011-07-19',
+    word       => '七不思議',
+    furigana   => 'ななふしぎ',
+    english    => 'seven wonders',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '秒',
+    furigana   => 'びょう',
+    english    => 'second',
+);
+
+word(
+    date       => '2011-07-19',
+    word       => '恋',
+    furigana   => 'こい',
+    english    => 'passion',
+);
