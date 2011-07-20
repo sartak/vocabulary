@@ -20,7 +20,7 @@ sub word {
     my @dates = ($args{date} =~ /^(((\d\d\d\d)-\d\d)-\d\d)$/, 'all time');
     $count{$_}++ for @dates;
 
-    if ($seen{$args{word}}++) {
+    if ($seen{$args{word}}++ && !$args{not_dupe}) {
         warn "Already seen $args{word}\n";
         if ($dryrun) {
             $failed = 1;
