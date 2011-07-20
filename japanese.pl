@@ -4337,3 +4337,10 @@ word(
     furigana   => 'めいにち',
     english    => "anniversary of a person's death",
 );
+
+word(
+    date       => '2011-07-20',
+    word       => '一歩手前',
+    furigana   => 'いっぽてまえ',
+    english    => 'on the verge of',
+);
