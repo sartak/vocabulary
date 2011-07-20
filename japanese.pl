@@ -4302,3 +4302,38 @@ word(
     furigana   => 'しゅつじょう',
     english    => 'participation',
 );
+
+word(
+    date       => '2011-07-20',
+    word       => '二十日',
+    furigana   => 'はつか',
+    english    => 'twentieth of the month',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '弟',
+    furigana   => 'おとうと',
+    english    => 'younger brother',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '光学',
+    furigana   => 'こうがく',
+    english    => 'optics',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '恒等関数',
+    furigana   => 'こうとうかんすう',
+    english    => 'identity function',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '命日',
+    furigana   => 'めいにち',
+    english    => "anniversary of a person's death",
+);
