@@ -4422,3 +4422,45 @@ word(
     furigana   => 'たつじん',
     english    => 'master',
 );
+
+word(
+    date       => '2011-07-20',
+    word       => '一息',
+    furigana   => 'ひといき',
+    english    => 'one gulp',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '乱',
+    furigana   => 'らん',
+    english    => 'revolt',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '監督',
+    furigana   => 'かんとく',
+    english    => 'director',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '野球',
+    furigana   => 'やきゅう',
+    english    => 'baseball',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '永遠',
+    furigana   => 'えいえん',
+    english    => 'eternity',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '平和',
+    furigana   => 'へいわ',
+    english    => 'peace',
+);
