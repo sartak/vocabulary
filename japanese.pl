@@ -4344,3 +4344,81 @@ word(
     furigana   => 'いっぽてまえ',
     english    => 'on the verge of',
 );
+
+word(
+    date       => '2011-07-20',
+    word       => '罠',
+    furigana   => 'わな',
+    english    => 'trap',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '閉店',
+    furigana   => 'へいてん',
+    english    => 'go out of business',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '閉める',
+    furigana   => 'しめる',
+    english    => 'close',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '近所',
+    furigana   => 'きんじょ',
+    english    => 'neighborhood',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '送料',
+    furigana   => 'そうりょう',
+    english    => 'shipping fee',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '泥棒',
+    furigana   => 'どろぼう',
+    english    => 'burglar',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '試合',
+    furigana   => 'しあい',
+    english    => 'match',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '鼻',
+    furigana   => 'はな',
+    english    => 'nose',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '臭い',
+    furigana   => 'くさい',
+    english    => 'stink',
+    not_dupe   => 1,
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '開始',
+    furigana   => 'かいし',
+    english    => 'opening',
+);
+
+word(
+    date       => '2011-07-20',
+    word       => '達人',
+    furigana   => 'たつじん',
+    english    => 'master',
+);
