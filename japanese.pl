@@ -4492,3 +4492,38 @@ word(
     furigana   => 'とうざいなんぼく',
     english    => 'all directions',
 );
+
+word(
+    date       => '2011-07-21',
+    word       => '応募',
+    furigana   => 'おうぼ',
+    english    => 'application',
+);
+
+word(
+    date       => '2011-07-21',
+    word       => '下痢',
+    furigana   => 'げり',
+    english    => 'diarrhea',
+);
+
+word(
+    date       => '2011-07-21',
+    word       => '概要',
+    furigana   => 'がいよう',
+    english    => 'outline',
+);
+
+word(
+    date       => '2011-07-21',
+    word       => '通り',
+    furigana   => 'とおり',
+    english    => 'street',
+);
+
+word(
+    date       => '2011-07-21',
+    word       => '通る',
+    furigana   => 'とおる',
+    english    => 'pass',
+);
