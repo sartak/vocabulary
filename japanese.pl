@@ -4464,3 +4464,31 @@ word(
     furigana   => 'へいわ',
     english    => 'peace',
 );
+
+word(
+    date       => '2011-07-21',
+    word       => '二十一日',
+    furigana   => 'にじゅういちにち',
+    english    => 'twenty-first of the month',
+);
+
+word(
+    date       => '2011-07-21',
+    word       => '東西',
+    furigana   => 'とうざい',
+    english    => 'east-west',
+);
+
+word(
+    date       => '2011-07-21',
+    word       => '南北',
+    furigana   => 'なんぼく',
+    english    => 'north-south',
+);
+
+word(
+    date       => '2011-07-21',
+    word       => '東西南北',
+    furigana   => 'とうざいなんぼく',
+    english    => 'all directions',
+);
