@@ -4589,3 +4589,24 @@ word(
     furigana   => 'きんし',
     english    => 'forbid',
 );
+
+word(
+    date       => '2011-07-22',
+    word       => '毎月',
+    furigana   => 'まいつき',
+    english    => 'every month',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '警察',
+    furigana   => 'けいさつ',
+    english    => 'police',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '設計',
+    furigana   => 'せっけい',
+    english    => 'design',
+);
