@@ -4541,3 +4541,51 @@ word(
     furigana   => 'いる',
     english    => 'want',
 );
+
+word(
+    date       => '2011-07-22',
+    word       => '二十二日',
+    furigana   => 'にじゅうににち',
+    english    => 'twenty-second of the month',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '腹八分目',
+    furigana   => 'はらはちぶんめ',
+    english    => 'eating in moderation',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '唱える',
+    furigana   => 'となえる',
+    english    => 'chant',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => 'さすが',
+    english    => 'as to be expected',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '選手',
+    furigana   => 'せんしゅ',
+    english    => 'athlete',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '反撃',
+    furigana   => 'はんげき',
+    english    => 'counterattack',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '禁止',
+    furigana   => 'きんし',
+    english    => 'forbid',
+);
