@@ -4527,3 +4527,17 @@ word(
     furigana   => 'とおる',
     english    => 'pass',
 );
+
+word(
+    date       => '2011-07-21',
+    word       => '冒す',
+    furigana   => 'おかす',
+    english    => 'risk',
+);
+
+word(
+    date       => '2011-07-21',
+    word       => '要る',
+    furigana   => 'いる',
+    english    => 'want',
+);
