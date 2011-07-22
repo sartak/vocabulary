@@ -4610,3 +4610,85 @@ word(
     furigana   => 'せっけい',
     english    => 'design',
 );
+
+word(
+    date       => '2011-07-22',
+    word       => '専攻',
+    furigana   => 'せんこう',
+    english    => 'major',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '調子',
+    furigana   => 'ちょうし',
+    english    => 'condition',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '畳む',
+    furigana   => 'たたむ',
+    english    => 'fold up',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '畳',
+    furigana   => 'たたみ',
+    english    => 'tatami',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '玉',
+    furigana   => 'たま',
+    english    => 'ball',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '仕業',
+    furigana   => 'しわざ',
+    english    => 'act',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '墜落',
+    furigana   => 'ついらく',
+    english    => 'crash',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '軍',
+    furigana   => 'ぐん',
+    english    => 'army',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => 'わざわざ',
+    english    => 'go to the trouble',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '後ろ',
+    furigana   => 'うしろ',
+    english    => 'rear',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => '術',
+    furigana   => 'じゅつ',
+    english    => 'art',
+);
+
+word(
+    date       => '2011-07-22',
+    word       => 'いす',
+    english    => 'chair',
+);
