@@ -4748,3 +4748,17 @@ word(
     furigana   => '〜ひき',
     english    => 'counter for small animals',
 );
+
+word(
+    date       => '2011-07-24',
+    word       => '旧',
+    furigana   => 'きゅう',
+    english    => 'former',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '要所要所',
+    furigana   => 'ようしょようしょ',
+    english    => 'every important point',
+);
