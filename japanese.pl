@@ -4734,3 +4734,17 @@ word(
     furigana   => 'きょじん',
     english    => 'giant',
 );
+
+word(
+    date       => '2011-07-24',
+    word       => '二十四日',
+    furigana   => 'にじゅうよっか',
+    english    => 'twenty-fourth of the month',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '〜匹',
+    furigana   => '〜ひき',
+    english    => 'counter for small animals',
+);
