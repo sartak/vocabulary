@@ -4762,3 +4762,44 @@ word(
     furigana   => 'ようしょようしょ',
     english    => 'every important point',
 );
+
+word(
+    date       => '2011-07-24',
+    word       => '案外',
+    furigana   => 'あんがい',
+    english    => 'unexpected',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => 'いじらしい',
+    english    => 'touching',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '案内',
+    furigana   => 'あんない',
+    english    => 'guide',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '隊長',
+    furigana   => 'たいちょう',
+    english    => 'commanding officer',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '試験',
+    furigana   => 'しけん',
+    english    => 'exam',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '絡まる',
+    furigana   => 'からまる',
+    english    => 'get entangled',
+);
