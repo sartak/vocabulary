@@ -4692,3 +4692,31 @@ word(
     word       => 'いす',
     english    => 'chair',
 );
+
+word(
+    date       => '2011-07-23',
+    word       => '二十三日',
+    furigana   => 'にじゅうさんにち',
+    english    => 'twenty-third of the month',
+);
+
+word(
+    date       => '2011-07-23',
+    word       => '〜枚',
+    furigana   => '〜まい',
+    english    => 'counter for thin objects',
+);
+
+word(
+    date       => '2011-07-23',
+    word       => '書類',
+    furigana   => 'しょるい',
+    english    => 'document',
+);
+
+word(
+    date       => '2011-07-23',
+    word       => '〜冊',
+    furigana   => '〜さつ',
+    english    => 'counter for bound objects',
+);
