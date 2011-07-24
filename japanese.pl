@@ -4720,3 +4720,17 @@ word(
     furigana   => '〜さつ',
     english    => 'counter for bound objects',
 );
+
+word(
+    date       => '2011-07-23',
+    word       => '北西',
+    furigana   => 'ほくせい',
+    english    => 'northwest',
+);
+
+word(
+    date       => '2011-07-23',
+    word       => '巨人',
+    furigana   => 'きょじん',
+    english    => 'giant',
+);
