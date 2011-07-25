@@ -4803,3 +4803,31 @@ word(
     furigana   => 'からまる',
     english    => 'get entangled',
 );
+
+word(
+    date       => '2011-07-24',
+    word       => '総攻撃',
+    furigana   => 'そうこうげき',
+    english    => 'all-out attack',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '洋服',
+    furigana   => 'ようふく',
+    english    => 'Western clothes',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '送る',
+    furigana   => 'おくる',
+    english    => 'send',
+);
+
+word(
+    date       => '2011-07-24',
+    word       => '送り仮名',
+    furigana   => 'おくりがな',
+    english    => 'okurigana',
+);
