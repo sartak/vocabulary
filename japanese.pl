@@ -4892,3 +4892,30 @@ word(
     furigana   => 'えらい',
     english    => 'admirable',
 );
+
+word(
+    date       => '2011-07-25',
+    word       => '寸分',
+    furigana   => 'すんぶん',
+    english    => 'exact',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '寸',
+    furigana   => 'すん',
+    english    => 'size',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => 'そっと',
+    english    => 'softly',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '一本調子',
+    furigana   => 'いっぽんぢょうし',
+    english    => 'monotone; dull',
+);
