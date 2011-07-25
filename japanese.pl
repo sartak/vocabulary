@@ -4831,3 +4831,63 @@ word(
     furigana   => 'おくりがな',
     english    => 'okurigana',
 );
+
+word(
+    date       => '2011-07-25',
+    word       => '二十五日',
+    furigana   => 'にじゅうごにち',
+    english    => 'twenty-fifth of the month',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => 'はしご',
+    english    => 'ladder',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '拾う',
+    furigana   => 'ひろう',
+    english    => 'pick up',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => 'メモちょう',
+    english    => 'memo pad',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '書き込む',
+    furigana   => 'かきこむ',
+    english    => 'fill out',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => 'アリ',
+    english    => 'ant',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '〜個',
+    furigana   => '〜こ',
+    english    => 'counter for small (round) objects',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '財布',
+    furigana   => 'さいふ',
+    english    => 'wallet',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '偉い',
+    furigana   => 'えらい',
+    english    => 'admirable',
+);
