@@ -2850,7 +2850,8 @@ word(
 
 word(
     date       => '2011-07-07',
-    word       => 'たたく',
+    word       => '叩く',
+    furigana   => 'たたく',
     english    => 'strike',
 );
 
