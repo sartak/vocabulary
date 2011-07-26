@@ -4919,3 +4919,24 @@ word(
     furigana   => 'いっぽんぢょうし',
     english    => 'monotone; dull',
 );
+
+word(
+    date       => '2011-07-25',
+    word       => '春',
+    furigana   => 'はる',
+    english    => 'spring',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '人造人間',
+    furigana   => 'じんぞうにんげん',
+    english    => 'android',
+);
+
+word(
+    date       => '2011-07-25',
+    word       => '都',
+    furigana   => 'みやこ',
+    english    => 'metropolis',
+);
