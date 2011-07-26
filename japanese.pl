@@ -4982,3 +4982,80 @@ word(
     furigana   => 'すむ',
     english    => 'become transparent',
 );
+
+word(
+    date       => '2011-07-26',
+    word       => '柱',
+    furigana   => 'はしら',
+    english    => 'pillar',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '直す',
+    furigana   => 'なおす',
+    english    => 'fix',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '厄介',
+    furigana   => 'やっかい',
+    english    => 'trouble',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '手伝う',
+    furigana   => 'てつだう',
+    english    => 'help',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '将軍',
+    furigana   => 'しょうぐん',
+    english    => 'shogun',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '無人島',
+    furigana   => 'むじん',
+    english    => 'uninhabited',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '〜直す',
+    furigana   => '〜なおす',
+    english    => 'redo',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '牛',
+    furigana   => 'うし',
+    english    => 'cow',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '場合',
+    furigana   => 'ばあい',
+    english    => 'occasion',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '牛肉',
+    furigana   => 'ぎゅうにく',
+    english    => 'beef',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '草',
+    furigana   => 'くさ',
+    english    => 'grass',
+);
