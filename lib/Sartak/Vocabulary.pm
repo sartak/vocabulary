@@ -20,13 +20,17 @@ sub word {
     my @dates = ($args{date} =~ /^(((\d\d\d\d)-\d\d)-\d\d)$/, 'all time');
     $count{$_}++ for @dates;
 
-    if ($seen{$args{word}}++ && !$args{not_dupe}) {
-        warn "Already seen $args{word}\n";
+    my $line = (caller)[2];
+
+    if ($seen{$args{word}} && !$args{not_dupe}) {
+        warn "Already seen $args{word} (lines $seen{$args{word}} and $line)\n";
         if ($dryrun) {
             $failed = 1;
             exit 1;
         }
     }
+
+    $seen{$args{word}} = $line;
 
     if ($new_date) {
         dt {
