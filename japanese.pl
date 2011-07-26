@@ -5059,3 +5059,52 @@ word(
     furigana   => 'くさ',
     english    => 'grass',
 );
+
+word(
+    date       => '2011-07-26',
+    word       => '潜る',
+    furigana   => 'もぐる',
+    english    => 'dive',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '真下',
+    furigana   => 'ました',
+    english    => 'directly below',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '海賊',
+    furigana   => 'かいぞく',
+    english    => 'pirate',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '先頭',
+    furigana   => 'せんとう',
+    english    => 'the front',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '大昔',
+    furigana   => 'おおむかし',
+    english    => 'ancient',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '皆殺し',
+    furigana   => 'みなごろし',
+    english    => 'annihilation',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '港',
+    furigana   => 'みなと',
+    english    => 'harbor',
+);
