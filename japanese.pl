@@ -4940,3 +4940,45 @@ word(
     furigana   => 'みやこ',
     english    => 'metropolis',
 );
+
+word(
+    date       => '2011-07-26',
+    word       => '二十六日',
+    furigana   => 'にじゅうろくにち',
+    english    => 'twenty-sixth of the month',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '〜ヶ所',
+    furigana   => '〜かしょ',
+    english    => 'counter for locations',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '自由自在',
+    furigana   => 'じゆうじざい',
+    english    => 'complete freedom',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '詩',
+    furigana   => 'し',
+    english    => 'poem',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '専門',
+    furigana   => 'せんもん',
+    english    => 'specialty',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '澄む',
+    furigana   => 'すむ',
+    english    => 'become transparent',
+);
