@@ -5108,3 +5108,17 @@ word(
     furigana   => 'みなと',
     english    => 'harbor',
 );
+
+word(
+    date       => '2011-07-26',
+    word       => '御馳走',
+    furigana   => 'ごちそう',
+    english    => 'entertainment',
+);
+
+word(
+    date       => '2011-07-26',
+    word       => '綱',
+    furigana   => 'つな',
+    english    => 'rope',
+);
