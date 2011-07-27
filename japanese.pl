@@ -5170,3 +5170,31 @@ word(
     furigana   => 'きがえる',
     english    => 'change clothing',
 );
+
+word(
+    date       => '2011-07-27',
+    word       => '糸',
+    furigana   => 'いと',
+    english    => 'thread',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '納豆',
+    furigana   => 'なっとう',
+    english    => 'natto',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '人類',
+    furigana   => 'じんるい',
+    english    => 'mankind',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '素敵',
+    furigana   => 'すてき',
+    english    => 'lovely',
+);
