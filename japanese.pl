@@ -5122,3 +5122,51 @@ word(
     furigana   => 'つな',
     english    => 'rope',
 );
+
+word(
+    date       => '2011-07-27',
+    word       => '二十七日',
+    furigana   => 'にじゅうしちにち',
+    english    => 'twenty-seventh of the month',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '原因不明',
+    furigana   => 'げんいんふめい',
+    english    => 'cause unknown',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '会社員',
+    furigana   => 'かいしゃいん',
+    english    => 'company employee',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '駅員',
+    furigana   => 'えきいん',
+    english    => 'station employee',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => 'ぐずぐず',
+    english    => 'slowly',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '残業',
+    furigana   => 'ざんぎょう',
+    english    => 'overtime',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '着替える',
+    furigana   => 'きがえる',
+    english    => 'change clothing',
+);
