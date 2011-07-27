@@ -5198,3 +5198,92 @@ word(
     furigana   => 'すてき',
     english    => 'lovely',
 );
+
+word(
+    date       => '2011-07-27',
+    word       => '大文字',
+    furigana   => 'おおもじ',
+    english    => 'uppercase letter',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => 'ほぼ',
+    english    => 'nearly',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '同名',
+    furigana   => 'どうめい',
+    english    => 'same name',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '前後',
+    furigana   => 'ぜんご',
+    english    => 'before and after',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '強力',
+    furigana   => 'きょうりょく',
+    english    => 'powerful',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '本体',
+    furigana   => 'ほんたい',
+    english    => 'true form',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '受け取る',
+    furigana   => 'うけとる',
+    english    => 'receive',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => 'もしくは',
+    english    => 'either/or',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '本来',
+    furigana   => 'ほんらい',
+    english    => 'original',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '返る',
+    furigana   => 'かえる',
+    english    => 'return',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '前後関係',
+    furigana   => 'ぜんごかんけい',
+    english    => 'context',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '傘',
+    furigana   => 'かさ',
+    english    => 'umbrella',
+);
+
+word(
+    date       => '2011-07-27',
+    word       => '骨',
+    furigana   => 'ほね',
+    english    => 'bone',
+);
