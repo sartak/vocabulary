@@ -5287,3 +5287,51 @@ word(
     furigana   => 'ほね',
     english    => 'bone',
 );
+
+word(
+    date       => '2011-07-28',
+    word       => '二十八日',
+    furigana   => 'にじゅうはちにち',
+    english    => 'twenty-eighth of the month',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '新幹線',
+    furigana   => 'しんかんせん',
+    english    => 'shinkansen',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '列車',
+    furigana   => 'れっしゃ',
+    english    => 'train',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '測る',
+    furigana   => 'はかる',
+    english    => 'measure',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => 'さっさと',
+    english    => 'quickly',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '絵',
+    furigana   => 'え',
+    english    => 'painting',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '満員御礼',
+    furigana   => 'まんいんおれい',
+    english    => 'all tickets sold, thank you',
+);
