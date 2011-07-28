@@ -5335,3 +5335,31 @@ word(
     furigana   => 'まんいんおれい',
     english    => 'all tickets sold, thank you',
 );
+
+word(
+    date       => '2011-07-28',
+    word       => '歌詞',
+    furigana   => 'かし',
+    english    => 'lyrics',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '誘う',
+    furigana   => 'さそう',
+    english    => 'lure',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '宴',
+    furigana   => 'うたげ',
+    english    => 'feast',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '結婚',
+    furigana   => 'けっこん',
+    english    => 'wedding',
+);
