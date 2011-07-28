@@ -5363,3 +5363,66 @@ word(
     furigana   => 'けっこん',
     english    => 'wedding',
 );
+
+word(
+    date       => '2011-07-28',
+    word       => '勇気',
+    furigana   => 'ゆうき',
+    english    => 'courage',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '結婚式',
+    furigana   => 'けっこんしき',
+    english    => 'wedding ceremony',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '破壊',
+    furigana   => 'はかい',
+    english    => 'destruction',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '勇者',
+    furigana   => 'ゆうしゃ',
+    english    => 'brave person',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '自爆',
+    furigana   => 'じばく',
+    english    => 'self-destruct',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '導く',
+    furigana   => 'みちびく',
+    english    => 'guide',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '中身',
+    furigana   => 'なかみ',
+    english    => 'contents',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '鞄',
+    furigana   => 'かばん',
+    english    => 'bag',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '食事',
+    furigana   => 'しょくじ',
+    english    => 'meal',
+);
