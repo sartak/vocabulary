@@ -5426,3 +5426,17 @@ word(
     furigana   => 'しょくじ',
     english    => 'meal',
 );
+
+word(
+    date       => '2011-07-28',
+    word       => '燃料',
+    furigana   => 'ねんりょう',
+    english    => 'fuel',
+);
+
+word(
+    date       => '2011-07-28',
+    word       => '愛人',
+    furigana   => 'あいじん',
+    english    => 'lover',
+);
