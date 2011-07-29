@@ -5440,3 +5440,38 @@ word(
     furigana   => 'あいじん',
     english    => 'lover',
 );
+
+word(
+    date       => '2011-07-29',
+    word       => '二十九日',
+    furigana   => 'にじゅうきゅうにち',
+    english    => 'twenty-ninth of the month',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => 'つぶやき',
+    english    => 'mutter',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '〜歩',
+    furigana   => '〜ほ',
+    english    => 'counter for steps',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '年寄り',
+    furigana   => 'としより',
+    english    => 'old person',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '一歩一歩',
+    furigana   => 'いっぽいっぽ',
+    english    => 'step by step',
+);
+
