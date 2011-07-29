@@ -5509,3 +5509,38 @@ word(
     furigana   => 'じぜん',
     english    => 'nature',
 );
+
+word(
+    date       => '2011-07-29',
+    word       => '呪文',
+    furigana   => 'じゅもん',
+    english    => 'spell',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '瞬間',
+    furigana   => 'しゅんかん',
+    english    => 'moment',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '瞬間移動',
+    furigana   => 'しゅんかんいどう',
+    english    => 'teleport',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '忍者',
+    furigana   => 'にんじゃ',
+    english    => 'ninja',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '雷',
+    furigana   => 'かみなり',
+    english    => 'thunder',
+);
