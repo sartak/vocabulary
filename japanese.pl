@@ -5475,3 +5475,37 @@ word(
     english    => 'step by step',
 );
 
+word(
+    date       => '2011-07-29',
+    word       => '大体',
+    furigana   => 'だいたい',
+    english    => 'general',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '表現',
+    furigana   => 'ひょうげん',
+    english    => 'expression',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '去年',
+    furigana   => 'きょねん',
+    english    => 'last year',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '怠ける',
+    furigana   => 'なまける',
+    english    => 'neglect',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '自然',
+    furigana   => 'じぜん',
+    english    => 'nature',
+);
