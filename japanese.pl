@@ -5592,3 +5592,31 @@ word(
     furigana   => 'まめ',
     english    => 'bean',
 );
+
+word(
+    date       => '2011-07-29',
+    word       => '谷',
+    furigana   => 'たに',
+    english    => 'valley',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '夕方',
+    furigana   => 'ゆうがた',
+    english    => 'evening',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '半分',
+    furigana   => 'はんぶん',
+    english    => 'half',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '番組',
+    furigana   => 'ばんぐみ',
+    english    => 'show',
+);
