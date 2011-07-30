@@ -5544,3 +5544,51 @@ word(
     furigana   => 'かみなり',
     english    => 'thunder',
 );
+
+word(
+    date       => '2011-07-29',
+    word       => '一覧',
+    furigana   => 'いちらん',
+    english    => 'a look',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '数',
+    furigana   => 'かず',
+    english    => 'number',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '関連',
+    furigana   => 'かんれん',
+    english    => 'connection',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '頼もしい',
+    furigana   => 'たのもしい',
+    english    => 'promising',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => 'とんでもない',
+    english    => 'outrageous',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '殺し屋',
+    furigana   => 'ころしや',
+    english    => 'hit man',
+);
+
+word(
+    date       => '2011-07-29',
+    word       => '豆',
+    furigana   => 'まめ',
+    english    => 'bean',
+);
