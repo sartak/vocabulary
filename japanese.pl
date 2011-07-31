@@ -5627,3 +5627,24 @@ word(
     furigana   => 'さんじゅうにち',
     english    => 'thirtieth of the month',
 );
+
+word(
+    date       => '2011-07-31',
+    word       => '三十一日',
+    furigana   => 'さんじゅういちにち',
+    english    => 'thirty-first of the month',
+);
+
+word(
+    date       => '2011-07-31',
+    word       => '〜氏',
+    furigana   => '〜し',
+    english    => 'Mr/Mrs',
+);
+
+word(
+    date       => '2011-07-31',
+    word       => '標識',
+    furigana   => 'ひょうしき',
+    english    => 'sign',
+);
