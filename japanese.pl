@@ -5620,3 +5620,10 @@ word(
     furigana   => 'ばんぐみ',
     english    => 'show',
 );
+
+word(
+    date       => '2011-07-30',
+    word       => '三十日',
+    furigana   => 'さんじゅうにち',
+    english    => 'thirtieth of the month',
+);
