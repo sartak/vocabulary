@@ -5648,3 +5648,10 @@ word(
     furigana   => 'ひょうしき',
     english    => 'sign',
 );
+
+word(
+    date       => '2011-07-31',
+    word       => '条件',
+    furigana   => 'じょうけん',
+    english    => 'conditions',
+);
