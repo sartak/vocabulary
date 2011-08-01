@@ -5655,3 +5655,17 @@ word(
     furigana   => 'じょうけん',
     english    => 'conditions',
 );
+
+word(
+    date       => '2011-08-01',
+    word       => '画面',
+    furigana   => 'がめん',
+    english    => 'screen',
+);
+
+word(
+    date       => '2011-08-01',
+    word       => '出撃',
+    furigana   => 'しゅつげき',
+    english    => 'sortie',
+);
