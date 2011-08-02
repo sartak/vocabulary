@@ -5669,3 +5669,10 @@ word(
     furigana   => 'しゅつげき',
     english    => 'sortie',
 );
+
+word(
+    date       => '2011-08-01',
+    word       => '乗り込む',
+    furigana   => 'のりこむ',
+    english    => 'march upon',
+);
