@@ -5683,3 +5683,30 @@ word(
     furigana   => 'はんのう',
     english    => 'reaction',
 );
+
+word(
+    date       => '2011-08-04',
+    word       => '作品',
+    furigana   => 'さくひん',
+    english    => 'piece of work',
+);
+
+word(
+    date       => '2011-08-04',
+    word       => '班長',
+    furigana   => 'はんちょう',
+    english    => 'squad leader',
+);
+
+word(
+    date       => '2011-08-04',
+    word       => '班',
+    furigana   => 'はん',
+    english    => 'squad',
+);
+
+word(
+    date       => '2011-08-04',
+    word       => '野郎',
+    furigana   => 'やろう',
+);
