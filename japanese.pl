@@ -5710,3 +5710,24 @@ word(
     word       => '野郎',
     furigana   => 'やろう',
 );
+
+word(
+    date       => '2011-08-05',
+    word       => '妨げる',
+    furigana   => 'さまたげる',
+    english    => 'disturb',
+);
+
+word(
+    date       => '2011-08-05',
+    word       => '上書き',
+    furigana   => 'うわがき',
+    english    => 'overwrite',
+);
+
+word(
+    date       => '2011-08-05',
+    word       => '進歩',
+    furigana   => 'しんぽ',
+    english    => 'progress',
+);
