@@ -5731,3 +5731,10 @@ word(
     furigana   => 'しんぽ',
     english    => 'progress',
 );
+
+word(
+    date       => '2011-08-05',
+    word       => '偉大',
+    furigana   => 'いだい',
+    english    => 'great',
+);
