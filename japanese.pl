@@ -5738,3 +5738,17 @@ word(
     furigana   => 'いだい',
     english    => 'great',
 );
+
+word(
+    date       => '2011-08-06',
+    word       => '提供',
+    furigana   => 'ていきょう',
+    english    => 'offer',
+);
+
+word(
+    date       => '2011-08-06',
+    word       => '会場',
+    furigana   => 'かいじょう',
+    english    => 'meeting place',
+);
