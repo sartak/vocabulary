@@ -5780,3 +5780,31 @@ word(
     furigana   => 'げんじゅう',
     english    => 'esper',
 );
+
+word(
+    date       => '2011-08-07',
+    word       => '状態',
+    furigana   => 'じょうたい',
+    english    => 'state',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => '相談',
+    furigana   => 'そうだん',
+    english    => 'advice',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => '相談相手',
+    furigana   => 'そうだんあいて',
+    english    => 'advisor',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => '相当',
+    furigana   => 'そうとう',
+    english    => 'suitable',
+);
