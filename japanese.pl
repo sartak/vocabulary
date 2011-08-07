@@ -5752,3 +5752,31 @@ word(
     furigana   => 'かいじょう',
     english    => 'meeting place',
 );
+
+word(
+    date       => '2011-08-06',
+    word       => '下がる',
+    furigana   => 'さがる',
+    english    => 'move back',
+);
+
+word(
+    date       => '2011-08-06',
+    word       => '皇帝',
+    furigana   => 'こうてい',
+    english    => 'emperor',
+);
+
+word(
+    date       => '2011-08-06',
+    word       => '魔導',
+    furigana   => 'まどう',
+    english    => 'magic',
+);
+
+word(
+    date       => '2011-08-06',
+    word       => '幻獣',
+    furigana   => 'げんじゅう',
+    english    => 'esper',
+);
