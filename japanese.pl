@@ -5808,3 +5808,50 @@ word(
     furigana   => 'そうとう',
     english    => 'suitable',
 );
+
+word(
+    date       => '2011-08-07',
+    word       => '混乱',
+    furigana   => 'こんらん',
+    english    => 'confusion',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => 'つぼ',
+    english    => 'jar',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => '決定',
+    furigana   => 'けってい',
+    english    => 'decide',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => '一先ず',
+    furigana   => 'ひとまず',
+    english    => 'for the time being',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => 'おっと',
+    english    => 'oops',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => '国王',
+    furigana   => 'こくおう',
+    english    => 'king',
+);
+
+word(
+    date       => '2011-08-07',
+    word       => '帝国',
+    furigana   => 'ていこく',
+    english    => 'empire',
+);
