@@ -5855,3 +5855,38 @@ word(
     furigana   => 'ていこく',
     english    => 'empire',
 );
+
+word(
+    date       => '2011-08-08',
+    word       => '治す',
+    furigana   => 'なおす',
+    english    => 'heal',
+);
+
+word(
+    date       => '2011-08-08',
+    word       => '希望',
+    furigana   => 'きぼう',
+    english    => 'hope',
+);
+
+word(
+    date       => '2011-08-08',
+    word       => '協力',
+    furigana   => 'きょうりょく',
+    english    => 'cooperation',
+);
+
+word(
+    date       => '2011-08-08',
+    word       => '暇',
+    furigana   => 'ひま',
+    english    => 'leisure time',
+);
+
+word(
+    date       => '2011-08-08',
+    word       => '兵士',
+    furigana   => 'へいし',
+    english    => 'soldier',
+);
