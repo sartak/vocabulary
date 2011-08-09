@@ -5890,3 +5890,24 @@ word(
     furigana   => 'へいし',
     english    => 'soldier',
 );
+
+word(
+    date       => '2011-08-09',
+    word       => '予報',
+    furigana   => 'よほう',
+    english    => 'forecast',
+);
+
+word(
+    date       => '2011-08-09',
+    word       => '電報',
+    furigana   => 'でんぽう',
+    english    => 'telegram',
+);
+
+word(
+    date       => '2011-08-09',
+    word       => '全滅',
+    furigana   => 'ぜんめつ',
+    english    => 'annihilate',
+);
