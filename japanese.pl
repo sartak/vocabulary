@@ -5911,3 +5911,77 @@ word(
     furigana   => 'ぜんめつ',
     english    => 'annihilate',
 );
+
+word(
+    date       => '2011-08-10',
+    word       => 'じっと',
+    english    => 'fixedly',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => '防ぐ',
+    furigana   => 'ふせぐ',
+    english    => 'protect against',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => '物理',
+    furigana   => 'ぶつり',
+    english    => 'physical',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => 'せっしゃ',
+    english    => 'I',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => 'あばれる',
+    english    => 'rage',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => '決戦',
+    furigana   => 'けっせん',
+    english    => 'decisive battle',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => '氷',
+    furigana   => 'こおり',
+    english    => 'ice',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => '無事',
+    furigana   => 'ぶじ',
+    english    => 'quietness',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => '毒殺',
+    furigana   => 'どくさつ',
+    english    => 'poisoning',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => '約束',
+    furigana   => 'やくそく',
+    english    => 'promise',
+);
+
+word(
+    date       => '2011-08-10',
+    word       => '準備',
+    furigana   => 'じゅんび',
+    english    => 'preparations',
+);
