@@ -5985,3 +5985,24 @@ word(
     furigana   => 'じゅんび',
     english    => 'preparations',
 );
+
+word(
+    date       => '2011-08-11',
+    word       => '両親',
+    furigana   => 'りょうしん',
+    english    => 'parents',
+);
+
+word(
+    date       => '2011-08-11',
+    word       => '保険',
+    furigana   => 'ほけん',
+    english    => 'insurance',
+);
+
+word(
+    date       => '2011-08-11',
+    word       => '長時間',
+    furigana   => 'ちょうじかん',
+    english    => 'long period of time',
+);
