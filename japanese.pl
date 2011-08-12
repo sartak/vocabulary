@@ -6006,3 +6006,24 @@ word(
     furigana   => 'ちょうじかん',
     english    => 'long period of time',
 );
+
+word(
+    date       => '2011-08-12',
+    word       => '感覚',
+    furigana   => 'かんかく',
+    english    => 'sensation',
+);
+
+word(
+    date       => '2011-08-12',
+    word       => '死す',
+    furigana   => 'しす',
+    english    => 'die',
+);
+
+word(
+    date       => '2011-08-12',
+    word       => '仲間',
+    furigana   => 'なかま',
+    english    => 'pal',
+);
