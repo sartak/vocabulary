@@ -6027,3 +6027,38 @@ word(
     furigana   => 'なかま',
     english    => 'pal',
 );
+
+word(
+    date       => '2011-08-12',
+    word       => '理解',
+    furigana   => 'りかい',
+    english    => 'comprehension',
+);
+
+word(
+    date       => '2011-08-12',
+    word       => '連れる',
+    furigana   => 'つれる',
+    english    => 'bring',
+);
+
+word(
+    date       => '2011-08-12',
+    word       => '飛空艇',
+    furigana   => 'ひくうてい',
+    english    => 'airship',
+);
+
+word(
+    date       => '2011-08-12',
+    word       => '囮',
+    furigana   => 'おとり',
+    english    => 'decoy',
+);
+
+word(
+    date       => '2011-08-12',
+    word       => '効果',
+    furigana   => 'こうか',
+    english    => 'effect',
+);
