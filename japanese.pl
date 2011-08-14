@@ -6097,3 +6097,10 @@ word(
     furigana   => 'ふあん',
     english    => 'anxiety',
 );
+
+word(
+    date       => '2011-08-13',
+    word       => '情報',
+    furigana   => 'じょうほう',
+    english    => 'information',
+);
