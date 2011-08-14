@@ -6151,3 +6151,23 @@ word(
     furigana   => 'かいぐん',
     english    => 'navy',
 );
+
+word(
+    date       => '2011-08-14',
+    word       => '超える',
+    furigana   => 'こえる',
+    english    => 'exceed',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => '不可能',
+    furigana   => 'ふかのう',
+    english    => 'impossible',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => 'あらゆる',
+    english    => 'all',
+);
