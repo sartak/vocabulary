@@ -6104,3 +6104,50 @@ word(
     furigana   => 'じょうほう',
     english    => 'information',
 );
+
+word(
+    date       => '2011-08-14',
+    word       => 'とにかく',
+    english    => 'anyhow',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => 'なす',
+    english    => 'do',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => '戦争',
+    furigana   => 'せんそう',
+    english    => 'war',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => '和平',
+    furigana   => 'わへい',
+    english    => 'peace',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => '強大',
+    furigana   => 'きょうだい',
+    english    => 'mighty',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => '両国',
+    furigana   => 'りょうこく',
+    english    => 'the two countries',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => '海軍',
+    furigana   => 'かいぐん',
+    english    => 'navy',
+);
