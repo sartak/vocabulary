@@ -6062,3 +6062,38 @@ word(
     furigana   => 'こうか',
     english    => 'effect',
 );
+
+word(
+    date       => '2011-08-13',
+    word       => '予約',
+    furigana   => 'よやく',
+    english    => 'reservation',
+);
+
+word(
+    date       => '2011-08-13',
+    word       => '博士',
+    furigana   => 'はくし',
+    english    => 'doctor',
+);
+
+word(
+    date       => '2011-08-13',
+    word       => '怪しい',
+    furigana   => 'あやしい',
+    english    => 'suspicious',
+);
+
+word(
+    date       => '2011-08-13',
+    word       => '利用',
+    furigana   => 'りよう',
+    english    => 'use',
+);
+
+word(
+    date       => '2011-08-13',
+    word       => '不安',
+    furigana   => 'ふあん',
+    english    => 'anxiety',
+);
