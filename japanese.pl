@@ -6171,3 +6171,17 @@ word(
     word       => 'あらゆる',
     english    => 'all',
 );
+
+word(
+    date       => '2011-08-14',
+    word       => '新着',
+    furigana   => 'しんちゃく',
+    english    => 'newly-arrived',
+);
+
+word(
+    date       => '2011-08-14',
+    word       => '封魔壁',
+    furigana   => 'ふうまへき',
+    english    => 'magical seal',
+);
