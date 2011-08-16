@@ -6185,3 +6185,31 @@ word(
     furigana   => 'ふうまへき',
     english    => 'magical seal',
 );
+
+word(
+    date       => '2011-08-15',
+    word       => '実況',
+    furigana   => 'じっきょう',
+    english    => 'actual state',
+);
+
+word(
+    date       => '2011-08-15',
+    word       => '親',
+    furigana   => 'おや',
+    english    => 'parent(s)',
+);
+
+word(
+    date       => '2011-08-15',
+    word       => '廊下',
+    furigana   => 'ろうか',
+    english    => 'hall',
+);
+
+word(
+    date       => '2011-08-15',
+    word       => '火事',
+    furigana   => 'かじ',
+    english    => 'fire',
+);
