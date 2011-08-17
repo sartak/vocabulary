@@ -6213,3 +6213,59 @@ word(
     furigana   => 'かじ',
     english    => 'fire',
 );
+
+word(
+    date       => '2011-08-16',
+    word       => '戦闘',
+    furigana   => 'せんとう',
+    english    => 'battle',
+);
+
+word(
+    date       => '2011-08-16',
+    word       => '中止',
+    furigana   => 'ちゅうし',
+    english    => 'cancel',
+);
+
+word(
+    date       => '2011-08-16',
+    word       => '獣',
+    furigana   => 'けもの',
+    english    => 'beast',
+);
+
+word(
+    date       => '2011-08-16',
+    word       => '原',
+    furigana   => 'はら',
+    english    => 'plain',
+);
+
+word(
+    date       => '2011-08-16',
+    word       => '獣ヶ原',
+    furigana   => 'けものがはら',
+    english    => 'the veldt',
+);
+
+word(
+    date       => '2011-08-16',
+    word       => '大陸',
+    furigana   => 'たいりく',
+    english    => 'continent',
+);
+
+word(
+    date       => '2011-08-16',
+    word       => '空軍',
+    furigana   => 'くうぐん',
+    english    => 'air force',
+);
+
+word(
+    date       => '2011-08-16',
+    word       => '剣',
+    furigana   => 'つるぎ',
+    english    => 'sword',
+);
