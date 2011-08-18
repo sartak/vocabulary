@@ -6269,3 +6269,17 @@ word(
     furigana   => 'つるぎ',
     english    => 'sword',
 );
+
+word(
+    date       => '2011-08-17',
+    word       => '米国',
+    furigana   => 'べいこく',
+    english    => 'America',
+);
+
+word(
+    date       => '2011-08-17',
+    word       => '空中',
+    furigana   => 'くうちゅう',
+    english    => 'sky',
+);
