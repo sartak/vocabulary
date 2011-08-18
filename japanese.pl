@@ -6283,3 +6283,31 @@ word(
     furigana   => 'くうちゅう',
     english    => 'sky',
 );
+
+word(
+    date       => '2011-08-18',
+    word       => '回数',
+    furigana   => 'かいすう',
+    english    => 'number of times',
+);
+
+word(
+    date       => '2011-08-18',
+    word       => '記録',
+    furigana   => 'きろく',
+    english    => 'record',
+);
+
+word(
+    date       => '2011-08-18',
+    word       => '指示',
+    furigana   => 'しじ',
+    english    => 'instruct',
+);
+
+word(
+    date       => '2011-08-18',
+    word       => '博物館',
+    furigana   => 'はくぶつかん',
+    english    => 'museum',
+);
