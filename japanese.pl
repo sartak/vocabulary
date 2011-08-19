@@ -6311,3 +6311,38 @@ word(
     furigana   => 'はくぶつかん',
     english    => 'museum',
 );
+
+word(
+    date       => '2011-08-18',
+    word       => '過去',
+    furigana   => 'かこ',
+    english    => 'the past',
+);
+
+word(
+    date       => '2011-08-18',
+    word       => '暮らし',
+    furigana   => 'くらし',
+    english    => 'livelihood',
+);
+
+word(
+    date       => '2011-08-18',
+    word       => '貴方',
+    furigana   => 'あなた',
+    english    => 'you',
+);
+
+word(
+    date       => '2011-08-18',
+    word       => '塔',
+    furigana   => 'とう',
+    english    => 'pagoda',
+);
+
+word(
+    date       => '2011-08-18',
+    word       => '石化',
+    furigana   => 'せきか',
+    english    => 'petrify',
+);
