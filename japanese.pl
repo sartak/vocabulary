@@ -6346,3 +6346,10 @@ word(
     furigana   => 'せきか',
     english    => 'petrify',
 );
+
+word(
+    date       => '2011-08-19',
+    word       => '封筒',
+    furigana   => 'ふうとう',
+    english    => 'envelope',
+);
