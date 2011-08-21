@@ -6353,3 +6353,65 @@ word(
     furigana   => 'ふうとう',
     english    => 'envelope',
 );
+
+word(
+    date       => '2011-08-21',
+    word       => '席',
+    furigana   => 'せき',
+    english    => 'seat',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => 'ほとんど',
+    english    => 'nearly; hardly',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '漠然',
+    furigana   => 'ばくぜん',
+    english    => 'vague',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '盗賊',
+    furigana   => 'とうぞく',
+    english    => 'thief',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '裂く',
+    furigana   => 'さく',
+    english    => 'split',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '以来',
+    furigana   => 'いらい',
+    english    => 'since',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '本人',
+    furigana   => 'ほんにん',
+    english    => 'himself',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '率',
+    furigana   => 'りつ',
+    english    => 'ratio',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '低い',
+    furigana   => 'ひくい',
+    english    => 'low',
+);
