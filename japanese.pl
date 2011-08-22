@@ -6415,3 +6415,31 @@ word(
     furigana   => 'ひくい',
     english    => 'low',
 );
+
+word(
+    date       => '2011-08-21',
+    word       => 'いける',
+    english    => 'good',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '決める',
+    furigana   => 'きめる',
+    english    => 'decide',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '刻む',
+    furigana   => 'きざむ',
+    english    => 'engrave',
+);
+
+word(
+    date       => '2011-08-21',
+    word       => '飛行',
+    furigana   => 'ひこう',
+    english    => 'flight',
+);
+
