@@ -6443,3 +6443,43 @@ word(
     english    => 'flight',
 );
 
+word(
+    date       => '2011-08-22',
+    word       => '嵐',
+    furigana   => 'あらし',
+    english    => 'storm',
+);
+
+word(
+    date       => '2011-08-22',
+    word       => '魔術',
+    furigana   => 'まじゅつ',
+    english    => 'witchcraft',
+);
+
+word(
+    date       => '2011-08-22',
+    word       => '校長',
+    furigana   => 'こうちょう',
+    english    => 'headmaster',
+);
+
+word(
+    date       => '2011-08-22',
+    word       => '砂嵐',
+    furigana   => 'すなあらし',
+    english    => 'sandstorm',
+);
+
+word(
+    date       => '2011-08-22',
+    word       => '状況',
+    furigana   => 'じょうきょう',
+    english    => 'circumstances',
+);
+
+word(
+    date       => '2011-08-22',
+    word       => 'ますます',
+    english    => 'increasingly',
+);
