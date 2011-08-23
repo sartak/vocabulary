@@ -6483,3 +6483,10 @@ word(
     word       => 'ますます',
     english    => 'increasingly',
 );
+
+word(
+    date       => '2011-08-22',
+    word       => '日々',
+    furigana   => 'ひび',
+    english    => 'days',
+);
