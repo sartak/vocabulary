@@ -6490,3 +6490,17 @@ word(
     furigana   => 'ひび',
     english    => 'days',
 );
+
+word(
+    date       => '2011-08-23',
+    word       => '条項',
+    furigana   => 'じょうこう',
+    english    => 'clause',
+);
+
+word(
+    date       => '2011-08-23',
+    word       => '踊る',
+    furigana   => 'おどる',
+    english    => 'dance',
+);
