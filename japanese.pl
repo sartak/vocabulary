@@ -6504,3 +6504,57 @@ word(
     furigana   => 'おどる',
     english    => 'dance',
 );
+
+word(
+    date       => '2011-08-25',
+    word       => '物置',
+    furigana   => 'ものおき',
+    english    => 'storeroom',
+);
+
+word(
+    date       => '2011-08-25',
+    word       => '沈む',
+    furigana   => 'しずむ',
+    english    => 'sink',
+);
+
+word(
+    date       => '2011-08-25',
+    word       => 'ふくろう',
+    english    => 'owl',
+);
+
+word(
+    date       => '2011-08-25',
+    word       => '地下鉄',
+    furigana   => 'ちかてつ',
+    english    => 'subway',
+);
+
+word(
+    date       => '2011-08-25',
+    word       => '省',
+    furigana   => 'しょう',
+    english    => 'ministry',
+);
+
+word(
+    date       => '2011-08-25',
+    word       => '史',
+    furigana   => 'し',
+    english    => 'history',
+);
+
+word(
+    date       => '2011-08-25',
+    word       => '著',
+    furigana   => 'ちょ',
+    english    => 'author',
+);
+
+word(
+    date       => '2011-08-25',
+    word       => 'ひきがえる',
+    english    => 'toad',
+);
