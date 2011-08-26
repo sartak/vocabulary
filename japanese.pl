@@ -6586,3 +6586,24 @@ word(
     furigana   => 'ひじょう',
     english    => 'emergency',
 );
+
+word(
+    date       => '2011-08-26',
+    word       => '行',
+    furigana   => 'ぎょう',
+    english    => 'line',
+);
+
+word(
+    date       => '2011-08-26',
+    word       => '若者',
+    furigana   => 'わかもの',
+    english    => 'youngster',
+);
+
+word(
+    date       => '2011-08-26',
+    word       => '機械',
+    furigana   => 'きかい',
+    english    => 'machine',
+);
