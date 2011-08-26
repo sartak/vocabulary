@@ -6558,3 +6558,10 @@ word(
     word       => 'ひきがえる',
     english    => 'toad',
 );
+
+word(
+    date       => '2011-08-25',
+    word       => '奇跡',
+    furigana   => 'きせき',
+    english    => 'miracle',
+);
