@@ -6565,3 +6565,24 @@ word(
     furigana   => 'きせき',
     english    => 'miracle',
 );
+
+word(
+    date       => '2011-08-26',
+    word       => '致す',
+    furigana   => 'いたす',
+    english    => 'to do (humble)',
+);
+
+word(
+    date       => '2011-08-26',
+    word       => '停車',
+    furigana   => 'ていしゃ',
+    english    => 'stop',
+);
+
+word(
+    date       => '2011-08-26',
+    word       => '非常',
+    furigana   => 'ひじょう',
+    english    => 'emergency',
+);
