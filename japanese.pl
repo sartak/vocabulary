@@ -6607,3 +6607,24 @@ word(
     furigana   => 'きかい',
     english    => 'machine',
 );
+
+word(
+    date       => '2011-08-27',
+    word       => '奇数',
+    furigana   => 'きすう',
+    english    => 'odd number',
+);
+
+word(
+    date       => '2011-08-27',
+    word       => '人恋しい',
+    furigana   => 'ひとこいしい',
+    english    => 'longing for others',
+);
+
+word(
+    date       => '2011-08-27',
+    word       => '季節',
+    furigana   => 'きせつ',
+    english    => 'season',
+);
