@@ -6628,3 +6628,31 @@ word(
     furigana   => 'きせつ',
     english    => 'season',
 );
+
+word(
+    date       => '2011-08-28',
+    word       => '連続',
+    furigana   => 'れんぞく',
+    english    => 'successive',
+);
+
+word(
+    date       => '2011-08-28',
+    word       => '気配',
+    furigana   => 'けはい',
+    english    => 'presence',
+);
+
+word(
+    date       => '2011-08-28',
+    word       => '霧',
+    furigana   => 'きり',
+    english    => 'fog',
+);
+
+word(
+    date       => '2011-08-28',
+    word       => '筋',
+    furigana   => 'すじ',
+    english    => 'tendon',
+);
