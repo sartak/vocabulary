@@ -6656,3 +6656,17 @@ word(
     furigana   => 'すじ',
     english    => 'tendon',
 );
+
+word(
+    date       => '2011-08-28',
+    word       => '背筋',
+    furigana   => 'せすじ',
+    english    => 'back muscles',
+);
+
+word(
+    date       => '2011-08-28',
+    word       => '正す',
+    furigana   => 'ただす',
+    english    => 'correct',
+);
