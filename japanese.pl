@@ -6670,3 +6670,17 @@ word(
     furigana   => 'ただす',
     english    => 'correct',
 );
+
+word(
+    date       => '2011-08-29',
+    word       => '口',
+    furigana   => 'くち',
+    english    => 'mouth',
+);
+
+word(
+    date       => '2011-08-29',
+    word       => '必殺技',
+    furigana   => 'ひっさつわざ',
+    english    => 'special move',
+);
