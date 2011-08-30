@@ -6684,3 +6684,10 @@ word(
     furigana   => 'ひっさつわざ',
     english    => 'special move',
 );
+
+word(
+    date       => '2011-08-30',
+    word       => '太陽',
+    furigana   => 'たいよう',
+    english    => 'the sun',
+);
