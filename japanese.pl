@@ -6691,3 +6691,51 @@ word(
     furigana   => 'たいよう',
     english    => 'the sun',
 );
+
+word(
+    date       => '2011-08-30',
+    word       => '教授',
+    furigana   => 'きょうじゅ',
+    english    => 'professor',
+);
+
+word(
+    date       => '2011-08-31',
+    word       => '箒',
+    furigana   => 'ほうき',
+    english    => 'broom',
+);
+
+word(
+    date       => '2011-08-31',
+    word       => 'レンガ',
+    english    => 'brick',
+);
+
+word(
+    date       => '2011-08-31',
+    word       => '横丁',
+    furigana   => 'よこちょう',
+    english    => 'alley',
+);
+
+word(
+    date       => '2011-08-31',
+    word       => '数人',
+    furigana   => 'すうにん',
+    english    => 'several people',
+);
+
+word(
+    date       => '2011-08-31',
+    word       => '銀色',
+    furigana   => 'ぎんいろ',
+    english    => 'silver color',
+);
+
+word(
+    date       => '2011-08-31',
+    word       => '微笑む',
+    furigana   => 'ほほえむ',
+    english    => 'smile',
+);
