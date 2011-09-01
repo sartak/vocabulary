@@ -6739,3 +6739,9 @@ word(
     furigana   => 'ほほえむ',
     english    => 'smile',
 );
+
+word(
+    date       => '2011-08-31',
+    word       => '一体',
+    furigana   => 'いったい',
+);
