@@ -6745,3 +6745,10 @@ word(
     word       => '一体',
     furigana   => 'いったい',
 );
+
+word(
+    date       => '2011-09-01',
+    word       => '制服',
+    furigana   => 'せいふく',
+    english    => 'uniform',
+);
