@@ -6752,3 +6752,23 @@ word(
     furigana   => 'せいふく',
     english    => 'uniform',
 );
+
+word(
+    date       => '2011-09-02',
+    word       => '寮',
+    furigana   => 'りょう',
+    english    => 'dormitory',
+);
+
+word(
+    date       => '2011-09-02',
+    word       => 'サーセン',
+    english    => 'すみません',
+);
+
+word(
+    date       => '2011-09-02',
+    word       => '連絡',
+    furigana   => 'れんらく',
+    english    => 'contact',
+);
