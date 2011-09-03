@@ -6772,3 +6772,16 @@ word(
     furigana   => 'れんらく',
     english    => 'contact',
 );
+
+word(
+    date       => '2011-09-03',
+    word       => '分かれる',
+    furigana   => 'わかれる',
+    english    => 'split up',
+);
+
+word(
+    date       => '2011-09-03',
+    word       => 'やむなく',
+    english    => 'reluctantly',
+);
