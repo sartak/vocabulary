@@ -4690,7 +4690,8 @@ word(
 
 word(
     date       => '2011-07-22',
-    word       => 'いす',
+    word       => '椅子',
+    furigana   => 'いす',
     english    => 'chair',
 );
 
