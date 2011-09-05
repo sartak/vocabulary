@@ -6888,3 +6888,23 @@ word(
     furigana   => 'にくしょく',
     english    => 'carnivorous',
 );
+
+word(
+    date       => '2011-09-05',
+    word       => '人質',
+    furigana   => 'ひとじち',
+    english    => 'hostage',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '出所',
+    furigana   => 'しゅっしょ',
+    english    => 'source',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => 'アマ',
+    english    => 'bitch',
+);
