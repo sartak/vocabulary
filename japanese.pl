@@ -6793,3 +6793,98 @@ word(
     furigana   => 'しょうかい',
     english    => 'introduce',
 );
+
+word(
+    date       => '2011-09-05',
+    word       => '連中',
+    furigana   => 'れんじゅう',
+    english    => 'group',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '入学',
+    furigana   => 'にゅうがく',
+    english    => 'school entry',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '動物',
+    furigana   => 'どうぶつ',
+    english    => 'animal',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '好く',
+    furigana   => 'すく',
+    english    => 'like',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '限る',
+    furigana   => 'かぎる',
+    english    => 'best',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => 'みすぼらしい',
+    english    => 'shabby',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => 'ゾクゾク',
+    english    => 'shiver',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '老人',
+    furigana   => 'ろうじん',
+    english    => 'old person',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => 'なさる',
+    english    => 'to do (honorific)',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '主',
+    furigana   => 'ぬし',
+    english    => 'master',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '嬉しい',
+    furigana   => 'うれしい',
+    english    => 'happy',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '次々',
+    furigana   => 'つぎつぎ',
+    english    => 'in succession',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '切符',
+    furigana   => 'きっぷ',
+    english    => 'ticket',
+);
+
+word(
+    date       => '2011-09-05',
+    word       => '肉食',
+    furigana   => 'にくしょく',
+    english    => 'carnivorous',
+);
