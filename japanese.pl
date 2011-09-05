@@ -6785,3 +6785,10 @@ word(
     word       => 'やむなく',
     english    => 'reluctantly',
 );
+
+word(
+    date       => '2011-09-04',
+    word       => '紹介',
+    furigana   => 'しょうかい',
+    english    => 'introduce',
+);
