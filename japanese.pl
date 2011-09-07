@@ -6908,3 +6908,17 @@ word(
     word       => 'アマ',
     english    => 'bitch',
 );
+
+word(
+    date       => '2011-09-06',
+    word       => '温かい',
+    furigana   => 'あたたかい',
+    english    => 'hot',
+);
+
+word(
+    date       => '2011-09-06',
+    word       => '発動',
+    furigana   => 'はつどう',
+    english    => 'effect',
+);
