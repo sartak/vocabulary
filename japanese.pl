@@ -6922,3 +6922,52 @@ word(
     furigana   => 'はつどう',
     english    => 'effect',
 );
+
+word(
+    date       => '2011-09-07',
+    word       => '閉じこもる',
+    furigana   => 'とじこもる',
+    english    => 'shut in',
+);
+
+word(
+    date       => '2011-09-07',
+    word       => '教科書',
+    furigana   => 'きょうかしょ',
+    english    => 'textbook',
+);
+
+word(
+    date       => '2011-09-07',
+    word       => '居間',
+    furigana   => 'いま',
+    english    => 'living room',
+);
+
+word(
+    date       => '2011-09-07',
+    word       => '覚める',
+    furigana   => 'さめる',
+    english    => 'wake',
+);
+
+word(
+    date       => '2011-09-07',
+    word       => '双子',
+    furigana   => 'ふたご',
+    english    => 'twins',
+);
+
+word(
+    date       => '2011-09-07',
+    word       => '読み上げる',
+    furigana   => 'よみあげる',
+    english    => 'read aloud',
+);
+
+word(
+    date       => '2011-09-07',
+    word       => '字',
+    furigana   => 'じ',
+    english    => 'character',
+);
