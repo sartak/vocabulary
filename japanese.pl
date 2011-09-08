@@ -6971,3 +6971,101 @@ word(
     furigana   => 'じ',
     english    => 'character',
 );
+
+word(
+    date       => '2011-09-08',
+    word       => '引っ張る',
+    furigana   => 'ひっぱる',
+    english    => 'pull',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '母親',
+    furigana   => 'ははおや',
+    english    => 'mother',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '躍る',
+    furigana   => 'おどる',
+    english    => 'leap',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '自己紹介',
+    furigana   => 'じこしょうかい',
+    english    => 'self-introduction',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '額',
+    furigana   => 'ひたい',
+    english    => 'forehead',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '緑色',
+    furigana   => 'りょくしょく',
+    english    => 'green',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '家族',
+    furigana   => 'かぞく',
+    english    => 'family',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '車内',
+    furigana   => 'しゃない',
+    english    => 'inside a train',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '販売',
+    furigana   => 'はんばい',
+    english    => 'sales',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '車内販売',
+    furigana   => 'しゃないはんばい',
+    english    => 'sales aboard a train',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '校',
+    furigana   => 'こう',
+    english    => 'school',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '値段',
+    furigana   => 'ねだん',
+    english    => 'price',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '陸',
+    furigana   => 'りく',
+    english    => 'land',
+);
+
+word(
+    date       => '2011-09-08',
+    word       => '〜巻',
+    furigana   => '〜かん',
+    english    => 'counter for volumes',
+);
