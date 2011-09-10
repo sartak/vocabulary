@@ -7069,3 +7069,24 @@ word(
     furigana   => '〜かん',
     english    => 'counter for volumes',
 );
+
+word(
+    date       => '2011-09-10',
+    word       => '効く',
+    furigana   => 'きく',
+    english    => 'be effective',
+);
+
+word(
+    date       => '2011-09-10',
+    word       => '白状',
+    furigana   => 'はくじょう',
+    english    => 'confession',
+);
+
+word(
+    date       => '2011-09-10',
+    word       => '捕まる',
+    furigana   => 'つかまる',
+    english    => 'be caught',
+);
