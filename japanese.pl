@@ -7090,3 +7090,38 @@ word(
     furigana   => 'つかまる',
     english    => 'be caught',
 );
+
+word(
+    date       => '2011-09-11',
+    word       => '計画',
+    furigana   => 'けいかく',
+    english    => 'plan',
+);
+
+word(
+    date       => '2011-09-11',
+    word       => '凍える',
+    furigana   => 'こごえる',
+    english    => 'freeze',
+);
+
+word(
+    date       => '2011-09-11',
+    word       => '制限',
+    furigana   => 'せいげん',
+    english    => 'restriction',
+);
+
+word(
+    date       => '2011-09-11',
+    word       => '無制限',
+    furigana   => 'むせいげん',
+    english    => 'unrestricted',
+);
+
+word(
+    date       => '2011-09-11',
+    word       => '電力',
+    furigana   => 'でんりょく',
+    english    => 'electricity',
+);
