@@ -7139,3 +7139,17 @@ word(
     furigana   => 'あくりょう',
     english    => 'demon',
 );
+
+word(
+    date       => '2011-09-12',
+    word       => '組分け',
+    furigana   => 'くみわけ',
+    english    => 'sorting by ability',
+);
+
+word(
+    date       => '2011-09-12',
+    word       => '現れる',
+    furigana   => 'あらわれる',
+    english    => 'appear',
+);
