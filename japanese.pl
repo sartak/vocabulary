@@ -7125,3 +7125,17 @@ word(
     furigana   => 'でんりょく',
     english    => 'electricity',
 );
+
+word(
+    date       => '2011-09-11',
+    word       => '出会う',
+    furigana   => 'であう',
+    english    => 'meet with',
+);
+
+word(
+    date       => '2011-09-11',
+    word       => '悪霊',
+    furigana   => 'あくりょう',
+    english    => 'demon',
+);
