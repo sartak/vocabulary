@@ -7153,3 +7153,24 @@ word(
     furigana   => 'あらわれる',
     english    => 'appear',
 );
+
+word(
+    date       => '2011-09-13',
+    word       => '弱々しい',
+    furigana   => 'よわよわしい',
+    english    => 'feeble',
+);
+
+word(
+    date       => '2011-09-13',
+    word       => '被る',
+    furigana   => 'かぶる',
+    english    => 'put on',
+);
+
+word(
+    date       => '2011-09-13',
+    word       => '満ちる',
+    furigana   => 'みちる',
+    english    => 'be filled',
+);
