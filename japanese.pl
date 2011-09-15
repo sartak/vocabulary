@@ -7174,3 +7174,17 @@ word(
     furigana   => 'みちる',
     english    => 'be filled',
 );
+
+word(
+    date       => '2011-09-15',
+    word       => '手動',
+    furigana   => 'しゅどう',
+    english    => 'manual',
+);
+
+word(
+    date       => '2011-09-15',
+    word       => '火花',
+    furigana   => 'ひばな',
+    english    => 'spark',
+);
