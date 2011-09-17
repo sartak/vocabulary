@@ -7188,3 +7188,51 @@ word(
     furigana   => 'ひばな',
     english    => 'spark',
 );
+
+word(
+    date       => '2011-09-17',
+    word       => 'ほら',
+    english    => 'look',
+);
+
+word(
+    date       => '2011-09-17',
+    word       => '反対',
+    furigana   => 'はんたい',
+    english    => 'opposite',
+);
+
+word(
+    date       => '2011-09-17',
+    word       => '休暇',
+    furigana   => 'きゅうか',
+    english    => 'vacation',
+);
+
+word(
+    date       => '2011-09-17',
+    word       => '道具',
+    furigana   => 'どうぐ',
+    english    => 'tool',
+);
+
+word(
+    date       => '2011-09-17',
+    word       => '高まる',
+    furigana   => 'たかまる',
+    english    => 'rise',
+);
+
+word(
+    date       => '2011-09-17',
+    word       => '人生',
+    furigana   => 'じんせい',
+    english    => 'human life',
+);
+
+word(
+    date       => '2011-09-17',
+    word       => '苦労',
+    furigana   => 'くろう',
+    english    => 'hardship',
+);
