@@ -7236,3 +7236,17 @@ word(
     furigana   => 'くろう',
     english    => 'hardship',
 );
+
+word(
+    date       => '2011-09-17',
+    word       => '日常',
+    furigana   => 'にちじょう',
+    english    => 'daily',
+);
+
+word(
+    date       => '2011-09-17',
+    word       => '古本',
+    furigana   => 'ふるほん',
+    english    => 'secondhand book',
+);
