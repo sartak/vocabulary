@@ -7250,3 +7250,80 @@ word(
     furigana   => 'ふるほん',
     english    => 'secondhand book',
 );
+
+word(
+    date       => '2011-09-18',
+    word       => '再び',
+    furigana   => 'ふたたび',
+    english    => 'second time',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '合言葉',
+    furigana   => 'あいことば',
+    english    => 'password',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '翌朝',
+    furigana   => 'よくあさ',
+    english    => 'next morning',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '魔法薬',
+    furigana   => 'まほうやく',
+    english    => 'magic potion',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '飼う',
+    furigana   => 'かう',
+    english    => 'raise',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '突然',
+    furigana   => 'とつぜん',
+    english    => 'sudden',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '姿',
+    furigana   => 'すがた',
+    english    => 'figure',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '運ぶ',
+    furigana   => 'はこぶ',
+    english    => 'carry',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '〜頃',
+    furigana   => '〜ごろ',
+    english    => 'around',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '突撃',
+    furigana   => 'とつげき',
+    english    => 'charge',
+);
+
+word(
+    date       => '2011-09-18',
+    word       => '建てる',
+    furigana   => 'たてる',
+    english    => 'build',
+);
