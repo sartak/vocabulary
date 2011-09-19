@@ -7327,3 +7327,17 @@ word(
     furigana   => 'たてる',
     english    => 'build',
 );
+
+word(
+    date       => '2011-09-19',
+    word       => '訓練',
+    furigana   => 'くんれん',
+    english    => 'training',
+);
+
+word(
+    date       => '2011-09-19',
+    word       => '失望',
+    furigana   => 'しつぼう',
+    english    => 'despair',
+);
