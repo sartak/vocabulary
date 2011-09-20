@@ -7341,3 +7341,58 @@ word(
     furigana   => 'しつぼう',
     english    => 'despair',
 );
+
+word(
+    date       => '2011-09-20',
+    word       => '上向き',
+    furigana   => 'うわむき',
+    english    => 'upward',
+);
+
+word(
+    date       => '2011-09-20',
+    word       => '突く',
+    furigana   => 'つく',
+    english    => 'stab',
+);
+
+word(
+    date       => '2011-09-20',
+    word       => 'ちょうど',
+    english    => 'precisely',
+);
+
+word(
+    date       => '2011-09-20',
+    word       => '折る',
+    furigana   => 'おる',
+    english    => 'fold',
+);
+
+word(
+    date       => '2011-09-20',
+    word       => '喜ぶ',
+    furigana   => 'よろこぶ',
+    english    => 'be glad',
+);
+
+word(
+    date       => '2011-09-20',
+    word       => '抜群',
+    furigana   => 'ばつぐん',
+    english    => 'outstanding',
+);
+
+word(
+    date       => '2011-09-20',
+    word       => '抜ける',
+    furigana   => 'ぬける',
+    english    => 'omit',
+);
+
+word(
+    date       => '2011-09-20',
+    word       => '効果抜群',
+    furigana   => 'こうかばつぐん',
+    english    => 'exceptionally effective',
+);
