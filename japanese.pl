@@ -7396,3 +7396,10 @@ word(
     furigana   => 'こうかばつぐん',
     english    => 'exceptionally effective',
 );
+
+word(
+    date       => '2011-09-21',
+    word       => '珍しい',
+    furigana   => 'めずらしい',
+    english    => 'rare',
+);
