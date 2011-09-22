@@ -7424,3 +7424,17 @@ word(
     furigana   => 'にっかん',
     english    => 'daily publication',
 );
+
+word(
+    date       => '2011-09-22',
+    word       => '汗',
+    furigana   => 'あせ',
+    english    => 'sweat',
+);
+
+word(
+    date       => '2011-09-22',
+    word       => '汗をかく',
+    furigana   => 'あせをかく',
+    english    => 'sweat',
+);
