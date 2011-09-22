@@ -7403,3 +7403,24 @@ word(
     furigana   => 'めずらしい',
     english    => 'rare',
 );
+
+word(
+    date       => '2011-09-21',
+    word       => '預言',
+    furigana   => 'よげん',
+    english    => 'prophecy',
+);
+
+word(
+    date       => '2011-09-21',
+    word       => '預言者',
+    furigana   => 'よげんしゃ',
+    english    => 'prophet',
+);
+
+word(
+    date       => '2011-09-21',
+    word       => '日刊',
+    furigana   => 'にっかん',
+    english    => 'daily publication',
+);
