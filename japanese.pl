@@ -7452,3 +7452,15 @@ word(
     furigana   => 'ごぞんじ',
     english    => 'knowing (honorific)',
 );
+
+word(
+    date       => '2011-09-23',
+    word       => 'デブ',
+    english    => 'fatty',
+);
+
+word(
+    date       => '2011-09-23',
+    word       => 'シケ',
+    english    => 'poor',
+);
