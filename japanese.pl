@@ -7438,3 +7438,17 @@ word(
     furigana   => 'あせをかく',
     english    => 'sweat',
 );
+
+word(
+    date       => '2011-09-22',
+    word       => '開店',
+    furigana   => 'かいてん',
+    english    => 'store opening',
+);
+
+word(
+    date       => '2011-09-22',
+    word       => '御存知',
+    furigana   => 'ごぞんじ',
+    english    => 'knowing (honorific)',
+);
