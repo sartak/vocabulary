@@ -7464,3 +7464,24 @@ word(
     word       => 'シケ',
     english    => 'poor',
 );
+
+word(
+    date       => '2011-09-24',
+    word       => '碁',
+    furigana   => 'ご',
+    english    => 'Go',
+);
+
+word(
+    date       => '2011-09-24',
+    word       => '囲碁',
+    furigana   => 'いご',
+    english    => 'Go',
+);
+
+word(
+    date       => '2011-09-24',
+    word       => '打つ',
+    furigana   => 'うつ',
+    english    => 'hit',
+);
