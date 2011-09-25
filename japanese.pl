@@ -7506,3 +7506,10 @@ word(
     furigana   => 'しめきり',
     english    => 'deadline',
 );
+
+word(
+    date       => '2011-09-24',
+    word       => '砂糖',
+    furigana   => 'さとう',
+    english    => 'sugar',
+);
