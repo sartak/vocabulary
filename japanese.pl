@@ -7485,3 +7485,24 @@ word(
     furigana   => 'うつ',
     english    => 'hit',
 );
+
+word(
+    date       => '2011-09-24',
+    word       => '汁物',
+    furigana   => 'しるもの',
+    english    => 'soup',
+);
+
+word(
+    date       => '2011-09-24',
+    word       => '汁',
+    furigana   => 'しる',
+    english    => 'juice',
+);
+
+word(
+    date       => '2011-09-24',
+    word       => '締め切り',
+    furigana   => 'しめきり',
+    english    => 'deadline',
+);
