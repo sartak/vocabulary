@@ -7526,3 +7526,17 @@ word(
     furigana   => 'おろか',
     english    => 'foolish',
 );
+
+word(
+    date       => '2011-09-26',
+    word       => '急行',
+    furigana   => 'きゅうこう',
+    english    => 'rush',
+);
+
+word(
+    date       => '2011-09-26',
+    word       => '特急',
+    furigana   => 'とっきゅう',
+    english    => 'limited express',
+);
