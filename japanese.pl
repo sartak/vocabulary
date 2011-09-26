@@ -7513,3 +7513,16 @@ word(
     furigana   => 'さとう',
     english    => 'sugar',
 );
+
+word(
+    date       => '2011-09-25',
+    word       => 'モテる',
+    english    => 'be popular',
+);
+
+word(
+    date       => '2011-09-25',
+    word       => '愚か',
+    furigana   => 'おろか',
+    english    => 'foolish',
+);
