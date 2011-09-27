@@ -7540,3 +7540,17 @@ word(
     furigana   => 'とっきゅう',
     english    => 'limited express',
 );
+
+word(
+    date       => '2011-09-27',
+    word       => '内側',
+    furigana   => 'うちがわ',
+    english    => 'inwards',
+);
+
+word(
+    date       => '2011-09-27',
+    word       => '工事',
+    furigana   => 'こうじ',
+    english    => 'construction',
+);
