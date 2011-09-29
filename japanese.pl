@@ -7554,3 +7554,17 @@ word(
     furigana   => 'こうじ',
     english    => 'construction',
 );
+
+word(
+    date       => '2011-09-29',
+    word       => '与える',
+    furigana   => 'あたえる',
+    english    => 'give',
+);
+
+word(
+    date       => '2011-09-29',
+    word       => '振る',
+    furigana   => 'ふる',
+    english    => 'wave',
+);
