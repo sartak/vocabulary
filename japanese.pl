@@ -7568,3 +7568,17 @@ word(
     furigana   => 'ふる',
     english    => 'wave',
 );
+
+word(
+    date       => '2011-09-29',
+    word       => '來る',
+    furigana   => 'くる',
+    english    => 'come',
+);
+
+word(
+    date       => '2011-09-29',
+    word       => '淒い',
+    furigana   => 'すごい',
+    english    => 'great',
+);
