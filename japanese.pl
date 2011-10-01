@@ -7582,3 +7582,10 @@ word(
     furigana   => 'すごい',
     english    => 'great',
 );
+
+word(
+    date       => '2011-10-01',
+    word       => '囚人',
+    furigana   => 'しゅうじん',
+    english    => 'prisoner',
+);
