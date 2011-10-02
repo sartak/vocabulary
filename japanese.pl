@@ -7589,3 +7589,17 @@ word(
     furigana   => 'しゅうじん',
     english    => 'prisoner',
 );
+
+word(
+    date       => '2011-10-01',
+    word       => '足音',
+    furigana   => 'あしとお',
+    english    => 'sound of footsteps',
+);
+
+word(
+    date       => '2011-10-01',
+    word       => '大声',
+    furigana   => 'おおごえ',
+    english    => 'loud voice',
+);
