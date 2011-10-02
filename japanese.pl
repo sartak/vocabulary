@@ -7603,3 +7603,38 @@ word(
     furigana   => 'おおごえ',
     english    => 'loud voice',
 );
+
+word(
+    date       => '2011-10-02',
+    word       => '渡る',
+    furigana   => 'わたる',
+    english    => 'cross',
+);
+
+word(
+    date       => '2011-10-02',
+    word       => '間',
+    furigana   => 'あいだ',
+    english    => 'between',
+);
+
+word(
+    date       => '2011-10-02',
+    word       => '直接',
+    furigana   => 'ちょくせつ',
+    english    => 'direct',
+);
+
+word(
+    date       => '2011-10-02',
+    word       => '棚',
+    furigana   => 'たな',
+    english    => 'shelf',
+);
+
+word(
+    date       => '2011-10-02',
+    word       => '本棚',
+    furigana   => 'ほんだな',
+    english    => 'bookshelf',
+);
