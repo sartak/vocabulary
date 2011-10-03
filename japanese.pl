@@ -7638,3 +7638,24 @@ word(
     furigana   => 'ほんだな',
     english    => 'bookshelf',
 );
+
+word(
+    date       => '2011-10-03',
+    word       => '〜系',
+    furigana   => '〜けい',
+    english    => 'system',
+);
+
+word(
+    date       => '2011-10-03',
+    word       => '太陽系',
+    furigana   => 'たいようけい',
+    english    => 'Solar System',
+);
+
+word(
+    date       => '2011-10-03',
+    word       => '隕石',
+    furigana   => 'いんせき',
+    english    => 'meteorite',
+);
