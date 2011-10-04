@@ -7659,3 +7659,24 @@ word(
     furigana   => 'いんせき',
     english    => 'meteorite',
 );
+
+word(
+    date       => '2011-10-04',
+    word       => '繰り返す',
+    furigana   => 'くりかえす',
+    english    => 'repeat',
+);
+
+word(
+    date       => '2011-10-04',
+    word       => '真っ赤',
+    furigana   => 'まっか',
+    english    => 'deep red',
+);
+
+word(
+    date       => '2011-10-04',
+    word       => '集中',
+    furigana   => 'しゅうちゅう',
+    english    => 'concentrate',
+);
