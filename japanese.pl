@@ -7680,3 +7680,24 @@ word(
     furigana   => 'しゅうちゅう',
     english    => 'concentrate',
 );
+
+word(
+    date       => '2011-10-06',
+    word       => '普通',
+    furigana   => 'ふつう',
+    english    => 'ordinary',
+);
+
+word(
+    date       => '2011-10-06',
+    word       => '太平洋',
+    furigana   => 'たいへいよう',
+    english    => 'Pacific Ocean',
+);
+
+word(
+    date       => '2011-10-06',
+    word       => '時刻',
+    furigana   => 'じこく',
+    english    => 'the time',
+);
