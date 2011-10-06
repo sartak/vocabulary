@@ -7701,3 +7701,45 @@ word(
     furigana   => 'じこく',
     english    => 'the time',
 );
+
+word(
+    date       => '2011-10-07',
+    word       => '順路',
+    furigana   => 'じゅんろ',
+    english    => 'route',
+);
+
+word(
+    date       => '2011-10-07',
+    word       => '離れる',
+    furigana   => 'はなれる',
+    english    => 'leave',
+);
+
+word(
+    date       => '2011-10-07',
+    word       => '除く',
+    furigana   => 'のぞく',
+    english    => 'exclude',
+);
+
+word(
+    date       => '2011-10-07',
+    word       => '落書',
+    furigana   => 'らくがき',
+    english    => 'graffiti',
+);
+
+word(
+    date       => '2011-10-07',
+    word       => '御所',
+    furigana   => 'ごしょ',
+    english    => 'Imperial Palace',
+);
+
+word(
+    date       => '2011-10-07',
+    word       => '御苑',
+    furigana   => 'ぎょえん',
+    english    => 'Imperial Garden',
+);
