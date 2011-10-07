@@ -7743,3 +7743,31 @@ word(
     furigana   => 'ぎょえん',
     english    => 'Imperial Garden',
 );
+
+word(
+    date       => '2011-10-08',
+    word       => '通過',
+    furigana   => 'つうか',
+    english    => 'passage',
+);
+
+word(
+    date       => '2011-10-08',
+    word       => '路線',
+    furigana   => 'ろせん',
+    english    => 'route',
+);
+
+word(
+    date       => '2011-10-08',
+    word       => '路線図',
+    furigana   => 'ろせんず',
+    english    => 'train map',
+);
+
+word(
+    date       => '2011-10-08',
+    word       => '快速',
+    furigana   => 'かいそく',
+    english    => 'high speed',
+);
