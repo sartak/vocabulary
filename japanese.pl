@@ -7876,3 +7876,10 @@ word(
     furigana   => 'かいへい',
     english    => 'open/close',
 );
+
+word(
+    date       => '2011-10-10',
+    word       => '当',
+    furigana   => 'とう',
+    english    => 'this',
+);
