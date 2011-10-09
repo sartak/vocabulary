@@ -7855,3 +7855,24 @@ word(
     furigana   => 'てあらい',
     english    => 'bathroom',
 );
+
+word(
+    date       => '2011-10-10',
+    word       => '鈴',
+    furigana   => 'すず',
+    english    => 'small bell',
+);
+
+word(
+    date       => '2011-10-10',
+    word       => '端',
+    furigana   => 'はし',
+    english    => 'edge',
+);
+
+word(
+    date       => '2011-10-10',
+    word       => '開閉',
+    furigana   => 'かいへい',
+    english    => 'open/close',
+);
