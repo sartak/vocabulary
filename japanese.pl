@@ -7848,3 +7848,10 @@ word(
     furigana   => 'はっしゃ',
     english    => 'departure',
 );
+
+word(
+    date       => '2011-10-09',
+    word       => '手洗い',
+    furigana   => 'てあらい',
+    english    => 'bathroom',
+);
