@@ -7771,3 +7771,80 @@ word(
     furigana   => 'かいそく',
     english    => 'high speed',
 );
+
+word(
+    date       => '2011-10-09',
+    word       => '〜製',
+    furigana   => '〜せい',
+    english    => 'made ...',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '手製',
+    furigana   => 'てせい',
+    english    => 'handmade',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '自販機',
+    furigana   => 'じはんき',
+    english    => 'vending machine',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '求める',
+    furigana   => 'もとめる',
+    english    => 'seek',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '大和',
+    furigana   => 'やまと',
+    english    => 'Yamato',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '進入',
+    furigana   => 'しんにゅう',
+    english    => 'approach',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '月桂冠',
+    furigana   => 'げっけいかん',
+    english    => 'Gekkeikan',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '人身',
+    furigana   => 'じんしん',
+    english    => 'personal',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '人身攻撃',
+    furigana   => 'じんしんこうげき',
+    english    => 'personal attack',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '事故',
+    furigana   => 'じこ',
+    english    => 'accident',
+);
+
+word(
+    date       => '2011-10-09',
+    word       => '発車',
+    furigana   => 'はっしゃ',
+    english    => 'departure',
+);
