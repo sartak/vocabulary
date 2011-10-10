@@ -7883,3 +7883,10 @@ word(
     furigana   => 'とう',
     english    => 'this',
 );
+
+word(
+    date       => '2011-10-10',
+    word       => '営業',
+    furigana   => 'えいぎょう',
+    english    => 'business',
+);
