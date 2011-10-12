@@ -7890,3 +7890,23 @@ word(
     furigana   => 'えいぎょう',
     english    => 'business',
 );
+
+word(
+    date       => '2011-10-12',
+    word       => 'ずいぶん',
+    english    => 'very',
+);
+
+word(
+    date       => '2011-10-12',
+    word       => '乗車',
+    furigana   => 'じょうしゃ',
+    english    => 'board a car',
+);
+
+word(
+    date       => '2011-10-12',
+    word       => '客席',
+    furigana   => 'きゃくせき',
+    english    => 'seat (for a guest)',
+);
