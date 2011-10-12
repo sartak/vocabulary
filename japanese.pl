@@ -7910,3 +7910,10 @@ word(
     furigana   => 'きゃくせき',
     english    => 'seat (for a guest)',
 );
+
+word(
+    date       => '2011-10-12',
+    word       => '方面',
+    furigana   => 'ほうめん',
+    english    => 'area',
+);
