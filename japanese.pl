@@ -5507,7 +5507,7 @@ word(
 word(
     date       => '2011-07-29',
     word       => '自然',
-    furigana   => 'じぜん',
+    furigana   => 'しぜん',
     english    => 'nature',
 );
 
