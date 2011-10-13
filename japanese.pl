@@ -7945,3 +7945,17 @@ word(
     furigana   => 'きんえん',
     english    => 'no smoking',
 );
+
+word(
+    date       => '2011-10-13',
+    word       => '役目',
+    furigana   => 'やくめ',
+    english    => 'duty',
+);
+
+word(
+    date       => '2011-10-13',
+    word       => '最長',
+    furigana   => 'さいちょう',
+    english    => 'longest',
+);
