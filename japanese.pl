@@ -7917,3 +7917,17 @@ word(
     furigana   => 'ほうめん',
     english    => 'area',
 );
+
+word(
+    date       => '2011-10-13',
+    word       => '以上',
+    furigana   => 'いじょう',
+    english    => 'above',
+);
+
+word(
+    date       => '2011-10-13',
+    word       => '合格',
+    furigana   => 'ごうかく',
+    english    => 'pass',
+);
