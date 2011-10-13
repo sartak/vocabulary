@@ -7938,3 +7938,10 @@ word(
     furigana   => 'なくなる',
     english    => 'pass away',
 );
+
+word(
+    date       => '2011-10-13',
+    word       => '禁煙',
+    furigana   => 'きんえん',
+    english    => 'no smoking',
+);
