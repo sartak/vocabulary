@@ -7931,3 +7931,10 @@ word(
     furigana   => 'ごうかく',
     english    => 'pass',
 );
+
+word(
+    date       => '2011-10-13',
+    word       => '亡くなる',
+    furigana   => 'なくなる',
+    english    => 'pass away',
+);
