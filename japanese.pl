@@ -7959,3 +7959,10 @@ word(
     furigana   => 'さいちょう',
     english    => 'longest',
 );
+
+word(
+    date       => '2011-10-16',
+    word       => '定食',
+    furigana   => 'ていしょく',
+    english    => 'food set',
+);
