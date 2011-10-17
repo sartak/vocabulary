@@ -7966,3 +7966,17 @@ word(
     furigana   => 'ていしょく',
     english    => 'food set',
 );
+
+word(
+    date       => '2011-10-17',
+    word       => '時刻表',
+    furigana   => 'じこくひょう',
+    english    => 'time table',
+);
+
+word(
+    date       => '2011-10-17',
+    word       => '登場',
+    furigana   => 'とうじょう',
+    english    => 'an entrance',
+);
