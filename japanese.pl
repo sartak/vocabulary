@@ -7980,3 +7980,24 @@ word(
     furigana   => 'とうじょう',
     english    => 'an entrance',
 );
+
+word(
+    date       => '2011-10-18',
+    word       => '車両',
+    furigana   => 'しゃりょう',
+    english    => 'vehicles',
+);
+
+word(
+    date       => '2011-10-18',
+    word       => '航空',
+    furigana   => 'こうくう',
+    english    => 'aviation',
+);
+
+word(
+    date       => '2011-10-18',
+    word       => '流れる',
+    furigana   => 'ながれる',
+    english    => 'flow',
+);
