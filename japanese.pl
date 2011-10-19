@@ -8001,3 +8001,17 @@ word(
     furigana   => 'ながれる',
     english    => 'flow',
 );
+
+word(
+    date       => '2011-10-18',
+    word       => '生徒',
+    furigana   => 'せいと',
+    english    => 'student',
+);
+
+word(
+    date       => '2011-10-18',
+    word       => '闇',
+    furigana   => 'やみ',
+    english    => 'darkness',
+);
