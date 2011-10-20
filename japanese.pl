@@ -8036,3 +8036,23 @@ word(
     furigana   => 'つうち',
     english    => 'notification',
 );
+
+word(
+    date       => '2011-10-20',
+    word       => 'まとめる',
+    english    => 'gather',
+);
+
+word(
+    date       => '2011-10-20',
+    word       => '上部',
+    furigana   => 'じょうぶ',
+    english    => 'upper part',
+);
+
+word(
+    date       => '2011-10-20',
+    word       => '一時',
+    furigana   => 'いちじ',
+    english    => 'temporary',
+);
