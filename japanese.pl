@@ -8015,3 +8015,24 @@ word(
     furigana   => 'やみ',
     english    => 'darkness',
 );
+
+word(
+    date       => '2011-10-19',
+    word       => '載せる',
+    furigana   => 'のせる',
+    english    => 'publish',
+);
+
+word(
+    date       => '2011-10-19',
+    word       => '了解',
+    furigana   => 'りょうかい',
+    english    => 'understanding',
+);
+
+word(
+    date       => '2011-10-20',
+    word       => '通知',
+    furigana   => 'つうち',
+    english    => 'notification',
+);
