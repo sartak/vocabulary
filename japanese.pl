@@ -8056,3 +8056,10 @@ word(
     furigana   => 'いちじ',
     english    => 'temporary',
 );
+
+word(
+    date       => '2011-10-20',
+    word       => '谷川',
+    furigana   => 'たにがわ',
+    english    => 'mountain stream',
+);
