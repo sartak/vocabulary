@@ -8063,3 +8063,30 @@ word(
     furigana   => 'たにがわ',
     english    => 'mountain stream',
 );
+
+word(
+    date       => '2011-10-23',
+    word       => '中央',
+    furigana   => 'ちゅうおう',
+    english    => 'center',
+);
+
+word(
+    date       => '2011-10-23',
+    word       => 'しがみつく',
+    english    => 'cling',
+);
+
+word(
+    date       => '2011-10-23',
+    word       => '判断',
+    furigana   => 'はんだん',
+    english    => 'judgment',
+);
+
+word(
+    date       => '2011-10-23',
+    word       => '再〜',
+    furigana   => 'さい〜',
+    english    => 're-',
+);
