@@ -8124,3 +8124,17 @@ word(
     word       => 'こぼれる',
     english    => 'spill',
 );
+
+word(
+    date       => '2011-10-24',
+    word       => '経験',
+    furigana   => 'けいけん',
+    english    => 'experience',
+);
+
+word(
+    date       => '2011-10-24',
+    word       => '経験値',
+    furigana   => 'けいけんち',
+    english    => 'experience points',
+);
