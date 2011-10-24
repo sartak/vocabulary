@@ -8090,3 +8090,37 @@ word(
     furigana   => 'さい〜',
     english    => 're-',
 );
+
+word(
+    date       => '2011-10-24',
+    word       => '影響',
+    furigana   => 'えいきょう',
+    english    => 'influence',
+);
+
+word(
+    date       => '2011-10-24',
+    word       => '難所',
+    furigana   => 'なんしょ',
+    english    => 'tricky spot',
+);
+
+word(
+    date       => '2011-10-24',
+    word       => '全員',
+    furigana   => 'ぜんいん',
+    english    => 'all the members',
+);
+
+word(
+    date       => '2011-10-24',
+    word       => '全員無事',
+    furigana   => 'ぜんいんぶじ',
+    english    => 'everyone is alright',
+);
+
+word(
+    date       => '2011-10-24',
+    word       => 'こぼれる',
+    english    => 'spill',
+);
