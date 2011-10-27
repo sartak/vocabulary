@@ -8138,3 +8138,24 @@ word(
     furigana   => 'けいけんち',
     english    => 'experience points',
 );
+
+word(
+    date       => '2011-10-27',
+    word       => '同期',
+    furigana   => 'どうき',
+    english    => 'sync',
+);
+
+word(
+    date       => '2011-10-27',
+    word       => '研究',
+    furigana   => 'けんきゅう',
+    english    => 'research',
+);
+
+word(
+    date       => '2011-10-27',
+    word       => '広告',
+    furigana   => 'こうこく',
+    english    => 'advertisement',
+);
