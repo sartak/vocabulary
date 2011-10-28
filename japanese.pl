@@ -8159,3 +8159,17 @@ word(
     furigana   => 'こうこく',
     english    => 'advertisement',
 );
+
+word(
+    date       => '2011-10-28',
+    word       => '押し寄せる',
+    furigana   => 'おしよせる',
+    english    => 'surge',
+);
+
+word(
+    date       => '2011-10-28',
+    word       => '幼い',
+    furigana   => 'おさない',
+    english    => 'young',
+);
