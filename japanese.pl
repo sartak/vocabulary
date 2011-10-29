@@ -8173,3 +8173,30 @@ word(
     furigana   => 'おさない',
     english    => 'young',
 );
+
+word(
+    date       => '2011-10-29',
+    word       => '居場所',
+    furigana   => 'いばしょ',
+    english    => 'whereabouts',
+);
+
+word(
+    date       => '2011-10-29',
+    word       => 'おまけ',
+    english    => 'bonus',
+);
+
+word(
+    date       => '2011-10-29',
+    word       => '溢れる',
+    furigana   => 'あふれる',
+    english    => 'overflow',
+);
+
+word(
+    date       => '2011-10-29',
+    word       => '想い',
+    furigana   => 'おもい',
+    english    => 'mind',
+);
