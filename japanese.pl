@@ -8200,3 +8200,10 @@ word(
     furigana   => 'おもい',
     english    => 'mind',
 );
+
+word(
+    date       => '2011-10-29',
+    word       => '癒える',
+    furigana   => 'いえる',
+    english    => 'to be healed',
+);
