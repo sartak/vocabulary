@@ -8207,3 +8207,31 @@ word(
     furigana   => 'いえる',
     english    => 'to be healed',
 );
+
+word(
+    date       => '2011-10-30',
+    word       => '慰める',
+    furigana   => 'なぐさめる',
+    english    => 'comfort',
+);
+
+word(
+    date       => '2011-10-30',
+    word       => '事前',
+    furigana   => 'じぜん',
+    english    => 'beforehand',
+);
+
+word(
+    date       => '2011-10-30',
+    word       => '空気',
+    furigana   => 'くうき',
+    english    => 'air',
+);
+
+word(
+    date       => '2011-10-30',
+    word       => '量',
+    furigana   => 'りょう',
+    english    => 'quantity',
+);
