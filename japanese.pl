@@ -8235,3 +8235,10 @@ word(
     furigana   => 'りょう',
     english    => 'quantity',
 );
+
+word(
+    date       => '2011-10-31',
+    word       => '一般',
+    furigana   => 'いっぱん',
+    english    => 'general',
+);
