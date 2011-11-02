@@ -8242,3 +8242,17 @@ word(
     furigana   => 'いっぱん',
     english    => 'general',
 );
+
+word(
+    date       => '2011-11-02',
+    word       => '組む',
+    furigana   => 'くむ',
+    english    => 'unite',
+);
+
+word(
+    date       => '2011-11-02',
+    word       => '組み込む',
+    furigana   => 'くみこむ',
+    english    => 'include',
+);
