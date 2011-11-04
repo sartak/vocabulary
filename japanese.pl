@@ -8256,3 +8256,10 @@ word(
     furigana   => 'くみこむ',
     english    => 'include',
 );
+
+word(
+    date       => '2011-11-04',
+    word       => '虎',
+    furigana   => 'とら',
+    english    => 'tiger',
+);
