@@ -8263,3 +8263,16 @@ word(
     furigana   => 'とら',
     english    => 'tiger',
 );
+
+word(
+    date       => '2011-11-05',
+    word       => 'いらっしゃる',
+    english    => 'come/go/be (honorific)',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => '登録',
+    furigana   => 'とうろく',
+    english    => 'registration',
+);
