@@ -8345,3 +8345,10 @@ word(
     furigana   => 'じょうがい',
     english    => 'ring out',
 );
+
+word(
+    date       => '2011-11-05',
+    word       => '狭い',
+    furigana   => 'せまい',
+    english    => 'narrow',
+);
