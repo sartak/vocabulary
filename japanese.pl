@@ -8276,3 +8276,30 @@ word(
     furigana   => 'とうろく',
     english    => 'registration',
 );
+
+word(
+    date       => '2011-11-05',
+    word       => '動画',
+    furigana   => 'どうが',
+    english    => 'video',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => 'ぶんどる',
+    english    => 'snatch',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => '防御',
+    furigana   => 'ぼうぎょ',
+    english    => 'defense',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => '円増',
+    furigana   => 'えんそう',
+    english    => 'extra cost',
+);
