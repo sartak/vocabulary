@@ -8303,3 +8303,45 @@ word(
     furigana   => 'えんそう',
     english    => 'extra cost',
 );
+
+word(
+    date       => '2011-11-05',
+    word       => '故',
+    furigana   => 'ゆえ',
+    english    => 'reason',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => '贅沢',
+    furigana   => 'ぜいたく',
+    english    => 'extravagant',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => '貴重',
+    furigana   => 'きちょう',
+    english    => 'valuable',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => '納得',
+    furigana   => 'なっとく',
+    english    => 'consent',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => '鶴',
+    furigana   => 'つる',
+    english    => 'crane',
+);
+
+word(
+    date       => '2011-11-05',
+    word       => '場外',
+    furigana   => 'じょうがい',
+    english    => 'ring out',
+);
