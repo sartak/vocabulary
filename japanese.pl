@@ -8352,3 +8352,17 @@ word(
     furigana   => 'せまい',
     english    => 'narrow',
 );
+
+word(
+    date       => '2011-11-07',
+    word       => '下敷き',
+    furigana   => 'したじき',
+    english    => 'based on',
+);
+
+word(
+    date       => '2011-11-07',
+    word       => '基本',
+    furigana   => 'きほん',
+    english    => 'fundamental',
+);
