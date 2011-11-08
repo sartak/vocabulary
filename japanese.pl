@@ -8366,3 +8366,10 @@ word(
     furigana   => 'きほん',
     english    => 'fundamental',
 );
+
+word(
+    date       => '2011-11-08',
+    word       => '駆動',
+    furigana   => 'くどう',
+    english    => 'operate',
+);
