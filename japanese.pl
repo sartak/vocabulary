@@ -8454,7 +8454,7 @@ word(
 word(
     date       => '2011-11-08',
     word       => '十分',
-    furigana   => 'じゅっぷん',
+    furigana   => 'じゅっぶん',
     english    => 'ample',
 );
 
