@@ -8373,3 +8373,178 @@ word(
     furigana   => 'くどう',
     english    => 'operate',
 );
+
+word(
+    date       => '2011-11-08',
+    word       => '終了',
+    furigana   => 'しゅうりょう',
+    english    => 'complete',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '各',
+    furigana   => 'かく',
+    english    => 'each',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '図',
+    furigana   => 'ず',
+    english    => 'figure',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '担当',
+    furigana   => 'たんとう',
+    english    => 'manage',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '預ける',
+    furigana   => 'あずける',
+    english    => 'entrust',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '満たす',
+    furigana   => 'みたす',
+    english    => 'satisfy',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '経つ',
+    furigana   => 'たつ',
+    english    => 'elapse',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '従来',
+    furigana   => 'じゅうらい',
+    english    => 'routine',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '停止',
+    furigana   => 'ていし',
+    english    => 'stop',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '感知',
+    furigana   => 'かんち',
+    english    => 'sense',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '作業',
+    furigana   => 'さぎょう',
+    english    => 'operation',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '十分',
+    furigana   => 'じゅっぷん',
+    english    => 'ample',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '管理',
+    furigana   => 'かんり',
+    english    => 'management',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '発生',
+    furigana   => 'はっせい',
+    english    => 'occurrence',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '解放',
+    furigana   => 'かいほう',
+    english    => 'free',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '遷移',
+    furigana   => 'せんい',
+    english    => 'flow',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '生成',
+    furigana   => 'せいせい',
+    english    => 'generate',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '一種',
+    furigana   => 'いっしゅ',
+    english    => 'a variety',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '時点',
+    furigana   => 'じてん',
+    english    => 'point in time',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '書式',
+    furigana   => 'しょしき',
+    english    => 'format',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '先述',
+    furigana   => 'せんじゅつ',
+    english    => 'aforementioned',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '任意',
+    furigana   => 'にんい',
+    english    => 'arbitrary',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '定期',
+    furigana   => 'ていき',
+    english    => 'period',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '定期的',
+    furigana   => 'ていきてき',
+    english    => 'periodic',
+);
+
+word(
+    date       => '2011-11-08',
+    word       => '再度',
+    furigana   => 'さいど',
+    english    => 'again',
+);
