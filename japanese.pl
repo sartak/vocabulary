@@ -8548,3 +8548,10 @@ word(
     furigana   => 'さいど',
     english    => 'again',
 );
+
+word(
+    date       => '2011-11-09',
+    word       => '改善',
+    furigana   => 'かいぜん',
+    english    => 'improve',
+);
