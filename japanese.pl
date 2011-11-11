@@ -8562,3 +8562,10 @@ word(
     furigana   => 'おしい',
     english    => 'precious',
 );
+
+word(
+    date       => '2011-11-11',
+    word       => '目覚める',
+    furigana   => 'めざめる',
+    english    => 'wake',
+);
