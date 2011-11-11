@@ -8576,3 +8576,10 @@ word(
     furigana   => 'せだい',
     english    => 'generation',
 );
+
+word(
+    date       => '2011-11-11',
+    word       => '弟子',
+    furigana   => 'でし',
+    english    => 'pupil',
+);
