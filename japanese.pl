@@ -8583,3 +8583,17 @@ word(
     furigana   => 'でし',
     english    => 'pupil',
 );
+
+word(
+    date       => '2011-11-11',
+    word       => '監視',
+    furigana   => 'かんし',
+    english    => 'observe',
+);
+
+word(
+    date       => '2011-11-11',
+    word       => '複数',
+    furigana   => 'ふくすう',
+    english    => 'several',
+);
