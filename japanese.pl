@@ -8569,3 +8569,10 @@ word(
     furigana   => 'めざめる',
     english    => 'wake',
 );
+
+word(
+    date       => '2011-11-11',
+    word       => '世代',
+    furigana   => 'せだい',
+    english    => 'generation',
+);
