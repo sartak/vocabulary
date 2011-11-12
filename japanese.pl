@@ -8597,3 +8597,17 @@ word(
     furigana   => 'ふくすう',
     english    => 'several',
 );
+
+word(
+    date       => '2011-11-12',
+    word       => '船長',
+    furigana   => 'せんちょう',
+    english    => 'captain',
+);
+
+word(
+    date       => '2011-11-12',
+    word       => '現実',
+    furigana   => 'げんじつ',
+    english    => 'reality',
+);
