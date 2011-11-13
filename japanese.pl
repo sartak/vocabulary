@@ -8611,3 +8611,38 @@ word(
     furigana   => 'げんじつ',
     english    => 'reality',
 );
+
+word(
+    date       => '2011-11-12',
+    word       => '即死',
+    furigana   => 'そくし',
+    english    => 'instant death',
+);
+
+word(
+    date       => '2011-11-12',
+    word       => '亡き',
+    furigana   => 'なき',
+    english    => 'deceased',
+);
+
+word(
+    date       => '2011-11-12',
+    word       => '特殊',
+    furigana   => 'とくしゅ',
+    english    => 'special',
+);
+
+word(
+    date       => '2011-11-12',
+    word       => '作動',
+    furigana   => 'さどう',
+    english    => 'start',
+);
+
+word(
+    date       => '2011-11-12',
+    word       => '妻',
+    furigana   => 'つま',
+    english    => 'wife',
+);
