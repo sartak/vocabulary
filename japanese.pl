@@ -8646,3 +8646,10 @@ word(
     furigana   => 'つま',
     english    => 'wife',
 );
+
+word(
+    date       => '2011-11-13',
+    word       => '仕組み',
+    furigana   => 'しくみ',
+    english    => 'structure',
+);
