@@ -8653,3 +8653,17 @@ word(
     furigana   => 'しくみ',
     english    => 'structure',
 );
+
+word(
+    date       => '2011-11-13',
+    word       => '速度',
+    furigana   => 'そくど',
+    english    => 'speed',
+);
+
+word(
+    date       => '2011-11-13',
+    word       => '気合',
+    furigana   => 'きあい',
+    english    => 'spirit',
+);
