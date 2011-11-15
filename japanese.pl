@@ -8667,3 +8667,45 @@ word(
     furigana   => 'きあい',
     english    => 'spirit',
 );
+
+word(
+    date       => '2011-11-14',
+    word       => '再生',
+    furigana   => 'さいせい',
+    english    => 'playback',
+);
+
+word(
+    date       => '2011-11-14',
+    word       => '概念',
+    furigana   => 'がいねん',
+    english    => 'notion',
+);
+
+word(
+    date       => '2011-11-14',
+    word       => '平たい',
+    furigana   => 'ひらたい',
+    english    => 'plain',
+);
+
+word(
+    date       => '2011-11-14',
+    word       => '略称',
+    furigana   => 'りゃくしょう',
+    english    => 'abbreviation',
+);
+
+word(
+    date       => '2011-11-14',
+    word       => '不変',
+    furigana   => 'ふへん',
+    english    => 'immutable',
+);
+
+word(
+    date       => '2011-11-14',
+    word       => '中核',
+    furigana   => 'ちゅうかく',
+    english    => 'core',
+);
