@@ -8709,3 +8709,38 @@ word(
     furigana   => 'ちゅうかく',
     english    => 'core',
 );
+
+word(
+    date       => '2011-11-15',
+    word       => '構文',
+    furigana   => 'こうぶん',
+    english    => 'grammar',
+);
+
+word(
+    date       => '2011-11-15',
+    word       => '環境',
+    furigana   => 'かんきょう',
+    english    => 'environment',
+);
+
+word(
+    date       => '2011-11-15',
+    word       => '環境変数',
+    furigana   => 'かんきょうへんすう',
+    english    => 'environment variable',
+);
+
+word(
+    date       => '2011-11-15',
+    word       => '永続',
+    furigana   => 'えいぞく',
+    english    => 'persistence',
+);
+
+word(
+    date       => '2011-11-15',
+    word       => '埋め込む',
+    furigana   => 'うめこむ',
+    english    => 'embed',
+);
