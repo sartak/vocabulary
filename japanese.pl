@@ -8772,3 +8772,17 @@ word(
     furigana   => 'うすかわ',
     english    => 'thin skin',
 );
+
+word(
+    date       => '2011-11-16',
+    word       => '高速',
+    furigana   => 'こうそく',
+    english    => 'high speed',
+);
+
+word(
+    date       => '2011-11-16',
+    word       => '〜越し',
+    furigana   => '〜ごし',
+    english    => 'through',
+);
