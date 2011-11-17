@@ -8744,3 +8744,31 @@ word(
     furigana   => 'うめこむ',
     english    => 'embed',
 );
+
+word(
+    date       => '2011-11-16',
+    word       => '興味',
+    furigana   => 'きょうみ',
+    english    => 'interest',
+);
+
+word(
+    date       => '2011-11-16',
+    word       => '読み取る',
+    furigana   => 'よみとる',
+    english    => 'read',
+);
+
+word(
+    date       => '2011-11-16',
+    word       => '専用',
+    furigana   => 'せんよう',
+    english    => 'exclusive use',
+);
+
+word(
+    date       => '2011-11-16',
+    word       => '薄皮',
+    furigana   => 'うすかわ',
+    english    => 'thin skin',
+);
