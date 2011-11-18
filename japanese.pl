@@ -8786,3 +8786,10 @@ word(
     furigana   => '〜ごし',
     english    => 'through',
 );
+
+word(
+    date       => '2011-11-17',
+    word       => '生活',
+    furigana   => 'せいかつ',
+    english    => 'living',
+);
