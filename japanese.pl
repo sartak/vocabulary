@@ -8835,3 +8835,17 @@ word(
     furigana   => 'くずれる',
     english    => 'crumble',
 );
+
+word(
+    date       => '2011-11-18',
+    word       => '互い',
+    furigana   => 'たがい',
+    english    => "eachother's",
+);
+
+word(
+    date       => '2011-11-18',
+    word       => '引き継ぐ',
+    furigana   => 'ひきつぐ',
+    english    => 'succeed',
+);
