@@ -8793,3 +8793,45 @@ word(
     furigana   => 'せいかつ',
     english    => 'living',
 );
+
+word(
+    date       => '2011-11-18',
+    word       => '本編',
+    furigana   => 'ほんぺん',
+    english    => 'original story',
+);
+
+word(
+    date       => '2011-11-18',
+    word       => '更に',
+    furigana   => 'さらに',
+    english    => 'still more',
+);
+
+word(
+    date       => '2011-11-18',
+    word       => '確かめる',
+    furigana   => 'たしかめる',
+    english    => 'ensure',
+);
+
+word(
+    date       => '2011-11-18',
+    word       => '盲目',
+    furigana   => 'もうもく',
+    english    => 'blind',
+);
+
+word(
+    date       => '2011-11-18',
+    word       => '結局',
+    furigana   => 'けっきょく',
+    english    => 'in the end',
+);
+
+word(
+    date       => '2011-11-18',
+    word       => '崩れる',
+    furigana   => 'くずれる',
+    english    => 'crumble',
+);
