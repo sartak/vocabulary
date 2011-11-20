@@ -8849,3 +8849,189 @@ word(
     furigana   => 'ひきつぐ',
     english    => 'succeed',
 );
+
+word(
+    date       => '2011-11-19',
+    word       => '暗示的',
+    furigana   => 'あんじてき',
+    english    => 'implicitly',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '解説',
+    furigana   => 'かいせつ',
+    english    => 'explanation',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '標準',
+    furigana   => 'ひょうじゅん',
+    english    => 'standard',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '自ら',
+    furigana   => 'みずから',
+    english    => 'oneself',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '無視',
+    furigana   => 'むし',
+    english    => 'ignore',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '取得',
+    furigana   => 'しゅとく',
+    english    => 'acquisition',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '様々',
+    furigana   => 'さまざま',
+    english    => 'various',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '組み合う',
+    furigana   => 'くみあう',
+    english    => 'join',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '用途',
+    furigana   => 'ようと',
+    english    => 'use',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '待機',
+    furigana   => 'たいき',
+    english    => 'standby',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '代表的',
+    furigana   => 'だいひょうてき',
+    english    => 'typical',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '非同期',
+    furigana   => 'ひどうき',
+    english    => 'asynchronous',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '通信',
+    furigana   => 'つうしん',
+    english    => 'communication',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '簡易',
+    furigana   => 'かんい',
+    english    => 'simple',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '発行',
+    furigana   => 'はっこう',
+    english    => 'publish',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '送信',
+    furigana   => 'そうしん',
+    english    => 'transmission',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '前項',
+    furigana   => 'ぜんこう',
+    english    => 'preceding paragraph',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '対応',
+    furigana   => 'たいおう',
+    english    => 'interaction',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '当然',
+    furigana   => 'とうぜん',
+    english    => 'naturally',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => 'こなす',
+    english    => 'digest',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '活かす',
+    furigana   => 'いかす',
+    english    => 'leverage',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => 'なるたけ',
+    english    => 'as much as possible',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '並行',
+    furigana   => 'へいこう',
+    english    => 'parallel',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '用いる',
+    furigana   => 'もちいる',
+    english    => 'use',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => 'はっきり',
+    english    => 'clearly',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '記入',
+    furigana   => 'きにゅう',
+    english    => 'entry',
+);
+
+word(
+    date       => '2011-11-19',
+    word       => '1体',
+    furigana   => 'いったい',
+    english    => 'one body',
+);
