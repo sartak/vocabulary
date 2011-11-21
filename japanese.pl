@@ -9035,3 +9035,73 @@ word(
     furigana   => 'いったい',
     english    => 'one body',
 );
+
+word(
+    date       => '2011-11-21',
+    word       => '手法',
+    furigana   => 'しゅほう',
+    english    => 'technique',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '元々',
+    furigana   => 'もともと',
+    english    => 'originally',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '提唱',
+    furigana   => 'ていしょう',
+    english    => 'propose',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '記事',
+    furigana   => 'きじ',
+    english    => 'article',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '内部',
+    furigana   => 'ないぶ',
+    english    => 'interior',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '通常',
+    furigana   => 'つうじょう',
+    english    => 'normally',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '振る舞い',
+    furigana   => 'ふるまい',
+    english    => 'behavior',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '規定',
+    furigana   => 'きてい',
+    english    => 'regulate',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '一方',
+    furigana   => 'いっぽう',
+    english    => 'one side',
+);
+
+word(
+    date       => '2011-11-21',
+    word       => '素振り',
+    furigana   => 'そぶり',
+    english    => 'manner',
+);
