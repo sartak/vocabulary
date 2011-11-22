@@ -9105,3 +9105,10 @@ word(
     furigana   => 'そぶり',
     english    => 'manner',
 );
+
+word(
+    date       => '2011-11-22',
+    word       => '解除',
+    furigana   => 'かいじょ',
+    english    => 'release',
+);
