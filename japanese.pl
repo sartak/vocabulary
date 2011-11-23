@@ -9154,3 +9154,31 @@ word(
     furigana   => 'どうとう',
     english    => 'equal',
 );
+
+word(
+    date       => '2011-11-23',
+    word       => '同僚',
+    furigana   => 'どうりょう',
+    english    => 'coworker',
+);
+
+word(
+    date       => '2011-11-23',
+    word       => '御宅',
+    furigana   => 'おたく',
+    english    => 'home',
+);
+
+word(
+    date       => '2011-11-23',
+    word       => '七面鳥',
+    furigana   => 'しちめんちょう',
+    english    => 'turkey',
+);
+
+word(
+    date       => '2011-11-23',
+    word       => '位置',
+    furigana   => 'いち',
+    english    => 'location',
+);
