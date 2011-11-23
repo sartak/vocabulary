@@ -9147,3 +9147,10 @@ word(
     furigana   => 'てきせつ',
     english    => 'proper',
 );
+
+word(
+    date       => '2011-11-23',
+    word       => '同等',
+    furigana   => 'どうとう',
+    english    => 'equal',
+);
