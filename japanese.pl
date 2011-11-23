@@ -9112,3 +9112,38 @@ word(
     furigana   => 'かいじょ',
     english    => 'release',
 );
+
+word(
+    date       => '2011-11-22',
+    word       => '方式',
+    furigana   => 'ほうしき',
+    english    => 'method',
+);
+
+word(
+    date       => '2011-11-22',
+    word       => '実現',
+    furigana   => 'じつげん',
+    english    => 'realization',
+);
+
+word(
+    date       => '2011-11-22',
+    word       => '扱い',
+    furigana   => 'あつかい',
+    english    => 'handling',
+);
+
+word(
+    date       => '2011-11-22',
+    word       => '逆',
+    furigana   => 'ぎゃく',
+    english    => 'contrary',
+);
+
+word(
+    date       => '2011-11-22',
+    word       => '適切',
+    furigana   => 'てきせつ',
+    english    => 'proper',
+);
