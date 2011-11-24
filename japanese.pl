@@ -9182,3 +9182,24 @@ word(
     furigana   => 'いち',
     english    => 'location',
 );
+
+word(
+    date       => '2011-11-24',
+    word       => '唐突',
+    furigana   => 'とうとつ',
+    english    => 'abrupt',
+);
+
+word(
+    date       => '2011-11-24',
+    word       => '大人しい',
+    furigana   => 'おとなしい',
+    english    => 'well-behaved',
+);
+
+word(
+    date       => '2011-11-24',
+    word       => '先制攻撃',
+    furigana   => 'せんせいこうげき',
+    english    => 'first strike',
+);
