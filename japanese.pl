@@ -9251,3 +9251,52 @@ word(
     furigana   => 'ちょうせん',
     english    => 'challenge',
 );
+
+word(
+    date       => '2011-11-25',
+    word       => '指向',
+    furigana   => 'しこう',
+    english    => 'point to',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '備える',
+    furigana   => 'そなえる',
+    english    => 'provide',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '提案',
+    furigana   => 'ていあん',
+    english    => 'suggest',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '規格',
+    furigana   => 'きかく',
+    english    => 'standard',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '静的',
+    furigana   => 'せいてき',
+    english    => 'static',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '根本',
+    furigana   => 'こんぽん',
+    english    => 'fundamental',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '異なる',
+    furigana   => 'ことなる',
+    english    => 'differ',
+);
