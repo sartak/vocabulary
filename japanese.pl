@@ -9321,3 +9321,24 @@ word(
     furigana   => 'くわえる',
     english    => 'add',
 );
+
+word(
+    date       => '2011-11-25',
+    word       => '既存',
+    furigana   => 'きそん',
+    english    => 'existing',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '則る',
+    furigana   => 'のっとる',
+    english    => 'conform',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '下駄',
+    furigana   => 'げた',
+    english    => 'geta',
+);
