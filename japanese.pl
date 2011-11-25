@@ -9300,3 +9300,24 @@ word(
     furigana   => 'ことなる',
     english    => 'differ',
 );
+
+word(
+    date       => '2011-11-25',
+    word       => '教わる',
+    furigana   => 'おそわる',
+    english    => 'learn',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '能力',
+    furigana   => 'のうりょく',
+    english    => 'faculty',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '加える',
+    furigana   => 'くわえる',
+    english    => 'add',
+);
