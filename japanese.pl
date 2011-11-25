@@ -9203,3 +9203,51 @@ word(
     furigana   => 'せんせいこうげき',
     english    => 'first strike',
 );
+
+word(
+    date       => '2011-11-25',
+    word       => 'まとめ',
+    english    => 'conclusion',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '連載',
+    furigana   => 'れんさい',
+    english    => 'serial publication',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '扱う',
+    furigana   => 'あつかう',
+    english    => 'operate',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '問い合わせ',
+    furigana   => 'といあわせ',
+    english    => 'inquiry',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '問い合わせる',
+    furigana   => 'といあわせる',
+    english    => 'inquire',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '機会',
+    furigana   => 'きかい',
+    english    => 'opportunity',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '挑戦',
+    furigana   => 'ちょうせん',
+    english    => 'challenge',
+);
