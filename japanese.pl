@@ -9572,3 +9572,24 @@ word(
     furigana   => 'まわす',
     english    => 'turn',
 );
+
+word(
+    date       => '2011-11-26',
+    word       => '適用',
+    furigana   => 'てきよう',
+    english    => 'apply',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '割り当てる',
+    furigana   => 'わりあてる',
+    english    => 'assign',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '消去',
+    furigana   => 'しょうきょ',
+    english    => 'erase',
+);
