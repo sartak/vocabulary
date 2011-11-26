@@ -9426,3 +9426,100 @@ word(
     furigana   => 'せいじょうに',
     english    => 'normally',
 );
+
+word(
+    date       => '2011-11-26',
+    word       => '一致',
+    furigana   => 'いっち',
+    english    => 'agreement',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => 'なす',
+    english    => 'form',
+    not_dupe   => 1,
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '類似',
+    furigana   => 'るいじ',
+    english    => 'resemblance',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '導入',
+    furigana   => 'どうにゅう',
+    english    => 'introduction',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '当初',
+    furigana   => 'とうしょ',
+    english    => 'at first',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '汎用',
+    furigana   => 'はんよう',
+    english    => 'general-purpose',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '程度',
+    furigana   => 'ていど',
+    english    => 'degree',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '多重',
+    furigana   => 'たじゅう',
+    english    => 'multiplex',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => 'すなわち',
+    english    => 'that is to say',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '単一',
+    furigana   => 'たんいつ',
+    english    => 'single',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '総称',
+    furigana   => 'そうしょう',
+    english    => 'generic name',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '構造',
+    furigana   => 'こうぞう',
+    english    => 'structure',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '個々',
+    furigana   => 'ここ',
+    english    => 'individually',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '拡張',
+    furigana   => 'かくちょう',
+    english    => 'extension',
+);
