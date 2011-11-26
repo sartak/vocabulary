@@ -9412,3 +9412,17 @@ word(
     furigana   => 'だいにゅう',
     english    => 'substitution',
 );
+
+word(
+    date       => '2011-11-25',
+    word       => '即時',
+    furigana   => 'そくじ',
+    english    => 'instantly',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '正常に',
+    furigana   => 'せいじょうに',
+    english    => 'normally',
+);
