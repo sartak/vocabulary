@@ -9342,3 +9342,73 @@ word(
     furigana   => 'げた',
     english    => 'geta',
 );
+
+word(
+    date       => '2011-11-25',
+    word       => '範囲',
+    furigana   => 'はんい',
+    english    => 'scope',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '独自',
+    furigana   => 'どくじ',
+    english    => 'individual',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '初期',
+    furigana   => 'しょき',
+    english    => 'early days',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '機構',
+    furigana   => 'きこう',
+    english    => 'system',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '細々',
+    furigana   => 'こまごま',
+    english    => 'minutely',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '仕様',
+    furigana   => 'しよう',
+    english    => 'a means',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '代わり',
+    furigana   => 'かわり',
+    english    => 'substitute',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '冗長',
+    furigana   => 'じょうちょう',
+    english    => 'prolix',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '取り除く',
+    furigana   => 'とりのぞく',
+    english    => 'remove',
+);
+
+word(
+    date       => '2011-11-25',
+    word       => '代入',
+    furigana   => 'だいにゅう',
+    english    => 'substitution',
+);
