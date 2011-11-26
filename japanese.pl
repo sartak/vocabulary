@@ -9523,3 +9523,10 @@ word(
     furigana   => 'かくちょう',
     english    => 'extension',
 );
+
+word(
+    date       => '2011-11-26',
+    word       => '計算',
+    furigana   => 'けいさん',
+    english    => 'figure out',
+);
