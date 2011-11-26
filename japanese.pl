@@ -9530,3 +9530,38 @@ word(
     furigana   => 'けいさん',
     english    => 'figure out',
 );
+
+word(
+    date       => '2011-11-26',
+    word       => '凍結',
+    furigana   => 'とうけつ',
+    english    => 'freeze',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '不能',
+    furigana   => 'ふのう',
+    english    => 'impossible',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '匿名',
+    furigana   => 'とくめい',
+    english    => 'anonymous',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '保証',
+    furigana   => 'ほしょう',
+    english    => 'guarantee',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '仕方',
+    furigana   => 'しかた',
+    english    => 'a way',
+);
