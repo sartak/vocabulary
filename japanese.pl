@@ -9565,3 +9565,10 @@ word(
     furigana   => 'しかた',
     english    => 'a way',
 );
+
+word(
+    date       => '2011-11-26',
+    word       => '回す',
+    furigana   => 'まわす',
+    english    => 'turn',
+);
