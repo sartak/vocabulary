@@ -9593,3 +9593,52 @@ word(
     furigana   => 'しょうきょ',
     english    => 'erase',
 );
+
+word(
+    date       => '2011-11-26',
+    word       => '目玉',
+    furigana   => 'めだま',
+    english    => 'eyeball',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '多少',
+    furigana   => 'たしょう',
+    english    => 'quantity',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '潜り込む',
+    furigana   => 'もぐりこむ',
+    english    => 'dig into',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '踏み入れる',
+    furigana   => 'ふみいれる',
+    english    => 'step into',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '得る',
+    furigana   => 'える',
+    english    => 'gain',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '通じて',
+    furigana   => 'つうじて',
+    english    => 'throughout',
+);
+
+word(
+    date       => '2011-11-26',
+    word       => '〜済み',
+    furigana   => '〜ずみ',
+    english    => '-ed',
+);
