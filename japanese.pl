@@ -9734,3 +9734,16 @@ word(
     furigana   => 'かんげい',
     english    => 'welcome',
 );
+
+word(
+    date       => '2011-11-27',
+    word       => '差し替える',
+    furigana   => 'さしかえる',
+    english    => 'replace',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => 'ぺらぺら',
+    english    => 'fluent',
+);
