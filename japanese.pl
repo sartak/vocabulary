@@ -9642,3 +9642,94 @@ word(
     furigana   => '〜ずみ',
     english    => '-ed',
 );
+
+word(
+    date       => '2011-11-27',
+    word       => '混じる',
+    furigana   => 'まじる',
+    english    => 'mixed',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '委譲',
+    furigana   => 'いじょう',
+    english    => 'transfer',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '比べる',
+    furigana   => 'くらべる',
+    english    => 'compare',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '習慣',
+    furigana   => 'しゅうかん',
+    english    => 'habit',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '可変',
+    furigana   => 'かへん',
+    english    => 'adjust',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '済む',
+    furigana   => 'すむ',
+    english    => 'be over',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '部品',
+    furigana   => 'ぶひん',
+    english    => 'part',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '想定',
+    furigana   => 'そうてい',
+    english    => 'assume',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '深入り',
+    furigana   => 'ふかいり',
+    english    => 'go deep',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '実例',
+    furigana   => 'じつれい',
+    english    => 'example',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '似る',
+    furigana   => 'にる',
+    english    => 'resemble',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '恐らく',
+    furigana   => 'おそらく',
+    english    => 'probably',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '歓迎',
+    furigana   => 'かんげい',
+    english    => 'welcome',
+);
