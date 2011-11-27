@@ -1115,7 +1115,8 @@ word(
 
 word(
     date       => '2011-05-13',
-    word       => 'しゃべる',
+    word       => '喋る',
+    furigana   => 'しゃべる',
     english    => 'talk',
 );
 
