@@ -9747,3 +9747,30 @@ word(
     word       => 'ぺらぺら',
     english    => 'fluent',
 );
+
+word(
+    date       => '2011-11-27',
+    word       => '棋力',
+    furigana   => 'きりょく',
+    english    => 'Go skill',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '定石',
+    furigana   => 'じょうせき',
+    english    => 'joseki',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => '妙',
+    furigana   => 'みょう',
+    english    => 'strange',
+);
+
+word(
+    date       => '2011-11-27',
+    word       => 'ハマる',
+    english    => 'be crazy about',
+);
