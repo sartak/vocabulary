@@ -9774,3 +9774,24 @@ word(
     word       => 'ハマる',
     english    => 'be crazy about',
 );
+
+word(
+    date       => '2011-11-28',
+    word       => '快適',
+    furigana   => 'かいてき',
+    english    => 'comfortable',
+);
+
+word(
+    date       => '2011-11-28',
+    word       => '外側',
+    furigana   => 'そとがわ',
+    english    => 'exterior',
+);
+
+word(
+    date       => '2011-11-28',
+    word       => '改変',
+    furigana   => 'かいへん',
+    english    => 'change',
+);
