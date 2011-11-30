@@ -9795,3 +9795,44 @@ word(
     furigana   => 'かいへん',
     english    => 'change',
 );
+
+word(
+    date       => '2011-11-29',
+    word       => '効用',
+    furigana   => 'こうよう',
+    english    => 'benefit',
+);
+
+word(
+    date       => '2011-11-29',
+    word       => '現時点',
+    furigana   => 'げんじてん',
+    english    => 'at this time',
+);
+
+word(
+    date       => '2011-11-29',
+    word       => '任せる',
+    furigana   => 'まかせる',
+    english    => 'entrust',
+);
+
+word(
+    date       => '2011-11-29',
+    word       => 'いかんせん',
+    english    => 'sadly',
+);
+
+word(
+    date       => '2011-11-29',
+    word       => '冒頭',
+    furigana   => 'ぼうとう',
+    english    => 'beginning',
+);
+
+word(
+    date       => '2011-11-29',
+    word       => '改造',
+    furigana   => 'かいぞう',
+    english    => 'remodel',
+);
