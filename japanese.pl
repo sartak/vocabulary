@@ -9836,3 +9836,10 @@ word(
     furigana   => 'かいぞう',
     english    => 'remodel',
 );
+
+word(
+    date       => '2011-11-30',
+    word       => '必須',
+    furigana   => 'ひっす',
+    english    => 'indispensible',
+);
