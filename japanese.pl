@@ -9843,3 +9843,10 @@ word(
     furigana   => 'ひっす',
     english    => 'indispensible',
 );
+
+word(
+    date       => '2011-12-02',
+    word       => '圏外',
+    furigana   => 'けんがい',
+    english    => 'out of range',
+);
