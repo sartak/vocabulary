@@ -9863,3 +9863,10 @@ word(
     word       => 'そもそも',
     english    => 'from the beginning',
 );
+
+word(
+    date       => '2011-12-03',
+    word       => '丸で',
+    furigana   => 'まるで',
+    english    => 'just like',
+);
