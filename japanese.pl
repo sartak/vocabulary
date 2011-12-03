@@ -9850,3 +9850,16 @@ word(
     furigana   => 'けんがい',
     english    => 'out of range',
 );
+
+word(
+    date       => '2011-12-03',
+    word       => '絶頂',
+    furigana   => 'ぜっちょう',
+    english    => 'summit',
+);
+
+word(
+    date       => '2011-12-03',
+    word       => 'そもそも',
+    english    => 'from the beginning',
+);
