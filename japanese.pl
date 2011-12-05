@@ -9870,3 +9870,17 @@ word(
     furigana   => 'まるで',
     english    => 'just like',
 );
+
+word(
+    date       => '2011-12-05',
+    word       => '四角',
+    furigana   => 'しかく',
+    english    => 'box',
+);
+
+word(
+    date       => '2011-12-05',
+    word       => '真四角',
+    furigana   => 'ましかく',
+    english    => 'regular square',
+);
