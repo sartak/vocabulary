@@ -9884,3 +9884,9 @@ word(
     furigana   => 'ましかく',
     english    => 'regular square',
 );
+
+word(
+    date       => '2011-12-06',
+    word       => 'カボチャ',
+    english    => 'pumpkin',
+);
