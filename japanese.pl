@@ -9890,3 +9890,9 @@ word(
     word       => 'カボチャ',
     english    => 'pumpkin',
 );
+
+word(
+    date       => '2011-12-06',
+    word       => 'シッコ',
+    english    => 'pee',
+);
