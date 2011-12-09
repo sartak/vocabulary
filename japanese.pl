@@ -9896,3 +9896,10 @@ word(
     word       => 'シッコ',
     english    => 'pee',
 );
+
+word(
+    date       => '2011-12-09',
+    word       => '宅急便',
+    furigana   => 'たっきゅうびん',
+    english    => 'home delivery service',
+);
