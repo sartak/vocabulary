@@ -9903,3 +9903,44 @@ word(
     furigana   => 'たっきゅうびん',
     english    => 'home delivery service',
 );
+
+word(
+    date       => '2011-12-11',
+    word       => '紳士',
+    furigana   => 'しんし',
+    english    => 'gentleman',
+);
+
+word(
+    date       => '2011-12-11',
+    word       => '婦人',
+    furigana   => 'ふじん',
+    english    => 'lady',
+);
+
+word(
+    date       => '2011-12-11',
+    word       => '代目',
+    furigana   => 'だいめ',
+    english    => 'generation',
+);
+
+word(
+    date       => '2011-12-11',
+    word       => '鼻くそ',
+    furigana   => 'はなくそ',
+    english    => 'snot',
+);
+
+word(
+    date       => '2011-12-11',
+    word       => 'やっつける',
+    english    => 'attack',
+);
+
+word(
+    date       => '2011-12-11',
+    word       => '嘘',
+    furigana   => 'うそ',
+    english    => 'lie',
+);
