@@ -9944,3 +9944,17 @@ word(
     furigana   => 'うそ',
     english    => 'lie',
 );
+
+word(
+    date       => '2011-12-12',
+    word       => '発明',
+    furigana   => 'はつめい',
+    english    => 'invent',
+);
+
+word(
+    date       => '2011-12-12',
+    word       => '定番',
+    furigana   => 'ていばん',
+    english    => 'standard',
+);
