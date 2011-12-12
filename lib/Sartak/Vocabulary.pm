@@ -111,18 +111,10 @@ sub import {
     </head>
     <body>
         <h1>$title</h1>
+        <a href="https://github.com/sartak/vocabulary">(GitHub)</a>
+        <hr />
+        <dl>
 EOF
-
-    if ($japanese) {
-        print '<a href="vocabulary.html">(English)</a>';
-    }
-    else {
-        print '<a href="語彙.html">(Japanese)</a>';
-    }
-
-    print ' <a href="https://github.com/sartak/vocabulary">(GitHub)</a>';
-    print '<hr />';
-    print '<dl>';
 }
 
 END {
