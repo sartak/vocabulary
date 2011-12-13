@@ -9958,3 +9958,10 @@ word(
     furigana   => 'ていばん',
     english    => 'standard',
 );
+
+word(
+    date       => '2011-12-13',
+    word       => '救世主',
+    furigana   => 'きゅうせいしゅ',
+    english    => 'savior',
+);
