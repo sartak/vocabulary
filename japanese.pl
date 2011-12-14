@@ -9979,3 +9979,23 @@ word(
     furigana   => 'まっすぐ',
     english    => 'straight',
 );
+
+word(
+    date       => '2011-12-14',
+    word       => 'キラキラ',
+    english    => 'sparkle',
+);
+
+word(
+    date       => '2011-12-14',
+    word       => '光線',
+    furigana   => 'こうせん',
+    english    => 'ray of light',
+);
+
+word(
+    date       => '2011-12-14',
+    word       => '殺人',
+    furigana   => 'さつじん',
+    english    => 'murder',
+);
