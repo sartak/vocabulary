@@ -9965,3 +9965,17 @@ word(
     furigana   => 'きゅうせいしゅ',
     english    => 'savior',
 );
+
+word(
+    date       => '2011-12-13',
+    word       => '視線',
+    furigana   => 'しせん',
+    english    => 'eyes',
+);
+
+word(
+    date       => '2011-12-13',
+    word       => '真っ直ぐ',
+    furigana   => 'まっすぐ',
+    english    => 'straight',
+);
