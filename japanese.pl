@@ -10000,3 +10000,24 @@ word(
     furigana   => 'さつじん',
     english    => 'murder',
 );
+
+word(
+    date       => '2011-12-15',
+    word       => '恋愛',
+    furigana   => 'れんあい',
+    english    => 'love',
+);
+
+word(
+    date       => '2011-12-15',
+    word       => '眩しい',
+    furigana   => 'まぶしい',
+    english    => 'dazzle',
+);
+
+word(
+    date       => '2011-12-15',
+    word       => '照れる',
+    furigana   => 'てれる',
+    english    => 'feel shy',
+);
