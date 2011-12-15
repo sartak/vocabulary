@@ -3385,7 +3385,8 @@ word(
 
 word(
     date       => '2011-07-12',
-    word       => 'つなぐ',
+    word       => '繋ぐ',
+    furigana   => 'つなぐ',
     english    => 'fasten',
 );
 
