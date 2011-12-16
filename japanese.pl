@@ -10021,3 +10021,38 @@ word(
     furigana   => 'てれる',
     english    => 'feel shy',
 );
+
+word(
+    date       => '2011-12-16',
+    word       => '入手',
+    furigana   => 'にゅうしゅ',
+    english    => 'acquire',
+);
+
+word(
+    date       => '2011-12-16',
+    word       => '突き刺す',
+    furigana   => 'つきさす',
+    english    => 'stab',
+);
+
+word(
+    date       => '2011-12-16',
+    word       => '実る',
+    furigana   => 'みのる',
+    english    => 'bear fruit',
+);
+
+word(
+    date       => '2011-12-16',
+    word       => '果実',
+    furigana   => 'かじつ',
+    english    => 'fruit',
+);
+
+word(
+    date       => '2011-12-16',
+    word       => '弾く',
+    furigana   => 'はじく',
+    english    => 'flick',
+);
