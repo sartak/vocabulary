@@ -10056,3 +10056,16 @@ word(
     furigana   => 'はじく',
     english    => 'flick',
 );
+
+word(
+    date       => '2011-12-17',
+    word       => '感動',
+    furigana   => 'かんどう',
+    english    => 'be impressed by',
+);
+
+word(
+    date       => '2011-12-17',
+    word       => 'いざ',
+    english    => 'well',
+);
