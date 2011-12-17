@@ -10069,3 +10069,37 @@ word(
     word       => 'いざ',
     english    => 'well',
 );
+
+word(
+    date       => '2011-12-17',
+    word       => '初〜',
+    furigana   => 'はつ〜',
+    english    => 'first',
+);
+
+word(
+    date       => '2011-12-17',
+    word       => '今昔',
+    furigana   => 'こんじゃく',
+    english    => 'past and present',
+);
+
+word(
+    date       => '2011-12-17',
+    word       => '鮮やか',
+    furigana   => 'あざやか',
+    english    => 'vivid',
+);
+
+word(
+    date       => '2011-12-17',
+    word       => 'しっかり',
+    english    => 'well',
+);
+
+word(
+    date       => '2011-12-17',
+    word       => '複雑',
+    furigana   => 'ふくざつ',
+    english    => 'complicated',
+);
