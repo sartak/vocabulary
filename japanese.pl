@@ -10103,3 +10103,17 @@ word(
     furigana   => 'ふくざつ',
     english    => 'complicated',
 );
+
+word(
+    date       => '2011-12-18',
+    word       => '当たり前',
+    furigana   => 'あたりまえ',
+    english    => 'natural',
+);
+
+word(
+    date       => '2011-12-18',
+    word       => '革命',
+    furigana   => 'かくめい',
+    english    => 'revolution',
+);
