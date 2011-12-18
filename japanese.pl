@@ -10138,3 +10138,38 @@ word(
     furigana   => 'ないしょ',
     english    => 'secret',
 );
+
+word(
+    date       => '2011-12-18',
+    word       => '染まる',
+    furigana   => 'そまる',
+    english    => 'be dyed',
+);
+
+word(
+    date       => '2011-12-18',
+    word       => '戦況',
+    furigana   => 'せんきょう',
+    english    => 'military situation',
+);
+
+word(
+    date       => '2011-12-18',
+    word       => '神竜',
+    furigana   => 'しんりゅう',
+    english    => 'dragon god',
+);
+
+word(
+    date       => '2011-12-18',
+    word       => '王女',
+    furigana   => 'おうじょ',
+    english    => 'princess',
+);
+
+word(
+    date       => '2011-12-18',
+    word       => '勝利',
+    furigana   => 'しょうり',
+    english    => 'victory',
+);
