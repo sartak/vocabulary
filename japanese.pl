@@ -10117,3 +10117,24 @@ word(
     furigana   => 'かくめい',
     english    => 'revolution',
 );
+
+word(
+    date       => '2011-12-18',
+    word       => '自動車',
+    furigana   => 'じどうしゃ',
+    english    => 'automobile',
+);
+
+word(
+    date       => '2011-12-18',
+    word       => '免許',
+    furigana   => 'めんきょ',
+    english    => 'license',
+);
+
+word(
+    date       => '2011-12-18',
+    word       => '内緒',
+    furigana   => 'ないしょ',
+    english    => 'secret',
+);
