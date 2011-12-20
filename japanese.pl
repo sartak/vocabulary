@@ -10201,3 +10201,17 @@ word(
     furigana   => 'せいど',
     english    => 'system',
 );
+
+word(
+    date       => '2011-12-20',
+    word       => '流れ込む',
+    furigana   => 'ながれこむ',
+    english    => 'flow into',
+);
+
+word(
+    date       => '2011-12-20',
+    word       => '動き出す',
+    furigana   => 'うごきだす',
+    english    => 'start to move',
+);
