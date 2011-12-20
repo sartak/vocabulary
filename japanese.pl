@@ -10173,3 +10173,31 @@ word(
     furigana   => 'しょうり',
     english    => 'victory',
 );
+
+word(
+    date       => '2011-12-19',
+    word       => '通勤',
+    furigana   => 'つうきん',
+    english    => 'commute to work',
+);
+
+word(
+    date       => '2011-12-19',
+    word       => '通学',
+    furigana   => 'つうがく',
+    english    => 'commute to school',
+);
+
+word(
+    date       => '2011-12-19',
+    word       => '国民',
+    furigana   => 'こくみん',
+    english    => 'a nation',
+);
+
+word(
+    date       => '2011-12-19',
+    word       => '制度',
+    furigana   => 'せいど',
+    english    => 'system',
+);
