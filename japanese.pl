@@ -10229,3 +10229,24 @@ word(
     furigana   => 'いかり',
     english    => 'anger',
 );
+
+word(
+    date       => '2011-12-20',
+    word       => '味わう',
+    furigana   => 'あじわう',
+    english    => 'taste',
+);
+
+word(
+    date       => '2011-12-20',
+    word       => '正気',
+    furigana   => 'しょうき',
+    english    => 'sane',
+);
+
+word(
+    date       => '2011-12-20',
+    word       => '向こう',
+    furigana   => 'むこう',
+    english    => 'other side',
+);
