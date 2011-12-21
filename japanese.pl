@@ -10215,3 +10215,17 @@ word(
     furigana   => 'うごきだす',
     english    => 'start to move',
 );
+
+word(
+    date       => '2011-12-20',
+    word       => '炎',
+    furigana   => 'ほのお',
+    english    => 'flame',
+);
+
+word(
+    date       => '2011-12-20',
+    word       => '怒り',
+    furigana   => 'いかり',
+    english    => 'anger',
+);
