@@ -10250,3 +10250,31 @@ word(
     furigana   => 'むこう',
     english    => 'other side',
 );
+
+word(
+    date       => '2011-12-21',
+    word       => '原稿',
+    furigana   => 'げんこう',
+    english    => 'manuscript',
+);
+
+word(
+    date       => '2011-12-21',
+    word       => '逝く',
+    furigana   => 'ゆく',
+    english    => 'pass away',
+);
+
+word(
+    date       => '2011-12-21',
+    word       => '負う',
+    furigana   => 'おう',
+    english    => 'bear',
+);
+
+word(
+    date       => '2011-12-21',
+    word       => '砕く',
+    furigana   => 'くだく',
+    english    => 'smash',
+);
