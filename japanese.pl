@@ -10278,3 +10278,10 @@ word(
     furigana   => 'くだく',
     english    => 'smash',
 );
+
+word(
+    date       => '2011-12-21',
+    word       => '恐竜',
+    furigana   => 'きょうりゅう',
+    english    => 'dinosaur',
+);
