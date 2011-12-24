@@ -10285,3 +10285,17 @@ word(
     furigana   => 'きょうりゅう',
     english    => 'dinosaur',
 );
+
+word(
+    date       => '2011-12-23',
+    word       => '文明',
+    furigana   => 'ぶんめい',
+    english    => 'civilization',
+);
+
+word(
+    date       => '2011-12-23',
+    word       => '西洋',
+    furigana   => 'せいよう',
+    english    => 'Western',
+);
