@@ -10299,3 +10299,17 @@ word(
     furigana   => 'せいよう',
     english    => 'Western',
 );
+
+word(
+    date       => '2011-12-24',
+    word       => '邪魔',
+    furigana   => 'じゃま',
+    english    => 'bother',
+);
+
+word(
+    date       => '2011-12-24',
+    word       => '放送',
+    furigana   => 'ほうそう',
+    english    => 'broadcast',
+);
