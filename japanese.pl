@@ -10360,3 +10360,31 @@ word(
     furigana   => 'マージャン',
     english    => 'mahjong',
 );
+
+word(
+    date       => '2011-12-26',
+    word       => '括弧',
+    furigana   => 'かっこ',
+    english    => 'brackets',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => '補足',
+    furigana   => 'ほそく',
+    english    => 'supplement',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => '操作',
+    furigana   => 'そうさ',
+    english    => 'handling',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => '敢行',
+    furigana   => 'かんこう',
+    english    => 'decisive action',
+);
