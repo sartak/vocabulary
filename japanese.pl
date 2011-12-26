@@ -10334,3 +10334,29 @@ word(
     furigana   => 'けんしゅつ',
     english    => 'find',
 );
+
+word(
+    date       => '2011-12-26',
+    word       => '用心棒',
+    furigana   => 'ようじんぼう',
+    english    => 'bodyguard',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => '用心',
+    furigana   => 'ようじん',
+    english    => 'care',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => 'っきゃ',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => '麻雀',
+    furigana   => 'マージャン',
+    english    => 'mahjong',
+);
