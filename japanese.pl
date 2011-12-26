@@ -10313,3 +10313,24 @@ word(
     furigana   => 'ほうそう',
     english    => 'broadcast',
 );
+
+word(
+    date       => '2011-12-26',
+    word       => '〜度',
+    furigana   => '〜たび',
+    english    => 'times',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => '区別',
+    furigana   => 'くべつ',
+    english    => 'distinction',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => '検出',
+    furigana   => 'けんしゅつ',
+    english    => 'find',
+);
