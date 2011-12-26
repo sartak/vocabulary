@@ -10388,3 +10388,17 @@ word(
     furigana   => 'かんこう',
     english    => 'decisive action',
 );
+
+word(
+    date       => '2011-12-26',
+    word       => '運転する',
+    furigana   => 'うんてんする',
+    english    => 'drive',
+);
+
+word(
+    date       => '2011-12-26',
+    word       => '運転手',
+    furigana   => 'うんてんしゅ',
+    english    => 'driver',
+);
