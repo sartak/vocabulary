@@ -10478,3 +10478,66 @@ word(
     furigana   => 'しょうぎ',
     english    => 'shogi',
 );
+
+word(
+    date       => '2011-12-27',
+    word       => '上等',
+    furigana   => 'じょうとう',
+    english    => 'fine',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '暖かい',
+    furigana   => 'あたたかい',
+    english    => 'warm',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '騒ぎ',
+    furigana   => 'さわぎ',
+    english    => 'uproar',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '祝う',
+    furigana   => 'いわう',
+    english    => 'celebrate',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '馳走',
+    furigana   => 'ちそう',
+    english    => 'feast',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '影',
+    furigana   => 'かげ',
+    english    => 'light',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '奇妙',
+    furigana   => 'きみょう',
+    english    => 'strange',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '書名',
+    furigana   => 'しょめい',
+    english    => 'book title',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '藤',
+    furigana   => 'ふじ',
+    english    => 'wisteria',
+);
