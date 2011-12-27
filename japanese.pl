@@ -10402,3 +10402,79 @@ word(
     furigana   => 'うんてんしゅ',
     english    => 'driver',
 );
+
+word(
+    date       => '2011-12-27',
+    word       => '待ち遠しい',
+    furigana   => 'まちどおしい',
+    english    => 'excited for',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '居残る',
+    furigana   => 'いのこる',
+    english    => 'stay behind',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '兄弟',
+    furigana   => 'きょうだい',
+    english    => 'sibling',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '許可',
+    furigana   => 'きょか',
+    english    => 'permission',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => 'しつこい',
+    english    => 'persistent',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '信用',
+    furigana   => 'しんよう',
+    english    => 'confidence',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '駒',
+    furigana   => 'こま',
+    english    => 'piece',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '包み',
+    furigana   => 'つつみ',
+    english    => 'package',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '映る',
+    furigana   => 'うつる',
+    english    => 'be reflected',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '上級',
+    furigana   => 'じょうきゅう',
+    english    => 'upper class',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '将棋',
+    furigana   => 'しょうぎ',
+    english    => 'shogi',
+);
