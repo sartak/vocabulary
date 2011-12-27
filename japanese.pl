@@ -10541,3 +10541,17 @@ word(
     furigana   => 'ふじ',
     english    => 'wisteria',
 );
+
+word(
+    date       => '2011-12-27',
+    word       => '奥さん',
+    furigana   => 'おくさん',
+    english    => 'wife',
+);
+
+word(
+    date       => '2011-12-27',
+    word       => '親切',
+    furigana   => 'しんせつ',
+    english    => 'kind',
+);
