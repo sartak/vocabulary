@@ -10604,3 +10604,10 @@ word(
     furigana   => 'どうろ',
     english    => 'road',
 );
+
+word(
+    date       => '2011-12-28',
+    word       => '捜索',
+    furigana   => 'そうさく',
+    english    => 'search',
+);
