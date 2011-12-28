@@ -10562,3 +10562,45 @@ word(
     furigana   => 'えつらん',
     english    => 'peruse',
 );
+
+word(
+    date       => '2011-12-28',
+    word       => '周り',
+    furigana   => 'まわり',
+    english    => 'surroundings',
+);
+
+word(
+    date       => '2011-12-28',
+    word       => '嫌',
+    furigana   => 'いや',
+    english    => 'unpleasant',
+);
+
+word(
+    date       => '2011-12-28',
+    word       => '発売',
+    furigana   => 'はつばい',
+    english    => 'on sale',
+);
+
+word(
+    date       => '2011-12-28',
+    word       => '運動',
+    furigana   => 'うんどう',
+    english    => 'movement',
+);
+
+word(
+    date       => '2011-12-28',
+    word       => '容量',
+    furigana   => 'ようりょう',
+    english    => 'capacity',
+);
+
+word(
+    date       => '2011-12-28',
+    word       => '道路',
+    furigana   => 'どうろ',
+    english    => 'road',
+);
