@@ -10555,3 +10555,10 @@ word(
     furigana   => 'しんせつ',
     english    => 'kind',
 );
+
+word(
+    date       => '2011-12-27',
+    word       => '閲覧',
+    furigana   => 'えつらん',
+    english    => 'peruse',
+);
