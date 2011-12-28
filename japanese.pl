@@ -10611,3 +10611,10 @@ word(
     furigana   => 'そうさく',
     english    => 'search',
 );
+
+word(
+    date       => '2011-12-28',
+    word       => '悟り',
+    furigana   => 'さとり',
+    english    => 'satori',
+);
