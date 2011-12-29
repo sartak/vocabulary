@@ -10618,3 +10618,45 @@ word(
     furigana   => 'さとり',
     english    => 'satori',
 );
+
+word(
+    date       => '2011-12-29',
+    word       => '完璧',
+    furigana   => 'かんぺき',
+    english    => 'perfection',
+);
+
+word(
+    date       => '2011-12-29',
+    word       => '漬物',
+    furigana   => 'つけもの',
+    english    => 'pickled thing',
+);
+
+word(
+    date       => '2011-12-29',
+    word       => '金髪',
+    furigana   => 'きんぱつ',
+    english    => 'blonde',
+);
+
+word(
+    date       => '2011-12-29',
+    word       => '背',
+    furigana   => 'せ',
+    english    => 'stature',
+);
+
+word(
+    date       => '2011-12-29',
+    word       => '返事',
+    furigana   => 'へんじ',
+    english    => 'reply',
+);
+
+word(
+    date       => '2011-12-29',
+    word       => '短い',
+    furigana   => 'みじかい',
+    english    => 'short',
+);
