@@ -10660,3 +10660,37 @@ word(
     furigana   => 'みじかい',
     english    => 'short',
 );
+
+word(
+    date       => '2011-12-30',
+    word       => '健康',
+    furigana   => 'けんこう',
+    english    => 'health',
+);
+
+word(
+    date       => '2011-12-30',
+    word       => '団子',
+    furigana   => 'だんご',
+    english    => 'dumplings',
+);
+
+word(
+    date       => '2011-12-30',
+    word       => 'まし',
+    english    => 'as bad',
+);
+
+word(
+    date       => '2011-12-30',
+    word       => '商品',
+    furigana   => 'しょうひん',
+    english    => 'product',
+);
+
+word(
+    date       => '2011-12-30',
+    word       => '品質',
+    furigana   => 'ひんしつ',
+    english    => 'quality',
+);
