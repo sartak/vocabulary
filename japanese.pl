@@ -10701,3 +10701,17 @@ word(
     furigana   => 'すくう',
     english    => 'save',
 );
+
+word(
+    date       => '2011-12-30',
+    word       => '増える',
+    furigana   => 'ふえる',
+    english    => 'increase',
+);
+
+word(
+    date       => '2011-12-30',
+    word       => '金魚',
+    furigana   => 'きんぎょ',
+    english    => 'goldfish',
+);
