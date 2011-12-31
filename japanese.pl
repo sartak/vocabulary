@@ -10715,3 +10715,24 @@ word(
     furigana   => 'きんぎょ',
     english    => 'goldfish',
 );
+
+word(
+    date       => '2011-12-31',
+    word       => '審判',
+    furigana   => 'しんぱん',
+    english    => 'judge',
+);
+
+word(
+    date       => '2011-12-31',
+    word       => '途端',
+    furigana   => 'とたん',
+    english    => 'just',
+);
+
+word(
+    date       => '2011-12-31',
+    word       => '賢者',
+    furigana   => 'けんじゃ',
+    english    => 'wise man',
+);
