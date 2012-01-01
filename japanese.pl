@@ -10736,3 +10736,21 @@ word(
     furigana   => 'けんじゃ',
     english    => 'wise man',
 );
+
+word(
+    date       => '2012-01-01',
+    word       => '孵る',
+    furigana   => 'かえる',
+);
+
+word(
+    date       => '2012-01-01',
+    word       => '談話',
+    furigana   => 'だんわ',
+);
+
+word(
+    date       => '2012-01-01',
+    word       => '室',
+    furigana   => 'しつ',
+);
