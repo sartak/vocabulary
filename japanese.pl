@@ -10754,3 +10754,15 @@ word(
     word       => '室',
     furigana   => 'しつ',
 );
+
+word(
+    date       => '2012-01-02',
+    word       => '書籍',
+    furigana   => 'しょせき',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '電子書籍',
+    furigana   => 'でんししょせき',
+);
