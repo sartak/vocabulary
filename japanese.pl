@@ -10796,3 +10796,45 @@ word(
     word       => '一角獣',
     furigana   => 'いっかくじゅう',
 );
+
+word(
+    date       => '2012-01-02',
+    word       => '食堂',
+    furigana   => 'しょくどう',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '文章',
+    furigana   => 'ぶんしょう',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '券',
+    furigana   => 'けん',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '航空券',
+    furigana   => 'こうくうけん',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '遅刻',
+    furigana   => 'ちこく',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '掃除',
+    furigana   => 'そうじ',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '別れる',
+    furigana   => 'わかれる',
+);
