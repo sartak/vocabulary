@@ -10766,3 +10766,33 @@ word(
     word       => '電子書籍',
     furigana   => 'でんししょせき',
 );
+
+word(
+    date       => '2012-01-02',
+    word       => '暗闇',
+    furigana   => 'くらやみ',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '零時',
+    furigana   => 'れいじ',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '想像',
+    furigana   => 'そうぞう',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '天文学',
+    furigana   => 'てんもんがく',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '一角獣',
+    furigana   => 'いっかくじゅう',
+);
