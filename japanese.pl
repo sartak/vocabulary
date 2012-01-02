@@ -10838,3 +10838,16 @@ word(
     word       => '別れる',
     furigana   => 'わかれる',
 );
+
+word(
+    date       => '2012-01-02',
+    word       => '出で',
+    furigana   => 'いで',
+);
+
+word(
+    date       => '2012-01-02',
+    word       => '敵',
+    furigana   => 'かたき',
+    not_dupe   => 1,
+);
