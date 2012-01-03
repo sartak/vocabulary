@@ -10851,3 +10851,9 @@ word(
     furigana   => 'かたき',
     not_dupe   => 1,
 );
+
+word(
+    date       => '2012-01-03',
+    word       => '淡い',
+    furigana   => 'あわい',
+);
