@@ -10857,3 +10857,26 @@ word(
     word       => '淡い',
     furigana   => 'あわい',
 );
+
+word(
+    date       => '2012-01-03',
+    word       => '留学',
+    furigana   => 'りゅうがく',
+);
+
+word(
+    date       => '2012-01-03',
+    word       => 'つい',
+);
+
+word(
+    date       => '2012-01-03',
+    word       => '迷う',
+    furigana   => 'まよう',
+);
+
+word(
+    date       => '2012-01-03',
+    word       => '立派',
+    furigana   => 'りっぱ',
+);
