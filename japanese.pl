@@ -10880,3 +10880,15 @@ word(
     word       => '立派',
     furigana   => 'りっぱ',
 );
+
+word(
+    date       => '2012-01-03',
+    word       => '災い',
+    furigana   => 'わざわい',
+);
+
+word(
+    date       => '2012-01-03',
+    word       => '源',
+    furigana   => 'みなもと',
+);
