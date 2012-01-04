@@ -10892,3 +10892,21 @@ word(
     word       => '源',
     furigana   => 'みなもと',
 );
+
+word(
+    date       => '2012-01-04',
+    word       => '台所',
+    furigana   => 'だいどころ',
+);
+
+word(
+    date       => '2012-01-04',
+    word       => '徹夜',
+    furigana   => 'てつや',
+);
+
+word(
+    date       => '2012-01-04',
+    word       => '辞める',
+    furigana   => 'やめる',
+);
