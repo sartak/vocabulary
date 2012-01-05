@@ -10910,3 +10910,21 @@ word(
     word       => '辞める',
     furigana   => 'やめる',
 );
+
+word(
+    date       => '2012-01-04',
+    word       => '古',
+    furigana   => 'いにしえ',
+);
+
+word(
+    date       => '2012-01-04',
+    word       => '封じ込める',
+    furigana   => 'ふうじこめる',
+);
+
+word(
+    date       => '2012-01-04',
+    word       => '復活',
+    furigana   => 'ふっかつ',
+);
