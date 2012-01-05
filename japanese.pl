@@ -10946,3 +10946,9 @@ word(
     word       => '魅力',
     furigana   => 'みりょく',
 );
+
+word(
+    date       => '2012-01-05',
+    word       => '対象',
+    furigana   => 'たいしょう',
+);
