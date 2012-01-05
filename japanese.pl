@@ -10928,3 +10928,21 @@ word(
     word       => '復活',
     furigana   => 'ふっかつ',
 );
+
+word(
+    date       => '2012-01-05',
+    word       => '教室',
+    furigana   => 'きょうしつ',
+);
+
+word(
+    date       => '2012-01-05',
+    word       => '退屈',
+    furigana   => 'たいくつ',
+);
+
+word(
+    date       => '2012-01-05',
+    word       => '魅力',
+    furigana   => 'みりょく',
+);
