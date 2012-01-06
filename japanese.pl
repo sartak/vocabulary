@@ -10952,3 +10952,33 @@ word(
     word       => '対象',
     furigana   => 'たいしょう',
 );
+
+word(
+    date       => '2012-01-05',
+    word       => '蘇る',
+    furigana   => 'よみがえる',
+);
+
+word(
+    date       => '2012-01-05',
+    word       => '滅ぼす',
+    furigana   => 'ほろぼす',
+);
+
+word(
+    date       => '2012-01-05',
+    word       => '素質',
+    furigana   => 'そしつ',
+);
+
+word(
+    date       => '2012-01-05',
+    word       => '角',
+    furigana   => 'つの',
+);
+
+word(
+    date       => '2012-01-05',
+    word       => '勘',
+    furigana   => 'かん',
+);
