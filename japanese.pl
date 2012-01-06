@@ -10982,3 +10982,9 @@ word(
     word       => '勘',
     furigana   => 'かん',
 );
+
+word(
+    date       => '2012-01-06',
+    word       => '退校',
+    furigana   => 'たいこう',
+);
