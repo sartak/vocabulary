@@ -10988,3 +10988,38 @@ word(
     word       => '退校',
     furigana   => 'たいこう',
 );
+
+word(
+    date       => '2012-01-06',
+    word       => '七味',
+    furigana   => 'しちみ',
+);
+
+word(
+    date       => '2012-01-06',
+    word       => '慌てる',
+    furigana   => 'あわてる',
+);
+
+word(
+    date       => '2012-01-06',
+    word       => '手下',
+    furigana   => 'てした',
+);
+
+word(
+    date       => '2012-01-06',
+    word       => '麓',
+    furigana   => 'ふもと',
+);
+
+word(
+    date       => '2012-01-06',
+    word       => '地',
+    furigana   => 'ち',
+);
+
+word(
+    date       => '2012-01-06',
+    word       => 'ついでに',
+);
