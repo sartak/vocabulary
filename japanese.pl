@@ -11071,3 +11071,27 @@ word(
     word       => '広間',
     furigana   => 'ひろま',
 );
+
+word(
+    date       => '2012-01-07',
+    word       => '東大',
+    furigana   => 'とうだい',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '模擬',
+    furigana   => 'もぎ',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '渋い',
+    furigana   => 'しぶい',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '餌',
+    furigana   => 'えさ',
+);
