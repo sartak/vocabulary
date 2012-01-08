@@ -11095,3 +11095,15 @@ word(
     word       => '餌',
     furigana   => 'えさ',
 );
+
+word(
+    date       => '2012-01-07',
+    word       => '当日',
+    furigana   => 'とうじつ',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '独身',
+    furigana   => 'どくしん',
+);
