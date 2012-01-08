@@ -11107,3 +11107,45 @@ word(
     word       => '独身',
     furigana   => 'どくしん',
 );
+
+word(
+    date       => '2012-01-07',
+    word       => '地中',
+    furigana   => 'ちちゅう',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '棲む',
+    furigana   => 'すむ',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '姓',
+    furigana   => 'せい',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '長らく',
+    furigana   => 'ながらく',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '翌日',
+    furigana   => 'よくじつ',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '矮人',
+    furigana   => 'ドワーフ',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '僕',
+    furigana   => 'しもべ',
+);
