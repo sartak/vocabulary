@@ -11041,3 +11041,27 @@ word(
     word       => '脅す',
     furigana   => 'おどす',
 );
+
+word(
+    date       => '2012-01-07',
+    word       => '枯れる',
+    furigana   => 'かれる',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '枝',
+    furigana   => 'えだ',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '枯れ枝',
+    furigana   => 'かれえだ',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '空っぽ',
+    furigana   => 'からっぽ',
+);
