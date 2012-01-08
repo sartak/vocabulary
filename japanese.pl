@@ -11023,3 +11023,21 @@ word(
     date       => '2012-01-06',
     word       => 'ついでに',
 );
+
+word(
+    date       => '2012-01-07',
+    word       => '〜羽',
+    furigana   => '〜わ',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '盤',
+    furigana   => 'ばん',
+);
+
+word(
+    date       => '2012-01-07',
+    word       => '脅す',
+    furigana   => 'おどす',
+);
