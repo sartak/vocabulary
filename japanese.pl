@@ -11073,79 +11073,79 @@ word(
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '東大',
     furigana   => 'とうだい',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '模擬',
     furigana   => 'もぎ',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '渋い',
     furigana   => 'しぶい',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '餌',
     furigana   => 'えさ',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '当日',
     furigana   => 'とうじつ',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '独身',
     furigana   => 'どくしん',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '地中',
     furigana   => 'ちちゅう',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '棲む',
     furigana   => 'すむ',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '姓',
     furigana   => 'せい',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '長らく',
     furigana   => 'ながらく',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '翌日',
     furigana   => 'よくじつ',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '矮人',
     furigana   => 'ドワーフ',
 );
 
 word(
-    date       => '2012-01-07',
+    date       => '2012-01-08',
     word       => '僕',
     furigana   => 'しもべ',
 );
