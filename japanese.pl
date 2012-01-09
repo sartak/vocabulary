@@ -11149,3 +11149,21 @@ word(
     word       => '僕',
     furigana   => 'しもべ',
 );
+
+word(
+    date       => '2012-01-09',
+    word       => '付き合う',
+    furigana   => 'つきあう',
+);
+
+word(
+    date       => '2012-01-09',
+    word       => '主人',
+    furigana   => 'しゅじん',
+);
+
+word(
+    date       => '2012-01-09',
+    word       => '主人公',
+    furigana   => 'しゅじんこう',
+);
