@@ -11167,3 +11167,15 @@ word(
     word       => '主人公',
     furigana   => 'しゅじんこう',
 );
+
+word(
+    date       => '2012-01-10',
+    word       => '寝坊',
+    furigana   => 'ねぼう',
+);
+
+word(
+    date       => '2012-01-10',
+    word       => '登る',
+    furigana   => 'のぼる',
+);
