@@ -11179,3 +11179,46 @@ word(
     word       => '登る',
     furigana   => 'のぼる',
 );
+
+word(
+    date       => '2012-01-11',
+    word       => '部長',
+    furigana   => 'ぶちょう',
+);
+
+word(
+    date       => '2012-01-11',
+    word       => '働く',
+    furigana   => 'はたらく',
+);
+
+word(
+    date       => '2012-01-11',
+    word       => '弾く',
+    furigana   => 'ひく',
+    not_dupe   => 1,
+);
+
+word(
+    date       => '2012-01-11',
+    word       => '雑誌',
+    furigana   => 'ざっし',
+);
+
+word(
+    date       => '2012-01-11',
+    word       => '葉書',
+    furigana   => 'はがき',
+);
+
+word(
+    date       => '2012-01-11',
+    word       => '聴覚',
+    furigana   => 'ちょうかく',
+);
+
+word(
+    date       => '2012-01-11',
+    word       => '敏感',
+    furigana   => 'びんかん',
+);
