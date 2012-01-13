@@ -11222,3 +11222,15 @@ word(
     word       => '敏感',
     furigana   => 'びんかん',
 );
+
+word(
+    date       => '2012-01-12',
+    word       => '掴む',
+    furigana   => 'つかむ',
+);
+
+word(
+    date       => '2012-01-12',
+    word       => '衝撃',
+    furigana   => 'しょうげき',
+);
