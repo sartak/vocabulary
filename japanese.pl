@@ -11234,3 +11234,27 @@ word(
     word       => '衝撃',
     furigana   => 'しょうげき',
 );
+
+word(
+    date       => '2012-01-13',
+    word       => '巨鬼',
+    furigana   => 'トロル',
+);
+
+word(
+    date       => '2012-01-13',
+    word       => '人肉',
+    furigana   => 'じんにく',
+);
+
+word(
+    date       => '2012-01-13',
+    word       => '捉える',
+    furigana   => 'とらえる',
+);
+
+word(
+    date       => '2012-01-13',
+    word       => '炙る',
+    furigana   => 'あぶる',
+);
