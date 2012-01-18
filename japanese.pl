@@ -11258,3 +11258,15 @@ word(
     word       => '炙る',
     furigana   => 'あぶる',
 );
+
+word(
+    date       => '2012-01-17',
+    word       => '妖精',
+    furigana   => 'エルフ',
+);
+
+word(
+    date       => '2012-01-17',
+    word       => '尻',
+    furigana   => 'しり',
+);
