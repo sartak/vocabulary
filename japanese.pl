@@ -11270,3 +11270,15 @@ word(
     word       => '尻',
     furigana   => 'しり',
 );
+
+word(
+    date       => '2012-01-19',
+    word       => '帰宅',
+    furigana   => 'きたく',
+);
+
+word(
+    date       => '2012-01-19',
+    word       => '渇く',
+    furigana   => 'かわく',
+);
