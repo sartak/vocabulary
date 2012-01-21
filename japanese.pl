@@ -11288,3 +11288,33 @@ word(
     word       => '添付',
     furigana   => 'てんぷ',
 );
+
+word(
+    date       => '2012-01-21',
+    word       => '古代',
+    furigana   => 'こだい',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '悪鬼',
+    furigana   => 'ゴブリン',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '越える',
+    furigana   => 'こえる',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '鬼',
+    furigana   => 'おに',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '磁石',
+    furigana   => 'じしゃく',
+);
