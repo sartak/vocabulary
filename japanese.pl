@@ -11318,3 +11318,45 @@ word(
     word       => '磁石',
     furigana   => 'じしゃく',
 );
+
+word(
+    date       => '2012-01-21',
+    word       => '苔',
+    furigana   => 'こけ',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '幽霊',
+    furigana   => 'ゆうれい',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '像',
+    furigana   => 'ぞう',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '精神',
+    furigana   => 'せいしん',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '笛',
+    furigana   => 'ふえ',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '反射',
+    furigana   => 'はんしゃ',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '薄まる',
+    furigana   => 'うすまる',
+);
