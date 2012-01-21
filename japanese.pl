@@ -11360,3 +11360,15 @@ word(
     word       => '薄まる',
     furigana   => 'うすまる',
 );
+
+word(
+    date       => '2012-01-21',
+    word       => '霊',
+    furigana   => 'れい',
+);
+
+word(
+    date       => '2012-01-21',
+    word       => '精密',
+    furigana   => 'せいみつ',
+);
