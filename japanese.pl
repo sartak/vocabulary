@@ -11383,3 +11383,57 @@ word(
     word       => '揃う',
     furigana   => 'そろう',
 );
+
+word(
+    date       => '2012-01-25',
+    word       => '幸運',
+    furigana   => 'こううん',
+);
+
+word(
+    date       => '2012-01-25',
+    word       => '金属',
+    furigana   => 'きんぞく',
+);
+
+word(
+    date       => '2012-01-25',
+    word       => '体内',
+    furigana   => 'たいない',
+);
+
+word(
+    date       => '2012-01-25',
+    word       => '燃やす',
+    furigana   => 'もやす',
+);
+
+word(
+    date       => '2012-01-25',
+    word       => '合金',
+    furigana   => 'ごうきん',
+);
+
+word(
+    date       => '2012-01-25',
+    word       => '種類',
+    furigana   => 'しゅるい',
+);
+
+word(
+    date       => '2012-01-25',
+    word       => '粗筋',
+    furigana   => 'あらすじ',
+);
+
+word(
+    date       => '2012-01-25',
+    word       => '個別',
+    furigana   => 'こべつ',
+);
+
+word(
+    date       => '2012-01-25',
+    word       => '封印',
+    furigana   => 'ふういん',
+);
