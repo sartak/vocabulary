@@ -11437,3 +11437,9 @@ word(
     word       => '封印',
     furigana   => 'ふういん',
 );
+
+word(
+    date       => '2012-01-26',
+    word       => '池',
+    furigana   => 'いけ',
+);
