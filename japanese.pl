@@ -11485,3 +11485,26 @@ word(
     word       => '幸い',
     furigana   => 'さいわい',
 );
+
+word(
+    date       => '2012-02-02',
+    word       => '近づく',
+    furigana   => 'ちかづく',
+);
+
+word(
+    date       => '2012-02-02',
+    word       => '核心',
+    furigana   => 'かくしん',
+);
+
+word(
+    date       => '2012-02-02',
+    word       => 'わずか',
+);
+
+word(
+    date       => '2012-02-02',
+    word       => '駆ける',
+    furigana   => 'かける',
+);
