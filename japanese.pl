@@ -11443,3 +11443,45 @@ word(
     word       => '池',
     furigana   => 'いけ',
 );
+
+word(
+    date       => '2012-02-01',
+    word       => '様子',
+    furigana   => 'ようす',
+);
+
+word(
+    date       => '2012-02-01',
+    word       => '微積分',
+    furigana   => 'びせきぶん',
+);
+
+word(
+    date       => '2012-02-01',
+    word       => '諦める',
+    furigana   => 'あきらめる',
+);
+
+word(
+    date       => '2012-02-01',
+    word       => '観客',
+    furigana   => 'かんきゃく',
+);
+
+word(
+    date       => '2012-02-01',
+    word       => '被害',
+    furigana   => 'ひがい',
+);
+
+word(
+    date       => '2012-02-01',
+    word       => '被害者',
+    furigana   => 'ひがいしゃ',
+);
+
+word(
+    date       => '2012-02-01',
+    word       => '幸い',
+    furigana   => 'さいわい',
+);
