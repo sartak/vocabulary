@@ -11520,3 +11520,27 @@ word(
     word       => '貼る',
     furigana   => 'はる',
 );
+
+word(
+    date       => '2012-02-04',
+    word       => '便所',
+    furigana   => 'べんじょ',
+);
+
+word(
+    date       => '2012-02-04',
+    word       => '一発',
+    furigana   => 'いっぱつ',
+);
+
+word(
+    date       => '2012-02-04',
+    word       => '支配',
+    furigana   => 'しはい',
+);
+
+word(
+    date       => '2012-02-04',
+    word       => '友人',
+    furigana   => 'ゆうじん',
+);
