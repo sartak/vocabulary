@@ -11544,3 +11544,21 @@ word(
     word       => '友人',
     furigana   => 'ゆうじん',
 );
+
+word(
+    date       => '2012-02-04',
+    word       => '謎々',
+    furigana   => 'なぞなぞ',
+);
+
+word(
+    date       => '2012-02-04',
+    word       => '読者',
+    furigana   => 'どくしゃ',
+);
+
+word(
+    date       => '2012-02-04',
+    word       => '嵌める',
+    furigana   => 'はめる',
+);
