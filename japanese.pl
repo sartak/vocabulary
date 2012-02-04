@@ -11508,3 +11508,15 @@ word(
     word       => '駆ける',
     furigana   => 'かける',
 );
+
+word(
+    date       => '2012-02-03',
+    word       => '爆発',
+    furigana   => 'ばくはつ',
+);
+
+word(
+    date       => '2012-02-03',
+    word       => '貼る',
+    furigana   => 'はる',
+);
