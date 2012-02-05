@@ -11562,3 +11562,33 @@ word(
     word       => '嵌める',
     furigana   => 'はめる',
 );
+
+word(
+    date       => '2012-02-05',
+    word       => '吹替',
+    furigana   => 'ふきかえ',
+);
+
+word(
+    date       => '2012-02-05',
+    word       => '覚悟',
+    furigana   => 'かくご',
+);
+
+word(
+    date       => '2012-02-05',
+    word       => '反則',
+    furigana   => 'はんそく',
+);
+
+word(
+    date       => '2012-02-05',
+    word       => '軽い',
+    furigana   => 'かるい',
+);
+
+word(
+    date       => '2012-02-05',
+    word       => '残像',
+    furigana   => 'ざんぞう',
+);
