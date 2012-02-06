@@ -11616,3 +11616,9 @@ word(
     word       => '写真家',
     furigana   => 'しゃしんか',
 );
+
+word(
+    date       => '2012-02-05',
+    word       => '増す',
+    furigana   => 'ます',
+);
