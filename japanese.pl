@@ -11592,3 +11592,27 @@ word(
     word       => '残像',
     furigana   => 'ざんぞう',
 );
+
+word(
+    date       => '2012-02-05',
+    word       => '空振り',
+    furigana   => 'からぶり',
+);
+
+word(
+    date       => '2012-02-05',
+    word       => '解決',
+    furigana   => 'かいけつ',
+);
+
+word(
+    date       => '2012-02-05',
+    word       => '約',
+    furigana   => 'やく',
+);
+
+word(
+    date       => '2012-02-05',
+    word       => '写真家',
+    furigana   => 'しゃしんか',
+);
