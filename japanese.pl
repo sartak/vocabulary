@@ -11622,3 +11622,9 @@ word(
     word       => '増す',
     furigana   => 'ます',
 );
+
+word(
+    date       => '2012-02-06',
+    word       => '素早い',
+    furigana   => 'すばやい',
+);
