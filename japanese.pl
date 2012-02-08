@@ -11628,3 +11628,50 @@ word(
     word       => '素早い',
     furigana   => 'すばやい',
 );
+
+word(
+    date       => '2012-02-07',
+    word       => '幻想',
+    furigana   => 'げんそう',
+);
+
+word(
+    date       => '2012-02-07',
+    word       => '身代わり',
+    furigana   => 'みがわり',
+);
+
+word(
+    date       => '2012-02-07',
+    word       => '口笛',
+    furigana   => 'くちぶえ',
+);
+
+word(
+    date       => '2012-02-07',
+    word       => '貧乏',
+    furigana   => 'びんぼう',
+);
+
+word(
+    date       => '2012-02-07',
+    word       => '高級',
+    furigana   => 'こうきゅう',
+);
+
+word(
+    date       => '2012-02-07',
+    word       => '初心者',
+    furigana   => 'しょしんしゃ',
+);
+
+word(
+    date       => '2012-02-07',
+    word       => '実力',
+    furigana   => 'じつりょく',
+);
+
+word(
+    date       => '2012-02-07',
+    word       => '〜まくる',
+);
