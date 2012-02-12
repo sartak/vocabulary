@@ -11687,3 +11687,15 @@ word(
     word       => '樹',
     furigana   => 'き',
 );
+
+word(
+    date       => '2012-02-11',
+    word       => '煙',
+    furigana   => 'けむり',
+);
+
+word(
+    date       => '2012-02-11',
+    word       => '鷲',
+    furigana   => 'わし',
+);
