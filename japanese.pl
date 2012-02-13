@@ -11699,3 +11699,9 @@ word(
     word       => '鷲',
     furigana   => 'わし',
 );
+
+word(
+    date       => '2012-02-12',
+    word       => '天使',
+    furigana   => 'てんし',
+);
