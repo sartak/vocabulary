@@ -11705,3 +11705,33 @@ word(
     word       => '天使',
     furigana   => 'てんし',
 );
+
+word(
+    date       => '2012-02-13',
+    word       => '抱く',
+    furigana   => 'だく',
+);
+
+word(
+    date       => '2012-02-13',
+    word       => '錯覚',
+    furigana   => 'さっかく',
+);
+
+word(
+    date       => '2012-02-13',
+    word       => '格好',
+    furigana   => 'かっこう',
+);
+
+word(
+    date       => '2012-02-13',
+    word       => 'っ放し',
+    furigana   => 'っぱなし',
+);
+
+word(
+    date       => '2012-02-13',
+    word       => '蚊',
+    furigana   => 'か',
+);
