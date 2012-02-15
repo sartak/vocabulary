@@ -11735,3 +11735,15 @@ word(
     word       => '蚊',
     furigana   => 'か',
 );
+
+word(
+    date       => '2012-02-14',
+    word       => '守護天使',
+    furigana   => 'しゅごてんし',
+);
+
+word(
+    date       => '2012-02-14',
+    word       => '獲得',
+    furigana   => 'かくとく',
+);
