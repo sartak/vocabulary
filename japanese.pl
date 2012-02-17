@@ -11753,3 +11753,21 @@ word(
     word       => '編集',
     furigana   => 'へんしゅう',
 );
+
+word(
+    date       => '2012-02-17',
+    word       => '公平',
+    furigana   => 'こうへい',
+);
+
+word(
+    date       => '2012-02-17',
+    word       => '不公平',
+    furigana   => 'ふこうへい',
+);
+
+word(
+    date       => '2012-02-17',
+    word       => '添える',
+    furigana   => 'そえる',
+);
