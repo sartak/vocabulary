@@ -11771,3 +11771,68 @@ word(
     word       => '添える',
     furigana   => 'そえる',
 );
+
+word(
+    date       => '2012-02-18',
+    word       => '焦げる',
+    furigana   => 'こげる',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '打合せ',
+    furigana   => 'うちあわせ',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '騙す',
+    furigana   => 'だます',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '一生懸命',
+    furigana   => 'いっしょうけんめい',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '窓口',
+    furigana   => 'まどぐち',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '充実',
+    furigana   => 'じゅうじつ',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => 'べからず',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '措置',
+    furigana   => 'そち',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '別名',
+    furigana   => 'べつめい',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '発現',
+    furigana   => 'はつげん',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '親しい',
+    furigana   => 'したしい',
+);
