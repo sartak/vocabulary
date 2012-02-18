@@ -11836,3 +11836,15 @@ word(
     word       => '親しい',
     furigana   => 'したしい',
 );
+
+word(
+    date       => '2012-02-18',
+    word       => '迫る',
+    furigana   => 'せまる',
+);
+
+word(
+    date       => '2012-02-18',
+    word       => '裂け目',
+    furigana   => 'さけめ',
+);
