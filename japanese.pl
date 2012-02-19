@@ -11848,3 +11848,15 @@ word(
     word       => '裂け目',
     furigana   => 'さけめ',
 );
+
+word(
+    date       => '2012-02-19',
+    word       => '逆襲',
+    furigana   => 'ぎゃくしゅう',
+);
+
+word(
+    date       => '2012-02-19',
+    word       => '気合い',
+    furigana   => 'きあい',
+);
