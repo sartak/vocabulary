@@ -11902,3 +11902,21 @@ word(
     word       => '勝機',
     furigana   => 'しょうき',
 );
+
+word(
+    date       => '2012-02-20',
+    word       => '楽',
+    furigana   => 'らく',
+);
+
+word(
+    date       => '2012-02-20',
+    word       => '過ち',
+    furigana   => 'あやまち',
+);
+
+word(
+    date       => '2012-02-20',
+    word       => '認める',
+    furigana   => 'みとめる',
+);
