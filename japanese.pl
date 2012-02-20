@@ -11860,3 +11860,45 @@ word(
     word       => '気合い',
     furigana   => 'きあい',
 );
+
+word(
+    date       => '2012-02-19',
+    word       => '滑らか',
+    furigana   => 'なめらか',
+);
+
+word(
+    date       => '2012-02-19',
+    word       => '感触',
+    furigana   => 'かんしょく',
+);
+
+word(
+    date       => '2012-02-19',
+    word       => '賭け',
+    furigana   => 'かけ',
+);
+
+word(
+    date       => '2012-02-19',
+    word       => '賭ける',
+    furigana   => 'かける',
+);
+
+word(
+    date       => '2012-02-19',
+    word       => '手負い',
+    furigana   => 'ておい',
+);
+
+word(
+    date       => '2012-02-19',
+    word       => '熊',
+    furigana   => 'くま',
+);
+
+word(
+    date       => '2012-02-19',
+    word       => '勝機',
+    furigana   => 'しょうき',
+);
