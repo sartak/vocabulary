@@ -11920,3 +11920,9 @@ word(
     word       => '認める',
     furigana   => 'みとめる',
 );
+
+word(
+    date       => '2012-02-20',
+    word       => '企む',
+    furigana   => 'たくらむ',
+);
