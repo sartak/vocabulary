@@ -11938,3 +11938,20 @@ word(
     word       => '爪',
     furigana   => 'つめ',
 );
+
+word(
+    date       => '2012-02-24',
+    word       => '館',
+    furigana   => 'やかた',
+);
+
+word(
+    date       => '2012-02-24',
+    word       => 'かつて',
+);
+
+word(
+    date       => '2012-02-24',
+    word       => '村人',
+    furigana   => 'むらびと',
+);
