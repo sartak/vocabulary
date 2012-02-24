@@ -11926,3 +11926,15 @@ word(
     word       => '企む',
     furigana   => 'たくらむ',
 );
+
+word(
+    date       => '2012-02-23',
+    word       => '先輩',
+    furigana   => 'せんぱい',
+);
+
+word(
+    date       => '2012-02-23',
+    word       => '爪',
+    furigana   => 'つめ',
+);
