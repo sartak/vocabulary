@@ -11955,3 +11955,21 @@ word(
     word       => '村人',
     furigana   => 'むらびと',
 );
+
+word(
+    date       => '2012-02-25',
+    word       => '企てる',
+    furigana   => 'くわだてる',
+);
+
+word(
+    date       => '2012-02-25',
+    word       => '報',
+    furigana   => 'ほう',
+);
+
+word(
+    date       => '2012-02-25',
+    word       => '枕',
+    furigana   => 'まくら',
+);
