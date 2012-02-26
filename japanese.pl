@@ -11996,3 +11996,26 @@ word(
     word       => '斬る',
     furigana   => 'きる',
 );
+
+word(
+    date       => '2012-02-26',
+    word       => '職業',
+    furigana   => 'しょくぎょう',
+);
+
+word(
+    date       => '2012-02-26',
+    word       => '虐殺',
+    furigana   => 'ぎゃくさつ',
+);
+
+word(
+    date       => '2012-02-26',
+    word       => '制御',
+    furigana   => 'せいぎょ',
+);
+
+word(
+    date       => '2012-02-26',
+    word       => 'すっかり',
+);
