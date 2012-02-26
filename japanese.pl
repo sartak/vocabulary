@@ -11990,3 +11990,9 @@ word(
     word       => '卒業',
     furigana   => 'そつぎょう',
 );
+
+word(
+    date       => '2012-02-25',
+    word       => '斬る',
+    furigana   => 'きる',
+);
