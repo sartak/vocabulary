@@ -11973,3 +11973,20 @@ word(
     word       => '枕',
     furigana   => 'まくら',
 );
+
+word(
+    date       => '2012-02-25',
+    word       => 'ですら',
+);
+
+word(
+    date       => '2012-02-25',
+    word       => '緊張',
+    furigana   => 'きんちょう',
+);
+
+word(
+    date       => '2012-02-25',
+    word       => '卒業',
+    furigana   => 'そつぎょう',
+);
