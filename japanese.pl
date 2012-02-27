@@ -12031,3 +12031,9 @@ word(
     word       => '傷跡',
     furigana   => 'きずあと',
 );
+
+word(
+    date       => '2012-02-26',
+    word       => '流す',
+    furigana   => 'ながす',
+);
