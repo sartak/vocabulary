@@ -12037,3 +12037,15 @@ word(
     word       => '流す',
     furigana   => 'ながす',
 );
+
+word(
+    date       => '2012-02-28',
+    word       => '獅子',
+    furigana   => 'しし',
+);
+
+word(
+    date       => '2012-02-28',
+    word       => '固い',
+    furigana   => 'かたい',
+);
