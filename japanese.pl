@@ -12055,3 +12055,21 @@ word(
     word       => '出発',
     furigana   => 'しゅっぱつ',
 );
+
+word(
+    date       => '2012-02-29',
+    word       => '騎士',
+    furigana   => 'きし',
+);
+
+word(
+    date       => '2012-02-29',
+    word       => '侯爵',
+    furigana   => 'こうしゃく',
+);
+
+word(
+    date       => '2012-02-29',
+    word       => '見習い',
+    furigana   => 'みならい',
+);
