@@ -12049,3 +12049,9 @@ word(
     word       => '固い',
     furigana   => 'かたい',
 );
+
+word(
+    date       => '2012-02-28',
+    word       => '出発',
+    furigana   => 'しゅっぱつ',
+);
