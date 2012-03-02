@@ -12105,3 +12105,39 @@ word(
     date       => '2012-03-01',
     word       => 'どうせ',
 );
+
+word(
+    date       => '2012-03-01',
+    word       => '食料',
+    furigana   => 'しょくりょう',
+);
+
+word(
+    date       => '2012-03-01',
+    word       => '無力',
+    furigana   => 'むりょく',
+);
+
+word(
+    date       => '2012-03-01',
+    word       => '遠視',
+    furigana   => 'えんし',
+);
+
+word(
+    date       => '2012-03-01',
+    word       => '魔除け',
+    furigana   => 'まよけ',
+);
+
+word(
+    date       => '2012-03-01',
+    word       => '兜',
+    furigana   => 'かぶと',
+);
+
+word(
+    date       => '2012-03-01',
+    word       => '鎧',
+    furigana   => 'よろい',
+);
