@@ -12153,3 +12153,20 @@ word(
     word       => '逃亡',
     furigana   => 'とうぼう',
 );
+
+word(
+    date       => '2012-03-02',
+    word       => '予算',
+    furigana   => 'よさん',
+);
+
+word(
+    date       => '2012-03-02',
+    word       => '膨らむ',
+    furigana   => 'ふくらむ',
+);
+
+word(
+    date       => '2012-03-02',
+    word       => 'ケンカ',
+);
