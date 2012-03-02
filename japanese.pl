@@ -12141,3 +12141,15 @@ word(
     word       => '鎧',
     furigana   => 'よろい',
 );
+
+word(
+    date       => '2012-03-02',
+    word       => '疼く',
+    furigana   => 'うずく',
+);
+
+word(
+    date       => '2012-03-02',
+    word       => '逃亡',
+    furigana   => 'とうぼう',
+);
