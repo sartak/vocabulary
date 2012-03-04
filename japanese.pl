@@ -12176,3 +12176,39 @@ word(
     word       => '臆病',
     furigana   => 'おくびょう',
 );
+
+word(
+    date       => '2012-03-03',
+    word       => '四半分',
+    furigana   => 'しはんぶん',
+);
+
+word(
+    date       => '2012-03-03',
+    word       => '弓',
+    furigana   => 'ゆみ',
+);
+
+word(
+    date       => '2012-03-03',
+    word       => '編成',
+    furigana   => 'へんせい',
+);
+
+word(
+    date       => '2012-03-03',
+    word       => '報酬',
+    furigana   => 'ほうしゅう',
+);
+
+word(
+    date       => '2012-03-03',
+    word       => '装着',
+    furigana   => 'そうちゃく',
+);
+
+word(
+    date       => '2012-03-03',
+    word       => '驚く',
+    furigana   => 'おどろく',
+);
