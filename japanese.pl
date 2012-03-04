@@ -12212,3 +12212,15 @@ word(
     word       => '驚く',
     furigana   => 'おどろく',
 );
+
+word(
+    date       => '2012-03-04',
+    word       => '時空',
+    furigana   => 'じくう',
+);
+
+word(
+    date       => '2012-03-04',
+    word       => '歪む',
+    furigana   => 'ゆがむ',
+);
