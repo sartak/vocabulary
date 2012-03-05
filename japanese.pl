@@ -12224,3 +12224,9 @@ word(
     word       => '歪む',
     furigana   => 'ゆがむ',
 );
+
+word(
+    date       => '2012-03-05',
+    word       => '表',
+    furigana   => 'おもて',
+);
