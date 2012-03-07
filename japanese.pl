@@ -12230,3 +12230,15 @@ word(
     word       => '表',
     furigana   => 'おもて',
 );
+
+word(
+    date       => '2012-03-06',
+    word       => '暖炉',
+    furigana   => 'だんろ',
+);
+
+word(
+    date       => '2012-03-06',
+    word       => '地点',
+    furigana   => 'ちてん',
+);
