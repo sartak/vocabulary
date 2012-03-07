@@ -12242,3 +12242,9 @@ word(
     word       => '地点',
     furigana   => 'ちてん',
 );
+
+word(
+    date       => '2012-03-07',
+    word       => '片〜',
+    furigana   => 'かた〜',
+);
