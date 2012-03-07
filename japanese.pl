@@ -12260,3 +12260,9 @@ word(
     word       => '中断',
     furigana   => 'ちゅうだん',
 );
+
+word(
+    date       => '2012-03-07',
+    word       => '用件',
+    furigana   => 'ようけん',
+);
