@@ -12248,3 +12248,15 @@ word(
     word       => '片〜',
     furigana   => 'かた〜',
 );
+
+word(
+    date       => '2012-03-07',
+    word       => '再開',
+    furigana   => 'さいかい',
+);
+
+word(
+    date       => '2012-03-07',
+    word       => '中断',
+    furigana   => 'ちゅうだん',
+);
