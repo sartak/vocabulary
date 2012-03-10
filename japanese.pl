@@ -12320,3 +12320,33 @@ word(
     word       => '青年',
     furigana   => 'せいねん',
 );
+
+word(
+    date       => '2012-03-10',
+    word       => '早口言葉',
+    furigana   => 'はやくちことば',
+);
+
+word(
+    date       => '2012-03-10',
+    word       => '向上',
+    furigana   => 'こうじょう',
+);
+
+word(
+    date       => '2012-03-10',
+    word       => '修正',
+    furigana   => 'しゅうせい',
+);
+
+word(
+    date       => '2012-03-10',
+    word       => '常時',
+    furigana   => 'じょうじ',
+);
+
+word(
+    date       => '2012-03-10',
+    word       => '寿命',
+    furigana   => 'じゅみょう',
+);
