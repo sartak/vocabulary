@@ -12272,3 +12272,51 @@ word(
     word       => '了承',
     furigana   => 'りょうしょう',
 );
+
+word(
+    date       => '2012-03-09',
+    word       => '庭',
+    furigana   => 'にわ',
+);
+
+word(
+    date       => '2012-03-09',
+    word       => '憂鬱',
+    furigana   => 'ゆううつ',
+);
+
+word(
+    date       => '2012-03-09',
+    word       => '怒鳴る',
+    furigana   => 'どなる',
+);
+
+word(
+    date       => '2012-03-09',
+    word       => '巻紙',
+    furigana   => 'まきがみ',
+);
+
+word(
+    date       => '2012-03-09',
+    word       => '現す',
+    furigana   => 'あらわす',
+);
+
+word(
+    date       => '2012-03-09',
+    word       => '年齢',
+    furigana   => 'ねんれい',
+);
+
+word(
+    date       => '2012-03-09',
+    word       => '訊く',
+    furigana   => 'きく',
+);
+
+word(
+    date       => '2012-03-09',
+    word       => '青年',
+    furigana   => 'せいねん',
+);
