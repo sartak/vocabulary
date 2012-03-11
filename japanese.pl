@@ -12350,3 +12350,9 @@ word(
     word       => '寿命',
     furigana   => 'じゅみょう',
 );
+
+word(
+    date       => '2012-03-10',
+    word       => '裏',
+    furigana   => 'うら',
+);
