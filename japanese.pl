@@ -12356,3 +12356,51 @@ word(
     word       => '裏',
     furigana   => 'うら',
 );
+
+word(
+    date       => '2012-03-11',
+    word       => '手裏剣',
+    furigana   => 'しゅりけん',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '点心',
+    furigana   => 'てんしん',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '陛下',
+    furigana   => 'へいか',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '見本',
+    furigana   => 'みほん',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '故障',
+    furigana   => 'こしょう',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '苛める',
+    furigana   => 'いじめる',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '魂',
+    furigana   => 'たましい',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '並ぶ',
+    furigana   => 'ならぶ',
+);
