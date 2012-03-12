@@ -12422,3 +12422,9 @@ word(
     word       => '皮肉',
     furigana   => 'ひにく',
 );
+
+word(
+    date       => '2012-03-12',
+    word       => '触る',
+    furigana   => 'さわる',
+);
