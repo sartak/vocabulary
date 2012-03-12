@@ -12404,3 +12404,21 @@ word(
     word       => '並ぶ',
     furigana   => 'ならぶ',
 );
+
+word(
+    date       => '2012-03-11',
+    word       => '壊す',
+    furigana   => 'こわす',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '紅葉',
+    furigana   => 'こうよう',
+);
+
+word(
+    date       => '2012-03-11',
+    word       => '皮肉',
+    furigana   => 'ひにく',
+);
