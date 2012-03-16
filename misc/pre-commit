@@ -1,2 +1,3 @@
+#!/bin/zsh
 perl -Ilib japanese.pl 1 >/dev/null
 exit $?
