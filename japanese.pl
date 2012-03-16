@@ -12428,3 +12428,39 @@ word(
     word       => '触る',
     furigana   => 'さわる',
 );
+
+word(
+    date       => '2012-03-15',
+    word       => '〜ざるを得る',
+    furigana   => '〜ざるをえる',
+);
+
+word(
+    date       => '2012-03-15',
+    word       => '我慢',
+    furigana   => 'がまん',
+);
+
+word(
+    date       => '2012-03-15',
+    word       => '上司',
+    furigana   => 'じょうし',
+);
+
+word(
+    date       => '2012-03-15',
+    word       => '出張',
+    furigana   => 'しゅっちょう',
+);
+
+word(
+    date       => '2012-03-15',
+    word       => '運命',
+    furigana   => 'うんめい',
+);
+
+word(
+    date       => '2012-03-15',
+    word       => '濃い',
+    furigana   => 'こい',
+);
