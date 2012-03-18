@@ -12464,3 +12464,15 @@ word(
     word       => '濃い',
     furigana   => 'こい',
 );
+
+word(
+    date       => '2012-03-17',
+    word       => '大急ぎ',
+    furigana   => 'おおいそぎ',
+);
+
+word(
+    date       => '2012-03-17',
+    word       => '困難',
+    furigana   => 'こんなん',
+);
