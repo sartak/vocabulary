@@ -12476,3 +12476,51 @@ word(
     word       => '困難',
     furigana   => 'こんなん',
 );
+
+word(
+    date       => '2012-03-18',
+    word       => '事由',
+    furigana   => 'じゆう',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '手続',
+    furigana   => 'てつづき',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '景気',
+    furigana   => 'けいき',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '兼ねる',
+    furigana   => 'かねる',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '別途',
+    furigana   => 'べっと',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '設ける',
+    furigana   => 'もうける',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '個人',
+    furigana   => 'こじん',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '漏洩',
+    furigana   => 'ろうえい',
+);
