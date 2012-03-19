@@ -12524,3 +12524,21 @@ word(
     word       => '漏洩',
     furigana   => 'ろうえい',
 );
+
+word(
+    date       => '2012-03-18',
+    word       => '金貨',
+    furigana   => 'きんか',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '焚き火',
+    furigana   => 'たきび',
+);
+
+word(
+    date       => '2012-03-18',
+    word       => '如何',
+    furigana   => 'いかが',
+);
