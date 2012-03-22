@@ -12548,3 +12548,21 @@ word(
     word       => '派',
     furigana   => 'は',
 );
+
+word(
+    date       => '2012-03-22',
+    word       => '旦那',
+    furigana   => 'だんな',
+);
+
+word(
+    date       => '2012-03-22',
+    word       => '紛れも無い',
+    furigana   => 'まぎれもない',
+);
+
+word(
+    date       => '2012-03-22',
+    word       => '屋敷',
+    furigana   => 'やしき',
+);
