@@ -12542,3 +12542,9 @@ word(
     word       => '如何',
     furigana   => 'いかが',
 );
+
+word(
+    date       => '2012-03-21',
+    word       => '派',
+    furigana   => 'は',
+);
