@@ -12566,3 +12566,39 @@ word(
     word       => '屋敷',
     furigana   => 'やしき',
 );
+
+word(
+    date       => '2012-03-22',
+    word       => '行動',
+    furigana   => 'こうどう',
+);
+
+word(
+    date       => '2012-03-22',
+    word       => '生える',
+    furigana   => 'はえる',
+);
+
+word(
+    date       => '2012-03-22',
+    word       => '噛む',
+    furigana   => 'かむ',
+);
+
+word(
+    date       => '2012-03-22',
+    word       => '賢い',
+    furigana   => 'かしこい',
+);
+
+word(
+    date       => '2012-03-22',
+    word       => '音声',
+    furigana   => 'おんせい',
+);
+
+word(
+    date       => '2012-03-22',
+    word       => '絞殺',
+    furigana   => 'こうさつ',
+);
