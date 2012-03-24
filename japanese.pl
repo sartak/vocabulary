@@ -12614,3 +12614,50 @@ word(
     word       => '狙う',
     furigana   => 'ねらう',
 );
+
+word(
+    date       => '2012-03-24',
+    word       => '得点',
+    furigana   => 'とくてん',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => 'ぴったり',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '唄',
+    furigana   => 'うた',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '邪竜',
+    furigana   => 'どらごん',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '無用',
+    furigana   => 'むよう',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '蠅',
+    furigana   => 'はえ',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '蜘蛛',
+    furigana   => 'くも',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '蛾',
+    furigana   => 'が',
+);
