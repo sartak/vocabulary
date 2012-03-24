@@ -12661,3 +12661,32 @@ word(
     word       => '蛾',
     furigana   => 'が',
 );
+
+word(
+    date       => '2012-03-24',
+    word       => 'がち',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '確定',
+    furigana   => 'かくてい',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '申告',
+    furigana   => 'しんこく',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '留守',
+    furigana   => 'るす',
+);
+
+word(
+    date       => '2012-03-24',
+    word       => '家庭',
+    furigana   => 'かてい',
+);
