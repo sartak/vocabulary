@@ -12690,3 +12690,9 @@ word(
     word       => '家庭',
     furigana   => 'かてい',
 );
+
+word(
+    date       => '2012-03-25',
+    word       => '斡旋',
+    furigana   => 'あっせん',
+);
