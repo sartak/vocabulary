@@ -3811,7 +3811,8 @@ word(
 
 word(
     date       => '2011-07-16',
-    word       => 'ひびく',
+    word       => '響く',
+    furigana   => 'ひびく',
     english    => 'echo',
 );
 
