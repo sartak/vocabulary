@@ -12697,3 +12697,9 @@ word(
     word       => '斡旋',
     furigana   => 'あっせん',
 );
+
+word(
+    date       => '2012-03-27',
+    word       => '震える',
+    furigana   => 'ふるえる',
+);
