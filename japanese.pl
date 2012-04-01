@@ -12743,3 +12743,15 @@ word(
     word       => '押さえる',
     furigana   => 'おさえる',
 );
+
+word(
+    date       => '2012-03-31',
+    word       => '要素',
+    furigana   => 'ようそ',
+);
+
+word(
+    date       => '2012-03-31',
+    word       => '末尾',
+    furigana   => 'まつび',
+);
