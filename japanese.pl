@@ -12720,3 +12720,15 @@ word(
     word       => '大空',
     furigana   => 'おおそら',
 );
+
+word(
+    date       => '2012-03-31',
+    word       => '蜂',
+    furigana   => 'はち',
+);
+
+word(
+    date       => '2012-03-31',
+    word       => '干上がる',
+    furigana   => 'ひあがる',
+);
