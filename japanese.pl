@@ -12755,3 +12755,15 @@ word(
     word       => '末尾',
     furigana   => 'まつび',
 );
+
+word(
+    date       => '2012-04-01',
+    word       => '公開',
+    furigana   => 'こうかい',
+);
+
+word(
+    date       => '2012-04-01',
+    word       => '常識',
+    furigana   => 'じょうしき',
+);
