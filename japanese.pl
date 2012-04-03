@@ -12767,3 +12767,21 @@ word(
     word       => '常識',
     furigana   => 'じょうしき',
 );
+
+word(
+    date       => '2012-04-02',
+    word       => '弱気',
+    furigana   => 'よわき',
+);
+
+word(
+    date       => '2012-04-02',
+    word       => '態度',
+    furigana   => 'たいど',
+);
+
+word(
+    date       => '2012-04-02',
+    word       => '戯言',
+    furigana   => 'たわごと',
+);
