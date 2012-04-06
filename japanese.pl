@@ -12791,3 +12791,15 @@ word(
     word       => '帰還',
     furigana   => 'きかん',
 );
+
+word(
+    date       => '2012-04-05',
+    word       => '特許',
+    furigana   => 'とっきょ',
+);
+
+word(
+    date       => '2012-04-05',
+    word       => '局',
+    furigana   => 'きょく',
+);
