@@ -12827,3 +12827,21 @@ word(
     word       => '怠る',
     furigana   => 'おこたる',
 );
+
+word(
+    date       => '2012-04-06',
+    word       => '特技',
+    furigana   => 'とくぎ',
+);
+
+word(
+    date       => '2012-04-06',
+    word       => '防具',
+    furigana   => 'ぼうぐ',
+);
+
+word(
+    date       => '2012-04-06',
+    word       => '学長',
+    furigana   => 'がくちょう',
+);
