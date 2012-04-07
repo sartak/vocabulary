@@ -12845,3 +12845,15 @@ word(
     word       => '学長',
     furigana   => 'がくちょう',
 );
+
+word(
+    date       => '2012-04-07',
+    word       => '筆順',
+    furigana   => 'ひつじゅん',
+);
+
+word(
+    date       => '2012-04-07',
+    word       => '辞典',
+    furigana   => 'じてん',
+);
