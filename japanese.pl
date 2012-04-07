@@ -12803,3 +12803,27 @@ word(
     word       => '局',
     furigana   => 'きょく',
 );
+
+
+word(
+    date       => '2012-04-06',
+    word       => '製品',
+    furigana   => 'せいひん',
+);
+
+word(
+    date       => '2012-04-06',
+    word       => '発展',
+    furigana   => 'はってん',
+);
+
+word(
+    date       => '2012-04-06',
+    word       => 'ぎりぎり',
+);
+
+word(
+    date       => '2012-04-06',
+    word       => '怠る',
+    furigana   => 'おこたる',
+);
