@@ -12863,3 +12863,14 @@ word(
     word       => '仇',
     furigana   => 'かたき',
 );
+
+word(
+    date       => '2012-04-08',
+    word       => '松明',
+    furigana   => 'たいまつ',
+);
+
+word(
+    date       => '2012-04-08',
+    word       => 'ねばねば',
+);
