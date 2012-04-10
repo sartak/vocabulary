@@ -12880,3 +12880,9 @@ word(
     word       => '流砂',
     furigana   => 'りゅうさ',
 );
+
+word(
+    date       => '2012-04-09',
+    word       => '髑髏',
+    furigana   => 'されこうべ',
+);
