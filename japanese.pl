@@ -12892,3 +12892,15 @@ word(
     word       => '株式会社',
     furigana   => 'かぶしきかいしゃ',
 );
+
+word(
+    date       => '2012-04-11',
+    word       => '終身',
+    furigana   => 'しゅうしん',
+);
+
+word(
+    date       => '2012-04-11',
+    word       => '雇用',
+    furigana   => 'こよう',
+);
