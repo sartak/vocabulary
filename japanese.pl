@@ -12916,3 +12916,21 @@ word(
     word       => '誓う',
     furigana   => 'ちかう',
 );
+
+word(
+    date       => '2012-04-13',
+    word       => '年功',
+    furigana   => 'ねんこう',
+);
+
+word(
+    date       => '2012-04-13',
+    word       => '序列',
+    furigana   => 'じょれつ',
+);
+
+word(
+    date       => '2012-04-13',
+    word       => '慣行',
+    furigana   => 'かんこう',
+);
