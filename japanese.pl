@@ -12904,3 +12904,15 @@ word(
     word       => '雇用',
     furigana   => 'こよう',
 );
+
+word(
+    date       => '2012-04-12',
+    word       => '決して',
+    furigana   => 'けっして',
+);
+
+word(
+    date       => '2012-04-12',
+    word       => '誓う',
+    furigana   => 'ちかう',
+);
