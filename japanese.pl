@@ -12934,3 +12934,21 @@ word(
     word       => '慣行',
     furigana   => 'かんこう',
 );
+
+word(
+    date       => '2012-04-13',
+    word       => '口癖',
+    furigana   => 'くちぐせ',
+);
+
+word(
+    date       => '2012-04-13',
+    word       => '嘆く',
+    furigana   => 'なげく',
+);
+
+word(
+    date       => '2012-04-13',
+    word       => '資格',
+    furigana   => 'しかく',
+);
