@@ -12952,3 +12952,15 @@ word(
     word       => '資格',
     furigana   => 'しかく',
 );
+
+word(
+    date       => '2012-04-14',
+    word       => '無茶',
+    furigana   => 'むちゃ',
+);
+
+word(
+    date       => '2012-04-14',
+    word       => '手段',
+    furigana   => 'しゅだん',
+);
