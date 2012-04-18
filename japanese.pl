@@ -12976,3 +12976,32 @@ word(
     word       => '出社',
     furigana   => 'しゅっしゃ',
 );
+
+word(
+    date       => '2012-04-17',
+    word       => '着信',
+    furigana   => 'ちゃくしん',
+);
+
+word(
+    date       => '2012-04-17',
+    word       => 'だいぶ',
+);
+
+word(
+    date       => '2012-04-17',
+    word       => '興亡',
+    furigana   => 'こうぼう',
+);
+
+word(
+    date       => '2012-04-17',
+    word       => '鼻血',
+    furigana   => 'はなぢ',
+);
+
+word(
+    date       => '2012-04-17',
+    word       => '皆目',
+    furigana   => 'かいもく',
+);
