@@ -13011,3 +13011,21 @@ word(
     word       => '曰く',
     furigana   => 'いわく',
 );
+
+word(
+    date       => '2012-04-19',
+    word       => '売上',
+    furigana   => 'うりあげ',
+);
+
+word(
+    date       => '2012-04-19',
+    word       => '伸びる',
+    furigana   => 'のびる',
+);
+
+word(
+    date       => '2012-04-19',
+    word       => '休日',
+    furigana   => 'きゅうじつ',
+);
