@@ -13029,3 +13029,9 @@ word(
     word       => '休日',
     furigana   => 'きゅうじつ',
 );
+
+word(
+    date       => '2012-04-20',
+    word       => '一握り',
+    furigana   => 'ひとにぎり',
+);
