@@ -13035,3 +13035,9 @@ word(
     word       => '一握り',
     furigana   => 'ひとにぎり',
 );
+
+word(
+    date       => '2012-04-21',
+    word       => '改行',
+    furigana   => 'かいぎょう',
+);
