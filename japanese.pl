@@ -13041,3 +13041,63 @@ word(
     word       => '改行',
     furigana   => 'かいぎょう',
 );
+
+word(
+    date       => '2012-04-21',
+    word       => '千年紀',
+    furigana   => 'せんねんき',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '滅ぶ',
+    furigana   => 'ほろぶ',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '予め',
+    furigana   => 'あらかじめ',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '省力',
+    furigana   => 'しょうりょく',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '省力化',
+    furigana   => 'しょうりょくか',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '牢獄',
+    furigana   => 'ろうごく',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '通路',
+    furigana   => 'つうろ',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '脱出',
+    furigana   => 'だっしゅつ',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '宇宙船',
+    furigana   => 'うちゅうせん',
+);
+
+word(
+    date       => '2012-04-21',
+    word       => '星系',
+    furigana   => 'せいけい',
+);
