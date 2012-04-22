@@ -13107,3 +13107,21 @@ word(
     word       => '米',
     furigana   => 'こめ',
 );
+
+word(
+    date       => '2012-04-22',
+    word       => '瀕死',
+    furigana   => 'ひんし',
+);
+
+word(
+    date       => '2012-04-22',
+    word       => '脚',
+    furigana   => 'あし',
+);
+
+word(
+    date       => '2012-04-22',
+    word       => '最上',
+    furigana   => 'さいじょう',
+);
