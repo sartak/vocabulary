@@ -13101,3 +13101,9 @@ word(
     word       => '星系',
     furigana   => 'せいけい',
 );
+
+word(
+    date       => '2012-04-22',
+    word       => '米',
+    furigana   => 'こめ',
+);
