@@ -13131,3 +13131,9 @@ word(
     word       => '召喚',
     furigana   => 'しょうかん',
 );
+
+word(
+    date       => '2012-04-23',
+    word       => '郵便',
+    furigana   => 'ゆうびん',
+);
