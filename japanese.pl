@@ -13125,3 +13125,9 @@ word(
     word       => '最上',
     furigana   => 'さいじょう',
 );
+
+word(
+    date       => '2012-04-22',
+    word       => '召喚',
+    furigana   => 'しょうかん',
+);
