@@ -13167,3 +13167,15 @@ word(
     word       => '原則',
     furigana   => 'げんそく',
 );
+
+word(
+    date       => '2012-04-25',
+    word       => '結界',
+    furigana   => 'けっかい',
+);
+
+word(
+    date       => '2012-04-25',
+    word       => '解く',
+    furigana   => 'とく',
+);
