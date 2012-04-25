@@ -13137,3 +13137,33 @@ word(
     word       => '郵便',
     furigana   => 'ゆうびん',
 );
+
+word(
+    date       => '2012-04-24',
+    word       => 'マス目',
+    furigana   => 'ますめ',
+);
+
+word(
+    date       => '2012-04-24',
+    word       => '埋める',
+    furigana   => 'うめる',
+);
+
+word(
+    date       => '2012-04-24',
+    word       => '完成',
+    furigana   => 'かんせい',
+);
+
+word(
+    date       => '2012-04-24',
+    word       => '盤面',
+    furigana   => 'ばんめん',
+);
+
+word(
+    date       => '2012-04-24',
+    word       => '原則',
+    furigana   => 'げんそく',
+);
