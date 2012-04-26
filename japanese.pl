@@ -13179,3 +13179,20 @@ word(
     word       => '解く',
     furigana   => 'とく',
 );
+
+word(
+    date       => '2012-04-26',
+    word       => 'だらけ',
+);
+
+word(
+    date       => '2012-04-26',
+    word       => '埃',
+    furigana   => 'ほこり'
+);
+
+word(
+    date       => '2012-04-26',
+    word       => '拭く',
+    furigana   => 'ふく'
+);
