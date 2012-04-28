@@ -13202,3 +13202,51 @@ word(
     word       => '粉々',
     furigana   => 'こなごな'
 );
+
+word(
+    date       => '2012-04-28',
+    word       => '推薦',
+    furigana   => 'すいせん'
+);
+
+word(
+    date       => '2012-04-28',
+    word       => '探索',
+    furigana   => 'たんさく'
+);
+
+word(
+    date       => '2012-04-28',
+    word       => '判別',
+    furigana   => 'はんべつ'
+);
+
+word(
+    date       => '2012-04-28',
+    word       => '出現',
+    furigana   => 'しゅつげん'
+);
+
+word(
+    date       => '2012-04-28',
+    word       => '難易',
+    furigana   => 'なんい'
+);
+
+word(
+    date       => '2012-04-28',
+    word       => '関する',
+    furigana   => 'かんする'
+);
+
+word(
+    date       => '2012-04-28',
+    word       => '倉庫',
+    furigana   => 'そうこ'
+);
+
+word(
+    date       => '2012-04-28',
+    word       => '倉庫番',
+    furigana   => 'そうこばん'
+);
