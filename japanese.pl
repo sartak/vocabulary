@@ -13250,3 +13250,9 @@ word(
     word       => '倉庫番',
     furigana   => 'そうこばん'
 );
+
+word(
+    date       => '2012-04-29',
+    word       => '搭載',
+    furigana   => 'とうさい'
+);
