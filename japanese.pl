@@ -13256,3 +13256,15 @@ word(
     word       => '搭載',
     furigana   => 'とうさい'
 );
+
+word(
+    date       => '2012-05-07',
+    word       => '難解',
+    furigana   => 'なんかい'
+);
+
+word(
+    date       => '2012-05-07',
+    word       => '直後',
+    furigana   => 'ちょくご'
+);
