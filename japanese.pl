@@ -13268,3 +13268,9 @@ word(
     word       => '直後',
     furigana   => 'ちょくご'
 );
+
+word(
+    date       => '2012-05-08',
+    word       => '英和',
+    furigana   => 'えいわ'
+);
