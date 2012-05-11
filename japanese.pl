@@ -13280,3 +13280,15 @@ word(
     word       => '蹴る',
     furigana   => 'ける'
 );
+
+word(
+    date       => '2012-05-10',
+    word       => '反映',
+    furigana   => 'はんえい'
+);
+
+word(
+    date       => '2012-05-10',
+    word       => '分散',
+    furigana   => 'ぶんさん'
+);
