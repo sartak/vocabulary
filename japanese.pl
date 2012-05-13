@@ -13292,3 +13292,33 @@ word(
     word       => '分散',
     furigana   => 'ぶんさん'
 );
+
+word(
+    date       => '2012-05-12',
+    word       => '脆い',
+    furigana   => 'もろい'
+);
+
+word(
+    date       => '2012-05-12',
+    word       => '民族',
+    furigana   => 'みんぞく'
+);
+
+word(
+    date       => '2012-05-12',
+    word       => '距離',
+    furigana   => 'きょり'
+);
+
+word(
+    date       => '2012-05-12',
+    word       => '凄まじい',
+    furigana   => 'すさまじい'
+);
+
+word(
+    date       => '2012-05-12',
+    word       => '下らない',
+    furigana   => 'くだらない'
+);
