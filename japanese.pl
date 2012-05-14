@@ -13322,3 +13322,15 @@ word(
     word       => '下らない',
     furigana   => 'くだらない'
 );
+
+word(
+    date       => '2012-05-13',
+    word       => '連想',
+    furigana   => 'れんそう'
+);
+
+word(
+    date       => '2012-05-13',
+    word       => '記号',
+    furigana   => 'きごう'
+);
