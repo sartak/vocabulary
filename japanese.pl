@@ -13334,3 +13334,15 @@ word(
     word       => '記号',
     furigana   => 'きごう'
 );
+
+word(
+    date       => '2012-05-20',
+    word       => '毒物',
+    furigana   => 'どくぶつ'
+);
+
+word(
+    date       => '2012-05-20',
+    word       => '針',
+    furigana   => 'はり'
+);
