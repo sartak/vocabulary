@@ -13346,3 +13346,9 @@ word(
     word       => '針',
     furigana   => 'はり'
 );
+
+word(
+    date       => '2012-05-25',
+    word       => '同社',
+    furigana   => 'どうしゃ'
+);
