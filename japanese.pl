@@ -13352,3 +13352,27 @@ word(
     word       => '同社',
     furigana   => 'どうしゃ'
 );
+
+word(
+    date       => '2012-05-26',
+    word       => '疑惑',
+    furigana   => 'ぎわく'
+);
+
+word(
+    date       => '2012-05-26',
+    word       => '頷く',
+    furigana   => 'うなずく'
+);
+
+word(
+    date       => '2012-05-26',
+    word       => '閣下',
+    furigana   => 'かっか'
+);
+
+word(
+    date       => '2012-05-26',
+    word       => '調節',
+    furigana   => 'ちょうせつ'
+);
