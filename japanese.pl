@@ -13376,3 +13376,9 @@ word(
     word       => '調節',
     furigana   => 'ちょうせつ'
 );
+
+word(
+    date       => '2012-05-27',
+    word       => '飛行便',
+    furigana   => 'ひこうびん'
+);
