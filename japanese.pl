@@ -13382,3 +13382,15 @@ word(
     word       => '飛行便',
     furigana   => 'ひこうびん'
 );
+
+word(
+    date       => '2012-05-28',
+    word       => '泡',
+    furigana   => 'あわ'
+);
+
+word(
+    date       => '2012-05-28',
+    word       => '接近',
+    furigana   => 'せっきん'
+);
