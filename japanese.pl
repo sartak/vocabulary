@@ -13394,3 +13394,45 @@ word(
     word       => '接近',
     furigana   => 'せっきん'
 );
+
+word(
+    date       => '2012-05-29',
+    word       => '凡そ',
+    furigana   => 'およそ'
+);
+
+word(
+    date       => '2012-05-29',
+    word       => '細部',
+    furigana   => 'さいぶ'
+);
+
+word(
+    date       => '2012-05-29',
+    word       => '技術',
+    furigana   => 'ぎじゅつ'
+);
+
+word(
+    date       => '2012-05-29',
+    word       => '隠蔽',
+    furigana   => 'いんぺい'
+);
+
+word(
+    date       => '2012-05-29',
+    word       => '群',
+    furigana   => 'ぐん'
+);
+
+word(
+    date       => '2012-05-29',
+    word       => '該当',
+    furigana   => 'がいとう'
+);
+
+word(
+    date       => '2012-05-29',
+    word       => '容易',
+    furigana   => 'ようい'
+);
