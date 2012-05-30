@@ -13436,3 +13436,39 @@ word(
     word       => '容易',
     furigana   => 'ようい'
 );
+
+word(
+    date       => '2012-05-30',
+    word       => '塗れ',
+    furigana   => 'まみれ'
+);
+
+word(
+    date       => '2012-05-30',
+    word       => '修理',
+    furigana   => 'しゅうり'
+);
+
+word(
+    date       => '2012-05-30',
+    word       => '情けない',
+    furigana   => 'なさけない',
+);
+
+word(
+    date       => '2012-05-30',
+    word       => '尽くめ',
+    furigana   => 'ずくめ',
+);
+
+word(
+    date       => '2012-05-30',
+    word       => '団体',
+    furigana   => 'だんたい',
+);
+
+word(
+    date       => '2012-05-30',
+    word       => '栄養',
+    furigana   => 'えいよう',
+);
