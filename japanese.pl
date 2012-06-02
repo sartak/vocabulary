@@ -13472,3 +13472,38 @@ word(
     word       => '栄養',
     furigana   => 'えいよう',
 );
+
+word(
+    date       => '2012-06-02',
+    word       => '早いか',
+    furigana   => 'はやいか',
+);
+
+word(
+    date       => '2012-06-02',
+    word       => '放り込む',
+    furigana   => 'ほうりこむ',
+);
+
+word(
+    date       => '2012-06-02',
+    word       => '搭乗',
+    furigana   => 'とうじょう',
+);
+
+word(
+    date       => '2012-06-02',
+    word       => 'や否や',
+    furigana   => 'やいなや',
+);
+
+word(
+    date       => '2012-06-02',
+    word       => '散らかす',
+    furigana   => 'ちらかす',
+);
+
+word(
+    date       => '2012-06-02',
+    word       => 'そばから',
+);
