@@ -13514,3 +13514,8 @@ word(
     furigana   => 'きんみらい',
 );
 
+word(
+    date       => '2012-06-04',
+    word       => '履歴',
+    furigana   => 'りれき',
+);
