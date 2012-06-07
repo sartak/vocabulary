@@ -13519,3 +13519,15 @@ word(
     word       => '履歴',
     furigana   => 'りれき',
 );
+
+word(
+    date       => '2012-06-07',
+    word       => '被曝',
+    furigana   => 'ひばく',
+);
+
+word(
+    date       => '2012-06-07',
+    word       => '晒す',
+    furigana   => 'さらす',
+);
