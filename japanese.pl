@@ -13531,3 +13531,10 @@ word(
     word       => '晒す',
     furigana   => 'さらす',
 );
+
+word(
+    date       => '2012-06-08',
+    word       => '原発',
+    furigana   => 'げんぱつ',
+);
+
