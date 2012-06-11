@@ -13538,3 +13538,38 @@ word(
     furigana   => 'げんぱつ',
 );
 
+word(
+    date       => '2012-06-10',
+    word       => '実地',
+    furigana   => 'じっち',
+);
+
+word(
+    date       => '2012-06-10',
+    word       => '噂',
+    furigana   => 'うわさ',
+);
+
+word(
+    date       => '2012-06-10',
+    word       => '選考',
+    furigana   => 'せんこう',
+);
+
+word(
+    date       => '2012-06-10',
+    word       => '怪我',
+    furigana   => 'けが',
+);
+
+word(
+    date       => '2012-06-10',
+    word       => '洞窟',
+    furigana   => 'どうくつ',
+);
+
+word(
+    date       => '2012-06-10',
+    word       => '発見',
+    furigana   => 'はっけん',
+);
