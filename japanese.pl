@@ -13573,3 +13573,15 @@ word(
     word       => '発見',
     furigana   => 'はっけん',
 );
+
+word(
+    date       => '2012-06-12',
+    word       => '鋼',
+    furigana   => 'はがね',
+);
+
+word(
+    date       => '2012-06-12',
+    word       => '錬金術',
+    furigana   => 'れんきんじゅつ',
+);
