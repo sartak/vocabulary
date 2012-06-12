@@ -13585,3 +13585,15 @@ word(
     word       => '錬金術',
     furigana   => 'れんきんじゅつ',
 );
+
+word(
+    date       => '2012-06-12',
+    word       => '思いきや',
+    furigana   => 'おもいきや',
+);
+
+word(
+    date       => '2012-06-12',
+    word       => '会計',
+    furigana   => 'かいけい',
+);
