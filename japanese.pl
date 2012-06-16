@@ -13597,3 +13597,38 @@ word(
     word       => '会計',
     furigana   => 'かいけい',
 );
+
+word(
+    date       => '2012-06-16',
+    word       => '散歩',
+    furigana   => 'さんぽ',
+);
+
+word(
+    date       => '2012-06-16',
+    word       => 'がてら',
+);
+
+word(
+    date       => '2012-06-16',
+    word       => '土産',
+    furigana   => 'みやげ',
+);
+
+word(
+    date       => '2012-06-16',
+    word       => '挙句',
+    furigana   => 'あげく',
+);
+
+word(
+    date       => '2012-06-16',
+    word       => '事情',
+    furigana   => 'じじょう',
+);
+
+word(
+    date       => '2012-06-16',
+    word       => '退学',
+    furigana   => 'たいがく',
+);
