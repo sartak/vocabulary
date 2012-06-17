@@ -13632,3 +13632,9 @@ word(
     word       => '退学',
     furigana   => 'たいがく',
 );
+
+word(
+    date       => '2012-06-16',
+    word       => '委員',
+    furigana   => 'いいん',
+);
