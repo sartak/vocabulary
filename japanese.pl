@@ -13638,3 +13638,33 @@ word(
     word       => '委員',
     furigana   => 'いいん',
 );
+
+word(
+    date       => '2012-06-19',
+    word       => '機',
+    furigana   => 'き',
+);
+
+word(
+    date       => '2012-06-19',
+    word       => '匂い',
+    furigana   => 'におい',
+);
+
+word(
+    date       => '2012-06-19',
+    word       => '将来',
+    furigana   => 'しょうらい',
+);
+
+word(
+    date       => '2012-06-19',
+    word       => '離陸',
+    furigana   => 'りりく',
+);
+
+word(
+    date       => '2012-06-19',
+    word       => '冷静',
+    furigana   => 'れいせい',
+);
