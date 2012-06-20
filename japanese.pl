@@ -13668,3 +13668,15 @@ word(
     word       => '冷静',
     furigana   => 'れいせい',
 );
+
+word(
+    date       => '2012-06-20',
+    word       => '併用',
+    furigana   => 'へいよう',
+);
+
+word(
+    date       => '2012-06-20',
+    word       => '味方',
+    furigana   => 'みかた',
+);
