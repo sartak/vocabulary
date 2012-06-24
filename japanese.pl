@@ -13680,3 +13680,9 @@ word(
     word       => '味方',
     furigana   => 'みかた',
 );
+
+word(
+    date       => '2012-06-23',
+    word       => '瞑る',
+    furigana   => 'つぶる',
+);
