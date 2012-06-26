@@ -13686,3 +13686,9 @@ word(
     word       => '瞑る',
     furigana   => 'つぶる',
 );
+
+word(
+    date       => '2012-06-25',
+    word       => '助数詞',
+    furigana   => 'じょすうし',
+);
