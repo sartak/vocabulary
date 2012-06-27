@@ -13698,3 +13698,27 @@ word(
     word       => '他人',
     furigana   => 'たにん',
 );
+
+word(
+    date       => '2012-06-27',
+    word       => '光景',
+    furigana   => 'こうけい',
+);
+
+word(
+    date       => '2012-06-27',
+    word       => '畜生',
+    furigana   => 'ちくしょう',
+);
+
+word(
+    date       => '2012-06-27',
+    word       => '清める',
+    furigana   => 'きよめる',
+);
+
+word(
+    date       => '2012-06-27',
+    word       => '保つ',
+    furigana   => 'たもつ',
+);
