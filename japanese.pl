@@ -13692,3 +13692,9 @@ word(
     word       => '助数詞',
     furigana   => 'じょすうし',
 );
+
+word(
+    date       => '2012-06-26',
+    word       => '他人',
+    furigana   => 'たにん',
+);
