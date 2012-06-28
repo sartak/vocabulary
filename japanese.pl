@@ -13722,3 +13722,21 @@ word(
     word       => '保つ',
     furigana   => 'たもつ',
 );
+
+word(
+    date       => '2012-06-27',
+    word       => '私服',
+    furigana   => 'しふく',
+);
+
+word(
+    date       => '2012-06-27',
+    word       => '集合',
+    furigana   => 'しゅうごう',
+);
+
+word(
+    date       => '2012-06-27',
+    word       => '組織',
+    furigana   => 'そしき',
+);
