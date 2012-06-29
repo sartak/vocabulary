@@ -13740,3 +13740,21 @@ word(
     word       => '組織',
     furigana   => 'そしき',
 );
+
+word(
+    date       => '2012-06-28',
+    word       => '分科',
+    furigana   => 'ぶんか',
+);
+
+word(
+    date       => '2012-06-28',
+    word       => '分科会',
+    furigana   => 'ぶんかかい',
+);
+
+word(
+    date       => '2012-06-28',
+    word       => '社会',
+    furigana   => 'しゃかい',
+);
