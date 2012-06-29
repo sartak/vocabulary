@@ -13764,3 +13764,15 @@ word(
     word       => '前作',
     furigana   => 'ぜんさく',
 );
+
+word(
+    date       => '2012-06-29',
+    word       => '淋しい',
+    furigana   => 'さびしい',
+);
+
+word(
+    date       => '2012-06-29',
+    word       => '唇',
+    furigana   => 'くちびる',
+);
