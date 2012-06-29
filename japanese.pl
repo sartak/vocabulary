@@ -13758,3 +13758,9 @@ word(
     word       => '社会',
     furigana   => 'しゃかい',
 );
+
+word(
+    date       => '2012-06-29',
+    word       => '前作',
+    furigana   => 'ぜんさく',
+);
