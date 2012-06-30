@@ -13788,3 +13788,51 @@ word(
     word       => '雛',
     furigana   => 'ひな',
 );
+
+word(
+    date       => '2012-06-30',
+    word       => '議会',
+    furigana   => 'ぎかい',
+);
+
+word(
+    date       => '2012-06-30',
+    word       => '審議会',
+    furigana   => 'しんぎかい',
+);
+
+word(
+    date       => '2012-06-30',
+    word       => '甲斐',
+    furigana   => 'かい',
+);
+
+word(
+    date       => '2012-06-30',
+    word       => '現状',
+    furigana   => 'げんじょう',
+);
+
+word(
+    date       => '2012-06-30',
+    word       => '鬱病',
+    furigana   => 'うつびょう',
+);
+
+word(
+    date       => '2012-06-30',
+    word       => '片仮名',
+    furigana   => 'カタカナ',
+);
+
+word(
+    date       => '2012-06-30',
+    word       => '物知り',
+    furigana   => 'ものしり',
+);
+
+word(
+    date       => '2012-06-30',
+    word       => '爆破',
+    furigana   => 'ばくは',
+);
