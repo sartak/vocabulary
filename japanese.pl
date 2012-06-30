@@ -13776,3 +13776,15 @@ word(
     word       => '唇',
     furigana   => 'くちびる',
 );
+
+word(
+    date       => '2012-06-29',
+    word       => '天井',
+    furigana   => 'てんじょう',
+);
+
+word(
+    date       => '2012-06-29',
+    word       => '雛',
+    furigana   => 'ひな',
+);
