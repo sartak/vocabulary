@@ -13848,3 +13848,15 @@ word(
     word       => '愛しい',
     furigana   => 'いとしい',
 );
+
+word(
+    date       => '2012-07-01',
+    word       => '異常',
+    furigana   => 'いじょう',
+);
+
+word(
+    date       => '2012-07-01',
+    word       => '万能',
+    furigana   => 'ばんのう',
+);
