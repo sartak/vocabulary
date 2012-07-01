@@ -13836,3 +13836,9 @@ word(
     word       => '爆破',
     furigana   => 'ばくは',
 );
+
+word(
+    date       => '2012-07-01',
+    word       => '精々',
+    furigana   => 'せいぜい',
+);
