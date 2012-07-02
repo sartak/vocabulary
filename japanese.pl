@@ -13860,3 +13860,9 @@ word(
     word       => '万能',
     furigana   => 'ばんのう',
 );
+
+word(
+    date       => '2012-07-02',
+    word       => '愛称',
+    furigana   => 'あいしょう',
+);
