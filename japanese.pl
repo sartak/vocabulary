@@ -13872,3 +13872,50 @@ word(
     word       => '確信',
     furigana   => 'かくしん',
 );
+
+word(
+    date       => '2012-07-03',
+    word       => '一通り',
+    furigana   => 'ひととおり',
+);
+
+word(
+    date       => '2012-07-03',
+    word       => '紐',
+    furigana   => 'ひも',
+);
+
+word(
+    date       => '2012-07-03',
+    word       => '精製',
+    furigana   => 'せいせい',
+);
+
+word(
+    date       => '2012-07-03',
+    word       => '冷気',
+    furigana   => 'れいき',
+);
+
+word(
+    date       => '2012-07-03',
+    word       => '生命',
+    furigana   => 'せいめい',
+);
+
+word(
+    date       => '2012-07-03',
+    word       => '神羅',
+    furigana   => 'しんら',
+);
+
+word(
+    date       => '2012-07-03',
+    word       => '魔光',
+    furigana   => 'まこう',
+);
+
+word(
+    date       => '2012-07-03',
+    word       => 'アジト',
+);
