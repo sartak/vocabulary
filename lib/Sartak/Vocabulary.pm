@@ -22,15 +22,17 @@ sub word {
 
     my $line = (caller)[2];
 
-    if ($seen{$args{word}} && !$args{not_dupe}) {
-        warn "Already seen $args{word} (lines $seen{$args{word}} and $line)\n";
+    my $dupe_key = "$args{word}/" . ($args{furigana}||'');
+
+    if ($seen{$dupe_key} && !$args{not_dupe}) {
+        warn "Already seen $args{word} (lines $seen{$dupe_key} and $line)\n";
         if ($dryrun) {
             $failed = 1;
             exit 1;
         }
     }
 
-    $seen{$args{word}} = $line;
+    $seen{$dupe_key} = $line;
 
     if ($new_date) {
         dt {
