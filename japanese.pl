@@ -13943,3 +13943,15 @@ word(
     word       => '新入り',
     furigana   => 'しんいり',
 );
+
+word(
+    date       => '2012-07-05',
+    word       => '表す',
+    furigana   => 'あらわす',
+);
+
+word(
+    date       => '2012-07-05',
+    word       => '音訓',
+    furigana   => 'おんくん',
+);
