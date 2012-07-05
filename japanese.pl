@@ -13955,3 +13955,9 @@ word(
     word       => '音訓',
     furigana   => 'おんくん',
 );
+
+word(
+    date       => '2012-07-05',
+    word       => '平仮名',
+    furigana   => 'ひらがな',
+);
