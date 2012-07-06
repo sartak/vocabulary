@@ -13967,3 +13967,9 @@ word(
     word       => '庇う',
     furigana   => 'かばう',
 );
+
+word(
+    date       => '2012-07-06',
+    word       => '財産',
+    furigana   => 'ざいさん',
+);
