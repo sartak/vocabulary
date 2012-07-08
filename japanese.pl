@@ -13973,3 +13973,49 @@ word(
     word       => '財産',
     furigana   => 'ざいさん',
 );
+
+word(
+    date       => '2012-07-07',
+    word       => '古代類',
+    furigana   => 'こだいるい',
+);
+
+word(
+    date       => '2012-07-07',
+    word       => '見破る',
+    furigana   => 'みやぶる',
+);
+
+word(
+    date       => '2012-07-07',
+    word       => '夫',
+    furigana   => 'おっと',
+);
+
+word(
+    date       => '2012-07-07',
+    word       => '至上',
+    furigana   => 'しじょう',
+);
+
+word(
+    date       => '2012-07-07',
+    word       => '土地',
+    furigana   => 'どち',
+);
+
+word(
+    date       => '2012-07-07',
+    word       => '本社',
+    furigana   => 'ほんしゃ',
+);
+
+word(
+    date       => '2012-07-07',
+    word       => 'ハラハラ',
+);
+
+word(
+    date       => '2012-07-07',
+    word       => 'チカチカ',
+);
