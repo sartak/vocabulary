@@ -14025,3 +14025,15 @@ word(
     word       => '零れる',
     furigana   => 'こぼれる',
 );
+
+word(
+    date       => '2012-07-09',
+    word       => '受話器',
+    furigana   => 'じゅわき',
+);
+
+word(
+    date       => '2012-07-09',
+    word       => '曖昧',
+    furigana   => 'あいまい',
+);
