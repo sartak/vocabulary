@@ -14037,3 +14037,9 @@ word(
     word       => '曖昧',
     furigana   => 'あいまい',
 );
+
+word(
+    date       => '2012-07-09',
+    word       => '治療',
+    furigana   => 'ちりょう',
+);
