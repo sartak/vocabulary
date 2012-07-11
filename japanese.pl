@@ -14072,3 +14072,9 @@ word(
     word       => '区切る',
     furigana   => 'くぎる',
 );
+
+word(
+    date       => '2012-07-11',
+    word       => '今作',
+    furigana   => 'こんさく',
+);
