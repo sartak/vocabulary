@@ -14078,3 +14078,15 @@ word(
     word       => '今作',
     furigana   => 'こんさく',
 );
+
+word(
+    date       => '2012-07-12',
+    word       => '災害',
+    furigana   => 'さいがい',
+);
+
+word(
+    date       => '2012-07-12',
+    word       => '寄せる',
+    furigana   => 'よせる',
+);
