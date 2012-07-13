@@ -14102,3 +14102,15 @@ word(
     word       => '公式',
     furigana   => 'こうしき',
 );
+
+word(
+    date       => '2012-07-13',
+    word       => '短縮',
+    furigana   => 'たんしゅく',
+);
+
+word(
+    date       => '2012-07-13',
+    word       => '翻訳',
+    furigana   => 'ほんやく',
+);
