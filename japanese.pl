@@ -14090,3 +14090,15 @@ word(
     word       => '寄せる',
     furigana   => 'よせる',
 );
+
+word(
+    date       => '2012-07-12',
+    word       => '配布',
+    furigana   => 'はいふ',
+);
+
+word(
+    date       => '2012-07-12',
+    word       => '公式',
+    furigana   => 'こうしき',
+);
