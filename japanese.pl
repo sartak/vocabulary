@@ -14114,3 +14114,9 @@ word(
     word       => '翻訳',
     furigana   => 'ほんやく',
 );
+
+word(
+    date       => '2012-07-13',
+    word       => '任務',
+    furigana   => 'にんむ',
+);
