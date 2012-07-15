@@ -14150,3 +14150,9 @@ word(
     word       => '保持',
     furigana   => 'ほじ',
 );
+
+word(
+    date       => '2012-07-15',
+    word       => '蘇生',
+    furigana   => 'そせい',
+);
