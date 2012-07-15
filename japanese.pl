@@ -14120,3 +14120,27 @@ word(
     word       => '任務',
     furigana   => 'にんむ',
 );
+
+word(
+    date       => '2012-07-14',
+    word       => '改良',
+    furigana   => 'かいりょう',
+);
+
+word(
+    date       => '2012-07-14',
+    word       => '独特',
+    furigana   => 'どくとく',
+);
+
+word(
+    date       => '2012-07-14',
+    word       => '初学者',
+    furigana   => 'しょがくしゃ',
+);
+
+word(
+    date       => '2012-07-14',
+    word       => '挿入',
+    furigana   => 'そうにゅう',
+);
