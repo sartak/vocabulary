@@ -14156,3 +14156,9 @@ word(
     word       => '蘇生',
     furigana   => 'そせい',
 );
+
+word(
+    date       => '2012-07-16',
+    word       => '統合',
+    furigana   => 'とうごう',
+);
