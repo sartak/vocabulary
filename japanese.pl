@@ -14162,3 +14162,27 @@ word(
     word       => '統合',
     furigana   => 'とうごう',
 );
+
+word(
+    date       => '2012-07-16',
+    word       => '止め',
+    furigana   => 'とどめ',
+);
+
+word(
+    date       => '2012-07-16',
+    word       => '射す',
+    furigana   => 'さす',
+);
+
+word(
+    date       => '2012-07-16',
+    word       => '摩耶枷',
+    furigana   => 'まやかし',
+);
+
+word(
+    date       => '2012-07-16',
+    word       => '躰',
+    furigana   => 'からだ',
+);
