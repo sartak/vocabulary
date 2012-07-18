@@ -14186,3 +14186,15 @@ word(
     word       => '躰',
     furigana   => 'からだ',
 );
+
+word(
+    date       => '2012-07-17',
+    word       => '操る',
+    furigana   => 'あやつる',
+);
+
+word(
+    date       => '2012-07-17',
+    word       => '銃',
+    furigana   => 'じゅう',
+);
