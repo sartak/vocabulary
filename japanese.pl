@@ -14198,3 +14198,9 @@ word(
     word       => '銃',
     furigana   => 'じゅう',
 );
+
+word(
+    date       => '2012-07-18',
+    word       => '収録',
+    furigana   => 'しゅうろく',
+);
