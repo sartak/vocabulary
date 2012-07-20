@@ -14204,3 +14204,20 @@ word(
     word       => '収録',
     furigana   => 'しゅうろく',
 );
+
+word(
+    date       => '2012-07-19',
+    word       => '尾行',
+    furigana   => 'びこう',
+);
+
+word(
+    date       => '2012-07-19',
+    word       => 'チンケ',
+);
+
+word(
+    date       => '2012-07-19',
+    word       => '遠距離',
+    furigana   => 'えんきょり',
+);
