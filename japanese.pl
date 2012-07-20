@@ -14221,3 +14221,9 @@ word(
     word       => '遠距離',
     furigana   => 'えんきょり',
 );
+
+word(
+    date       => '2012-07-20',
+    word       => '本項',
+    furigana   => 'ほんこう',
+);
