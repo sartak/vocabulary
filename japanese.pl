@@ -14249,3 +14249,15 @@ word(
     word       => '育てる',
     furigana   => 'そだてる',
 );
+
+word(
+    date       => '2012-07-22',
+    word       => '属人',
+    furigana   => 'ぞくじん',
+);
+
+word(
+    date       => '2012-07-22',
+    word       => '障害',
+    furigana   => 'しょうがい',
+);
