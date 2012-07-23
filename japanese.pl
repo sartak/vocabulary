@@ -14261,3 +14261,9 @@ word(
     word       => '障害',
     furigana   => 'しょうがい',
 );
+
+word(
+    date       => '2012-07-23',
+    word       => '同年',
+    furigana   => 'どうねん',
+);
