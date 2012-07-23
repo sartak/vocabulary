@@ -14267,3 +14267,15 @@ word(
     word       => '同年',
     furigana   => 'どうねん',
 );
+
+word(
+    date       => '2012-07-23',
+    word       => '内心',
+    furigana   => 'ないしん',
+);
+
+word(
+    date       => '2012-07-23',
+    word       => '入社',
+    furigana   => 'にゅうしゃ',
+);
