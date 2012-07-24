@@ -14279,3 +14279,27 @@ word(
     word       => '入社',
     furigana   => 'にゅうしゃ',
 );
+
+word(
+    date       => '2012-07-23',
+    word       => '乾杯',
+    furigana   => 'かんぱい',
+);
+
+word(
+    date       => '2012-07-23',
+    word       => '刺青',
+    furigana   => 'いれずみ',
+);
+
+word(
+    date       => '2012-07-23',
+    word       => '厄災',
+    furigana   => 'やくさい',
+);
+
+word(
+    date       => '2012-07-23',
+    word       => '消滅',
+    furigana   => 'しょうめつ',
+);
