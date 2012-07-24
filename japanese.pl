@@ -14303,3 +14303,9 @@ word(
     word       => '消滅',
     furigana   => 'しょうめつ',
 );
+
+word(
+    date       => '2012-07-24',
+    word       => '稼働',
+    furigana   => 'かどう',
+);
