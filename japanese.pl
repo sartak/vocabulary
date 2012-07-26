@@ -14321,3 +14321,21 @@ word(
     word       => '確率',
     furigana   => 'かくりつ',
 );
+
+word(
+    date       => '2012-07-26',
+    word       => '後継',
+    furigana   => 'こうけい',
+);
+
+word(
+    date       => '2012-07-26',
+    word       => '数々',
+    furigana   => 'かずかず',
+);
+
+word(
+    date       => '2012-07-26',
+    word       => '共有',
+    furigana   => 'きょうゆう',
+);
