@@ -14315,3 +14315,9 @@ word(
     word       => '無礼',
     furigana   => 'ぶれい',
 );
+
+word(
+    date       => '2012-07-25',
+    word       => '確率',
+    furigana   => 'かくりつ',
+);
