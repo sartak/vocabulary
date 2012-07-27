@@ -14339,3 +14339,33 @@ word(
     word       => '共有',
     furigana   => 'きょうゆう',
 );
+
+word(
+    date       => '2012-07-27',
+    word       => '唯一',
+    furigana   => 'ゆいいつ',
+);
+
+word(
+    date       => '2012-07-27',
+    word       => '充分',
+    furigana   => 'じゅうぶん',
+);
+
+word(
+    date       => '2012-07-27',
+    word       => '皿',
+    furigana   => 'さら',
+);
+
+word(
+    date       => '2012-07-27',
+    word       => '左右',
+    furigana   => 'さゆう',
+);
+
+word(
+    date       => '2012-07-27',
+    word       => '画',
+    furigana   => 'かく',
+);
