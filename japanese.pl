@@ -14393,3 +14393,9 @@ word(
     word       => '本稿',
     furigana   => 'ほんこう',
 );
+
+word(
+    date       => '2012-07-29',
+    word       => '恒星間',
+    furigana   => 'こうせいかん',
+);
