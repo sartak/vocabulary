@@ -14369,3 +14369,27 @@ word(
     word       => '画',
     furigana   => 'かく',
 );
+
+word(
+    date       => '2012-07-28',
+    word       => '暦',
+    furigana   => 'こよみ',
+);
+
+word(
+    date       => '2012-07-28',
+    word       => '単位',
+    furigana   => 'たんい',
+);
+
+word(
+    date       => '2012-07-28',
+    word       => '体系',
+    furigana   => 'たいけい',
+);
+
+word(
+    date       => '2012-07-28',
+    word       => '本稿',
+    furigana   => 'ほんこう',
+);
