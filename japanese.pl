@@ -14423,3 +14423,38 @@ word(
     word       => '一応',
     furigana   => 'いちおう',
 );
+
+word(
+    date       => '2012-08-01',
+    word       => '折角',
+    furigana   => 'せっかく',
+);
+
+word(
+    date       => '2012-08-01',
+    word       => '開放',
+    furigana   => 'かいほう',
+);
+
+word(
+    date       => '2012-08-01',
+    word       => '地味',
+    furigana   => 'じみ',
+);
+
+word(
+    date       => '2012-08-01',
+    word       => '不可解',
+    furigana   => 'ふかかい',
+);
+
+word(
+    date       => '2012-08-01',
+    word       => 'ともかく',
+);
+
+word(
+    date       => '2012-08-01',
+    word       => '除外',
+    furigana   => 'じょがい',
+);
