@@ -14464,3 +14464,9 @@ word(
     word       => '合衆国',
     furigana   => 'がっしゅうこく',
 );
+
+word(
+    date       => '2012-08-03',
+    word       => '記念',
+    furigana   => 'きねん',
+);
