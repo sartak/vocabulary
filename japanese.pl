@@ -14488,3 +14488,27 @@ word(
     word       => '以内',
     furigana   => 'いない',
 );
+
+word(
+    date       => '2012-08-04',
+    word       => '心得',
+    furigana   => 'こころえ',
+);
+
+word(
+    date       => '2012-08-04',
+    word       => '支え',
+    furigana   => 'ささえ',
+);
+
+word(
+    date       => '2012-08-04',
+    word       => '魔物',
+    furigana   => 'まもの',
+);
+
+word(
+    date       => '2012-08-04',
+    word       => '浚う',
+    furigana   => 'さらう',
+);
