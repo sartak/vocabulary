@@ -14470,3 +14470,21 @@ word(
     word       => '記念',
     furigana   => 'きねん',
 );
+
+word(
+    date       => '2012-08-04',
+    word       => '白熱',
+    furigana   => 'はくねつ',
+);
+
+word(
+    date       => '2012-08-04',
+    word       => '物質',
+    furigana   => 'ぶっしつ',
+);
+
+word(
+    date       => '2012-08-04',
+    word       => '以内',
+    furigana   => 'いない',
+);
