@@ -14512,3 +14512,20 @@ word(
     word       => '浚う',
     furigana   => 'さらう',
 );
+
+word(
+    date       => '2012-08-04',
+    word       => '早速',
+    furigana   => 'さっそく',
+);
+
+word(
+    date       => '2012-08-04',
+    word       => '会心',
+    furigana   => 'かいしん',
+);
+
+word(
+    date       => '2012-08-04',
+    word       => 'さそり',
+);
