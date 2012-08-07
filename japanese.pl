@@ -14542,3 +14542,26 @@ word(
     furigana   => 'がいこつ',
 );
 
+word(
+    date       => '2012-08-06',
+    word       => '原題',
+    furigana   => 'げんだい',
+);
+
+word(
+    date       => '2012-08-06',
+    word       => '脚本',
+    furigana   => 'きゃくほん',
+);
+
+word(
+    date       => '2012-08-06',
+    word       => '制作',
+    furigana   => 'せいさく',
+);
+
+word(
+    date       => '2012-08-06',
+    word       => '当て',
+    furigana   => 'あて',
+);
