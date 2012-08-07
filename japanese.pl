@@ -14565,3 +14565,21 @@ word(
     word       => '当て',
     furigana   => 'あて',
 );
+
+word(
+    date       => '2012-08-07',
+    word       => '筆者',
+    furigana   => 'ひっしゃ',
+);
+
+word(
+    date       => '2012-08-07',
+    word       => '典型',
+    furigana   => 'てんけい',
+);
+
+word(
+    date       => '2012-08-07',
+    word       => '慣れる',
+    furigana   => 'なれる',
+);
