@@ -14583,3 +14583,21 @@ word(
     word       => '慣れる',
     furigana   => 'なれる',
 );
+
+word(
+    date       => '2012-08-08',
+    word       => '侮辱',
+    furigana   => 'ぶじょく',
+);
+
+word(
+    date       => '2012-08-08',
+    word       => '所詮',
+    furigana   => 'しょせん',
+);
+
+word(
+    date       => '2012-08-08',
+    word       => '弄る',
+    furigana   => 'いじる',
+);
