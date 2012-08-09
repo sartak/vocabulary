@@ -14601,3 +14601,15 @@ word(
     word       => '弄る',
     furigana   => 'いじる',
 );
+
+word(
+    date       => '2012-08-09',
+    word       => '演算',
+    furigana   => 'えんざん',
+);
+
+word(
+    date       => '2012-08-09',
+    word       => '演算子',
+    furigana   => 'えんざんし',
+);
