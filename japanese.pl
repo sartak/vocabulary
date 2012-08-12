@@ -14725,3 +14725,15 @@ word(
     word       => '一路',
     furigana   => 'いちろ',
 );
+
+word(
+    date       => '2012-08-12',
+    word       => '護り',
+    furigana   => 'まもり',
+);
+
+word(
+    date       => '2012-08-12',
+    word       => '強化',
+    furigana   => 'きょうか',
+);
