@@ -14625,3 +14625,103 @@ word(
     word       => '印刷',
     furigana   => 'いんさつ',
 );
+
+word(
+    date       => '2012-08-11',
+    word       => '位',
+    furigana   => 'くらい',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '焦る',
+    furigana   => 'あせる',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '厳正',
+    furigana   => 'げんせい',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '調整',
+    furigana   => 'ちょうせい',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '突っ込む',
+    furigana   => 'つっこむ',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '弱体',
+    furigana   => 'じゃくたい',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => 'カンスト',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '撃退',
+    furigana   => 'げきたい',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '薙ぐ',
+    furigana   => 'なぐ',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '図る',
+    furigana   => 'はかる',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '上手い',
+    furigana   => 'うまい',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '途中',
+    furigana   => 'とちゅう',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '爽快',
+    furigana   => 'そうかい',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '打つかる',
+    furigana   => 'ぶつかる',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '聖剣',
+    furigana   => 'せいけん',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => 'グルグル',
+);
+
+word(
+    date       => '2012-08-11',
+    word       => '一路',
+    furigana   => 'いちろ',
+);
