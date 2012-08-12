@@ -14737,3 +14737,15 @@ word(
     word       => '強化',
     furigana   => 'きょうか',
 );
+
+word(
+    date       => '2012-08-12',
+    word       => '友情',
+    furigana   => 'ゆうじょう',
+);
+
+word(
+    date       => '2012-08-12',
+    word       => '証',
+    furigana   => 'あかし',
+);
