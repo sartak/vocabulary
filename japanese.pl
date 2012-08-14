@@ -14767,3 +14767,9 @@ word(
     word       => '夢中',
     furigana   => 'むちゅう',
 );
+
+word(
+    date       => '2012-08-14',
+    word       => '痕跡',
+    furigana   => 'こんせき',
+);
