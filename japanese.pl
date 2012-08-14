@@ -14749,3 +14749,9 @@ word(
     word       => '証',
     furigana   => 'あかし',
 );
+
+word(
+    date       => '2012-08-13',
+    word       => '間隔',
+    furigana   => 'かんかく',
+);
