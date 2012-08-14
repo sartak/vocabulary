@@ -14755,3 +14755,15 @@ word(
     word       => '間隔',
     furigana   => 'かんかく',
 );
+
+word(
+    date       => '2012-08-13',
+    word       => '空回り',
+    furigana   => 'からまわり',
+);
+
+word(
+    date       => '2012-08-13',
+    word       => '夢中',
+    furigana   => 'むちゅう',
+);
