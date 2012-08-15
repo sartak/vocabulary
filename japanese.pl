@@ -14773,3 +14773,9 @@ word(
     word       => '痕跡',
     furigana   => 'こんせき',
 );
+
+word(
+    date       => '2012-08-15',
+    word       => '今風',
+    furigana   => 'いまふう',
+);
