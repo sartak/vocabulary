@@ -14785,3 +14785,15 @@ word(
     word       => '再帰',
     furigana   => 'さいき',
 );
+
+word(
+    date       => '2012-08-17',
+    word       => '重複',
+    furigana   => 'ちょうふく',
+);
+
+word(
+    date       => '2012-08-17',
+    word       => '何事',
+    furigana   => 'なにごと',
+);
