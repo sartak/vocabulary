@@ -14797,3 +14797,15 @@ word(
     word       => '何事',
     furigana   => 'なにごと',
 );
+
+word(
+    date       => '2012-08-18',
+    word       => '内包',
+    furigana   => 'ないほう',
+);
+
+word(
+    date       => '2012-08-18',
+    word       => '小文字',
+    furigana   => 'こもじ',
+);
