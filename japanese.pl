@@ -14809,3 +14809,9 @@ word(
     word       => '小文字',
     furigana   => 'こもじ',
 );
+
+word(
+    date       => '2012-08-19',
+    word       => '画像',
+    furigana   => 'がぞう',
+);
