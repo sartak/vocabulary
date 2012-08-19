@@ -14815,3 +14815,9 @@ word(
     word       => '画像',
     furigana   => 'がぞう',
 );
+
+word(
+    date       => '2012-08-19',
+    word       => '駆け抜ける',
+    furigana   => 'かけぬける',
+);
