@@ -14827,3 +14827,9 @@ word(
     word       => '教会',
     furigana   => 'きょうかい',
 );
+
+word(
+    date       => '2012-08-21',
+    word       => '肩',
+    furigana   => 'かた',
+);
