@@ -14845,3 +14845,15 @@ word(
     word       => '旅立ち',
     furigana   => 'たびだち',
 );
+
+word(
+    date       => '2012-08-23',
+    word       => '正味',
+    furigana   => 'しょうみ',
+);
+
+word(
+    date       => '2012-08-23',
+    word       => '素直',
+    furigana   => 'すなお',
+);
