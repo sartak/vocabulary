@@ -14857,3 +14857,9 @@ word(
     word       => '素直',
     furigana   => 'すなお',
 );
+
+word(
+    date       => '2012-08-24',
+    word       => '反逆',
+    furigana   => 'はんぎゃく',
+);
