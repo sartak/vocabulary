@@ -14863,3 +14863,21 @@ word(
     word       => '反逆',
     furigana   => 'はんぎゃく',
 );
+
+word(
+    date       => '2012-08-24',
+    word       => '欠かす',
+    furigana   => 'かかす',
+);
+
+word(
+    date       => '2012-08-24',
+    word       => '具体的',
+    furigana   => 'ぐたいてき',
+);
+
+word(
+    date       => '2012-08-24',
+    word       => '確実',
+    furigana   => 'かくじつ',
+);
