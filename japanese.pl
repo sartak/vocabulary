@@ -14881,3 +14881,9 @@ word(
     word       => '確実',
     furigana   => 'かくじつ',
 );
+
+word(
+    date       => '2012-08-25',
+    word       => '追記',
+    furigana   => 'ついき',
+);
