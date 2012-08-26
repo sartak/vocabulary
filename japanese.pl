@@ -14887,3 +14887,15 @@ word(
     word       => '追記',
     furigana   => 'ついき',
 );
+
+word(
+    date       => '2012-08-26',
+    word       => '分割',
+    furigana   => 'ぶんかつ',
+);
+
+word(
+    date       => '2012-08-26',
+    word       => '抱える',
+    furigana   => 'かかえる',
+);
