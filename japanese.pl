@@ -14899,3 +14899,15 @@ word(
     word       => '抱える',
     furigana   => 'かかえる',
 );
+
+word(
+    date       => '2012-08-27',
+    word       => '命取り',
+    furigana   => 'いのちとり',
+);
+
+word(
+    date       => '2012-08-27',
+    word       => '整理',
+    furigana   => 'せいり',
+);
