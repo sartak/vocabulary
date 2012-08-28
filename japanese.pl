@@ -14911,3 +14911,9 @@ word(
     word       => '整理',
     furigana   => 'せいり',
 );
+
+word(
+    date       => '2012-08-28',
+    word       => '参考',
+    furigana   => 'さんこう',
+);
