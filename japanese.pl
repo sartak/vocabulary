@@ -14917,3 +14917,39 @@ word(
     word       => '参考',
     furigana   => 'さんこう',
 );
+
+word(
+    date       => '2012-08-29',
+    word       => '入れ替える',
+    furigana   => 'いれかえる',
+);
+
+word(
+    date       => '2012-08-29',
+    word       => '新規',
+    furigana   => 'しんき',
+);
+
+word(
+    date       => '2012-08-29',
+    word       => '配信',
+    furigana   => 'はいしん',
+);
+
+word(
+    date       => '2012-08-29',
+    word       => '大方',
+    furigana   => 'おおかた',
+);
+
+word(
+    date       => '2012-08-29',
+    word       => '予想',
+    furigana   => 'よそう',
+);
+
+word(
+    date       => '2012-08-29',
+    word       => '作',
+    furigana   => 'さく',
+);
