@@ -14959,3 +14959,9 @@ word(
     word       => '玄関',
     furigana   => 'げんかん',
 );
+
+word(
+    date       => '2012-08-31',
+    word       => '頻繁',
+    furigana   => 'ひんぱん',
+);
