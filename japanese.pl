@@ -14965,3 +14965,15 @@ word(
     word       => '頻繁',
     furigana   => 'ひんぱん',
 );
+
+word(
+    date       => '2012-08-31',
+    word       => '羽目',
+    furigana   => 'はめ',
+);
+
+word(
+    date       => '2012-08-31',
+    word       => '囁く',
+    furigana   => 'ささやく',
+);
