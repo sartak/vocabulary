@@ -14983,3 +14983,27 @@ word(
     word       => '出番',
     furigana   => 'でばん',
 );
+
+word(
+    date       => '2012-09-02',
+    word       => '特記',
+    furigana   => 'とっき',
+);
+
+word(
+    date       => '2012-09-02',
+    word       => '事項',
+    furigana   => 'じこう',
+);
+
+word(
+    date       => '2012-09-02',
+    word       => '言及',
+    furigana   => 'げんきゅう',
+);
+
+word(
+    date       => '2012-09-02',
+    word       => '酒席',
+    furigana   => 'しゅせき',
+);
