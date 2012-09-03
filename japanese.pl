@@ -15007,3 +15007,45 @@ word(
     word       => '酒席',
     furigana   => 'しゅせき',
 );
+
+word(
+    date       => '2012-09-03',
+    word       => '究極',
+    furigana   => 'きゅうきょく',
+);
+
+word(
+    date       => '2012-09-03',
+    word       => '抑える',
+    furigana   => 'おさえる',
+);
+
+word(
+    date       => '2012-09-03',
+    word       => '適当',
+    furigana   => 'てきとう',
+);
+
+word(
+    date       => '2012-09-03',
+    word       => '特徴',
+    furigana   => 'とくちょう',
+);
+
+word(
+    date       => '2012-09-03',
+    word       => '手札',
+    furigana   => 'てふだ',
+);
+
+word(
+    date       => '2012-09-03',
+    word       => '山札',
+    furigana   => 'やまふだ',
+);
+
+word(
+    date       => '2012-09-03',
+    word       => '勝者',
+    furigana   => 'しょうしゃ',
+);
