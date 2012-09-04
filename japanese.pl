@@ -15049,3 +15049,9 @@ word(
     word       => '勝者',
     furigana   => 'しょうしゃ',
 );
+
+word(
+    date       => '2012-09-03',
+    word       => '日差し',
+    furigana   => 'ひざし',
+);
