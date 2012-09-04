@@ -15055,3 +15055,9 @@ word(
     word       => '日差し',
     furigana   => 'ひざし',
 );
+
+word(
+    date       => '2012-09-04',
+    word       => '類似品',
+    furigana   => 'るいじひん',
+);
