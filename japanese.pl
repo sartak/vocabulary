@@ -15061,3 +15061,15 @@ word(
     word       => '類似品',
     furigana   => 'るいじひん',
 );
+
+word(
+    date       => '2012-09-05',
+    word       => '文法',
+    furigana   => 'ぶんぽう',
+);
+
+word(
+    date       => '2012-09-05',
+    word       => '明快',
+    furigana   => 'めいかい',
+);
