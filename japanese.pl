@@ -15079,3 +15079,15 @@ word(
     word       => '次期',
     furigana   => 'じき',
 );
+
+word(
+    date       => '2012-09-07',
+    word       => '一連',
+    furigana   => 'いちれん',
+);
+
+word(
+    date       => '2012-09-07',
+    word       => '著作',
+    furigana   => 'ちょさく',
+);
