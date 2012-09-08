@@ -15091,3 +15091,15 @@ word(
     word       => '著作',
     furigana   => 'ちょさく',
 );
+
+word(
+    date       => '2012-09-07',
+    word       => '埋もる',
+    furigana   => 'うずもる',
+);
+
+word(
+    date       => '2012-09-07',
+    word       => '掌',
+    furigana   => 'てのひら',
+);
