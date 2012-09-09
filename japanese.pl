@@ -15109,3 +15109,21 @@ word(
     word       => '満足',
     furigana   => 'まんぞく',
 );
+
+word(
+    date       => '2012-09-09',
+    word       => '成長',
+    furigana   => 'せいちょう',
+);
+
+word(
+    date       => '2012-09-09',
+    word       => '進捗',
+    furigana   => 'しんちょく',
+);
+
+word(
+    date       => '2012-09-09',
+    word       => '芳しい',
+    furigana   => 'かぐわしい',
+);
