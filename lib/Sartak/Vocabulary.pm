@@ -4,6 +4,7 @@ use warnings;
 use Template::Declare::Tags;
 
 our $dryrun = shift @ARGV;
+our $listwords = shift @ARGV;
 our $failed = 0;
 
 our $japanese = $0 =~ /japanese/i;
@@ -13,6 +14,11 @@ my %seen;
 my $prev_date = '';
 sub word {
     my %args = @_;
+
+    if ($listwords) {
+        print "$args{word}\n";
+        return;
+    }
 
     my $new_date = $prev_date ne $args{date};
     $prev_date = $args{date};
@@ -92,7 +98,7 @@ sub import {
 
     my $title = $japanese ? "サータックの新しい語彙" : "Sartak's New Vocabulary";
 
-    print << "EOF";
+    print << "EOF" unless $listwords;
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -120,7 +126,7 @@ EOF
 }
 
 END {
-    if (!$failed) {
+    if (!$failed && !$listwords) {
         if ($imported && !$?) {
             Template::Declare->buffer->flush;
             my $timestamp = gmtime;
