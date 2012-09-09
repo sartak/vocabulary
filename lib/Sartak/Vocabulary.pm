@@ -16,7 +16,8 @@ sub word {
     my %args = @_;
 
     if ($listwords) {
-        print "$args{word} $args{furigana}\n";
+        my $reading = $args{furigana} || $args{word};
+        print "$args{word} $reading\n";
         return;
     }
 
