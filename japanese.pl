@@ -15127,3 +15127,15 @@ word(
     word       => '芳しい',
     furigana   => 'かぐわしい',
 );
+
+word(
+    date       => '2012-09-10',
+    word       => '作詞',
+    furigana   => 'さくし',
+);
+
+word(
+    date       => '2012-09-10',
+    word       => '作曲',
+    furigana   => 'さっきょく',
+);
