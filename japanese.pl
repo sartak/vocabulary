@@ -15139,3 +15139,15 @@ word(
     word       => '作曲',
     furigana   => 'さっきょく',
 );
+
+word(
+    date       => '2012-09-11',
+    word       => '補給',
+    furigana   => 'ほきゅう',
+);
+
+word(
+    date       => '2012-09-11',
+    word       => '出逢う',
+    furigana   => 'であう',
+);
