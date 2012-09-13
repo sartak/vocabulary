@@ -15151,3 +15151,15 @@ word(
     word       => '出逢う',
     furigana   => 'であう',
 );
+
+word(
+    date       => '2012-09-12',
+    word       => '咽る',
+    furigana   => 'むせる',
+);
+
+word(
+    date       => '2012-09-12',
+    word       => '只管',
+    furigana   => 'ひたすら',
+);
