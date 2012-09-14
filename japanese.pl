@@ -15163,3 +15163,15 @@ word(
     word       => '只管',
     furigana   => 'ひたすら',
 );
+
+word(
+    date       => '2012-09-13',
+    word       => '即',
+    furigana   => 'そく',
+);
+
+word(
+    date       => '2012-09-13',
+    word       => '斬新',
+    furigana   => 'ざんしん',
+);
