@@ -15175,3 +15175,9 @@ word(
     word       => '斬新',
     furigana   => 'ざんしん',
 );
+
+word(
+    date       => '2012-09-14',
+    word       => '把握',
+    furigana   => 'はあく',
+);
