@@ -15193,3 +15193,21 @@ word(
     word       => '薄い',
     furigana   => 'うすい',
 );
+
+word(
+    date       => '2012-09-15',
+    word       => '吹き飛ぶ',
+    furigana   => 'ふきとぶ',
+);
+
+word(
+    date       => '2012-09-15',
+    word       => '風景',
+    furigana   => 'ふうけい',
+);
+
+word(
+    date       => '2012-09-15',
+    word       => '転がる',
+    furigana   => 'ころがる',
+);
