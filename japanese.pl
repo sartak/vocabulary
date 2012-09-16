@@ -15181,3 +15181,15 @@ word(
     word       => '把握',
     furigana   => 'はあく',
 );
+
+word(
+    date       => '2012-09-15',
+    word       => '馬刺し',
+    furigana   => 'ばさし',
+);
+
+word(
+    date       => '2012-09-15',
+    word       => '薄い',
+    furigana   => 'うすい',
+);
