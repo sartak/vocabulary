@@ -15217,3 +15217,21 @@ word(
     word       => '島外',
     furigana   => 'とうがい',
 );
+
+word(
+    date       => '2012-09-17',
+    word       => '真偽',
+    furigana   => 'しんぎ',
+);
+
+word(
+    date       => '2012-09-17',
+    word       => '真',
+    furigana   => 'まこと',
+);
+
+word(
+    date       => '2012-09-17',
+    word       => '偽',
+    furigana   => 'にせ',
+);
