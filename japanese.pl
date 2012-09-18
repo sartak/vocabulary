@@ -15235,3 +15235,9 @@ word(
     word       => '偽',
     furigana   => 'にせ',
 );
+
+word(
+    date       => '2012-09-18',
+    word       => '共通',
+    furigana   => 'きょうつう',
+);
