@@ -15241,3 +15241,15 @@ word(
     word       => '共通',
     furigana   => 'きょうつう',
 );
+
+word(
+    date       => '2012-09-19',
+    word       => '非破壊',
+    furigana   => 'ひはかい',
+);
+
+word(
+    date       => '2012-09-19',
+    word       => '紛れ',
+    furigana   => 'まぐれ',
+);
