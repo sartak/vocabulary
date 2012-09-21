@@ -15253,3 +15253,9 @@ word(
     word       => '紛れ',
     furigana   => 'まぐれ',
 );
+
+word(
+    date       => '2012-09-20',
+    word       => '乱立',
+    furigana   => 'らんりつ',
+);
