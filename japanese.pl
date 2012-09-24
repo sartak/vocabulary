@@ -15271,3 +15271,39 @@ word(
     word       => '個所',
     furigana   => 'かしょ',
 );
+
+word(
+    date       => '2012-09-23',
+    word       => '吸収',
+    furigana   => 'きゅうしゅう',
+);
+
+word(
+    date       => '2012-09-23',
+    word       => '腕輪',
+    furigana   => 'うでわ',
+);
+
+word(
+    date       => '2012-09-23',
+    word       => '余分',
+    furigana   => 'よぶん',
+);
+
+word(
+    date       => '2012-09-23',
+    word       => '張り裂ける',
+    furigana   => 'はりさける',
+);
+
+word(
+    date       => '2012-09-23',
+    word       => '鼓動',
+    furigana   => 'こどう',
+);
+
+word(
+    date       => '2012-09-23',
+    word       => '高鳴る',
+    furigana   => 'たかなる',
+);
