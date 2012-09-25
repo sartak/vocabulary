@@ -15307,3 +15307,15 @@ word(
     word       => '高鳴る',
     furigana   => 'たかなる',
 );
+
+word(
+    date       => '2012-09-24',
+    word       => '整う',
+    furigana   => 'ととのう',
+);
+
+word(
+    date       => '2012-09-24',
+    word       => '拡大',
+    furigana   => 'かくだい',
+);
