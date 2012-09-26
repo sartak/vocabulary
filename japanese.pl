@@ -15319,3 +15319,15 @@ word(
     word       => '拡大',
     furigana   => 'かくだい',
 );
+
+word(
+    date       => '2012-09-25',
+    word       => '丸裸',
+    furigana   => 'まるはだか',
+);
+
+word(
+    date       => '2012-09-25',
+    word       => '具合',
+    furigana   => 'ぐあい',
+);
