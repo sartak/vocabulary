@@ -15350,3 +15350,20 @@ word(
     furigana   => 'ちょうはつ',
 );
 
+word(
+    date       => '2012-09-29',
+    word       => '未知',
+    furigana   => 'みち',
+);
+
+word(
+    date       => '2012-09-29',
+    word       => '領域',
+    furigana   => 'りょういき',
+);
+
+word(
+    date       => '2012-09-29',
+    word       => '突入',
+    furigana   => 'とつにゅう',
+);
