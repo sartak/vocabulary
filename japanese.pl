@@ -15367,3 +15367,15 @@ word(
     word       => '突入',
     furigana   => 'とつにゅう',
 );
+
+word(
+    date       => '2012-09-30',
+    word       => '開封',
+    furigana   => 'かいふう',
+);
+
+word(
+    date       => '2012-09-30',
+    word       => '証明',
+    furigana   => 'しょうめい',
+);
