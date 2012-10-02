@@ -15379,3 +15379,15 @@ word(
     word       => '証明',
     furigana   => 'しょうめい',
 );
+
+word(
+    date       => '2012-10-01',
+    word       => '再現',
+    furigana   => 'さいげん',
+);
+
+word(
+    date       => '2012-10-01',
+    word       => '甘える',
+    furigana   => 'あまえる',
+);
