@@ -15391,3 +15391,15 @@ word(
     word       => '甘える',
     furigana   => 'あまえる',
 );
+
+word(
+    date       => '2012-10-02',
+    word       => '活躍',
+    furigana   => 'かつやく',
+);
+
+word(
+    date       => '2012-10-02',
+    word       => '応援',
+    furigana   => 'おうえん',
+);
