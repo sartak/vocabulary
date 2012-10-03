@@ -15403,3 +15403,21 @@ word(
     word       => '応援',
     furigana   => 'おうえん',
 );
+
+word(
+    date       => '2012-10-03',
+    word       => '各種',
+    furigana   => 'かくしゅ',
+);
+
+word(
+    date       => '2012-10-03',
+    word       => '認証',
+    furigana   => 'にんしょう',
+);
+
+word(
+    date       => '2012-10-03',
+    word       => '特化',
+    furigana   => 'とっか',
+);
