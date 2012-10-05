@@ -15439,3 +15439,21 @@ word(
     word       => '置き換え',
     furigana   => 'おきかえ',
 );
+
+word(
+    date       => '2012-10-05',
+    word       => '霞む',
+    furigana   => 'かすむ',
+);
+
+word(
+    date       => '2012-10-05',
+    word       => '舞い降りる',
+    furigana   => 'まいおりる',
+);
+
+word(
+    date       => '2012-10-05',
+    word       => '無色',
+    furigana   => 'むしょく',
+);
