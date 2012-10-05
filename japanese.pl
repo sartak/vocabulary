@@ -15421,3 +15421,21 @@ word(
     word       => '特化',
     furigana   => 'とっか',
 );
+
+word(
+    date       => '2012-10-04',
+    word       => '移行',
+    furigana   => 'いこう',
+);
+
+word(
+    date       => '2012-10-04',
+    word       => '自前',
+    furigana   => 'じまえ',
+);
+
+word(
+    date       => '2012-10-04',
+    word       => '置き換え',
+    furigana   => 'おきかえ',
+);
