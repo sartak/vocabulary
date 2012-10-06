@@ -15457,3 +15457,10 @@ word(
     word       => '無色',
     furigana   => 'むしょく',
 );
+
+word(
+    date       => '2012-10-05',
+    word       => '袋',
+    furigana   => 'ふくろ',
+);
+
