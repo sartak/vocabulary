@@ -15469,3 +15469,21 @@ word(
     word       => '生々しい',
     furigana   => 'なまなましい',
 );
+
+word(
+    date       => '2012-10-07',
+    word       => '負傷',
+    furigana   => 'ふしょう',
+);
+
+word(
+    date       => '2012-10-07',
+    word       => '異邦',
+    furigana   => 'いほう',
+);
+
+word(
+    date       => '2012-10-07',
+    word       => '子息',
+    furigana   => 'しそく',
+);
