@@ -15493,3 +15493,15 @@ word(
     word       => '同人',
     furigana   => 'どうじん',
 );
+
+word(
+    date       => '2012-10-09',
+    word       => '伴う',
+    furigana   => 'ともなう',
+);
+
+word(
+    date       => '2012-10-09',
+    word       => '止め処',
+    furigana   => 'とめど',
+);
