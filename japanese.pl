@@ -15505,3 +15505,9 @@ word(
     word       => '止め処',
     furigana   => 'とめど',
 );
+
+word(
+    date       => '2012-10-09',
+    word       => '付属',
+    furigana   => 'ふぞく',
+);
