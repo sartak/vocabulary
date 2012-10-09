@@ -15487,3 +15487,9 @@ word(
     word       => '子息',
     furigana   => 'しそく',
 );
+
+word(
+    date       => '2012-10-08',
+    word       => '同人',
+    furigana   => 'どうじん',
+);
