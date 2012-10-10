@@ -15511,3 +15511,27 @@ word(
     word       => '付属',
     furigana   => 'ふぞく',
 );
+
+word(
+    date       => '2012-10-10',
+    word       => '大公',
+    furigana   => 'たいこう',
+);
+
+word(
+    date       => '2012-10-10',
+    word       => '捕虜',
+    furigana   => 'ほりょ',
+);
+
+word(
+    date       => '2012-10-10',
+    word       => '同族',
+    furigana   => 'どうぞく',
+);
+
+word(
+    date       => '2012-10-10',
+    word       => '蝙蝠',
+    furigana   => 'こうもり',
+);
