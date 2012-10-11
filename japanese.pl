@@ -15535,3 +15535,15 @@ word(
     word       => '蝙蝠',
     furigana   => 'こうもり',
 );
+
+word(
+    date       => '2012-10-11',
+    word       => '海底',
+    furigana   => 'かいてい',
+);
+
+word(
+    date       => '2012-10-11',
+    word       => '潜水艦',
+    furigana   => 'せんすいかん',
+);
