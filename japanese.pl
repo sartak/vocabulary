@@ -15547,3 +15547,15 @@ word(
     word       => '潜水艦',
     furigana   => 'せんすいかん',
 );
+
+word(
+    date       => '2012-10-11',
+    word       => '既婚',
+    furigana   => 'きこん',
+);
+
+word(
+    date       => '2012-10-11',
+    word       => '構築',
+    furigana   => 'こうちく',
+);
