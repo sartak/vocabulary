@@ -15565,3 +15565,9 @@ word(
     word       => '限界',
     furigana   => 'げんかい',
 );
+
+word(
+    date       => '2012-10-13',
+    word       => '腰',
+    furigana   => 'こし',
+);
