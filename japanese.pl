@@ -15571,3 +15571,9 @@ word(
     word       => '腰',
     furigana   => 'こし',
 );
+
+word(
+    date       => '2012-10-14',
+    word       => '見回す',
+    furigana   => 'みまわす',
+);
