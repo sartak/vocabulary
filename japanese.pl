@@ -15589,3 +15589,9 @@ word(
     word       => '崖',
     furigana   => 'がけ',
 );
+
+word(
+    date       => '2012-10-17',
+    word       => '懲りる',
+    furigana   => 'こりる',
+);
