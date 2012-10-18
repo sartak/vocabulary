@@ -15595,3 +15595,15 @@ word(
     word       => '懲りる',
     furigana   => 'こりる',
 );
+
+word(
+    date       => '2012-10-17',
+    word       => '数値',
+    furigana   => 'すうち',
+);
+
+word(
+    date       => '2012-10-17',
+    word       => '認識',
+    furigana   => 'にんしき',
+);
