@@ -15613,3 +15613,15 @@ word(
     word       => '同士',
     furigana   => 'どうし',
 );
+
+word(
+    date       => '2012-10-19',
+    word       => '自律',
+    furigana   => 'じりつ',
+);
+
+word(
+    date       => '2012-10-19',
+    word       => '適応',
+    furigana   => 'てきおう',
+);
