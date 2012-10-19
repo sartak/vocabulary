@@ -15607,3 +15607,9 @@ word(
     word       => '認識',
     furigana   => 'にんしき',
 );
+
+word(
+    date       => '2012-10-18',
+    word       => '同士',
+    furigana   => 'どうし',
+);
