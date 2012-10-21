@@ -15625,3 +15625,21 @@ word(
     word       => '適応',
     furigana   => 'てきおう',
 );
+
+word(
+    date       => '2012-10-20',
+    word       => '武神',
+    furigana   => 'ぶしん',
+);
+
+word(
+    date       => '2012-10-20',
+    word       => '覇斬',
+    furigana   => 'はざん',
+);
+
+word(
+    date       => '2012-10-20',
+    word       => '奥義',
+    furigana   => 'おうぎ',
+);
