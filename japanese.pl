@@ -15649,3 +15649,9 @@ word(
     word       => '宝物',
     furigana   => 'たからもの',
 );
+
+word(
+    date       => '2012-10-22',
+    word       => '勿論',
+    furigana   => 'もちろん',
+);
