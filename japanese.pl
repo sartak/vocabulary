@@ -15667,3 +15667,27 @@ word(
     word       => '都度',
     furigana   => 'つど',
 );
+
+word(
+    date       => '2012-10-25',
+    word       => '察',
+    furigana   => 'さつ',
+);
+
+word(
+    date       => '2012-10-25',
+    word       => '小数',
+    furigana   => 'しょうすう',
+);
+
+word(
+    date       => '2012-10-25',
+    word       => '浮動',
+    furigana   => 'ふどう',
+);
+
+word(
+    date       => '2012-10-25',
+    word       => '点数',
+    furigana   => 'てんすう',
+);
