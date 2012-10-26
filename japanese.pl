@@ -15691,3 +15691,15 @@ word(
     word       => '点数',
     furigana   => 'てんすう',
 );
+
+word(
+    date       => '2012-10-26',
+    word       => '開設',
+    furigana   => 'かいせつ',
+);
+
+word(
+    date       => '2012-10-26',
+    word       => '毛布',
+    furigana   => 'もうふ',
+);
