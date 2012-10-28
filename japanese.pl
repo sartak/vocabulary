@@ -15709,3 +15709,9 @@ word(
     word       => '小手先',
     furigana   => 'こてさき',
 );
+
+word(
+    date       => '2012-10-27',
+    word       => '起因',
+    furigana   => 'きいん',
+);
