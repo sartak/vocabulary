@@ -15715,3 +15715,9 @@ word(
     word       => '起因',
     furigana   => 'きいん',
 );
+
+word(
+    date       => '2012-10-28',
+    word       => '原理',
+    furigana   => 'げんり',
+);
