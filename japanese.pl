@@ -15703,3 +15703,9 @@ word(
     word       => '毛布',
     furigana   => 'もうふ',
 );
+
+word(
+    date       => '2012-10-27',
+    word       => '小手先',
+    furigana   => 'こてさき',
+);
