@@ -15768,3 +15768,9 @@ word(
     word       => '人工',
     furigana   => 'じんこう',
 );
+
+word(
+    date       => '2012-11-01',
+    word       => '占拠',
+    furigana   => 'せんきょ',
+);
