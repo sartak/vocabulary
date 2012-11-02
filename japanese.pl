@@ -15744,3 +15744,27 @@ word(
     word       => '振動',
     furigana   => 'しんどう',
 );
+
+word(
+    date       => '2012-11-01',
+    word       => '無関係',
+    furigana   => 'むかんけい',
+);
+
+word(
+    date       => '2012-11-01',
+    word       => '大抵',
+    furigana   => 'たいてい',
+);
+
+word(
+    date       => '2012-11-01',
+    word       => '識別子',
+    furigana   => 'しきべつし',
+);
+
+word(
+    date       => '2012-11-01',
+    word       => '人工',
+    furigana   => 'じんこう',
+);
