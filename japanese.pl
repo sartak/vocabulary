@@ -15780,3 +15780,27 @@ word(
     word       => '投稿',
     furigana   => 'とうこう',
 );
+
+word(
+    date       => '2012-11-03',
+    word       => '膜',
+    furigana   => 'まく',
+);
+
+word(
+    date       => '2012-11-03',
+    word       => '集計',
+    furigana   => 'しゅうけい',
+);
+
+word(
+    date       => '2012-11-03',
+    word       => '重宝',
+    furigana   => 'じゅうほう',
+);
+
+word(
+    date       => '2012-11-03',
+    word       => '屍体',
+    furigana   => 'したい',
+);
