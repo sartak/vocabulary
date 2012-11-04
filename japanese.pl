@@ -15804,3 +15804,9 @@ word(
     word       => '屍体',
     furigana   => 'したい',
 );
+
+word(
+    date       => '2012-11-04',
+    word       => '前方',
+    furigana   => 'ぜんぽう',
+);
