@@ -15810,3 +15810,27 @@ word(
     word       => '前方',
     furigana   => 'ぜんぽう',
 );
+
+word(
+    date       => '2012-11-05',
+    word       => '検討',
+    furigana   => 'けんとう',
+);
+
+word(
+    date       => '2012-11-05',
+    word       => '終焉',
+    furigana   => 'しゅうえん',
+);
+
+word(
+    date       => '2012-11-05',
+    word       => '実用',
+    furigana   => 'じつよう',
+);
+
+word(
+    date       => '2012-11-05',
+    word       => '時期',
+    furigana   => 'じき',
+);
