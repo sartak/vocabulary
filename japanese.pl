@@ -15834,3 +15834,21 @@ word(
     word       => '時期',
     furigana   => 'じき',
 );
+
+word(
+    date       => '2012-11-06',
+    word       => '偽物',
+    furigana   => 'にせもの',
+);
+
+word(
+    date       => '2012-11-06',
+    word       => '明かす',
+    furigana   => 'あかす',
+);
+
+word(
+    date       => '2012-11-06',
+    word       => '税務',
+    furigana   => 'ぜいむ',
+);
