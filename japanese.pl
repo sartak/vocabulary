@@ -15852,3 +15852,9 @@ word(
     word       => '税務',
     furigana   => 'ぜいむ',
 );
+
+word(
+    date       => '2012-11-07',
+    word       => '匣',
+    furigana   => 'はこ',
+);
