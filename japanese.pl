@@ -15858,3 +15858,9 @@ word(
     word       => '匣',
     furigana   => 'はこ',
 );
+
+word(
+    date       => '2012-11-08',
+    word       => '依頼',
+    furigana   => 'いらい',
+);
