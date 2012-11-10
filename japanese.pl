@@ -15870,3 +15870,9 @@ word(
     word       => '排他',
     furigana   => 'はいた',
 );
+
+word(
+    date       => '2012-11-10',
+    word       => '根拠',
+    furigana   => 'こんきょ',
+);
