@@ -15882,3 +15882,9 @@ word(
     word       => '内蔵',
     furigana   => 'ないぞう',
 );
+
+word(
+    date       => '2012-11-10',
+    word       => '番手',
+    furigana   => 'ばんて',
+);
