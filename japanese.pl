@@ -15894,3 +15894,9 @@ word(
     word       => '義歯',
     furigana   => 'ぎし',
 );
+
+word(
+    date       => '2012-11-12',
+    word       => '小冊子',
+    furigana   => 'しょうさっし',
+);
