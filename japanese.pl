@@ -15900,3 +15900,9 @@ word(
     word       => '小冊子',
     furigana   => 'しょうさっし',
 );
+
+word(
+    date       => '2012-11-13',
+    word       => '設置',
+    furigana   => 'せっち',
+);
