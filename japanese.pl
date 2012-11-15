@@ -15912,3 +15912,15 @@ word(
     word       => '触れる',
     furigana   => 'ふれる',
 );
+
+word(
+    date       => '2012-11-14',
+    word       => '年月',
+    furigana   => 'としつき',
+);
+
+word(
+    date       => '2012-11-14',
+    word       => '結晶',
+    furigana   => 'けっしょう',
+);
