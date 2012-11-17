@@ -15930,3 +15930,9 @@ word(
     word       => '褒美',
     furigana   => 'ほうび',
 );
+
+word(
+    date       => '2012-11-16',
+    word       => '補完',
+    furigana   => 'ほかん',
+);
