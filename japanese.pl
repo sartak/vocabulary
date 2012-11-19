@@ -15942,3 +15942,9 @@ word(
     word       => '融合',
     furigana   => 'ゆうごう',
 );
+
+word(
+    date       => '2012-11-18',
+    word       => '瞳',
+    furigana   => 'ひとみ',
+);
