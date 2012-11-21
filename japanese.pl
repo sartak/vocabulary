@@ -15954,3 +15954,9 @@ word(
     word       => '物真似',
     furigana   => 'ものまね',
 );
+
+word(
+    date       => '2012-11-20',
+    word       => '期限',
+    furigana   => 'きげん',
+);
