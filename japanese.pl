@@ -15971,3 +15971,9 @@ word(
     word       => '浴びる',
     furigana   => 'あびる',
 );
+
+word(
+    date       => '2012-11-23',
+    word       => '申請',
+    furigana   => 'しんせい',
+);
