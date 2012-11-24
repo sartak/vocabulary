@@ -15977,3 +15977,15 @@ word(
     word       => '申請',
     furigana   => 'しんせい',
 );
+
+word(
+    date       => '2012-11-24',
+    word       => '詳細',
+    furigana   => 'しょうさい',
+);
+
+word(
+    date       => '2012-11-24',
+    word       => '解析',
+    furigana   => 'かいせき',
+);
