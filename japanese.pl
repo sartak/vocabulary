@@ -15995,3 +15995,15 @@ word(
     word       => '候補',
     furigana   => 'こうほ',
 );
+
+word(
+    date       => '2012-11-26',
+    word       => '応用',
+    furigana   => 'おうよう',
+);
+
+word(
+    date       => '2012-11-26',
+    word       => '利く',
+    furigana   => 'きく',
+);
