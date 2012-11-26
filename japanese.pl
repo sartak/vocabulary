@@ -16007,3 +16007,15 @@ word(
     word       => '利く',
     furigana   => 'きく',
 );
+
+word(
+    date       => '2012-11-26',
+    word       => '肺',
+    furigana   => 'はい',
+);
+
+word(
+    date       => '2012-11-26',
+    word       => '女王',
+    furigana   => 'じょうおう',
+);
