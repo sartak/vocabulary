@@ -16025,3 +16025,15 @@ word(
     word       => '母集団',
     furigana   => 'ぼしゅうだん',
 );
+
+word(
+    date       => '2012-11-28',
+    word       => '特集',
+    furigana   => 'とくしゅう',
+);
+
+word(
+    date       => '2012-11-28',
+    word       => '方針',
+    furigana   => 'ほうしん',
+);
