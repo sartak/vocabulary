@@ -16049,3 +16049,9 @@ word(
     word       => '割愛',
     furigana   => 'かつあい',
 );
+
+word(
+    date       => '2012-11-30',
+    word       => '接吻',
+    furigana   => 'せっぷん',
+);
