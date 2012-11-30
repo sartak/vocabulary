@@ -16043,3 +16043,9 @@ word(
     word       => '巡回',
     furigana   => 'じゅんかい',
 );
+
+word(
+    date       => '2012-11-30',
+    word       => '割愛',
+    furigana   => 'かつあい',
+);
