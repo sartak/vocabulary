@@ -16067,3 +16067,9 @@ word(
     word       => '綺麗',
     furigana   => 'きれい',
 );
+
+word(
+    date       => '2012-12-03',
+    word       => '役立つ',
+    furigana   => 'やくだつ',
+);
