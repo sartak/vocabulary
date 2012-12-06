@@ -16085,3 +16085,15 @@ word(
     word       => '溶け合う',
     furigana   => 'とけあう',
 );
+
+word(
+    date       => '2012-12-05',
+    word       => '集',
+    furigana   => 'しゅう',
+);
+
+word(
+    date       => '2012-12-05',
+    word       => '選定',
+    furigana   => 'せんてい',
+);
