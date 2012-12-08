@@ -16103,3 +16103,20 @@ word(
     word       => '下記',
     furigana   => 'かき',
 );
+
+word(
+    date       => '2012-12-07',
+    word       => '震度',
+    furigana   => 'しんど',
+);
+
+word(
+    date       => '2012-12-07',
+    word       => '観測',
+    furigana   => 'かんそく',
+);
+
+word(
+    date       => '2012-12-07',
+    word       => 'げきむず',
+);
