@@ -16138,3 +16138,15 @@ word(
     word       => '果たし状',
     furigana   => 'はたしじょう',
 );
+
+word(
+    date       => '2012-12-08',
+    word       => '交わす',
+    furigana   => 'かわす',
+);
+
+word(
+    date       => '2012-12-08',
+    word       => '偽り',
+    furigana   => 'いつわり',
+);
