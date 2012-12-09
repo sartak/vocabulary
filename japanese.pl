@@ -16150,3 +16150,21 @@ word(
     word       => '偽り',
     furigana   => 'いつわり',
 );
+
+word(
+    date       => '2012-12-09',
+    word       => '面子',
+    furigana   => 'めんつ',
+);
+
+word(
+    date       => '2012-12-09',
+    word       => '聖盾',
+    furigana   => 'せいたて',
+);
+
+word(
+    date       => '2012-12-09',
+    word       => '告げる',
+    furigana   => 'つげる',
+);
