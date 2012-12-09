@@ -16168,3 +16168,9 @@ word(
     word       => '告げる',
     furigana   => 'つげる',
 );
+
+word(
+    date       => '2012-12-09',
+    word       => '盲点',
+    furigana   => 'もうてん',
+);
