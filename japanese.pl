@@ -16174,3 +16174,15 @@ word(
     word       => '盲点',
     furigana   => 'もうてん',
 );
+
+word(
+    date       => '2012-12-10',
+    word       => '手軽',
+    furigana   => 'てがる',
+);
+
+word(
+    date       => '2012-12-10',
+    word       => '続編',
+    furigana   => 'ぞくへん',
+);
