@@ -16186,3 +16186,21 @@ word(
     word       => '続編',
     furigana   => 'ぞくへん',
 );
+
+word(
+    date       => '2012-12-11',
+    word       => '仮想',
+    furigana   => 'かそう',
+);
+
+word(
+    date       => '2012-12-11',
+    word       => '退治',
+    furigana   => 'たいじ',
+);
+
+word(
+    date       => '2012-12-11',
+    word       => '宝石',
+    furigana   => 'ほうせき',
+);
