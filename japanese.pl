@@ -16204,3 +16204,9 @@ word(
     word       => '宝石',
     furigana   => 'ほうせき',
 );
+
+word(
+    date       => '2012-12-12',
+    word       => '朝出',
+    furigana   => 'あさで',
+);
