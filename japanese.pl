@@ -16210,3 +16210,9 @@ word(
     word       => '朝出',
     furigana   => 'あさで',
 );
+
+word(
+    date       => '2012-12-12',
+    word       => '誘惑',
+    furigana   => 'ゆうわく',
+);
