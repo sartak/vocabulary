@@ -16216,3 +16216,15 @@ word(
     word       => '誘惑',
     furigana   => 'ゆうわく',
 );
+
+word(
+    date       => '2012-12-13',
+    word       => '著者',
+    furigana   => 'ちょしゃ',
+);
+
+word(
+    date       => '2012-12-13',
+    word       => '印象',
+    furigana   => 'いんしょう',
+);
