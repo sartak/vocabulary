@@ -16228,3 +16228,15 @@ word(
     word       => '印象',
     furigana   => 'いんしょう',
 );
+
+word(
+    date       => '2012-12-14',
+    word       => '漆黒',
+    furigana   => 'しっこく',
+);
+
+word(
+    date       => '2012-12-14',
+    word       => '翼',
+    furigana   => 'つばさ',
+);
