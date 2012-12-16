@@ -16258,3 +16258,21 @@ word(
     word       => '撮影',
     furigana   => 'さつえい',
 );
+
+word(
+    date       => '2012-12-16',
+    word       => '各々',
+    furigana   => 'おのおの',
+);
+
+word(
+    date       => '2012-12-16',
+    word       => '背徳',
+    furigana   => 'はいとく',
+);
+
+word(
+    date       => '2012-12-16',
+    word       => '魅せられる',
+    furigana   => 'みせられる',
+);
