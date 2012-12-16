@@ -16240,3 +16240,21 @@ word(
     word       => '翼',
     furigana   => 'つばさ',
 );
+
+word(
+    date       => '2012-12-15',
+    word       => '徐に',
+    furigana   => 'おもむろに',
+);
+
+word(
+    date       => '2012-12-15',
+    word       => '月日',
+    furigana   => 'つきひ',
+);
+
+word(
+    date       => '2012-12-15',
+    word       => '撮影',
+    furigana   => 'さつえい',
+);
