@@ -16276,3 +16276,9 @@ word(
     word       => '魅せられる',
     furigana   => 'みせられる',
 );
+
+word(
+    date       => '2012-12-17',
+    word       => '台詞',
+    furigana   => 'せりふ',
+);
