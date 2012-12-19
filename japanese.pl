@@ -16282,3 +16282,10 @@ word(
     word       => '台詞',
     furigana   => 'せりふ',
 );
+
+word(
+    date       => '2012-12-18',
+    word       => '切断',
+    furigana   => 'せつだん',
+);
+
