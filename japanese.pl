@@ -16300,3 +16300,21 @@ word(
     word       => '自作',
     furigana   => 'じさく',
 );
+
+word(
+    date       => '2012-12-20',
+    word       => '煌めく',
+    furigana   => 'きらめく',
+);
+
+word(
+    date       => '2012-12-20',
+    word       => '奏',
+    furigana   => 'そう',
+);
+
+word(
+    date       => '2012-12-20',
+    word       => '共鳴',
+    furigana   => 'きょうめい',
+);
