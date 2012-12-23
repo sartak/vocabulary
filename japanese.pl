@@ -16335,3 +16335,9 @@ word(
     word       => '億劫',
     furigana   => 'おっくう',
 );
+
+word(
+    date       => '2012-12-23',
+    word       => '驀地',
+    furigana   => 'まっしぐら',
+);
