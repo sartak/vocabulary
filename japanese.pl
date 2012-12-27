@@ -16371,3 +16371,9 @@ word(
     word       => '感謝',
     furigana   => 'かんしゃ',
 );
+
+word(
+    date       => '2012-12-27',
+    word       => '単なる',
+    furigana   => 'たんなる',
+);
