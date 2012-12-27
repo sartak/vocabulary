@@ -16365,3 +16365,9 @@ word(
     word       => '循環',
     furigana   => 'じゅんかん',
 );
+
+word(
+    date       => '2012-12-27',
+    word       => '感謝',
+    furigana   => 'かんしゃ',
+);
