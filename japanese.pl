@@ -16401,3 +16401,9 @@ word(
     word       => '墨',
     furigana   => 'すみ',
 );
+
+word(
+    date       => '2012-12-30',
+    word       => '有益',
+    furigana   => 'ゆうえき',
+);
