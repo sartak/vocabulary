@@ -16431,3 +16431,15 @@ word(
     word       => '添字',
     furigana   => 'そえじ',
 );
+
+word(
+    date       => '2013-01-04',
+    word       => '伯父',
+    furigana   => 'はくふ',
+);
+
+word(
+    date       => '2013-01-04',
+    word       => '渦流',
+    furigana   => 'かりゅう',
+);
