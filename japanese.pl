@@ -16443,3 +16443,9 @@ word(
     word       => '渦流',
     furigana   => 'かりゅう',
 );
+
+word(
+    date       => '2013-01-05',
+    word       => '縛る',
+    furigana   => 'しばる',
+);
