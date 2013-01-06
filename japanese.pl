@@ -16449,3 +16449,15 @@ word(
     word       => '縛る',
     furigana   => 'しばる',
 );
+
+word(
+    date       => '2013-01-06',
+    word       => '牙',
+    furigana   => 'きば',
+);
+
+word(
+    date       => '2013-01-06',
+    word       => '攻める',
+    furigana   => 'せめる',
+);
