@@ -16461,3 +16461,9 @@ word(
     word       => '攻める',
     furigana   => 'せめる',
 );
+
+word(
+    date       => '2013-01-07',
+    word       => '心臓',
+    furigana   => 'しんぞう',
+);
