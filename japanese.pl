@@ -16498,3 +16498,14 @@ word(
     furigana   => 'はいか',
 );
 
+word(
+    date       => '2013-01-12',
+    word       => '累計',
+    furigana   => 'るいけい',
+);
+
+word(
+    date       => '2013-01-12',
+    word       => '誤字',
+    furigana   => 'ごじ',
+);
