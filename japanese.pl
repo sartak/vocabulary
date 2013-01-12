@@ -16491,3 +16491,10 @@ word(
     word       => '僭越',
     furigana   => 'せんえつ',
 );
+
+word(
+    date       => '2013-01-11',
+    word       => '配下',
+    furigana   => 'はいか',
+);
+
