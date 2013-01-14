@@ -16509,3 +16509,21 @@ word(
     word       => '誤字',
     furigana   => 'ごじ',
 );
+
+word(
+    date       => '2013-01-13',
+    word       => '肉体',
+    furigana   => 'にくたい',
+);
+
+word(
+    date       => '2013-01-13',
+    word       => '裏切り',
+    furigana   => '裏切り',
+);
+
+word(
+    date       => '2013-01-13',
+    word       => '番人',
+    furigana   => 'ばんにん',
+);
