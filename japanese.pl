@@ -16527,3 +16527,9 @@ word(
     word       => '番人',
     furigana   => 'ばんにん',
 );
+
+word(
+    date       => '2013-01-14',
+    word       => '近頃',
+    furigana   => 'ちかごろ',
+);
