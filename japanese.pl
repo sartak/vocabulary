@@ -16533,3 +16533,15 @@ word(
     word       => '近頃',
     furigana   => 'ちかごろ',
 );
+
+word(
+    date       => '2013-01-15',
+    word       => '本命',
+    furigana   => 'ほんめい',
+);
+
+word(
+    date       => '2013-01-15',
+    word       => '活発',
+    furigana   => 'かっぱつ',
+);
