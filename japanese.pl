@@ -16545,3 +16545,9 @@ word(
     word       => '活発',
     furigana   => 'かっぱつ',
 );
+
+word(
+    date       => '2013-01-16',
+    word       => '引っ越す',
+    furigana   => 'ひっこす',
+);
