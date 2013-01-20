@@ -16563,3 +16563,15 @@ word(
     word       => '拘る',
     furigana   => 'こだわる',
 );
+
+word(
+    date       => '2013-01-19',
+    word       => '次第',
+    furigana   => 'しだい',
+);
+
+word(
+    date       => '2013-01-19',
+    word       => '意外',
+    furigana   => 'いがい',
+);
