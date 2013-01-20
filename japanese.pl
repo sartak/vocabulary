@@ -16575,3 +16575,9 @@ word(
     word       => '意外',
     furigana   => 'いがい',
 );
+
+word(
+    date       => '2013-01-20',
+    word       => '捗る',
+    furigana   => 'はかどる',
+);
