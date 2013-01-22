@@ -16581,3 +16581,21 @@ word(
     word       => '捗る',
     furigana   => 'はかどる',
 );
+
+word(
+    date       => '2013-01-21',
+    word       => '吉',
+    furigana   => 'きち',
+);
+
+word(
+    date       => '2013-01-21',
+    word       => '純粋',
+    furigana   => 'じゅんすい',
+);
+
+word(
+    date       => '2013-01-21',
+    word       => '想う',
+    furigana   => 'おもう',
+);
