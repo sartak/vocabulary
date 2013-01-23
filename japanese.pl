@@ -16599,3 +16599,39 @@ word(
     word       => '想う',
     furigana   => 'おもう',
 );
+
+word(
+    date       => '2013-01-22',
+    word       => '目標',
+    furigana   => 'もくひょう',
+);
+
+word(
+    date       => '2013-01-22',
+    word       => '絵札',
+    furigana   => 'えふだ',
+);
+
+word(
+    date       => '2013-01-22',
+    word       => '金額',
+    furigana   => 'きんがく',
+);
+
+word(
+    date       => '2013-01-22',
+    word       => '放棄',
+    furigana   => 'ほうき',
+);
+
+word(
+    date       => '2013-01-22',
+    word       => '旗',
+    furigana   => 'はた',
+);
+
+word(
+    date       => '2013-01-22',
+    word       => '有利',
+    furigana   => 'ゆうり',
+);
