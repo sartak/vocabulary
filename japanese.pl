@@ -16635,3 +16635,9 @@ word(
     word       => '有利',
     furigana   => 'ゆうり',
 );
+
+word(
+    date       => '2013-01-23',
+    word       => '追従',
+    furigana   => 'ついじゅう',
+);
