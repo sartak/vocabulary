@@ -16665,3 +16665,9 @@ word(
     word       => '質',
     furigana   => 'しつ',
 );
+
+word(
+    date       => '2013-01-27',
+    word       => '紙切れ',
+    furigana   => 'かみきれ',
+);
