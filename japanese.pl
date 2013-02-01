@@ -16700,3 +16700,9 @@ word(
     word       => '飽きる',
     furigana   => 'あきる',
 );
+
+word(
+    date       => '2013-02-01',
+    word       => '算術',
+    furigana   => 'さんじゅつ',
+);
