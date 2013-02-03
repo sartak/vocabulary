@@ -16706,3 +16706,27 @@ word(
     word       => '算術',
     furigana   => 'さんじゅつ',
 );
+
+word(
+    date       => '2013-02-02',
+    word       => '胴元',
+    furigana   => 'どうもと',
+);
+
+word(
+    date       => '2013-02-02',
+    word       => '表向き',
+    furigana   => 'おもてむき',
+);
+
+word(
+    date       => '2013-02-02',
+    word       => '伏せる',
+    furigana   => 'ふせる',
+);
+
+word(
+    date       => '2013-02-02',
+    word       => '狂おしい',
+    furigana   => 'くるおしい',
+);
