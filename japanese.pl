@@ -16730,3 +16730,9 @@ word(
     word       => '狂おしい',
     furigana   => 'くるおしい',
 );
+
+word(
+    date       => '2013-02-03',
+    word       => '回避',
+    furigana   => 'かいひ',
+);
