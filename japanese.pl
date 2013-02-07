@@ -16748,3 +16748,21 @@ word(
     word       => '不気味',
     furigana   => 'ぶきみ',
 );
+
+word(
+    date       => '2013-02-06',
+    word       => '眼差し',
+    furigana   => 'まなこざし',
+);
+
+word(
+    date       => '2013-02-06',
+    word       => '常駐',
+    furigana   => 'じょうちゅう',
+);
+
+word(
+    date       => '2013-02-06',
+    word       => '雛形',
+    furigana   => 'ひながた',
+);
