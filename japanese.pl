@@ -16766,3 +16766,15 @@ word(
     word       => '雛形',
     furigana   => 'ひながた',
 );
+
+word(
+    date       => '2013-02-07',
+    word       => '透過的',
+    furigana   => 'とうかてき',
+);
+
+word(
+    date       => '2013-02-07',
+    word       => '移植',
+    furigana   => 'いしょく',
+);
