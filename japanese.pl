@@ -16795,3 +16795,9 @@ word(
     word       => '確保',
     furigana   => 'かくほ',
 );
+
+word(
+    date       => '2013-02-10',
+    word       => '実態',
+    furigana   => 'じったい',
+);
