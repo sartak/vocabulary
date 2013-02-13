@@ -16813,3 +16813,9 @@ word(
     word       => '抽選',
     furigana   => 'ちゅうせん',
 );
+
+word(
+    date       => '2013-02-13',
+    word       => '出演',
+    furigana   => 'しゅつえん',
+);
