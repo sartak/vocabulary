@@ -16819,3 +16819,15 @@ word(
     word       => '出演',
     furigana   => 'しゅつえん',
 );
+
+word(
+    date       => '2013-02-14',
+    word       => '両立',
+    furigana   => 'りょうりつ',
+);
+
+word(
+    date       => '2013-02-14',
+    word       => '信実',
+    furigana   => 'しんじつ',
+);
