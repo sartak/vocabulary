@@ -16831,3 +16831,9 @@ word(
     word       => '信実',
     furigana   => 'しんじつ',
 );
+
+word(
+    date       => '2013-02-15',
+    word       => '正解',
+    furigana   => 'せいかい',
+);
