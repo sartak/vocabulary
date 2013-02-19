@@ -16878,3 +16878,9 @@ word(
     word       => '籠',
     furigana   => 'かご',
 );
+
+word(
+    date       => '2013-02-19',
+    word       => '目星',
+    furigana   => 'めぼし',
+);
