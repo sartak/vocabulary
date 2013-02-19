@@ -16848,3 +16848,33 @@ word(
     word       => '一読',
     furigana   => 'いちどく',
 );
+
+word(
+    date       => '2013-02-18',
+    word       => '傾向',
+    furigana   => 'けいこう',
+);
+
+word(
+    date       => '2013-02-18',
+    word       => '応答',
+    furigana   => 'おうとう',
+);
+
+word(
+    date       => '2013-02-18',
+    word       => '文書',
+    furigana   => 'ぶんしょ',
+);
+
+word(
+    date       => '2013-02-18',
+    word       => '消費',
+    furigana   => 'しょうひ',
+);
+
+word(
+    date       => '2013-02-18',
+    word       => '籠',
+    furigana   => 'かご',
+);
