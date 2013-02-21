@@ -16890,3 +16890,15 @@ word(
     word       => '比較',
     furigana   => 'ひかく',
 );
+
+word(
+    date       => '2013-02-21',
+    word       => '列挙',
+    furigana   => 'れっきょ',
+);
+
+word(
+    date       => '2013-02-21',
+    word       => '緊急事態',
+    furigana   => 'きんきゅうじたい',
+);
