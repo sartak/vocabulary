@@ -16908,3 +16908,9 @@ word(
     word       => '無闇',
     furigana   => 'むやみ',
 );
+
+word(
+    date       => '2013-02-22',
+    word       => '舞う',
+    furigana   => 'まう',
+);
