@@ -16944,3 +16944,27 @@ word(
     word       => '弾',
     furigana   => 'だん',
 );
+
+word(
+    date       => '2013-02-23',
+    word       => '沈黙',
+    furigana   => 'ちんもく',
+);
+
+word(
+    date       => '2013-02-23',
+    word       => '宿命',
+    furigana   => 'しゅくめい',
+);
+
+word(
+    date       => '2013-02-23',
+    word       => '十字',
+    furigana   => 'じゅうじ',
+);
+
+word(
+    date       => '2013-02-23',
+    word       => '正確',
+    furigana   => 'せいかく',
+);
