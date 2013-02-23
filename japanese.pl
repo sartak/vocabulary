@@ -16926,3 +16926,9 @@ word(
     word       => '神聖',
     furigana   => 'しんせい',
 );
+
+word(
+    date       => '2013-02-22',
+    word       => '箇所',
+    furigana   => 'かしょ',
+);
