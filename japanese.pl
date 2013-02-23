@@ -16914,3 +16914,15 @@ word(
     word       => '舞う',
     furigana   => 'まう',
 );
+
+word(
+    date       => '2013-02-22',
+    word       => '手先',
+    furigana   => 'てさき',
+);
+
+word(
+    date       => '2013-02-22',
+    word       => '神聖',
+    furigana   => 'しんせい',
+);
