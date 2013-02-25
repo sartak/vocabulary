@@ -16968,3 +16968,27 @@ word(
     word       => '正確',
     furigana   => 'せいかく',
 );
+
+word(
+    date       => '2013-02-24',
+    word       => '足止め',
+    furigana   => 'あしどめ',
+);
+
+word(
+    date       => '2013-02-24',
+    word       => '見込む',
+    furigana   => 'みこむ',
+);
+
+word(
+    date       => '2013-02-24',
+    word       => '炭坑',
+    furigana   => 'たんこう',
+);
+
+word(
+    date       => '2013-02-24',
+    word       => '隊',
+    furigana   => 'たい',
+);
