@@ -16999,3 +16999,13 @@ word(
     furigana   => 'かく',
 );
 
+word(
+    date       => '2013-02-26',
+    word       => 'やや',
+);
+
+word(
+    date       => '2013-02-26',
+    word       => '記法',
+    furigana   => 'きほう',
+);
