@@ -16992,3 +16992,10 @@ word(
     word       => '隊',
     furigana   => 'たい',
 );
+
+word(
+    date       => '2013-02-25',
+    word       => '核',
+    furigana   => 'かく',
+);
+
