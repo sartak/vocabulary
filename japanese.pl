@@ -17015,3 +17015,9 @@ word(
     word       => '空白',
     furigana   => 'くうはく',
 );
+
+word(
+    date       => '2013-02-26',
+    word       => '滝',
+    furigana   => 'たき',
+);
