@@ -17027,3 +17027,33 @@ word(
     word       => '誤植',
     furigana   => 'ごしょく',
 );
+
+word(
+    date       => '2013-02-28',
+    word       => '開催',
+    furigana   => 'かいさい',
+);
+
+word(
+    date       => '2013-02-28',
+    word       => '日程',
+    furigana   => 'にってい',
+);
+
+word(
+    date       => '2013-02-28',
+    word       => '慶應義塾',
+    furigana   => 'けいおうぎじゅく',
+);
+
+word(
+    date       => '2013-02-28',
+    word       => '日吉',
+    furigana   => 'ひよし',
+);
+
+word(
+    date       => '2013-02-28',
+    word       => '港北区',
+    furigana   => 'こうほくく',
+);
