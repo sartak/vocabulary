@@ -17057,3 +17057,15 @@ word(
     word       => '港北区',
     furigana   => 'こうほくく',
 );
+
+word(
+    date       => '2013-03-01',
+    word       => '切羽',
+    furigana   => 'せっぱ',
+);
+
+word(
+    date       => '2013-03-01',
+    word       => '詰まる',
+    furigana   => 'つまる',
+);
