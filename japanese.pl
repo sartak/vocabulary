@@ -17069,3 +17069,27 @@ word(
     word       => '詰まる',
     furigana   => 'つまる',
 );
+
+word(
+    date       => '2013-03-02',
+    word       => '退職',
+    furigana   => 'たいしょく',
+);
+
+word(
+    date       => '2013-03-02',
+    word       => '借金',
+    furigana   => 'しゃっきん',
+);
+
+word(
+    date       => '2013-03-02',
+    word       => '返済',
+    furigana   => 'へんさい',
+);
+
+word(
+    date       => '2013-03-02',
+    word       => '奢る',
+    furigana   => 'おごる',
+);
