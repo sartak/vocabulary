@@ -17104,3 +17104,15 @@ word(
     word       => '商人',
     furigana   => 'しょうにん',
 );
+
+word(
+    date       => '2013-03-03',
+    word       => '別状',
+    furigana   => 'べつじょう',
+);
+
+word(
+    date       => '2013-03-03',
+    word       => '単体',
+    furigana   => 'たんたい',
+);
