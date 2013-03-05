@@ -17122,3 +17122,9 @@ word(
     word       => '実験',
     furigana   => 'じっけん',
 );
+
+word(
+    date       => '2013-03-05',
+    word       => '表記',
+    furigana   => 'ひょうき',
+);
