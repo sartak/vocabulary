@@ -17140,3 +17140,9 @@ word(
     word       => '前提',
     furigana   => 'ぜんてい',
 );
+
+word(
+    date       => '2013-03-06',
+    word       => '幾年',
+    furigana   => 'いくねん',
+);
