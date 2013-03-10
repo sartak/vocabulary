@@ -17164,3 +17164,9 @@ word(
     word       => '正格',
     furigana   => 'せいかく',
 );
+
+word(
+    date       => '2013-03-10',
+    word       => '肢',
+    furigana   => 'し',
+);
