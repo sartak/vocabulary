@@ -17176,3 +17176,9 @@ word(
     word       => '途切れる',
     furigana   => 'とぎれる',
 );
+
+word(
+    date       => '2013-03-10',
+    word       => '育つ',
+    furigana   => 'そだつ',
+);
