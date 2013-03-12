@@ -17188,3 +17188,21 @@ word(
     word       => '流行',
     furigana   => 'りゅうこう',
 );
+
+word(
+    date       => '2013-03-12',
+    word       => '順序',
+    furigana   => 'じゅんじょ',
+);
+
+word(
+    date       => '2013-03-12',
+    word       => '纏る',
+    furigana   => 'まつわる',
+);
+
+word(
+    date       => '2013-03-12',
+    word       => '話題',
+    furigana   => 'わだい',
+);
