@@ -17212,3 +17212,15 @@ word(
     word       => '迷惑',
     furigana   => 'めいわく',
 );
+
+word(
+    date       => '2013-03-14',
+    word       => '我が儘',
+    furigana   => 'わがまま',
+);
+
+word(
+    date       => '2013-03-14',
+    word       => '勝手',
+    furigana   => 'かって',
+);
