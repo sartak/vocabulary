@@ -17236,3 +17236,9 @@ word(
     word       => '命題',
     furigana   => 'めいだい',
 );
+
+word(
+    date       => '2013-03-16',
+    word       => '会食',
+    furigana   => 'かいしょく',
+);
