@@ -17230,3 +17230,9 @@ word(
     word       => '結実',
     furigana   => 'けつじつ',
 );
+
+word(
+    date       => '2013-03-16',
+    word       => '命題',
+    furigana   => 'めいだい',
+);
