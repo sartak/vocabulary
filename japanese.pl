@@ -17277,3 +17277,9 @@ word(
     word       => '意見',
     furigana   => 'いけん',
 );
+
+word(
+    date       => '2013-03-22',
+    word       => '制約',
+    furigana   => 'せいやく',
+);
