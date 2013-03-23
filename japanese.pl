@@ -17283,3 +17283,9 @@ word(
     word       => '制約',
     furigana   => 'せいやく',
 );
+
+word(
+    date       => '2013-03-23',
+    word       => '廻る',
+    furigana   => 'まわる',
+);
