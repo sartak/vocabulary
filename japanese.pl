@@ -17289,3 +17289,15 @@ word(
     word       => '廻る',
     furigana   => 'まわる',
 );
+
+word(
+    date       => '2013-03-24',
+    word       => '重大',
+    furigana   => 'じゅうだい',
+);
+
+word(
+    date       => '2013-03-24',
+    word       => '軽微',
+    furigana   => 'けいび',
+);
