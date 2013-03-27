@@ -17313,3 +17313,15 @@ word(
     word       => '脆弱性',
     furigana   => 'ぜいじゃくせい',
 );
+
+word(
+    date       => '2013-03-27',
+    word       => '備忘',
+    furigana   => 'びぼう',
+);
+
+word(
+    date       => '2013-03-27',
+    word       => '憂い',
+    furigana   => 'うれい',
+);
