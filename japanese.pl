@@ -17325,3 +17325,9 @@ word(
     word       => '憂い',
     furigana   => 'うれい',
 );
+
+word(
+    date       => '2013-03-28',
+    word       => '縮小',
+    furigana   => 'しゅくしょう',
+);
