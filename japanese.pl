@@ -17337,3 +17337,15 @@ word(
     word       => '定型的',
     furigana   => 'ていけいてき',
 );
+
+word(
+    date       => '2013-03-30',
+    word       => '琢磨',
+    furigana   => 'たくま',
+);
+
+word(
+    date       => '2013-03-30',
+    word       => '物騒',
+    furigana   => 'ぶっそう',
+);
