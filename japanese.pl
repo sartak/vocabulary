@@ -17355,3 +17355,9 @@ word(
     word       => '逆順',
     furigana   => 'ぎゃくじゅん',
 );
+
+word(
+    date       => '2013-03-31',
+    word       => '覗く',
+    furigana   => 'のぞく',
+);
