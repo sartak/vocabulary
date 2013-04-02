@@ -17367,3 +17367,9 @@ word(
     word       => '役割',
     furigana   => 'やくわり',
 );
+
+word(
+    date       => '2013-04-02',
+    word       => '録画',
+    furigana   => 'ろくが',
+);
