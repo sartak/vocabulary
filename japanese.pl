@@ -17373,3 +17373,9 @@ word(
     word       => '録画',
     furigana   => 'ろくが',
 );
+
+word(
+    date       => '2013-04-03',
+    word       => '謎解き',
+    furigana   => 'なぞとき',
+);
