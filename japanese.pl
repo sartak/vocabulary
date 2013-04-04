@@ -17379,3 +17379,27 @@ word(
     word       => '謎解き',
     furigana   => 'なぞとき',
 );
+
+word(
+    date       => '2013-04-04',
+    word       => '〜体',
+    furigana   => '〜たい',
+);
+
+word(
+    date       => '2013-04-04',
+    word       => '精霊',
+    furigana   => 'せいれい',
+);
+
+word(
+    date       => '2013-04-04',
+    word       => '忽然',
+    furigana   => 'こつぜん',
+);
+
+word(
+    date       => '2013-04-04',
+    word       => '異変',
+    furigana   => 'いへん',
+);
