@@ -17403,3 +17403,9 @@ word(
     word       => '異変',
     furigana   => 'いへん',
 );
+
+word(
+    date       => '2013-04-04',
+    word       => '辻褄',
+    furigana   => 'つじつま',
+);
