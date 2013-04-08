@@ -17426,3 +17426,9 @@ word(
     word       => '注入',
     furigana   => 'ちゅうにゅう',
 );
+
+word(
+    date       => '2013-04-08',
+    word       => '汚す',
+    furigana   => 'けがす',
+);
