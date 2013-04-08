@@ -17420,3 +17420,9 @@ word(
     word       => '基礎',
     furigana   => 'きそ',
 );
+
+word(
+    date       => '2013-04-07',
+    word       => '注入',
+    furigana   => 'ちゅうにゅう',
+);
