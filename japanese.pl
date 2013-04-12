@@ -17450,3 +17450,9 @@ word(
     word       => '吐く',
     furigana   => 'はく',
 );
+
+word(
+    date       => '2013-04-11',
+    word       => '絞り込む',
+    furigana   => 'しぼりこむ',
+);
