@@ -17462,3 +17462,9 @@ word(
     word       => '付加',
     furigana   => 'ふか',
 );
+
+word(
+    date       => '2013-04-12',
+    word       => '配置',
+    furigana   => 'はいち',
+);
