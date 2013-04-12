@@ -17456,3 +17456,9 @@ word(
     word       => '絞り込む',
     furigana   => 'しぼりこむ',
 );
+
+word(
+    date       => '2013-04-12',
+    word       => '付加',
+    furigana   => 'ふか',
+);
