@@ -17503,3 +17503,15 @@ word(
     word       => '返金',
     furigana   => 'へんきん',
 );
+
+word(
+    date       => '2013-04-14',
+    word       => '広範囲',
+    furigana   => 'こうはんい',
+);
+
+word(
+    date       => '2013-04-14',
+    word       => '及ぶ',
+    furigana   => 'およぶ',
+);
