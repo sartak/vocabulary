@@ -17473,3 +17473,33 @@ word(
     date       => '2013-04-12',
     word       => 'やりくり',
 );
+
+word(
+    date       => '2013-04-13',
+    word       => '購入',
+    furigana   => 'こうにゅう',
+);
+
+word(
+    date       => '2013-04-13',
+    word       => '調査',
+    furigana   => 'ちょうさ',
+);
+
+word(
+    date       => '2013-04-13',
+    word       => '重視',
+    furigana   => 'じゅうし',
+);
+
+word(
+    date       => '2013-04-13',
+    word       => '全額',
+    furigana   => 'ぜんがく',
+);
+
+word(
+    date       => '2013-04-13',
+    word       => '返金',
+    furigana   => 'へんきん',
+);
