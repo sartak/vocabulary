@@ -17527,3 +17527,9 @@ word(
     word       => '活用',
     furigana   => 'かつよう',
 );
+
+word(
+    date       => '2013-04-16',
+    word       => '着飾る',
+    furigana   => 'きかざる',
+);
