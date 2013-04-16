@@ -17515,3 +17515,15 @@ word(
     word       => '及ぶ',
     furigana   => 'およぶ',
 );
+
+word(
+    date       => '2013-04-15',
+    word       => '震災',
+    furigana   => 'しんさい',
+);
+
+word(
+    date       => '2013-04-15',
+    word       => '活用',
+    furigana   => 'かつよう',
+);
