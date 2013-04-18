@@ -17539,3 +17539,9 @@ word(
     word       => '幅',
     furigana   => 'はば',
 );
+
+word(
+    date       => '2013-04-18',
+    word       => '限',
+    furigana   => 'げん',
+);
