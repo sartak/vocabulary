@@ -17545,3 +17545,10 @@ word(
     word       => '限',
     furigana   => 'げん',
 );
+
+word(
+    date       => '2013-04-19',
+    word       => '規約',
+    furigana   => 'きやく',
+);
+
