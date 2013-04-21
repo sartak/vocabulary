@@ -17562,3 +17562,15 @@ word(
     word       => '迷路',
     furigana   => 'めいろ',
 );
+
+word(
+    date       => '2013-04-21',
+    word       => '固定',
+    furigana   => 'こてい',
+);
+
+word(
+    date       => '2013-04-21',
+    word       => '爆速',
+    furigana   => 'ばくそく',
+);
