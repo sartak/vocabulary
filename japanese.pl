@@ -17580,3 +17580,9 @@ word(
     word       => '手慰み',
     furigana   => 'てなぐさみ',
 );
+
+word(
+    date       => '2013-04-23',
+    word       => '抑制',
+    furigana   => 'よくせい',
+);
