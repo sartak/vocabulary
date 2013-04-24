@@ -17586,3 +17586,15 @@ word(
     word       => '抑制',
     furigana   => 'よくせい',
 );
+
+word(
+    date       => '2013-04-24',
+    word       => '怪奇',
+    furigana   => 'かいき',
+);
+
+word(
+    date       => '2013-04-24',
+    word       => '浮気',
+    furigana   => 'うわき',
+);
