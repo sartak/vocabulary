@@ -17598,3 +17598,15 @@ word(
     word       => '浮気',
     furigana   => 'うわき',
 );
+
+word(
+    date       => '2013-04-25',
+    word       => '今更',
+    furigana   => 'いまさら',
+);
+
+word(
+    date       => '2013-04-25',
+    word       => '満載',
+    furigana   => 'まんさい',
+);
