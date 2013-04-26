@@ -17622,3 +17622,15 @@ word(
     word       => '機器',
     furigana   => 'きき',
 );
+
+word(
+    date       => '2013-04-26',
+    word       => '上げ下げ',
+    furigana   => 'あげさげ',
+);
+
+word(
+    date       => '2013-04-26',
+    word       => '収集',
+    furigana   => 'しゅうしゅう',
+);
