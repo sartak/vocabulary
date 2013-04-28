@@ -17640,3 +17640,15 @@ word(
     word       => '破滅',
     furigana   => 'はめつ',
 );
+
+word(
+    date       => '2013-04-28',
+    word       => '広げる',
+    furigana   => 'ひろげる',
+);
+
+word(
+    date       => '2013-04-28',
+    word       => '憶える',
+    furigana   => 'おぼえる',
+);
