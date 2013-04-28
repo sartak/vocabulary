@@ -17634,3 +17634,9 @@ word(
     word       => '収集',
     furigana   => 'しゅうしゅう',
 );
+
+word(
+    date       => '2013-04-27',
+    word       => '破滅',
+    furigana   => 'はめつ',
+);
