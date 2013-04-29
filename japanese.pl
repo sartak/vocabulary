@@ -17652,3 +17652,9 @@ word(
     word       => '憶える',
     furigana   => 'おぼえる',
 );
+
+word(
+    date       => '2013-04-29',
+    word       => '速効',
+    furigana   => 'そっこう',
+);
