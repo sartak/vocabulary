@@ -17658,3 +17658,9 @@ word(
     word       => '速効',
     furigana   => 'そっこう',
 );
+
+word(
+    date       => '2013-04-30',
+    word       => '転職',
+    furigana   => 'てんしょく',
+);
