@@ -17664,3 +17664,21 @@ word(
     word       => '転職',
     furigana   => 'てんしょく',
 );
+
+word(
+    date       => '2013-05-01',
+    word       => '報復',
+    furigana   => 'ほうふく',
+);
+
+word(
+    date       => '2013-05-01',
+    word       => '刺',
+    furigana   => 'とげ',
+);
+
+word(
+    date       => '2013-05-01',
+    word       => '沿う',
+    furigana   => 'そう',
+);
