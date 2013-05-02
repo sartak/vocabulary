@@ -17682,3 +17682,21 @@ word(
     word       => '沿う',
     furigana   => 'そう',
 );
+
+word(
+    date       => '2013-05-02',
+    word       => '切り直す',
+    furigana   => 'きりなおす',
+);
+
+word(
+    date       => '2013-05-02',
+    word       => '墓地',
+    furigana   => 'ぼち',
+);
+
+word(
+    date       => '2013-05-02',
+    word       => '死者',
+    furigana   => 'ししゃ',
+);
