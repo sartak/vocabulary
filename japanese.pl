@@ -17700,3 +17700,21 @@ word(
     word       => '死者',
     furigana   => 'ししゃ',
 );
+
+word(
+    date       => '2013-05-03',
+    word       => '重力',
+    furigana   => 'じゅうりょく',
+);
+
+word(
+    date       => '2013-05-03',
+    word       => '表面',
+    furigana   => 'ひょうめん',
+);
+
+word(
+    date       => '2013-05-03',
+    word       => '加速度',
+    furigana   => 'かそくど',
+);
