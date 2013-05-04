@@ -17718,3 +17718,27 @@ word(
     word       => '加速度',
     furigana   => 'かそくど',
 );
+
+word(
+    date       => '2013-05-04',
+    word       => '盛り上がる',
+    furigana   => 'もりあがる',
+);
+
+word(
+    date       => '2013-05-04',
+    word       => '生け贄',
+    furigana   => 'いけにえ',
+);
+
+word(
+    date       => '2013-05-04',
+    word       => '捧げる',
+    furigana   => 'ささげる',
+);
+
+word(
+    date       => '2013-05-04',
+    word       => '幻影',
+    furigana   => 'げんえい',
+);
