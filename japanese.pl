@@ -17742,3 +17742,15 @@ word(
     word       => '幻影',
     furigana   => 'げんえい',
 );
+
+word(
+    date       => '2013-05-05',
+    word       => '課金',
+    furigana   => 'かきん',
+);
+
+word(
+    date       => '2013-05-05',
+    word       => '付与',
+    furigana   => 'ふよ',
+);
