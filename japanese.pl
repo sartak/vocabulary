@@ -17754,3 +17754,9 @@ word(
     word       => '付与',
     furigana   => 'ふよ',
 );
+
+word(
+    date       => '2013-05-06',
+    word       => '夕日',
+    furigana   => 'ゆうひ',
+);
