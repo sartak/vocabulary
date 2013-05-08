@@ -17760,3 +17760,9 @@ word(
     word       => '夕日',
     furigana   => 'ゆうひ',
 );
+
+word(
+    date       => '2013-05-07',
+    word       => '際どい',
+    furigana   => 'きわどい',
+);
