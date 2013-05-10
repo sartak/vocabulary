@@ -17772,3 +17772,9 @@ word(
     word       => '大げさ',
     furigana   => 'おおげさ',
 );
+
+word(
+    date       => '2013-05-09',
+    word       => '企業',
+    furigana   => 'きぎょう',
+);
