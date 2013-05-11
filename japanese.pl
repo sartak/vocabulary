@@ -17778,3 +17778,21 @@ word(
     word       => '企業',
     furigana   => 'きぎょう',
 );
+
+word(
+    date       => '2013-05-10',
+    word       => '従う',
+    furigana   => 'したがう',
+);
+
+word(
+    date       => '2013-05-10',
+    word       => '映し出す',
+    furigana   => 'うつしだす',
+);
+
+word(
+    date       => '2013-05-10',
+    word       => '縮める',
+    furigana   => 'ちぢめる',
+);
