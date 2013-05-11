@@ -17796,3 +17796,15 @@ word(
     word       => '縮める',
     furigana   => 'ちぢめる',
 );
+
+word(
+    date       => '2013-05-11',
+    word       => '測位',
+    furigana   => 'そくい',
+);
+
+word(
+    date       => '2013-05-11',
+    word       => '悪夢',
+    furigana   => 'あくむ',
+);
