@@ -17808,3 +17808,21 @@ word(
     word       => '悪夢',
     furigana   => 'あくむ',
 );
+
+word(
+    date       => '2013-05-12',
+    word       => '馴染み',
+    furigana   => 'なじみ',
+);
+
+word(
+    date       => '2013-05-12',
+    word       => '復習',
+    furigana   => 'ふくしゅう',
+);
+
+word(
+    date       => '2013-05-12',
+    word       => '受理',
+    furigana   => 'じゅり',
+);
