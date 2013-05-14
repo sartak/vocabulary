@@ -17832,3 +17832,15 @@ word(
     word       => '包括',
     furigana   => 'ほうかつ',
 );
+
+word(
+    date       => '2013-05-14',
+    word       => 'いつの間にか',
+    furigana   => 'いつのまにか',
+);
+
+word(
+    date       => '2013-05-14',
+    word       => '見る見る',
+    furigana   => 'みるみる',
+);
