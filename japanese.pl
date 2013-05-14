@@ -17826,3 +17826,9 @@ word(
     word       => '受理',
     furigana   => 'じゅり',
 );
+
+word(
+    date       => '2013-05-13',
+    word       => '包括',
+    furigana   => 'ほうかつ',
+);
