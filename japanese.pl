@@ -17844,3 +17844,15 @@ word(
     word       => '見る見る',
     furigana   => 'みるみる',
 );
+
+word(
+    date       => '2013-05-15',
+    word       => '修飾',
+    furigana   => 'しゅうしょく',
+);
+
+word(
+    date       => '2013-05-15',
+    word       => '一目',
+    furigana   => 'ひとめ',
+);
