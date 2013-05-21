@@ -17909,3 +17909,15 @@ word(
     word       => '協会',
     furigana   => 'きょうかい',
 );
+
+word(
+    date       => '2013-05-21',
+    word       => '無脳',
+    furigana   => 'むのう',
+);
+
+word(
+    date       => '2013-05-21',
+    word       => '撤退',
+    furigana   => 'てったい',
+);
