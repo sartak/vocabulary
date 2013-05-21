@@ -17891,3 +17891,21 @@ word(
     word       => '探偵',
     furigana   => 'たんてい',
 );
+
+word(
+    date       => '2013-05-20',
+    word       => '配慮',
+    furigana   => 'はいりょ',
+);
+
+word(
+    date       => '2013-05-20',
+    word       => '相変わらず',
+    furigana   => 'あいかわらず',
+);
+
+word(
+    date       => '2013-05-20',
+    word       => '協会',
+    furigana   => 'きょうかい',
+);
