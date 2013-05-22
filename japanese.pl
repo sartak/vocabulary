@@ -17927,3 +17927,15 @@ word(
     word       => '三闘神',
     furigana   => 'さんとうしん',
 );
+
+word(
+    date       => '2013-05-22',
+    word       => '聖地',
+    furigana   => 'せいち',
+);
+
+word(
+    date       => '2013-05-22',
+    word       => '生む',
+    furigana   => 'うむ',
+);
