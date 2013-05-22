@@ -17921,3 +17921,9 @@ word(
     word       => '撤退',
     furigana   => 'てったい',
 );
+
+word(
+    date       => '2013-05-22',
+    word       => '三闘神',
+    furigana   => 'さんとうしん',
+);
