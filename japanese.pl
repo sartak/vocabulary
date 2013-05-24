@@ -17945,3 +17945,15 @@ word(
     word       => '寄り添う',
     furigana   => 'よりそう',
 );
+
+word(
+    date       => '2013-05-23',
+    word       => '予告',
+    furigana   => 'よこく',
+);
+
+word(
+    date       => '2013-05-23',
+    word       => '復元',
+    furigana   => 'ふくげん',
+);
