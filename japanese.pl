@@ -17957,3 +17957,9 @@ word(
     word       => '復元',
     furigana   => 'ふくげん',
 );
+
+word(
+    date       => '2013-05-24',
+    word       => '改める',
+    furigana   => 'あらためる',
+);
