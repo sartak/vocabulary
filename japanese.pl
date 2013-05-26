@@ -17969,3 +17969,15 @@ word(
     word       => '中盤',
     furigana   => 'ちゅうばん',
 );
+
+word(
+    date       => '2013-05-26',
+    word       => '個数',
+    furigana   => 'こすう',
+);
+
+word(
+    date       => '2013-05-26',
+    word       => '翳す',
+    furigana   => 'かざす',
+);
