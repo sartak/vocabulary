@@ -17981,3 +17981,9 @@ word(
     word       => '翳す',
     furigana   => 'かざす',
 );
+
+word(
+    date       => '2013-05-27',
+    word       => '抹茶',
+    furigana   => 'まっちゃ',
+);
