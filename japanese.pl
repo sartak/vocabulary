@@ -18005,3 +18005,21 @@ word(
     word       => '分離',
     furigana   => 'ぶんり',
 );
+
+word(
+    date       => '2013-05-30',
+    word       => '放置',
+    furigana   => 'ほうち',
+);
+
+word(
+    date       => '2013-05-30',
+    word       => '半端',
+    furigana   => 'はんぱ',
+);
+
+word(
+    date       => '2013-05-30',
+    word       => '願望',
+    furigana   => 'がんぼう',
+);
