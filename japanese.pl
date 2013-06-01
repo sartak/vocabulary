@@ -18023,3 +18023,9 @@ word(
     word       => '願望',
     furigana   => 'がんぼう',
 );
+
+word(
+    date       => '2013-05-31',
+    word       => '英雄',
+    furigana   => 'えいゆう',
+);
