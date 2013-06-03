@@ -18041,3 +18041,9 @@ word(
     word       => '連結',
     furigana   => 'れんけつ',
 );
+
+word(
+    date       => '2013-06-03',
+    word       => '取っ付き',
+    furigana   => 'とっつき',
+);
