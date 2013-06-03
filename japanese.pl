@@ -18035,3 +18035,9 @@ word(
     word       => '甘口',
     furigana   => 'あまくち',
 );
+
+word(
+    date       => '2013-06-02',
+    word       => '連結',
+    furigana   => 'れんけつ',
+);
