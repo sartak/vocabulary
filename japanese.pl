@@ -18053,3 +18053,21 @@ word(
     word       => '闘牛',
     furigana   => 'とうぎゅう',
 );
+
+word(
+    date       => '2013-06-04',
+    word       => '選',
+    furigana   => 'せん',
+);
+
+word(
+    date       => '2013-06-04',
+    word       => '総合',
+    furigana   => 'そうごう',
+);
+
+word(
+    date       => '2013-06-04',
+    word       => '断つ',
+    furigana   => 'たつ',
+);
