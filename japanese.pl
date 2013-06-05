@@ -18071,3 +18071,15 @@ word(
     word       => '断つ',
     furigana   => 'たつ',
 );
+
+word(
+    date       => '2013-06-05',
+    word       => '連携',
+    furigana   => 'れんけい',
+);
+
+word(
+    date       => '2013-06-05',
+    word       => '確証',
+    furigana   => 'かくしょう',
+);
