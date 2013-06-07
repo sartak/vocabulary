@@ -18083,3 +18083,10 @@ word(
     word       => '確証',
     furigana   => 'かくしょう',
 );
+
+word(
+    date       => '2013-06-06',
+    word       => '白紙',
+    furigana   => 'はくし',
+);
+
