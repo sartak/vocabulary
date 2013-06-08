@@ -18090,3 +18090,15 @@ word(
     furigana   => 'はくし',
 );
 
+word(
+    date       => '2013-06-07',
+    word       => '実機',
+    furigana   => 'じっき',
+);
+
+word(
+    date       => '2013-06-07',
+    word       => '痕',
+    furigana   => 'あと',
+);
+
