@@ -18102,3 +18102,14 @@ word(
     furigana   => 'あと',
 );
 
+word(
+    date       => '2013-06-08',
+    word       => '世話',
+    furigana   => 'せわ',
+);
+
+word(
+    date       => '2013-06-08',
+    word       => '台本',
+    furigana   => 'だいほん',
+);
