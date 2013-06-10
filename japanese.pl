@@ -18113,3 +18113,9 @@ word(
     word       => '台本',
     furigana   => 'だいほん',
 );
+
+word(
+    date       => '2013-06-09',
+    word       => '興奮',
+    furigana   => 'こうふん',
+);
