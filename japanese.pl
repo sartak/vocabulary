@@ -18148,3 +18148,15 @@ word(
     word       => '直視',
     furigana   => 'ちょくし',
 );
+
+word(
+    date       => '2013-06-13',
+    word       => '加わる',
+    furigana   => 'くわわる',
+);
+
+word(
+    date       => '2013-06-13',
+    word       => '結合',
+    furigana   => 'けつごう',
+);
