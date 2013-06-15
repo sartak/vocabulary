@@ -18160,3 +18160,9 @@ word(
     word       => '結合',
     furigana   => 'けつごう',
 );
+
+word(
+    date       => '2013-06-14',
+    word       => '検査',
+    furigana   => 'けんさ',
+);
