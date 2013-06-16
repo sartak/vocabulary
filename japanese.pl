@@ -18166,3 +18166,21 @@ word(
     word       => '検査',
     furigana   => 'けんさ',
 );
+
+word(
+    date       => '2013-06-15',
+    word       => '踏み込む',
+    furigana   => 'ふみこむ',
+);
+
+word(
+    date       => '2013-06-15',
+    word       => '揺らめく',
+    furigana   => 'ゆらめく',
+);
+
+word(
+    date       => '2013-06-15',
+    word       => '今宵',
+    furigana   => 'こよい',
+);
