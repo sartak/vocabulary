@@ -18190,3 +18190,15 @@ word(
     word       => '回答',
     furigana   => 'かいとう',
 );
+
+word(
+    date       => '2013-06-17',
+    word       => '絞る',
+    furigana   => 'しぼる',
+);
+
+word(
+    date       => '2013-06-17',
+    word       => '並列',
+    furigana   => 'へいれつ',
+);
