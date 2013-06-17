@@ -18184,3 +18184,9 @@ word(
     word       => '今宵',
     furigana   => 'こよい',
 );
+
+word(
+    date       => '2013-06-16',
+    word       => '回答',
+    furigana   => 'かいとう',
+);
