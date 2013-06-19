@@ -18202,3 +18202,15 @@ word(
     word       => '並列',
     furigana   => 'へいれつ',
 );
+
+word(
+    date       => '2013-06-18',
+    word       => '周年',
+    furigana   => 'しゅうねん',
+);
+
+word(
+    date       => '2013-06-18',
+    word       => '細かい',
+    furigana   => 'こまかい',
+);
