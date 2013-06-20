@@ -18243,3 +18243,9 @@ word(
     word       => '蛍光灯',
     furigana   => 'けいこうとう',
 );
+
+word(
+    date       => '2013-06-20',
+    word       => '余る',
+    furigana   => 'あまる',
+);
