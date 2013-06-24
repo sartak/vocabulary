@@ -18261,3 +18261,21 @@ word(
     word       => '菱型',
     furigana   => 'ひしがた',
 );
+
+word(
+    date       => '2013-06-23',
+    word       => '工場',
+    furigana   => 'こうじょう',
+);
+
+word(
+    date       => '2013-06-23',
+    word       => '一気',
+    furigana   => 'いっき',
+);
+
+word(
+    date       => '2013-06-23',
+    word       => '塗り潰す',
+    furigana   => 'ぬりつぶす',
+);
