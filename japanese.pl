@@ -18298,3 +18298,9 @@ word(
     furigana   => 'ぜんしゃ',
 );
 
+word(
+    date       => '2013-06-26',
+    word       => '意',
+    furigana   => 'い',
+);
+
