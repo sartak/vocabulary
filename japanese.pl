@@ -18304,3 +18304,15 @@ word(
     furigana   => 'い',
 );
 
+word(
+    date       => '2013-06-27',
+    word       => '享年',
+    furigana   => 'きょうねん',
+);
+
+word(
+    date       => '2013-06-27',
+    word       => '生かす',
+    furigana   => 'いかす',
+);
+
