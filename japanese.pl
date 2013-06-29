@@ -18316,3 +18316,14 @@ word(
     furigana   => 'いかす',
 );
 
+word(
+    date       => '2013-06-28',
+    word       => '後任',
+    furigana   => 'こうにん',
+);
+
+word(
+    date       => '2013-06-28',
+    word       => '素足',
+    furigana   => 'すあし',
+);
