@@ -18327,3 +18327,9 @@ word(
     word       => '素足',
     furigana   => 'すあし',
 );
+
+word(
+    date       => '2013-06-29',
+    word       => '終端',
+    furigana   => 'しゅうたん',
+);
