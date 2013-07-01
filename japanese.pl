@@ -18333,3 +18333,15 @@ word(
     word       => '終端',
     furigana   => 'しゅうたん',
 );
+
+word(
+    date       => '2013-06-30',
+    word       => '描画',
+    furigana   => 'びょうが',
+);
+
+word(
+    date       => '2013-06-30',
+    word       => '説得',
+    furigana   => 'せっとく',
+);
