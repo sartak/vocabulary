@@ -18351,3 +18351,15 @@ word(
     word       => '拙作',
     furigana   => 'せっさく',
 );
+
+word(
+    date       => '2013-07-02',
+    word       => '略す',
+    furigana   => 'りゃくす',
+);
+
+word(
+    date       => '2013-07-02',
+    word       => '健闘',
+    furigana   => 'けんとう',
+);
