@@ -18381,3 +18381,10 @@ word(
     word       => '乱心',
     furigana   => 'らんしん',
 );
+
+word(
+    date       => '2013-07-06',
+    word       => '聖',
+    furigana   => 'ひじり',
+);
+
