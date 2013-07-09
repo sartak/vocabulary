@@ -18393,3 +18393,9 @@ word(
     word       => '宛名',
     furigana   => 'あてな',
 );
+
+word(
+    date       => '2013-07-08',
+    word       => '秘技',
+    furigana   => 'ひぎ',
+);
