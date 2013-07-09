@@ -18399,3 +18399,9 @@ word(
     word       => '秘技',
     furigana   => 'ひぎ',
 );
+
+word(
+    date       => '2013-07-09',
+    word       => '銀河',
+    furigana   => 'ぎんが',
+);
