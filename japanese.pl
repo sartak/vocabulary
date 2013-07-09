@@ -18405,3 +18405,9 @@ word(
     word       => '銀河',
     furigana   => 'ぎんが',
 );
+
+word(
+    date       => '2013-07-09',
+    word       => '不幸',
+    furigana   => 'ふこう',
+);
