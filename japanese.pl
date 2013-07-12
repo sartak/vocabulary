@@ -18417,3 +18417,15 @@ word(
     word       => '解像度',
     furigana   => 'かいぞうど',
 );
+
+word(
+    date       => '2013-07-11',
+    word       => '原文',
+    furigana   => 'げんぶん',
+);
+
+word(
+    date       => '2013-07-11',
+    word       => '降参',
+    furigana   => 'こうさん',
+);
