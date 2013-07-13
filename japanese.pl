@@ -18435,3 +18435,9 @@ word(
     word       => '特有',
     furigana   => 'とくゆう',
 );
+
+word(
+    date       => '2013-07-13',
+    word       => '献立',
+    furigana   => 'こんだて',
+);
