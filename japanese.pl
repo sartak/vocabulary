@@ -18429,3 +18429,9 @@ word(
     word       => '降参',
     furigana   => 'こうさん',
 );
+
+word(
+    date       => '2013-07-12',
+    word       => '特有',
+    furigana   => 'とくゆう',
+);
