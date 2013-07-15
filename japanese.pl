@@ -18441,3 +18441,14 @@ word(
     word       => '献立',
     furigana   => 'こんだて',
 );
+
+word(
+    date       => '2013-07-14',
+    word       => '理想',
+    furigana   => 'りそう',
+);
+
+word(
+    date       => '2013-07-14',
+    word       => 'あかし',
+);
