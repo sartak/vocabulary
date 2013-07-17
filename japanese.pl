@@ -18463,3 +18463,9 @@ word(
     word       => '編み出す',
     furigana   => 'あみだす',
 );
+
+word(
+    date       => '2013-07-17',
+    word       => '防衛',
+    furigana   => 'ぼうえい',
+);
