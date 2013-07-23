@@ -18509,3 +18509,15 @@ word(
     word       => '展開',
     furigana   => 'てんかい',
 );
+
+word(
+    date       => '2013-07-23',
+    word       => '〜節',
+    furigana   => '〜せつ',
+);
+
+word(
+    date       => '2013-07-23',
+    word       => '軍隊',
+    furigana   => 'ぐんたい',
+);
