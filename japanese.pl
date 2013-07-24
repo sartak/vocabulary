@@ -18521,3 +18521,15 @@ word(
     word       => '軍隊',
     furigana   => 'ぐんたい',
 );
+
+word(
+    date       => '2013-07-24',
+    word       => '要望',
+    furigana   => 'ようぼう',
+);
+
+word(
+    date       => '2013-07-24',
+    word       => '中枢',
+    furigana   => 'ちゅうすう',
+);
