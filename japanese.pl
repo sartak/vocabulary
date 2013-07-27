@@ -18539,3 +18539,10 @@ word(
     word       => '手続き',
     furigana   => 'てつづき',
 );
+
+word(
+    date       => '2013-07-26',
+    word       => '墓石',
+    furigana   => 'はかいし',
+);
+
