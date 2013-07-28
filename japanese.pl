@@ -18546,3 +18546,14 @@ word(
     furigana   => 'はかいし',
 );
 
+word(
+    date       => '2013-07-27',
+    word       => '一晩',
+    furigana   => 'ひとばん',
+);
+
+word(
+    date       => '2013-07-27',
+    word       => '依然',
+    furigana   => 'いぜん',
+);
