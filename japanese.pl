@@ -18569,3 +18569,15 @@ word(
     word       => '挟む',
     furigana   => 'はさむ',
 );
+
+word(
+    date       => '2013-07-29',
+    word       => '明瞭',
+    furigana   => 'めいりょう',
+);
+
+word(
+    date       => '2013-07-29',
+    word       => '葬式',
+    furigana   => 'そうしき',
+);
