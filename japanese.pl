@@ -18581,3 +18581,10 @@ word(
     word       => '葬式',
     furigana   => 'そうしき',
 );
+
+word(
+    date       => '2013-07-30',
+    word       => '曲線',
+    furigana   => 'きょくせん',
+);
+
