@@ -18605,3 +18605,15 @@ word(
     word       => '〜通',
     furigana   => '〜つう',
 );
+
+word(
+    date       => '2013-08-02',
+    word       => '平日',
+    furigana   => 'へいじつ',
+);
+
+word(
+    date       => '2013-08-02',
+    word       => '水族館',
+    furigana   => 'すいぞくかん',
+);
