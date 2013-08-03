@@ -18617,3 +18617,9 @@ word(
     word       => '水族館',
     furigana   => 'すいぞくかん',
 );
+
+word(
+    date       => '2013-08-03',
+    word       => '撃破',
+    furigana   => 'げきは',
+);
