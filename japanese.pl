@@ -18635,3 +18635,15 @@ word(
     word       => '倍数',
     furigana   => 'ばいすう',
 );
+
+word(
+    date       => '2013-08-06',
+    word       => '体重',
+    furigana   => 'たいじゅう',
+);
+
+word(
+    date       => '2013-08-06',
+    word       => '審査',
+    furigana   => 'しんさ',
+);
