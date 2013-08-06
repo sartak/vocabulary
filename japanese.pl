@@ -18629,3 +18629,9 @@ word(
     word       => '超然',
     furigana   => 'ちょうぜん',
 );
+
+word(
+    date       => '2013-08-05',
+    word       => '倍数',
+    furigana   => 'ばいすう',
+);
