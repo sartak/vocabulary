@@ -18647,3 +18647,15 @@ word(
     word       => '審査',
     furigana   => 'しんさ',
 );
+
+word(
+    date       => '2013-08-07',
+    word       => '代々',
+    furigana   => 'だいだい',
+);
+
+word(
+    date       => '2013-08-07',
+    word       => '伝わる',
+    furigana   => 'つたわる',
+);
