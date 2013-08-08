@@ -18659,3 +18659,20 @@ word(
     word       => '伝わる',
     furigana   => 'つたわる',
 );
+
+word(
+    date       => '2013-08-08',
+    word       => '速報',
+    furigana   => 'そくほう',
+);
+
+word(
+    date       => '2013-08-08',
+    word       => '鳴る',
+    furigana   => 'なる',
+);
+
+word(
+    date       => '2013-08-08',
+    word       => 'ずるい',
+);
