@@ -18721,3 +18721,14 @@ word(
     word       => '価格',
     furigana   => 'かかく',
 );
+
+word(
+    date       => '2013-08-13',
+    word       => '云々',
+    furigana   => 'うんぬん',
+);
+
+word(
+    date       => '2013-08-13',
+    word       => 'ネジ',
+);
