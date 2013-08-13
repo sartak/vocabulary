@@ -18709,3 +18709,15 @@ word(
     word       => '狩り',
     furigana   => 'かり',
 );
+
+word(
+    date       => '2013-08-12',
+    word       => '新作',
+    furigana   => 'しんさく',
+);
+
+word(
+    date       => '2013-08-12',
+    word       => '価格',
+    furigana   => 'かかく',
+);
