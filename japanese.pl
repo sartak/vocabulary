@@ -18738,3 +18738,9 @@ word(
     word       => '蓋',
     furigana   => 'ふた',
 );
+
+word(
+    date       => '2013-08-15',
+    word       => '引っ剝がす',
+    furigana   => 'ひっぺがす',
+);
