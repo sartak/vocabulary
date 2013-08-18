@@ -18756,3 +18756,9 @@ word(
     word       => '喪失',
     furigana   => 'そうしつ',
 );
+
+word(
+    date       => '2013-08-18',
+    word       => '先決',
+    furigana   => 'せんけつ',
+);
