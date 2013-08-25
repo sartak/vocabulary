@@ -18792,3 +18792,15 @@ word(
     word       => '無双',
     furigana   => 'むそう',
 );
+
+word(
+    date       => '2013-08-24',
+    word       => '保守',
+    furigana   => 'ほしゅ',
+);
+
+word(
+    date       => '2013-08-24',
+    word       => '静電',
+    furigana   => 'せいでん',
+);
