@@ -18821,3 +18821,15 @@ word(
     word       => '個人差',
     furigana   => 'こじんさ',
 );
+
+word(
+    date       => '2013-08-27',
+    word       => '広々',
+    furigana   => 'ひろびろ',
+);
+
+word(
+    date       => '2013-08-27',
+    word       => '武人',
+    furigana   => 'ぶじん',
+);
