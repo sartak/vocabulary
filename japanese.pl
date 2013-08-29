@@ -18833,3 +18833,9 @@ word(
     word       => '武人',
     furigana   => 'ぶじん',
 );
+
+word(
+    date       => '2013-08-28',
+    word       => '購読',
+    furigana   => 'こうどく',
+);
