@@ -18839,3 +18839,15 @@ word(
     word       => '購読',
     furigana   => 'こうどく',
 );
+
+word(
+    date       => '2013-08-29',
+    word       => '夢幻',
+    furigana   => 'むげん',
+);
+
+word(
+    date       => '2013-08-29',
+    word       => '闘舞',
+    furigana   => 'とうぶ',
+);
