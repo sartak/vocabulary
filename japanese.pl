@@ -18857,3 +18857,9 @@ word(
     word       => '機材',
     furigana   => 'きざい',
 );
+
+word(
+    date       => '2013-08-31',
+    word       => '栄光',
+    furigana   => 'えいこう',
+);
