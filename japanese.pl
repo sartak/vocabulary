@@ -18851,3 +18851,9 @@ word(
     word       => '闘舞',
     furigana   => 'とうぶ',
 );
+
+word(
+    date       => '2013-08-30',
+    word       => '機材',
+    furigana   => 'きざい',
+);
