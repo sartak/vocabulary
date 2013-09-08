@@ -18902,3 +18902,9 @@ word(
     word       => '装置',
     furigana   => 'そうち',
 );
+
+word(
+    date       => '2013-09-08',
+    word       => '頼り',
+    furigana   => 'たより',
+);
