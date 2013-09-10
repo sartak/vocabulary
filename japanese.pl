@@ -18908,3 +18908,15 @@ word(
     word       => '頼り',
     furigana   => 'たより',
 );
+
+word(
+    date       => '2013-09-09',
+    word       => '背後',
+    furigana   => 'はいご',
+);
+
+word(
+    date       => '2013-09-09',
+    word       => '中辛',
+    furigana   => 'ちゅうから',
+);
