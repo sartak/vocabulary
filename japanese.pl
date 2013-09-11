@@ -18920,3 +18920,15 @@ word(
     word       => '中辛',
     furigana   => 'ちゅうから',
 );
+
+word(
+    date       => '2013-09-10',
+    word       => '敷居',
+    furigana   => 'しきい',
+);
+
+word(
+    date       => '2013-09-10',
+    word       => '信仰',
+    furigana   => 'しんこう',
+);
