@@ -18932,3 +18932,21 @@ word(
     word       => '信仰',
     furigana   => 'しんこう',
 );
+
+word(
+    date       => '2013-09-11',
+    word       => '同梱',
+    furigana   => 'どうこん',
+);
+
+word(
+    date       => '2013-09-11',
+    word       => '事足りる',
+    furigana   => 'ことたりる',
+);
+
+word(
+    date       => '2013-09-11',
+    word       => '檻',
+    furigana   => 'おり',
+);
