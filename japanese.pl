@@ -18950,3 +18950,9 @@ word(
     word       => '檻',
     furigana   => 'おり',
 );
+
+word(
+    date       => '2013-09-12',
+    word       => '爺戦',
+    furigana   => 'じじせん',
+);
