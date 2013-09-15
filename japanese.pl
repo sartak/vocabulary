@@ -18980,3 +18980,9 @@ word(
     word       => '地名',
     furigana   => 'ちめい',
 );
+
+word(
+    date       => '2013-09-15',
+    word       => '野伏',
+    furigana   => 'のぶし',
+);
