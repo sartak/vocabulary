@@ -18968,3 +18968,15 @@ word(
     word       => '射程',
     furigana   => 'しゃてい',
 );
+
+word(
+    date       => '2013-09-15',
+    word       => '有明',
+    furigana   => 'ありあけ',
+);
+
+word(
+    date       => '2013-09-15',
+    word       => '地名',
+    furigana   => 'ちめい',
+);
