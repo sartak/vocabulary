@@ -18992,3 +18992,15 @@ word(
     word       => '首飾り',
     furigana   => 'くびかざり',
 );
+
+word(
+    date       => '2013-09-16',
+    word       => '悩み',
+    furigana   => 'なやみ',
+);
+
+word(
+    date       => '2013-09-16',
+    word       => '流暢',
+    furigana   => 'りゅうちょう',
+);
