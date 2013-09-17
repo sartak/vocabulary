@@ -19004,3 +19004,15 @@ word(
     word       => '流暢',
     furigana   => 'りゅうちょう',
 );
+
+word(
+    date       => '2013-09-17',
+    word       => '点灯',
+    furigana   => 'てんとう',
+);
+
+word(
+    date       => '2013-09-17',
+    word       => '種',
+    furigana   => 'しゅ',
+);
