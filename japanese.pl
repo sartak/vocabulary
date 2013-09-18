@@ -19016,3 +19016,9 @@ word(
     word       => '種',
     furigana   => 'しゅ',
 );
+
+word(
+    date       => '2013-09-18',
+    word       => '抽象',
+    furigana   => 'ちゅうしょう',
+);
