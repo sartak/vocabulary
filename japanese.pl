@@ -19022,3 +19022,27 @@ word(
     word       => '抽象',
     furigana   => 'ちゅうしょう',
 );
+
+word(
+    date       => '2013-09-19',
+    word       => '感情',
+    furigana   => 'かんじょう',
+);
+
+word(
+    date       => '2013-09-19',
+    word       => '研ぎ澄ます',
+    furigana   => 'とぎすます',
+);
+
+word(
+    date       => '2013-09-19',
+    word       => '吸う',
+    furigana   => 'すう',
+);
+
+word(
+    date       => '2013-09-19',
+    word       => '螺旋模様',
+    furigana   => 'らせんもよう',
+);
