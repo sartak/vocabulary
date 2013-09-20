@@ -19046,3 +19046,15 @@ word(
     word       => '螺旋模様',
     furigana   => 'らせんもよう',
 );
+
+word(
+    date       => '2013-09-20',
+    word       => '網',
+    furigana   => 'あみ',
+);
+
+word(
+    date       => '2013-09-20',
+    word       => '現場',
+    furigana   => 'げんば',
+);
