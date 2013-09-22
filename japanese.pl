@@ -19064,3 +19064,15 @@ word(
     word       => '前夜',
     furigana   => 'ぜんや',
 );
+
+word(
+    date       => '2013-09-22',
+    word       => '遠慮',
+    furigana   => 'えんりょ',
+);
+
+word(
+    date       => '2013-09-22',
+    word       => '形態',
+    furigana   => 'けいたい',
+);
