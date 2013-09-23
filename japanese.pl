@@ -19076,3 +19076,9 @@ word(
     word       => '形態',
     furigana   => 'けいたい',
 );
+
+word(
+    date       => '2013-09-23',
+    word       => '祠',
+    furigana   => 'ほこら',
+);
