@@ -19082,3 +19082,15 @@ word(
     word       => '祠',
     furigana   => 'ほこら',
 );
+
+word(
+    date       => '2013-09-24',
+    word       => '改札',
+    furigana   => 'かいさつ',
+);
+
+word(
+    date       => '2013-09-24',
+    word       => '支度',
+    furigana   => 'したく',
+);
