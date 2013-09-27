@@ -19111,3 +19111,21 @@ word(
     word       => '遭遇',
     furigana   => 'そうぐう',
 );
+
+word(
+    date       => '2013-09-27',
+    word       => '中華',
+    furigana   => 'ちゅうか',
+);
+
+word(
+    date       => '2013-09-27',
+    word       => '大盛り',
+    furigana   => 'おおもり',
+);
+
+word(
+    date       => '2013-09-27',
+    word       => '犯罪',
+    furigana   => 'はんざい',
+);
