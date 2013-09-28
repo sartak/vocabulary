@@ -19129,3 +19129,9 @@ word(
     word       => '犯罪',
     furigana   => 'はんざい',
 );
+
+word(
+    date       => '2013-09-28',
+    word       => '通話',
+    furigana   => 'つうわ',
+);
