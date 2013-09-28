@@ -19135,3 +19135,9 @@ word(
     word       => '通話',
     furigana   => 'つうわ',
 );
+
+word(
+    date       => '2013-09-28',
+    word       => '汝',
+    furigana   => 'なんじ',
+);
