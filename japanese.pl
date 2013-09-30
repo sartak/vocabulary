@@ -19141,3 +19141,21 @@ word(
     word       => '汝',
     furigana   => 'なんじ',
 );
+
+word(
+    date       => '2013-09-29',
+    word       => '温度計',
+    furigana   => 'おんどけい',
+);
+
+word(
+    date       => '2013-09-29',
+    word       => '目盛り',
+    furigana   => 'めもり',
+);
+
+word(
+    date       => '2013-09-29',
+    word       => '石鹸',
+    furigana   => 'せっけん',
+);
