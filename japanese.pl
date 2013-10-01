@@ -19159,3 +19159,15 @@ word(
     word       => '石鹸',
     furigana   => 'せっけん',
 );
+
+word(
+    date       => '2013-09-30',
+    word       => '下等',
+    furigana   => 'かとう',
+);
+
+word(
+    date       => '2013-09-30',
+    word       => '名乗る',
+    furigana   => 'なのる',
+);
