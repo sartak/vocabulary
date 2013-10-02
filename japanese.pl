@@ -19171,3 +19171,15 @@ word(
     word       => '名乗る',
     furigana   => 'なのる',
 );
+
+word(
+    date       => '2013-10-01',
+    word       => '知恵',
+    furigana   => 'ちえ',
+);
+
+word(
+    date       => '2013-10-01',
+    word       => '合計',
+    furigana   => 'ごうけい',
+);
