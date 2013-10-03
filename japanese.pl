@@ -19183,3 +19183,9 @@ word(
     word       => '合計',
     furigana   => 'ごうけい',
 );
+
+word(
+    date       => '2013-10-02',
+    word       => '弾丸',
+    furigana   => 'だんがん',
+);
