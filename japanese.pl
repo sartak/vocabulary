@@ -19189,3 +19189,9 @@ word(
     word       => '弾丸',
     furigana   => 'だんがん',
 );
+
+word(
+    date       => '2013-10-03',
+    word       => '改訂',
+    furigana   => 'かいてい',
+);
