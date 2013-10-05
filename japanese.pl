@@ -19201,3 +19201,9 @@ word(
     word       => '京成',
     furigana   => 'けいせい',
 );
+
+word(
+    date       => '2013-10-05',
+    word       => '二手',
+    furigana   => 'ふたて',
+);
