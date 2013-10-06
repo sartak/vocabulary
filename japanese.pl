@@ -19207,3 +19207,9 @@ word(
     word       => '二手',
     furigana   => 'ふたて',
 );
+
+word(
+    date       => '2013-10-06',
+    word       => '素材',
+    furigana   => 'そざい',
+);
