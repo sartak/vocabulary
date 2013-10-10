@@ -19231,3 +19231,15 @@ word(
     word       => '山賊',
     furigana   => 'さんぞく',
 );
+
+word(
+    date       => '2013-10-10',
+    word       => '迷信',
+    furigana   => 'めいしん',
+);
+
+word(
+    date       => '2013-10-10',
+    word       => '地形',
+    furigana   => 'ちけい',
+);
