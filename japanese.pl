@@ -19243,3 +19243,9 @@ word(
     word       => '地形',
     furigana   => 'ちけい',
 );
+
+word(
+    date       => '2013-10-11',
+    word       => '飲食',
+    furigana   => 'いんしょく',
+);
