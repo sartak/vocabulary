@@ -19266,3 +19266,9 @@ word(
     word       => '煙突',
     furigana   => 'えんとつ',
 );
+
+word(
+    date       => '2013-10-14',
+    word       => '所感',
+    furigana   => 'しょかん',
+);
