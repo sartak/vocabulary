@@ -19272,3 +19272,9 @@ word(
     word       => '所感',
     furigana   => 'しょかん',
 );
+
+word(
+    date       => '2013-10-15',
+    word       => '全面',
+    furigana   => 'ぜんめん',
+);
