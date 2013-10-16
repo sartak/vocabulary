@@ -19278,3 +19278,15 @@ word(
     word       => '全面',
     furigana   => 'ぜんめん',
 );
+
+word(
+    date       => '2013-10-16',
+    word       => '指紋',
+    furigana   => 'しもん',
+);
+
+word(
+    date       => '2013-10-16',
+    word       => '境界',
+    furigana   => 'きょうかい',
+);
