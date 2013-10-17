@@ -19290,3 +19290,9 @@ word(
     word       => '境界',
     furigana   => 'きょうかい',
 );
+
+word(
+    date       => '2013-10-17',
+    word       => '文句',
+    furigana   => 'もんく',
+);
