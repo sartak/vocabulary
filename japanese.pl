@@ -19296,3 +19296,9 @@ word(
     word       => '文句',
     furigana   => 'もんく',
 );
+
+word(
+    date       => '2013-10-18',
+    word       => '独立',
+    furigana   => 'どくりつ',
+);
