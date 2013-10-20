@@ -19302,3 +19302,9 @@ word(
     word       => '独立',
     furigana   => 'どくりつ',
 );
+
+word(
+    date       => '2013-10-19',
+    word       => '浮輪',
+    furigana   => 'うきわ',
+);
