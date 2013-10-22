@@ -19319,3 +19319,9 @@ word(
     word       => '間接',
     furigana   => 'かんせつ',
 );
+
+word(
+    date       => '2013-10-21',
+    word       => '無邪気',
+    furigana   => 'むじゃき',
+);
