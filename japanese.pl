@@ -19325,3 +19325,9 @@ word(
     word       => '無邪気',
     furigana   => 'むじゃき',
 );
+
+word(
+    date       => '2013-10-22',
+    word       => '布石',
+    furigana   => 'ぬのいし',
+);
