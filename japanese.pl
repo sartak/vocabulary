@@ -19344,3 +19344,20 @@ word(
     furigana   => 'いにしえに',
 );
 
+word(
+    date       => '2013-10-24',
+    word       => '交通',
+    furigana   => 'こうつう',
+);
+
+word(
+    date       => '2013-10-24',
+    word       => '都内',
+    furigana   => 'とない',
+);
+
+word(
+    date       => '2013-10-24',
+    word       => '管内',
+    furigana   => 'かんない',
+);
