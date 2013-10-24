@@ -19331,3 +19331,16 @@ word(
     word       => '布石',
     furigana   => 'ぬのいし',
 );
+
+word(
+    date       => '2013-10-23',
+    word       => '新型',
+    furigana   => 'しんがた',
+);
+
+word(
+    date       => '2013-10-23',
+    word       => '古に',
+    furigana   => 'いにしえに',
+);
+
