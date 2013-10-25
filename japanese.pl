@@ -19361,3 +19361,10 @@ word(
     word       => '管内',
     furigana   => 'かんない',
 );
+
+word(
+    date       => '2013-10-25',
+    word       => '警戒',
+    furigana   => 'けいかい',
+);
+
