@@ -19378,3 +19378,9 @@ word(
     word       => '特性',
     furigana   => 'とくせい',
 );
+
+word(
+    date       => '2013-10-26',
+    word       => '催眠',
+    furigana   => 'さいみん',
+);
