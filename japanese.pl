@@ -19384,3 +19384,22 @@ word(
     word       => '催眠',
     furigana   => 'さいみん',
 );
+
+word(
+    date       => '2013-10-27',
+    word       => '錫',
+    furigana   => 'すず',
+);
+
+word(
+    date       => '2013-10-27',
+    word       => '増幅',
+    furigana   => 'ぞうふく',
+);
+
+word(
+    date       => '2013-10-27',
+    word       => '身体',
+    furigana   => 'からだ',
+);
+
