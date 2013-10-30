@@ -19425,3 +19425,9 @@ word(
     word       => '就職',
     furigana   => 'しゅうしょく',
 );
+
+word(
+    date       => '2013-10-30',
+    word       => '余裕',
+    furigana   => 'よゆう',
+);
