@@ -19413,3 +19413,15 @@ word(
     word       => '新たなる',
     furigana   => 'あらたなる',
 );
+
+word(
+    date       => '2013-10-29',
+    word       => '尋問',
+    furigana   => 'じんもん',
+);
+
+word(
+    date       => '2013-10-29',
+    word       => '就職',
+    furigana   => 'しゅうしょく',
+);
