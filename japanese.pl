@@ -19431,3 +19431,15 @@ word(
     word       => '余裕',
     furigana   => 'よゆう',
 );
+
+word(
+    date       => '2013-10-31',
+    word       => '刃',
+    furigana   => 'やいば',
+);
+
+word(
+    date       => '2013-10-31',
+    word       => '否',
+    furigana   => 'いな',
+);

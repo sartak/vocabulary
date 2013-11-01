@@ -1,4 +1,4 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
 use strict;
 use warnings;
 use utf8::all;
@@ -21,6 +21,6 @@ exit 0 unless $new_words;
 # case of an amendment)
 $msg =~ s/^.*/$new_words/;
 open my $fh, '>', $file;
-print $fh encode_utf8 $msg;
+print $fh $msg;
 close $fh;
 
