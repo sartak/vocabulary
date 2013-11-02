@@ -19443,3 +19443,9 @@ word(
     word       => '否',
     furigana   => 'いな',
 );
+
+word(
+    date       => '2013-11-01',
+    word       => '反響',
+    furigana   => 'はんきょう',
+);
