@@ -19449,3 +19449,15 @@ word(
     word       => '反響',
     furigana   => 'はんきょう',
 );
+
+word(
+    date       => '2013-11-02',
+    word       => '余興',
+    furigana   => 'よきょう',
+);
+
+word(
+    date       => '2013-11-02',
+    word       => '受信',
+    furigana   => 'じゅしん',
+);
