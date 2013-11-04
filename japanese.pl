@@ -19461,3 +19461,9 @@ word(
     word       => '受信',
     furigana   => 'じゅしん',
 );
+
+word(
+    date       => '2013-11-03',
+    word       => '研修',
+    furigana   => 'けんしゅう',
+);
