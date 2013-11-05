@@ -19467,3 +19467,15 @@ word(
     word       => '研修',
     furigana   => 'けんしゅう',
 );
+
+word(
+    date       => '2013-11-04',
+    word       => '秘訣',
+    furigana   => 'ひけつ',
+);
+
+word(
+    date       => '2013-11-04',
+    word       => '猪突猛進',
+    furigana   => 'ちょとつもうしん',
+);
