@@ -19485,3 +19485,9 @@ word(
     word       => '運用',
     furigana   => 'うんよう',
 );
+
+word(
+    date       => '2013-11-06',
+    word       => '演じる',
+    furigana   => 'えんじる',
+);
