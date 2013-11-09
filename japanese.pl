@@ -19503,3 +19503,27 @@ word(
     word       => '遊歩道',
     furigana   => 'ゆうほどう',
 );
+
+word(
+    date       => '2013-11-09',
+    word       => '小瓶',
+    furigana   => 'こびん',
+);
+
+word(
+    date       => '2013-11-09',
+    word       => '殴る',
+    furigana   => 'なぐる',
+);
+
+word(
+    date       => '2013-11-09',
+    word       => '白鑞',
+    furigana   => 'しろめ',
+);
+
+word(
+    date       => '2013-11-09',
+    word       => '増強',
+    furigana   => 'ぞうきょう',
+);
