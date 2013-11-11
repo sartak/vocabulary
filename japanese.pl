@@ -19527,3 +19527,45 @@ word(
     word       => '増強',
     furigana   => 'ぞうきょう',
 );
+
+word(
+    date       => '2013-11-10',
+    word       => '制する',
+    furigana   => 'せいする',
+);
+
+word(
+    date       => '2013-11-10',
+    word       => '少量',
+    furigana   => 'しょうりょう',
+);
+
+word(
+    date       => '2013-11-10',
+    word       => '銅',
+    furigana   => 'どう',
+);
+
+word(
+    date       => '2013-11-10',
+    word       => '飲み干す',
+    furigana   => 'のみほす',
+);
+
+word(
+    date       => '2013-11-10',
+    word       => '周囲',
+    furigana   => 'しゅうい',
+);
+
+word(
+    date       => '2013-11-10',
+    word       => '蝶番',
+    furigana   => 'ちょうつがい',
+);
+
+word(
+    date       => '2013-11-10',
+    word       => '釘',
+    furigana   => 'くぎ',
+);
