@@ -19569,3 +19569,9 @@ word(
     word       => '釘',
     furigana   => 'くぎ',
 );
+
+word(
+    date       => '2013-11-11',
+    word       => '長押し',
+    furigana   => 'ながおし',
+);
