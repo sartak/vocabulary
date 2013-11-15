@@ -19587,3 +19587,15 @@ word(
     word       => '歩数',
     furigana   => 'ほすう',
 );
+
+word(
+    date       => '2013-11-14',
+    word       => '節電',
+    furigana   => 'せつでん',
+);
+
+word(
+    date       => '2013-11-14',
+    word       => '券売機',
+    furigana   => 'けんばいき',
+);
