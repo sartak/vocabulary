@@ -19623,3 +19623,15 @@ word(
     word       => '過程',
     furigana   => 'かてい',
 );
+
+word(
+    date       => '2013-11-16',
+    word       => '乗船',
+    furigana   => 'じょうせん',
+);
+
+word(
+    date       => '2013-11-16',
+    word       => '出航',
+    furigana   => 'しゅっこう',
+);
