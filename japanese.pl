@@ -19599,3 +19599,27 @@ word(
     word       => '券売機',
     furigana   => 'けんばいき',
 );
+
+word(
+    date       => '2013-11-15',
+    word       => '前編',
+    furigana   => 'ぜんぺん',
+);
+
+word(
+    date       => '2013-11-15',
+    word       => '後編',
+    furigana   => 'こうへん',
+);
+
+word(
+    date       => '2013-11-15',
+    word       => '抽出',
+    furigana   => 'ちゅうしゅつ',
+);
+
+word(
+    date       => '2013-11-15',
+    word       => '過程',
+    furigana   => 'かてい',
+);
