@@ -19635,3 +19635,15 @@ word(
     word       => '出航',
     furigana   => 'しゅっこう',
 );
+
+word(
+    date       => '2013-11-17',
+    word       => '大半',
+    furigana   => 'たいはん',
+);
+
+word(
+    date       => '2013-11-17',
+    word       => '勢い',
+    furigana   => 'いきおい',
+);
