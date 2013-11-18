@@ -19647,3 +19647,21 @@ word(
     word       => '勢い',
     furigana   => 'いきおい',
 );
+
+word(
+    date       => '2013-11-17',
+    word       => '塊',
+    furigana   => 'かたまり',
+);
+
+word(
+    date       => '2013-11-17',
+    word       => '感心',
+    furigana   => 'かんしん',
+);
+
+word(
+    date       => '2013-11-17',
+    word       => '身分',
+    furigana   => 'みぶん',
+);
