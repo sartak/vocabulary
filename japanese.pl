@@ -19677,3 +19677,9 @@ word(
     furigana   => 'ちめいてき',
 );
 
+word(
+    date       => '2013-11-20',
+    word       => '奉納',
+    furigana   => 'ほうのう',
+);
+
