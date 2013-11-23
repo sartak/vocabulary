@@ -19688,3 +19688,9 @@ word(
     word       => '実家',
     furigana   => 'じっか',
 );
+
+word(
+    date       => '2013-11-22',
+    word       => '多目的',
+    furigana   => 'たもくてき',
+);
