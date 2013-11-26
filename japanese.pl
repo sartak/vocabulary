@@ -19705,3 +19705,15 @@ word(
     word       => '今迄',
     furigana   => 'いままで',
 );
+
+word(
+    date       => '2013-11-25',
+    word       => '厳禁',
+    furigana   => 'げんきん',
+);
+
+word(
+    date       => '2013-11-25',
+    word       => '土足',
+    furigana   => 'どそく',
+);
