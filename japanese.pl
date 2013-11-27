@@ -19723,3 +19723,9 @@ word(
     word       => '死亡',
     furigana   => 'しぼう',
 );
+
+word(
+    date       => '2013-11-27',
+    word       => '駐輪',
+    furigana   => 'ちゅうりん',
+);
