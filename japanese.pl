@@ -19717,3 +19717,9 @@ word(
     word       => '土足',
     furigana   => 'どそく',
 );
+
+word(
+    date       => '2013-11-26',
+    word       => '死亡',
+    furigana   => 'しぼう',
+);
