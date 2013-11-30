@@ -19735,3 +19735,9 @@ word(
     word       => '植栽',
     furigana   => 'しょくさい',
 );
+
+word(
+    date       => '2013-11-29',
+    word       => '交信',
+    furigana   => 'こうしん',
+);
