@@ -19741,3 +19741,39 @@ word(
     word       => '交信',
     furigana   => 'こうしん',
 );
+
+word(
+    date       => '2013-11-30',
+    word       => '却下',
+    furigana   => 'きゃっか',
+);
+
+word(
+    date       => '2013-11-30',
+    word       => '守備隊',
+    furigana   => 'しゅびたい',
+);
+
+word(
+    date       => '2013-11-30',
+    word       => '穴蔵',
+    furigana   => 'あなぐら',
+);
+
+word(
+    date       => '2013-11-30',
+    word       => '一同',
+    furigana   => 'いちどう',
+);
+
+word(
+    date       => '2013-11-30',
+    word       => '静まる',
+    furigana   => 'しずまる',
+);
+
+word(
+    date       => '2013-11-30',
+    word       => '長たらしい',
+    furigana   => 'ながたらしい',
+);
