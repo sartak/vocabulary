@@ -19783,3 +19783,9 @@ word(
     word       => '上目',
     furigana   => 'うわめ',
 );
+
+word(
+    date       => '2013-12-01',
+    word       => '交差',
+    furigana   => 'こうさ',
+);
