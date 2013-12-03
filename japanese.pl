@@ -19789,3 +19789,9 @@ word(
     word       => '交差',
     furigana   => 'こうさ',
 );
+
+word(
+    date       => '2013-12-02',
+    word       => '定休日',
+    furigana   => 'ていきゅうび',
+);
