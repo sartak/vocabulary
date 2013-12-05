@@ -19801,3 +19801,9 @@ word(
     word       => '真似',
     furigana   => 'まね',
 );
+
+word(
+    date       => '2013-12-04',
+    word       => '奥手',
+    furigana   => 'おくて',
+);
