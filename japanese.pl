@@ -19807,3 +19807,45 @@ word(
     word       => '奥手',
     furigana   => 'おくて',
 );
+
+word(
+    date       => '2013-12-05',
+    word       => '線路',
+    furigana   => 'せんろ',
+);
+
+word(
+    date       => '2013-12-05',
+    word       => '申し出',
+    furigana   => 'もうしで',
+);
+
+word(
+    date       => '2013-12-05',
+    word       => '新た',
+    furigana   => 'あらた',
+);
+
+word(
+    date       => '2013-12-05',
+    word       => '瓶',
+    furigana   => 'びん',
+);
+
+word(
+    date       => '2013-12-05',
+    word       => '調合',
+    furigana   => 'ちょうごう',
+);
+
+word(
+    date       => '2013-12-05',
+    word       => '蓄え',
+    furigana   => 'たくわえ',
+);
+
+word(
+    date       => '2013-12-05',
+    word       => '比率',
+    furigana   => 'ひりつ',
+);
