@@ -19849,3 +19849,9 @@ word(
     word       => '比率',
     furigana   => 'ひりつ',
 );
+
+word(
+    date       => '2013-12-06',
+    word       => '軽減',
+    furigana   => 'けいげん',
+);
