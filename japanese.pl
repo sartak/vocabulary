@@ -19855,3 +19855,15 @@ word(
     word       => '軽減',
     furigana   => 'けいげん',
 );
+
+word(
+    date       => '2013-12-07',
+    word       => '移る',
+    furigana   => 'うつる',
+);
+
+word(
+    date       => '2013-12-07',
+    word       => '青銅',
+    furigana   => 'せいどう',
+);
