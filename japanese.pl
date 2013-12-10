@@ -19883,3 +19883,9 @@ word(
     word       => '小声',
     furigana   => 'こごえ',
 );
+
+word(
+    date       => '2013-12-09',
+    word       => '対処',
+    furigana   => 'たいしょ',
+);
