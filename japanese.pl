@@ -19895,3 +19895,9 @@ word(
     word       => '下線',
     furigana   => 'かせん',
 );
+
+word(
+    date       => '2013-12-11',
+    word       => '半ば',
+    furigana   => 'なかば',
+);
