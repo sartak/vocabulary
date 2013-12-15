@@ -19924,3 +19924,9 @@ word(
     word       => '断念',
     furigana   => 'だんねん',
 );
+
+word(
+    date       => '2013-12-15',
+    word       => '遅延',
+    furigana   => 'ちえん',
+);
