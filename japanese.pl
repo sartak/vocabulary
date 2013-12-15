@@ -19912,3 +19912,15 @@ word(
     word       => '直進',
     furigana   => 'ちょくしん',
 );
+
+word(
+    date       => '2013-12-14',
+    word       => '関わる',
+    furigana   => 'かかわる',
+);
+
+word(
+    date       => '2013-12-14',
+    word       => '断念',
+    furigana   => 'だんねん',
+);
