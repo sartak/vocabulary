@@ -19930,3 +19930,21 @@ word(
     word       => '遅延',
     furigana   => 'ちえん',
 );
+
+word(
+    date       => '2013-12-16',
+    word       => '新卒',
+    furigana   => 'しんそつ',
+);
+
+word(
+    date       => '2013-12-16',
+    word       => '直前',
+    furigana   => 'ちょくぜん',
+);
+
+word(
+    date       => '2013-12-16',
+    word       => '轟音',
+    furigana   => 'ごうおん',
+);
