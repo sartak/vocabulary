@@ -19960,3 +19960,9 @@ word(
     word       => '都営',
     furigana   => 'とえい',
 );
+
+word(
+    date       => '2013-12-19',
+    word       => '発掘',
+    furigana   => 'はっくつ',
+);
