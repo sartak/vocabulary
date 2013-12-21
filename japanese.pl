@@ -19966,3 +19966,15 @@ word(
     word       => '発掘',
     furigana   => 'はっくつ',
 );
+
+word(
+    date       => '2013-12-20',
+    word       => '目線',
+    furigana   => 'めせん',
+);
+
+word(
+    date       => '2013-12-20',
+    word       => '胸元',
+    furigana   => 'むなもと',
+);
