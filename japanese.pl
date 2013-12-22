@@ -19978,3 +19978,27 @@ word(
     word       => '胸元',
     furigana   => 'むなもと',
 );
+
+word(
+    date       => '2013-12-21',
+    word       => '海鮮',
+    furigana   => 'かいせん',
+);
+
+word(
+    date       => '2013-12-21',
+    word       => '酢の物',
+    furigana   => 'すのもの',
+);
+
+word(
+    date       => '2013-12-21',
+    word       => '絶滅',
+    furigana   => 'ぜつめつ',
+);
+
+word(
+    date       => '2013-12-21',
+    word       => '絶える',
+    furigana   => 'たえる',
+);
