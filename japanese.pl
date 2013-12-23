@@ -20002,3 +20002,9 @@ word(
     word       => '絶える',
     furigana   => 'たえる',
 );
+
+word(
+    date       => '2013-12-22',
+    word       => '薬局',
+    furigana   => 'やっきょく',
+);
