@@ -20008,3 +20008,9 @@ word(
     word       => '薬局',
     furigana   => 'やっきょく',
 );
+
+word(
+    date       => '2013-12-23',
+    word       => '媒体',
+    furigana   => 'ばいたい',
+);
