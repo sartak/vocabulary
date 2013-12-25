@@ -20014,3 +20014,9 @@ word(
     word       => '媒体',
     furigana   => 'ばいたい',
 );
+
+word(
+    date       => '2013-12-24',
+    word       => '強引',
+    furigana   => 'ごういん',
+);
