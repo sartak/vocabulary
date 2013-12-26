@@ -20020,3 +20020,9 @@ word(
     word       => '強引',
     furigana   => 'ごういん',
 );
+
+word(
+    date       => '2013-12-25',
+    word       => '例示',
+    furigana   => 'れいじ',
+);
