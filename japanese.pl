@@ -20026,3 +20026,9 @@ word(
     word       => '例示',
     furigana   => 'れいじ',
 );
+
+word(
+    date       => '2013-12-26',
+    word       => '鈍足',
+    furigana   => 'どんそく',
+);
