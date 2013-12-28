@@ -20032,3 +20032,10 @@ word(
     word       => '鈍足',
     furigana   => 'どんそく',
 );
+
+word(
+    date       => '2013-12-27',
+    word       => '物音',
+    furigana   => 'ものおと',
+);
+
