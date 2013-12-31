@@ -20079,3 +20079,9 @@ word(
     word       => '会合',
     furigana   => 'かいごう',
 );
+
+word(
+    date       => '2013-12-31',
+    word       => '活動',
+    furigana   => 'かつどう',
+);
