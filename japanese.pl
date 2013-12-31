@@ -20049,3 +20049,33 @@ word(
     word       => '雨天',
     furigana   => 'うてん',
 );
+
+word(
+    date       => '2013-12-30',
+    word       => '限定',
+    furigana   => 'げんてい',
+);
+
+word(
+    date       => '2013-12-30',
+    word       => 'お嬢さん',
+    furigana   => 'おじょうさん',
+);
+
+word(
+    date       => '2013-12-30',
+    word       => '種族',
+    furigana   => 'しゅぞく',
+);
+
+word(
+    date       => '2013-12-30',
+    word       => '正しく',
+    furigana   => 'まさしく',
+);
+
+word(
+    date       => '2013-12-30',
+    word       => '会合',
+    furigana   => 'かいごう',
+);
