@@ -20085,3 +20085,15 @@ word(
     word       => '活動',
     furigana   => 'かつどう',
 );
+
+word(
+    date       => '2014-01-01',
+    word       => '迷宮',
+    furigana   => 'めいきゅう',
+);
+
+word(
+    date       => '2014-01-01',
+    word       => '打開',
+    furigana   => 'だかい',
+);
