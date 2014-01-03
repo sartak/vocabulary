@@ -20115,3 +20115,15 @@ word(
     word       => '性格',
     furigana   => 'せいかく',
 );
+
+word(
+    date       => '2014-01-03',
+    word       => '乗り越し',
+    furigana   => 'のりこし',
+);
+
+word(
+    date       => '2014-01-03',
+    word       => '精算',
+    furigana   => 'せいさん',
+);
