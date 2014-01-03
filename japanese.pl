@@ -20097,3 +20097,21 @@ word(
     word       => '打開',
     furigana   => 'だかい',
 );
+
+word(
+    date       => '2014-01-02',
+    word       => '地元',
+    furigana   => 'じもと',
+);
+
+word(
+    date       => '2014-01-02',
+    word       => '温厚',
+    furigana   => 'おんこう',
+);
+
+word(
+    date       => '2014-01-02',
+    word       => '性格',
+    furigana   => 'せいかく',
+);
