@@ -20127,3 +20127,22 @@ word(
     word       => '精算',
     furigana   => 'せいさん',
 );
+
+word(
+    date       => '2014-01-04',
+    word       => '救出',
+    furigana   => 'きゅうしゅつ',
+);
+
+word(
+    date       => '2014-01-04',
+    word       => '妖怪',
+    furigana   => 'ようかい',
+);
+
+word(
+    date       => '2014-01-04',
+    word       => '新玉',
+    furigana   => 'あらたま',
+);
+
