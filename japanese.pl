@@ -20146,3 +20146,20 @@ word(
     furigana   => 'あらたま',
 );
 
+word(
+    date       => '2014-01-05',
+    word       => '覺五',
+    furigana   => 'かくご',
+);
+
+word(
+    date       => '2014-01-05',
+    word       => '棒手裏剣',
+    furigana   => 'ぼうしゅりけん',
+);
+
+word(
+    date       => '2014-01-05',
+    word       => '携帯性',
+    furigana   => 'けいたいせい',
+);
