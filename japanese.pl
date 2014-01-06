@@ -20163,3 +20163,9 @@ word(
     word       => '携帯性',
     furigana   => 'けいたいせい',
 );
+
+word(
+    date       => '2014-01-05',
+    word       => '不信',
+    furigana   => 'ふしん',
+);
