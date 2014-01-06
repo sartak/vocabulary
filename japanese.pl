@@ -20169,3 +20169,15 @@ word(
     word       => '不信',
     furigana   => 'ふしん',
 );
+
+word(
+    date       => '2014-01-06',
+    word       => '裏面',
+    furigana   => 'りめん',
+);
+
+word(
+    date       => '2014-01-06',
+    word       => '筐体',
+    furigana   => 'きょうたい',
+);
