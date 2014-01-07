@@ -20181,3 +20181,21 @@ word(
     word       => '筐体',
     furigana   => 'きょうたい',
 );
+
+word(
+    date       => '2014-01-07',
+    word       => '訪日',
+    furigana   => 'ほうにち',
+);
+
+word(
+    date       => '2014-01-07',
+    word       => '区間',
+    furigana   => 'くかん',
+);
+
+word(
+    date       => '2014-01-07',
+    word       => '片道',
+    furigana   => 'かたみち',
+);
