@@ -20199,3 +20199,21 @@ word(
     word       => '片道',
     furigana   => 'かたみち',
 );
+
+word(
+    date       => '2014-01-08',
+    word       => '滑走',
+    furigana   => 'かっそう',
+);
+
+word(
+    date       => '2014-01-08',
+    word       => '離着陸',
+    furigana   => 'りちゃくりく',
+);
+
+word(
+    date       => '2014-01-08',
+    word       => '収納',
+    furigana   => 'しゅうのう',
+);
