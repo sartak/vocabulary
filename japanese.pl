@@ -20217,3 +20217,15 @@ word(
     word       => '収納',
     furigana   => 'しゅうのう',
 );
+
+word(
+    date       => '2014-01-09',
+    word       => '耳元',
+    furigana   => 'みみもと',
+);
+
+word(
+    date       => '2014-01-09',
+    word       => '吐息',
+    furigana   => 'といき',
+);
