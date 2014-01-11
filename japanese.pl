@@ -20229,3 +20229,15 @@ word(
     word       => '吐息',
     furigana   => 'といき',
 );
+
+word(
+    date       => '2014-01-10',
+    word       => '手水',
+    furigana   => 'ちょうず',
+);
+
+word(
+    date       => '2014-01-10',
+    word       => '洗う',
+    furigana   => 'あらう',
+);
