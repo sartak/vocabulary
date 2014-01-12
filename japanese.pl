@@ -20241,3 +20241,15 @@ word(
     word       => '洗う',
     furigana   => 'あらう',
 );
+
+word(
+    date       => '2014-01-11',
+    word       => '不吉',
+    furigana   => 'ふきつ',
+);
+
+word(
+    date       => '2014-01-11',
+    word       => '由来',
+    furigana   => 'ゆらい',
+);
