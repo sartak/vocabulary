@@ -20253,3 +20253,15 @@ word(
     word       => '由来',
     furigana   => 'ゆらい',
 );
+
+word(
+    date       => '2014-01-12',
+    word       => '恵方',
+    furigana   => 'えほう',
+);
+
+word(
+    date       => '2014-01-12',
+    word       => '空腹',
+    furigana   => 'くうふく',
+);
