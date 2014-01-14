@@ -20265,3 +20265,20 @@ word(
     word       => '空腹',
     furigana   => 'くうふく',
 );
+
+word(
+    date       => '2014-01-13',
+    word       => '輕',
+    furigana   => 'けい',
+);
+
+word(
+    date       => '2014-01-13',
+    word       => 'くすぐる',
+);
+
+word(
+    date       => '2014-01-13',
+    word       => '戀心',
+    furigana   => 'こいごころ',
+);
