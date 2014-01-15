@@ -20293,3 +20293,21 @@ word(
     word       => '乗務員',
     furigana   => 'じょうむいん',
 );
+
+word(
+    date       => '2014-01-15',
+    word       => '連鎖',
+    furigana   => 'れんさ',
+);
+
+word(
+    date       => '2014-01-15',
+    word       => '大幅',
+    furigana   => 'おおはば',
+);
+
+word(
+    date       => '2014-01-15',
+    word       => '簡素',
+    furigana   => 'かんそ',
+);
