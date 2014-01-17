@@ -20311,3 +20311,21 @@ word(
     word       => '簡素',
     furigana   => 'かんそ',
 );
+
+word(
+    date       => '2014-01-16',
+    word       => '駆け込む',
+    furigana   => 'かけこむ',
+);
+
+word(
+    date       => '2014-01-16',
+    word       => '不審',
+    furigana   => 'ふしん',
+);
+
+word(
+    date       => '2014-01-16',
+    word       => '直ちに',
+    furigana   => 'ただちに',
+);
