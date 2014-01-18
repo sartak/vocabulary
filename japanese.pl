@@ -20329,3 +20329,20 @@ word(
     word       => '直ちに',
     furigana   => 'ただちに',
 );
+
+word(
+    date       => '2014-01-17',
+    word       => '知見',
+    furigana   => 'ちけん',
+);
+
+word(
+    date       => '2014-01-17',
+    word       => '圧倒',
+    furigana   => 'あっとう',
+);
+
+word(
+    date       => '2014-01-17',
+    word       => 'パッチリ',
+);
