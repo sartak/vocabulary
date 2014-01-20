@@ -20358,3 +20358,14 @@ word(
     word       => '斜面',
     furigana   => 'しゃめん',
 );
+
+word(
+    date       => '2014-01-19',
+    word       => 'すべる',
+);
+
+word(
+    date       => '2014-01-19',
+    word       => '利点',
+    furigana   => 'りてん',
+);
