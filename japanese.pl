@@ -20369,3 +20369,15 @@ word(
     word       => '利点',
     furigana   => 'りてん',
 );
+
+word(
+    date       => '2014-01-20',
+    word       => '導出',
+    furigana   => 'どうしゅつ',
+);
+
+word(
+    date       => '2014-01-20',
+    word       => '舎人',
+    furigana   => 'とねり',
+);
