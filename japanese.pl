@@ -20381,3 +20381,15 @@ word(
     word       => '舎人',
     furigana   => 'とねり',
 );
+
+word(
+    date       => '2014-01-21',
+    word       => '小悪魔',
+    furigana   => 'こあくま',
+);
+
+word(
+    date       => '2014-01-21',
+    word       => '欠損',
+    furigana   => 'けっそん',
+);
