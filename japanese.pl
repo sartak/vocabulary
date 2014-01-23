@@ -20393,3 +20393,27 @@ word(
     word       => '欠損',
     furigana   => 'けっそん',
 );
+
+word(
+    date       => '2014-01-22',
+    word       => '鉄板',
+    furigana   => 'てっぱん',
+);
+
+word(
+    date       => '2014-01-22',
+    word       => '鉱山',
+    furigana   => 'こうざん',
+);
+
+word(
+    date       => '2014-01-22',
+    word       => '制圧',
+    furigana   => 'せいあつ',
+);
+
+word(
+    date       => '2014-01-22',
+    word       => '分岐',
+    furigana   => 'ぶんき',
+);
