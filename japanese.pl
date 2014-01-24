@@ -20417,3 +20417,15 @@ word(
     word       => '分岐',
     furigana   => 'ぶんき',
 );
+
+word(
+    date       => '2014-01-23',
+    word       => '胃袋',
+    furigana   => 'いぶくろ',
+);
+
+word(
+    date       => '2014-01-23',
+    word       => '不純',
+    furigana   => 'ふじゅん',
+);
