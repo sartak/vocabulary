@@ -20429,3 +20429,21 @@ word(
     word       => '不純',
     furigana   => 'ふじゅん',
 );
+
+word(
+    date       => '2014-01-24',
+    word       => '破る',
+    furigana   => 'やぶる',
+);
+
+word(
+    date       => '2014-01-24',
+    word       => '隣戸',
+    furigana   => 'りんこ',
+);
+
+word(
+    date       => '2014-01-24',
+    word       => '避難',
+    furigana   => 'ひなん',
+);
