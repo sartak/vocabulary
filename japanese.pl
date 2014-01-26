@@ -20447,3 +20447,14 @@ word(
     word       => '避難',
     furigana   => 'ひなん',
 );
+
+word(
+    date       => '2014-01-25',
+    word       => 'フリフリ',
+);
+
+word(
+    date       => '2014-01-25',
+    word       => '尻尾',
+    furigana   => 'しっぽ',
+);
