@@ -20492,3 +20492,15 @@ word(
     word       => '増大',
     furigana   => 'ぞうだい',
 );
+
+word(
+    date       => '2014-01-29',
+    word       => '稀少',
+    furigana   => 'きしょう',
+);
+
+word(
+    date       => '2014-01-29',
+    word       => '正当',
+    furigana   => 'せいとう',
+);
