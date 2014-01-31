@@ -20504,3 +20504,15 @@ word(
     word       => '正当',
     furigana   => 'せいとう',
 );
+
+word(
+    date       => '2014-01-30',
+    word       => '派生',
+    furigana   => 'はせい',
+);
+
+word(
+    date       => '2014-01-30',
+    word       => '祖先',
+    furigana   => 'そせん',
+);
