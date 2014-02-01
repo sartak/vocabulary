@@ -20516,3 +20516,15 @@ word(
     word       => '祖先',
     furigana   => 'そせん',
 );
+
+word(
+    date       => '2014-01-31',
+    word       => '存亡',
+    furigana   => 'そんぼう',
+);
+
+word(
+    date       => '2014-01-31',
+    word       => '危機',
+    furigana   => 'きき',
+);
