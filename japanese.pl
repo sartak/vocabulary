@@ -20528,3 +20528,15 @@ word(
     word       => '危機',
     furigana   => 'きき',
 );
+
+word(
+    date       => '2014-02-01',
+    word       => '得手',
+    furigana   => 'えて',
+);
+
+word(
+    date       => '2014-02-01',
+    word       => '不得手',
+    furigana   => 'ふえて',
+);
