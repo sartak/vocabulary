@@ -20552,3 +20552,15 @@ word(
     word       => '払戻し',
     furigana   => 'はらいもどし',
 );
+
+word(
+    date       => '2014-02-03',
+    word       => '通行',
+    furigana   => 'つうこう',
+);
+
+word(
+    date       => '2014-02-03',
+    word       => '月末',
+    furigana   => 'げつまつ',
+);
