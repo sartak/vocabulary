@@ -20540,3 +20540,15 @@ word(
     word       => '不得手',
     furigana   => 'ふえて',
 );
+
+word(
+    date       => '2014-02-02',
+    word       => '独り占め',
+    furigana   => 'ひとりじめ',
+);
+
+word(
+    date       => '2014-02-02',
+    word       => '払戻し',
+    furigana   => 'はらいもどし',
+);
