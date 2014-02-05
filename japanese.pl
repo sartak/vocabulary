@@ -20576,3 +20576,21 @@ word(
     word       => '革新',
     furigana   => 'かくしん',
 );
+
+word(
+    date       => '2014-02-05',
+    word       => '良さげ',
+    furigana   => 'よさげ',
+);
+
+word(
+    date       => '2014-02-05',
+    word       => '発',
+    furigana   => 'はつ',
+);
+
+word(
+    date       => '2014-02-05',
+    word       => '着',
+    furigana   => 'ちゃく',
+);
