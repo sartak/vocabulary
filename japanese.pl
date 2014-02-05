@@ -20564,3 +20564,15 @@ word(
     word       => '月末',
     furigana   => 'げつまつ',
 );
+
+word(
+    date       => '2014-02-04',
+    word       => '前置き',
+    furigana   => 'まえおき',
+);
+
+word(
+    date       => '2014-02-04',
+    word       => '革新',
+    furigana   => 'かくしん',
+);
