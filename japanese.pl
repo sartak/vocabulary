@@ -20594,3 +20594,15 @@ word(
     word       => '着',
     furigana   => 'ちゃく',
 );
+
+word(
+    date       => '2014-02-06',
+    word       => '履く',
+    furigana   => 'はく',
+);
+
+word(
+    date       => '2014-02-06',
+    word       => '優先',
+    furigana   => 'ゆうせん',
+);
