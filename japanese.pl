@@ -20617,3 +20617,15 @@ word(
     word       => '跳ねる',
     furigana   => 'はねる',
 );
+
+word(
+    date       => '2014-02-08',
+    word       => '激闘',
+    furigana   => 'げきとう',
+);
+
+word(
+    date       => '2014-02-08',
+    word       => '所持',
+    furigana   => 'しょじ',
+);
