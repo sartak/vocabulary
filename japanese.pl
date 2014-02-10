@@ -20629,3 +20629,15 @@ word(
     word       => '所持',
     furigana   => 'しょじ',
 );
+
+word(
+    date       => '2014-02-09',
+    word       => '所謂',
+    furigana   => 'いわゆる',
+);
+
+word(
+    date       => '2014-02-09',
+    word       => '徐々',
+    furigana   => 'じょじょ',
+);
