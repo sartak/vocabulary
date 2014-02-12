@@ -20664,3 +20664,21 @@ word(
     word       => '座席',
     furigana   => 'ざせき',
 );
+
+word(
+    date       => '2014-02-12',
+    word       => '偽者',
+    furigana   => 'にせもの',
+);
+
+word(
+    date       => '2014-02-12',
+    word       => '流転',
+    furigana   => 'るてん',
+);
+
+word(
+    date       => '2014-02-12',
+    word       => '儀式',
+    furigana   => 'ぎしき',
+);
