@@ -20682,3 +20682,15 @@ word(
     word       => '儀式',
     furigana   => 'ぎしき',
 );
+
+word(
+    date       => '2014-02-13',
+    word       => '意図',
+    furigana   => 'いと',
+);
+
+word(
+    date       => '2014-02-13',
+    word       => '領収',
+    furigana   => 'りょうしゅう',
+);
