@@ -20694,3 +20694,39 @@ word(
     word       => '領収',
     furigana   => 'りょうしゅう',
 );
+
+word(
+    date       => '2014-02-14',
+    word       => '洗濯',
+    furigana   => 'せんたく',
+);
+
+word(
+    date       => '2014-02-14',
+    word       => '物品',
+    furigana   => 'ぶっぴん',
+);
+
+word(
+    date       => '2014-02-14',
+    word       => '紛失',
+    furigana   => 'ふんしつ',
+);
+
+word(
+    date       => '2014-02-14',
+    word       => '盗難',
+    furigana   => 'とうなん',
+);
+
+word(
+    date       => '2014-02-14',
+    word       => '一切',
+    furigana   => 'いっさい',
+);
+
+word(
+    date       => '2014-02-14',
+    word       => '責任',
+    furigana   => 'せきにん',
+);
