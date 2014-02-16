@@ -20730,3 +20730,21 @@ word(
     word       => '責任',
     furigana   => 'せきにん',
 );
+
+word(
+    date       => '2014-02-15',
+    word       => '横手',
+    furigana   => 'よこて',
+);
+
+word(
+    date       => '2014-02-15',
+    word       => '登山',
+    furigana   => 'とざん',
+);
+
+word(
+    date       => '2014-02-15',
+    word       => '鉄道',
+    furigana   => 'てつどう',
+);
