@@ -20748,3 +20748,15 @@ word(
     word       => '鉄道',
     furigana   => 'てつどう',
 );
+
+word(
+    date       => '2014-02-16',
+    word       => '公共',
+    furigana   => 'こうきょう',
+);
+
+word(
+    date       => '2014-02-16',
+    word       => '機関',
+    furigana   => 'きかん',
+);
