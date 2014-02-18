@@ -20760,3 +20760,15 @@ word(
     word       => '機関',
     furigana   => 'きかん',
 );
+
+word(
+    date       => '2014-02-17',
+    word       => '中心',
+    furigana   => 'ちゅうしん',
+);
+
+word(
+    date       => '2014-02-17',
+    word       => '追い炊き',
+    furigana   => 'おいだき',
+);
