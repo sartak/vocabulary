@@ -20795,3 +20795,15 @@ word(
     word       => '史上',
     furigana   => 'しじょう',
 );
+
+word(
+    date       => '2014-02-20',
+    word       => '工夫',
+    furigana   => 'くふう',
+);
+
+word(
+    date       => '2014-02-20',
+    word       => '種明かし',
+    furigana   => 'たねあかし',
+);
