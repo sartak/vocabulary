@@ -20807,3 +20807,15 @@ word(
     word       => '種明かし',
     furigana   => 'たねあかし',
 );
+
+word(
+    date       => '2014-02-21',
+    word       => '難関',
+    furigana   => 'なんかん',
+);
+
+word(
+    date       => '2014-02-21',
+    word       => '雇う',
+    furigana   => 'やとう',
+);
