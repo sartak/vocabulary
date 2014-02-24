@@ -20830,3 +20830,21 @@ word(
     word       => '各駅',
     furigana   => 'かくえき',
 );
+
+word(
+    date       => '2014-02-23',
+    word       => '基準',
+    furigana   => 'きじゅん',
+);
+
+word(
+    date       => '2014-02-23',
+    word       => '過剰',
+    furigana   => 'かじょう',
+);
+
+word(
+    date       => '2014-02-23',
+    word       => '負債',
+    furigana   => 'ふさい',
+);
