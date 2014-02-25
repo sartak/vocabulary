@@ -20848,3 +20848,15 @@ word(
     word       => '負債',
     furigana   => 'ふさい',
 );
+
+word(
+    date       => '2014-02-24',
+    word       => '軍団',
+    furigana   => 'ぐんだん',
+);
+
+word(
+    date       => '2014-02-24',
+    word       => '侵略',
+    furigana   => 'しんりゃく',
+);
