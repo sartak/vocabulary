@@ -20860,3 +20860,27 @@ word(
     word       => '侵略',
     furigana   => 'しんりゃく',
 );
+
+word(
+    date       => '2014-02-25',
+    word       => '複製',
+    furigana   => 'ふくせい',
+);
+
+word(
+    date       => '2014-02-25',
+    word       => '施設',
+    furigana   => 'しせつ',
+);
+
+word(
+    date       => '2014-02-25',
+    word       => '臨時',
+    furigana   => 'りんじ',
+);
+
+word(
+    date       => '2014-02-25',
+    word       => '休業',
+    furigana   => 'きゅうぎょう',
+);
