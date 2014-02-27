@@ -20884,3 +20884,15 @@ word(
     word       => '休業',
     furigana   => 'きゅうぎょう',
 );
+
+word(
+    date       => '2014-02-26',
+    word       => '検証',
+    furigana   => 'けんしょう',
+);
+
+word(
+    date       => '2014-02-26',
+    word       => '戸惑う',
+    furigana   => 'とまどう',
+);
