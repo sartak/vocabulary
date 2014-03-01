@@ -20907,3 +20907,15 @@ word(
     word       => '克服',
     furigana   => 'こくふく',
 );
+
+word(
+    date       => '2014-02-28',
+    word       => '無数',
+    furigana   => 'むすう',
+);
+
+word(
+    date       => '2014-02-28',
+    word       => '人面',
+    furigana   => 'じんめん',
+);
