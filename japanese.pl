@@ -20919,3 +20919,15 @@ word(
     word       => '人面',
     furigana   => 'じんめん',
 );
+
+word(
+    date       => '2014-03-01',
+    word       => '低温',
+    furigana   => 'ていおん',
+);
+
+word(
+    date       => '2014-03-01',
+    word       => '洗剤',
+    furigana   => 'せんざい',
+);
