@@ -20931,3 +20931,33 @@ word(
     word       => '洗剤',
     furigana   => 'せんざい',
 );
+
+word(
+    date       => '2014-03-02',
+    word       => '邊',
+    furigana   => 'へん',
+);
+
+word(
+    date       => '2014-03-02',
+    word       => '助成',
+    furigana   => 'じょせい',
+);
+
+word(
+    date       => '2014-03-02',
+    word       => '交付',
+    furigana   => 'こうふ',
+);
+
+word(
+    date       => '2014-03-02',
+    word       => '恒星',
+    furigana   => 'こうせい',
+);
+
+word(
+    date       => '2014-03-02',
+    word       => '億',
+    furigana   => 'おく',
+);
