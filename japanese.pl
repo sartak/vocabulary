@@ -20961,3 +20961,15 @@ word(
     word       => '億',
     furigana   => 'おく',
 );
+
+word(
+    date       => '2014-03-03',
+    word       => '水勢',
+    furigana   => 'すいせい',
+);
+
+word(
+    date       => '2014-03-03',
+    word       => '温水',
+    furigana   => 'おんすい',
+);
