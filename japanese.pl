@@ -20996,3 +20996,15 @@ word(
     word       => '火器',
     furigana   => 'かき',
 );
+
+word(
+    date       => '2014-03-06',
+    word       => '間際',
+    furigana   => 'まぎわ',
+);
+
+word(
+    date       => '2014-03-06',
+    word       => '徒に',
+    furigana   => 'いたずらに',
+);
