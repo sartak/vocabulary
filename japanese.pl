@@ -21008,3 +21008,32 @@ word(
     word       => '徒に',
     furigana   => 'いたずらに',
 );
+
+word(
+    date       => '2014-03-07',
+    word       => '新鮮',
+    furigana   => 'しんせん',
+);
+
+word(
+    date       => '2014-03-07',
+    word       => '水出しコーヒー',
+    furigana   => 'みずだしコーヒー',
+);
+
+word(
+    date       => '2014-03-07',
+    word       => '当店',
+    furigana   => 'とうてん',
+);
+
+word(
+    date       => '2014-03-07',
+    word       => 'こだわり',
+);
+
+word(
+    date       => '2014-03-07',
+    word       => '一品',
+    furigana   => 'いっぴん',
+);
