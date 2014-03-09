@@ -21049,3 +21049,15 @@ word(
     word       => '角度',
     furigana   => 'かくど',
 );
+
+word(
+    date       => '2014-03-09',
+    word       => '性能',
+    furigana   => 'せいのう',
+);
+
+word(
+    date       => '2014-03-09',
+    word       => '平均',
+    furigana   => 'へいきん',
+);
