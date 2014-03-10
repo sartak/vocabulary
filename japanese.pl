@@ -21061,3 +21061,15 @@ word(
     word       => '平均',
     furigana   => 'へいきん',
 );
+
+word(
+    date       => '2014-03-10',
+    word       => '口ずさむ',
+    furigana   => 'くちずさむ',
+);
+
+word(
+    date       => '2014-03-10',
+    word       => '菓子',
+    furigana   => 'かし',
+);
