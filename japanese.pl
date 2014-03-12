@@ -21085,3 +21085,15 @@ word(
     word       => '深刻',
     furigana   => 'しんこく',
 );
+
+word(
+    date       => '2014-03-12',
+    word       => '狭義',
+    furigana   => 'きょうぎ',
+);
+
+word(
+    date       => '2014-03-12',
+    word       => '顔色',
+    furigana   => 'かおいろ',
+);
