@@ -21097,3 +21097,21 @@ word(
     word       => '顔色',
     furigana   => 'かおいろ',
 );
+
+word(
+    date       => '2014-03-13',
+    word       => '挑む',
+    furigana   => 'いどむ',
+);
+
+word(
+    date       => '2014-03-13',
+    word       => '驚愕',
+    furigana   => 'きょうがく',
+);
+
+word(
+    date       => '2014-03-13',
+    word       => '結末',
+    furigana   => 'けつまつ',
+);
