@@ -21127,3 +21127,9 @@ word(
     word       => '多段',
     furigana   => 'ただん',
 );
+
+word(
+    date       => '2014-03-14',
+    word       => '煮る',
+    furigana   => 'にる',
+);
