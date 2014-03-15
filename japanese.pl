@@ -21133,3 +21133,21 @@ word(
     word       => '煮る',
     furigana   => 'にる',
 );
+
+word(
+    date       => '2014-03-15',
+    word       => '長男',
+    furigana   => 'ちょうなん',
+);
+
+word(
+    date       => '2014-03-15',
+    word       => '鎌',
+    furigana   => 'かま',
+);
+
+word(
+    date       => '2014-03-15',
+    word       => '鼬',
+    furigana   => 'いたち',
+);
