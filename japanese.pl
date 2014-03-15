@@ -21115,3 +21115,15 @@ word(
     word       => '結末',
     furigana   => 'けつまつ',
 );
+
+word(
+    date       => '2014-03-14',
+    word       => '事例',
+    furigana   => 'じれい',
+);
+
+word(
+    date       => '2014-03-14',
+    word       => '多段',
+    furigana   => 'ただん',
+);
