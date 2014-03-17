@@ -21151,3 +21151,15 @@ word(
     word       => '鼬',
     furigana   => 'いたち',
 );
+
+word(
+    date       => '2014-03-16',
+    word       => '微調整',
+    furigana   => 'びちょうせい',
+);
+
+word(
+    date       => '2014-03-16',
+    word       => '誤爆',
+    furigana   => 'ごばく',
+);
