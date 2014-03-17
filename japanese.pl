@@ -21163,3 +21163,9 @@ word(
     word       => '誤爆',
     furigana   => 'ごばく',
 );
+
+word(
+    date       => '2014-03-16',
+    word       => '要求',
+    furigana   => 'ようきゅう',
+);
