@@ -21169,3 +21169,15 @@ word(
     word       => '要求',
     furigana   => 'ようきゅう',
 );
+
+word(
+    date       => '2014-03-17',
+    word       => '現',
+    furigana   => 'げん',
+);
+
+word(
+    date       => '2014-03-17',
+    word       => '油揚げ',
+    furigana   => 'あぶらあげ',
+);
