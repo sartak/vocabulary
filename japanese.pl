@@ -21199,3 +21199,15 @@ word(
     word       => '廻る',
     furigana   => 'めぐる',
 );
+
+word(
+    date       => '2014-03-19',
+    word       => '諸々',
+    furigana   => 'もろもろ',
+);
+
+word(
+    date       => '2014-03-19',
+    word       => '痴漢',
+    furigana   => 'ちかん',
+);
