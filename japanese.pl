@@ -21181,3 +21181,21 @@ word(
     word       => '油揚げ',
     furigana   => 'あぶらあげ',
 );
+
+word(
+    date       => '2014-03-18',
+    word       => '無意識',
+    furigana   => 'むいしき',
+);
+
+word(
+    date       => '2014-03-18',
+    word       => '万物',
+    furigana   => 'ばんぶつ',
+);
+
+word(
+    date       => '2014-03-18',
+    word       => '廻る',
+    furigana   => 'めぐる',
+);
