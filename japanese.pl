@@ -21211,3 +21211,15 @@ word(
     word       => '痴漢',
     furigana   => 'ちかん',
 );
+
+word(
+    date       => '2014-03-20',
+    word       => '要する',
+    furigana   => 'ようする',
+);
+
+word(
+    date       => '2014-03-20',
+    word       => '試行',
+    furigana   => 'しこう',
+);
