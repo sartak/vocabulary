@@ -21223,3 +21223,15 @@ word(
     word       => '試行',
     furigana   => 'しこう',
 );
+
+word(
+    date       => '2014-03-21',
+    word       => '準特急',
+    furigana   => 'じゅんとっきゅう',
+);
+
+word(
+    date       => '2014-03-21',
+    word       => '浮き世',
+    furigana   => 'うきよ',
+);
