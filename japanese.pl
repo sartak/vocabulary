@@ -21264,3 +21264,15 @@ word(
     word       => '漏れ',
     furigana   => 'もれ',
 );
+
+word(
+    date       => '2014-03-24',
+    word       => '血気',
+    furigana   => 'けっき',
+);
+
+word(
+    date       => '2014-03-24',
+    word       => '盛ん',
+    furigana   => 'さかん',
+);
