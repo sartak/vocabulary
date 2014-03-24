@@ -21246,3 +21246,21 @@ word(
     word       => '腕っ節',
     furigana   => 'うでっぷし',
 );
+
+word(
+    date       => '2014-03-23',
+    word       => '分析',
+    furigana   => 'ぶんせき',
+);
+
+word(
+    date       => '2014-03-23',
+    word       => '油断',
+    furigana   => 'ゆだん',
+);
+
+word(
+    date       => '2014-03-23',
+    word       => '漏れ',
+    furigana   => 'もれ',
+);
