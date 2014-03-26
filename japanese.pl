@@ -21276,3 +21276,15 @@ word(
     word       => '盛ん',
     furigana   => 'さかん',
 );
+
+word(
+    date       => '2014-03-25',
+    word       => '汚れ',
+    furigana   => 'けがれ',
+);
+
+word(
+    date       => '2014-03-25',
+    word       => 'お構い',
+    furigana   => 'おかまい',
+);
