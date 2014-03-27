@@ -21288,3 +21288,15 @@ word(
     word       => 'お構い',
     furigana   => 'おかまい',
 );
+
+word(
+    date       => '2014-03-26',
+    word       => '配電',
+    furigana   => 'はいでん',
+);
+
+word(
+    date       => '2014-03-26',
+    word       => '頂点',
+    furigana   => 'ちょうてん',
+);
