@@ -21300,3 +21300,16 @@ word(
     word       => '頂点',
     furigana   => 'ちょうてん',
 );
+
+word(
+    date       => '2014-03-27',
+    word       => '邪道',
+    furigana   => 'じゃどう',
+);
+
+word(
+    date       => '2014-03-27',
+    word       => '一括',
+    furigana   => 'いっかつ',
+);
+
