@@ -21313,3 +21313,14 @@ word(
     furigana   => 'いっかつ',
 );
 
+word(
+    date       => '2014-03-28',
+    word       => '腕白',
+    furigana   => 'わんぱく',
+);
+
+word(
+    date       => '2014-03-28',
+    word       => '上限',
+    furigana   => 'じょうげん',
+);
