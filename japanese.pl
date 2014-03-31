@@ -21335,3 +21335,15 @@ word(
     word       => '自棄',
     furigana   => 'やけ',
 );
+
+word(
+    date       => '2014-03-30',
+    word       => '一見',
+    furigana   => 'いちげん',
+);
+
+word(
+    date       => '2014-03-30',
+    word       => '架け橋',
+    furigana   => 'かけはし',
+);
