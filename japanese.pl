@@ -21347,3 +21347,21 @@ word(
     word       => '架け橋',
     furigana   => 'かけはし',
 );
+
+word(
+    date       => '2014-03-31',
+    word       => '驚異',
+    furigana   => 'きょうい',
+);
+
+word(
+    date       => '2014-03-31',
+    word       => '真に',
+    furigana   => 'しんに',
+);
+
+word(
+    date       => '2014-03-31',
+    word       => '洗練',
+    furigana   => 'せんれん',
+);
