@@ -21365,3 +21365,15 @@ word(
     word       => '洗練',
     furigana   => 'せんれん',
 );
+
+word(
+    date       => '2014-04-01',
+    word       => '応じる',
+    furigana   => 'おうじる',
+);
+
+word(
+    date       => '2014-04-01',
+    word       => '中落ち',
+    furigana   => 'なかおち',
+);
