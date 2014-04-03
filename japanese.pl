@@ -21377,3 +21377,15 @@ word(
     word       => '中落ち',
     furigana   => 'なかおち',
 );
+
+word(
+    date       => '2014-04-02',
+    word       => '目立つ',
+    furigana   => 'めだつ',
+);
+
+word(
+    date       => '2014-04-02',
+    word       => '早寝',
+    furigana   => 'はやね',
+);
