@@ -21389,3 +21389,21 @@ word(
     word       => '早寝',
     furigana   => 'はやね',
 );
+
+word(
+    date       => '2014-04-03',
+    word       => '転向',
+    furigana   => 'てんこう',
+);
+
+word(
+    date       => '2014-04-03',
+    word       => '根暗',
+    furigana   => 'ねくら',
+);
+
+word(
+    date       => '2014-04-03',
+    word       => '咲く',
+    furigana   => 'さく',
+);
