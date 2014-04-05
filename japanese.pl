@@ -21407,3 +21407,15 @@ word(
     word       => '咲く',
     furigana   => 'さく',
 );
+
+word(
+    date       => '2014-04-04',
+    word       => '飲み放題',
+    furigana   => 'のみほうだい',
+);
+
+word(
+    date       => '2014-04-04',
+    word       => '微糖',
+    furigana   => 'びとう',
+);
