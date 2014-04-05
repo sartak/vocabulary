@@ -21419,3 +21419,15 @@ word(
     word       => '微糖',
     furigana   => 'びとう',
 );
+
+word(
+    date       => '2014-04-05',
+    word       => '出来上がる',
+    furigana   => 'できあがる',
+);
+
+word(
+    date       => '2014-04-05',
+    word       => '弾',
+    furigana   => 'たま',
+);
