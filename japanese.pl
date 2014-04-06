@@ -21431,3 +21431,15 @@ word(
     word       => '弾',
     furigana   => 'たま',
 );
+
+word(
+    date       => '2014-04-06',
+    word       => '介する',
+    furigana   => 'かいする',
+);
+
+word(
+    date       => '2014-04-06',
+    word       => '断じる',
+    furigana   => 'だんじる',
+);
