@@ -21449,3 +21449,27 @@ word(
     word       => '試聴',
     furigana   => 'しちょう',
 );
+
+word(
+    date       => '2014-04-07',
+    word       => '期',
+    furigana   => 'き',
+);
+
+word(
+    date       => '2014-04-07',
+    word       => '現行',
+    furigana   => 'げんこう',
+);
+
+word(
+    date       => '2014-04-07',
+    word       => '損ない',
+    furigana   => 'そこない',
+);
+
+word(
+    date       => '2014-04-07',
+    word       => '慎重',
+    furigana   => 'しんちょう',
+);
