@@ -21473,3 +21473,15 @@ word(
     word       => '慎重',
     furigana   => 'しんちょう',
 );
+
+word(
+    date       => '2014-04-08',
+    word       => '興味深い',
+    furigana   => 'きょうみぶかい',
+);
+
+word(
+    date       => '2014-04-08',
+    word       => '後継者',
+    furigana   => 'こうけいしゃ',
+);
