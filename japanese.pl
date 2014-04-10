@@ -21485,3 +21485,15 @@ word(
     word       => '後継者',
     furigana   => 'こうけいしゃ',
 );
+
+word(
+    date       => '2014-04-09',
+    word       => '本題',
+    furigana   => 'ほんだい',
+);
+
+word(
+    date       => '2014-04-09',
+    word       => '模倣',
+    furigana   => 'もほう',
+);
