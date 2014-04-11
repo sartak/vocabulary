@@ -21497,3 +21497,15 @@ word(
     word       => '模倣',
     furigana   => 'もほう',
 );
+
+word(
+    date       => '2014-04-10',
+    word       => '仲',
+    furigana   => 'なか',
+);
+
+word(
+    date       => '2014-04-10',
+    word       => '慈しむ',
+    furigana   => 'いつくしむ',
+);
