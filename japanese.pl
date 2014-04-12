@@ -21527,3 +21527,15 @@ word(
     word       => '始末',
     furigana   => 'しまつ',
 );
+
+word(
+    date       => '2014-04-12',
+    word       => '行き来',
+    furigana   => 'いきき',
+);
+
+word(
+    date       => '2014-04-12',
+    word       => '水母',
+    furigana   => 'くらげ',
+);
