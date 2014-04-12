@@ -21509,3 +21509,21 @@ word(
     word       => '慈しむ',
     furigana   => 'いつくしむ',
 );
+
+word(
+    date       => '2014-04-11',
+    word       => '糞',
+    furigana   => 'フン',
+);
+
+word(
+    date       => '2014-04-11',
+    word       => '飼い主',
+    furigana   => 'かいぬし',
+);
+
+word(
+    date       => '2014-04-11',
+    word       => '始末',
+    furigana   => 'しまつ',
+);
