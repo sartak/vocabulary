@@ -21539,3 +21539,15 @@ word(
     word       => '水母',
     furigana   => 'くらげ',
 );
+
+word(
+    date       => '2014-04-13',
+    word       => '記載',
+    furigana   => 'きさい',
+);
+
+word(
+    date       => '2014-04-13',
+    word       => '要約',
+    furigana   => 'ようやく',
+);
