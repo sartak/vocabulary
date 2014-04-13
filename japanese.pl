@@ -21551,3 +21551,9 @@ word(
     word       => '要約',
     furigana   => 'ようやく',
 );
+
+word(
+    date       => '2014-04-13',
+    word       => '海岸',
+    furigana   => 'かいがん',
+);
