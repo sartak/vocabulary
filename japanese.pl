@@ -21592,3 +21592,15 @@ word(
     word       => '階層',
     furigana   => 'かいそう',
 );
+
+word(
+    date       => '2014-04-17',
+    word       => '疎結合',
+    furigana   => 'そけつごう',
+);
+
+word(
+    date       => '2014-04-17',
+    word       => '密結合',
+    furigana   => 'みつけつごう',
+);
