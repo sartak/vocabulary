@@ -21616,3 +21616,15 @@ word(
     word       => '広東',
     furigana   => 'カントン',
 );
+
+word(
+    date       => '2014-04-18',
+    word       => '仏教',
+    furigana   => 'ぶっきょう',
+);
+
+word(
+    date       => '2014-04-18',
+    word       => '宗教',
+    furigana   => 'しゅうきょう',
+);
