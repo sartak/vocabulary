@@ -21628,3 +21628,15 @@ word(
     word       => '宗教',
     furigana   => 'しゅうきょう',
 );
+
+word(
+    date       => '2014-04-19',
+    word       => '元来',
+    furigana   => 'がんらい',
+);
+
+word(
+    date       => '2014-04-19',
+    word       => '無情',
+    furigana   => 'むじょう',
+);
