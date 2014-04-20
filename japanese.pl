@@ -21640,3 +21640,15 @@ word(
     word       => '無情',
     furigana   => 'むじょう',
 );
+
+word(
+    date       => '2014-04-20',
+    word       => '再考',
+    furigana   => 'さいこう',
+);
+
+word(
+    date       => '2014-04-20',
+    word       => '簡便',
+    furigana   => 'かんべん',
+);
