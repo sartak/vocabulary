@@ -21662,3 +21662,21 @@ word(
     date       => '2014-04-21',
     word       => 'ワラワラ',
 );
+
+word(
+    date       => '2014-04-22',
+    word       => '葡萄',
+    furigana   => 'ぶどう',
+);
+
+word(
+    date       => '2014-04-22',
+    word       => '費用',
+    furigana   => 'ひよう',
+);
+
+word(
+    date       => '2014-04-22',
+    word       => '負担',
+    furigana   => 'ふたん',
+);
