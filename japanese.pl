@@ -21680,3 +21680,15 @@ word(
     word       => '負担',
     furigana   => 'ふたん',
 );
+
+word(
+    date       => '2014-04-23',
+    word       => '頼る',
+    furigana   => 'たよる',
+);
+
+word(
+    date       => '2014-04-23',
+    word       => 'お世辞',
+    furigana   => 'おせじ',
+);
