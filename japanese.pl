@@ -21692,3 +21692,15 @@ word(
     word       => 'お世辞',
     furigana   => 'おせじ',
 );
+
+word(
+    date       => '2014-04-24',
+    word       => '端末',
+    furigana   => 'たんまつ',
+);
+
+word(
+    date       => '2014-04-24',
+    word       => '考慮',
+    furigana   => 'こうりょ',
+);
