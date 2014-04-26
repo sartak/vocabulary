@@ -21716,3 +21716,21 @@ word(
     word       => '戦場',
     furigana   => 'せんじょう',
 );
+
+word(
+    date       => '2014-04-26',
+    word       => '文化',
+    furigana   => 'ぶんか',
+);
+
+word(
+    date       => '2014-04-26',
+    word       => '交流',
+    furigana   => 'こうりゅう',
+);
+
+word(
+    date       => '2014-04-26',
+    word       => '書家',
+    furigana   => 'しょか',
+);
