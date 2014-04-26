@@ -21734,3 +21734,9 @@ word(
     word       => '書家',
     furigana   => 'しょか',
 );
+
+word(
+    date       => '2014-04-26',
+    word       => '書道',
+    furigana   => 'しょどう',
+);
