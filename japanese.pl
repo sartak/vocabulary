@@ -21704,3 +21704,15 @@ word(
     word       => '考慮',
     furigana   => 'こうりょ',
 );
+
+word(
+    date       => '2014-04-25',
+    word       => '修整',
+    furigana   => 'しゅうせい',
+);
+
+word(
+    date       => '2014-04-25',
+    word       => '戦場',
+    furigana   => 'せんじょう',
+);
