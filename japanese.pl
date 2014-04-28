@@ -21740,3 +21740,15 @@ word(
     word       => '書道',
     furigana   => 'しょどう',
 );
+
+word(
+    date       => '2014-04-27',
+    word       => '火葬',
+    furigana   => 'かそう',
+);
+
+word(
+    date       => '2014-04-27',
+    word       => '追放',
+    furigana   => 'ついほう',
+);
