@@ -21770,3 +21770,15 @@ word(
     word       => '斧',
     furigana   => 'おの',
 );
+
+word(
+    date       => '2014-04-29',
+    word       => '中盛り',
+    furigana   => 'ちゅうもり',
+);
+
+word(
+    date       => '2014-04-29',
+    word       => '伊豆',
+    furigana   => 'いず',
+);
