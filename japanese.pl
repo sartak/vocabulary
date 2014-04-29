@@ -21752,3 +21752,21 @@ word(
     word       => '追放',
     furigana   => 'ついほう',
 );
+
+word(
+    date       => '2014-04-28',
+    word       => '簡潔',
+    furigana   => 'かんけつ',
+);
+
+word(
+    date       => '2014-04-28',
+    word       => '溶岩',
+    furigana   => 'ようがん',
+);
+
+word(
+    date       => '2014-04-28',
+    word       => '斧',
+    furigana   => 'おの',
+);
