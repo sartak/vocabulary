@@ -21782,3 +21782,15 @@ word(
     word       => '伊豆',
     furigana   => 'いず',
 );
+
+word(
+    date       => '2014-04-30',
+    word       => '本家',
+    furigana   => 'ほんけ',
+);
+
+word(
+    date       => '2014-04-30',
+    word       => '練達',
+    furigana   => 'れんたつ',
+);
