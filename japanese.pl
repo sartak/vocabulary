@@ -21794,3 +21794,15 @@ word(
     word       => '練達',
     furigana   => 'れんたつ',
 );
+
+word(
+    date       => '2014-05-01',
+    word       => '憤慨',
+    furigana   => 'ふんがい',
+);
+
+word(
+    date       => '2014-05-01',
+    word       => '腕前',
+    furigana   => 'うでまえ',
+);
