@@ -21806,3 +21806,15 @@ word(
     word       => '腕前',
     furigana   => 'うでまえ',
 );
+
+word(
+    date       => '2014-05-02',
+    word       => '船室',
+    furigana   => 'せんしつ',
+);
+
+word(
+    date       => '2014-05-02',
+    word       => '硬派',
+    furigana   => 'こうは',
+);
