@@ -21818,3 +21818,15 @@ word(
     word       => '硬派',
     furigana   => 'こうは',
 );
+
+word(
+    date       => '2014-05-03',
+    word       => '沿線',
+    furigana   => 'えんせん',
+);
+
+word(
+    date       => '2014-05-03',
+    word       => '階数',
+    furigana   => 'かいすう',
+);
