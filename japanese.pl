@@ -21830,3 +21830,15 @@ word(
     word       => '階数',
     furigana   => 'かいすう',
 );
+
+word(
+    date       => '2014-05-04',
+    word       => '引っ掛かる',
+    furigana   => 'ひっかかる',
+);
+
+word(
+    date       => '2014-05-04',
+    word       => '軍馬',
+    furigana   => 'ぐんば',
+);
