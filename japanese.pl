@@ -21842,3 +21842,15 @@ word(
     word       => '軍馬',
     furigana   => 'ぐんば',
 );
+
+word(
+    date       => '2014-05-05',
+    word       => '等しい',
+    furigana   => 'ひとしい',
+);
+
+word(
+    date       => '2014-05-05',
+    word       => '前線',
+    furigana   => 'ぜんせん',
+);
