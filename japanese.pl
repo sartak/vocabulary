@@ -21854,3 +21854,15 @@ word(
     word       => '前線',
     furigana   => 'ぜんせん',
 );
+
+word(
+    date       => '2014-05-06',
+    word       => '来店',
+    furigana   => 'らいてん',
+);
+
+word(
+    date       => '2014-05-06',
+    word       => '申し上げる',
+    furigana   => 'もうしあげる',
+);
