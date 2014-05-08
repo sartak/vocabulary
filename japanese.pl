@@ -21866,3 +21866,15 @@ word(
     word       => '申し上げる',
     furigana   => 'もうしあげる',
 );
+
+word(
+    date       => '2014-05-07',
+    word       => '仕える',
+    furigana   => 'つかえる',
+);
+
+word(
+    date       => '2014-05-07',
+    word       => '惜しむ',
+    furigana   => 'おしむ',
+);
