@@ -21878,3 +21878,15 @@ word(
     word       => '惜しむ',
     furigana   => 'おしむ',
 );
+
+word(
+    date       => '2014-05-08',
+    word       => '石角',
+    furigana   => 'いしづの',
+);
+
+word(
+    date       => '2014-05-08',
+    word       => '高官',
+    furigana   => 'こうかん',
+);
