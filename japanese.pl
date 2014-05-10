@@ -21890,3 +21890,15 @@ word(
     word       => '高官',
     furigana   => 'こうかん',
 );
+
+word(
+    date       => '2014-05-09',
+    word       => '一言',
+    furigana   => 'いちごん',
+);
+
+word(
+    date       => '2014-05-09',
+    word       => '縦横',
+    furigana   => 'じゅうおう',
+);
