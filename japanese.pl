@@ -21902,3 +21902,21 @@ word(
     word       => '縦横',
     furigana   => 'じゅうおう',
 );
+
+word(
+    date       => '2014-05-10',
+    word       => '光合成',
+    furigana   => 'こうごうせい',
+);
+
+word(
+    date       => '2014-05-10',
+    word       => '蝲蛄',
+    furigana   => 'ざりがに',
+);
+
+word(
+    date       => '2014-05-10',
+    word       => '三日三晩',
+    furigana   => 'みっかみばん',
+);
