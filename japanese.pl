@@ -21920,3 +21920,15 @@ word(
     word       => '三日三晩',
     furigana   => 'みっかみばん',
 );
+
+word(
+    date       => '2014-05-11',
+    word       => '若干',
+    furigana   => 'じゃっかん',
+);
+
+word(
+    date       => '2014-05-11',
+    word       => '煩雑',
+    furigana   => 'はんざつ',
+);
