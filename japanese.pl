@@ -21932,3 +21932,20 @@ word(
     word       => '煩雑',
     furigana   => 'はんざつ',
 );
+
+word(
+    date       => '2014-05-12',
+    word       => '脱皮',
+    furigana   => 'だっぴ',
+);
+
+word(
+    date       => '2014-05-12',
+    word       => 'バサバサ',
+);
+
+word(
+    date       => '2014-05-12',
+    word       => '湿る',
+    furigana   => 'しめる',
+);
