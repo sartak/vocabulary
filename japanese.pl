@@ -21949,3 +21949,15 @@ word(
     word       => '湿る',
     furigana   => 'しめる',
 );
+
+word(
+    date       => '2014-05-13',
+    word       => '住人',
+    furigana   => 'じゅうにん',
+);
+
+word(
+    date       => '2014-05-13',
+    word       => '正反対',
+    furigana   => 'せいはんたい',
+);
