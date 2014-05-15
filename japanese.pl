@@ -21961,3 +21961,15 @@ word(
     word       => '正反対',
     furigana   => 'せいはんたい',
 );
+
+word(
+    date       => '2014-05-14',
+    word       => '嵌る',
+    furigana   => 'はまる',
+);
+
+word(
+    date       => '2014-05-14',
+    word       => '観戦',
+    furigana   => 'かんせん',
+);
