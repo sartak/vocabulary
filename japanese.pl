@@ -21985,3 +21985,15 @@ word(
     word       => '爆誕',
     furigana   => 'ばくたん',
 );
+
+word(
+    date       => '2014-05-16',
+    word       => '某所',
+    furigana   => 'ぼうしょ',
+);
+
+word(
+    date       => '2014-05-16',
+    word       => '柔軟',
+    furigana   => 'じゅうなん',
+);
