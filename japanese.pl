@@ -21973,3 +21973,15 @@ word(
     word       => '観戦',
     furigana   => 'かんせん',
 );
+
+word(
+    date       => '2014-05-15',
+    word       => '上陸',
+    furigana   => 'じょうりく',
+);
+
+word(
+    date       => '2014-05-15',
+    word       => '爆誕',
+    furigana   => 'ばくたん',
+);
