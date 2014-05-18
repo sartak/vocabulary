@@ -22009,3 +22009,15 @@ word(
     word       => '鶏',
     furigana   => 'にわとり',
 );
+
+word(
+    date       => '2014-05-18',
+    word       => '損する',
+    furigana   => 'そんする',
+);
+
+word(
+    date       => '2014-05-18',
+    word       => '無謀',
+    furigana   => 'むぼう',
+);
