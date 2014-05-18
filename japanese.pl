@@ -21997,3 +21997,15 @@ word(
     word       => '柔軟',
     furigana   => 'じゅうなん',
 );
+
+word(
+    date       => '2014-05-17',
+    word       => '志',
+    furigana   => 'こころざし',
+);
+
+word(
+    date       => '2014-05-17',
+    word       => '鶏',
+    furigana   => 'にわとり',
+);
