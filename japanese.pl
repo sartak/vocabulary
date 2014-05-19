@@ -22021,3 +22021,15 @@ word(
     word       => '無謀',
     furigana   => 'むぼう',
 );
+
+word(
+    date       => '2014-05-19',
+    word       => '座標',
+    furigana   => 'ざひょう',
+);
+
+word(
+    date       => '2014-05-19',
+    word       => '画数',
+    furigana   => 'かくすう',
+);
