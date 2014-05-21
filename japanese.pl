@@ -22033,3 +22033,15 @@ word(
     word       => '画数',
     furigana   => 'かくすう',
 );
+
+word(
+    date       => '2014-05-20',
+    word       => '勘違い',
+    furigana   => 'かんちがい',
+);
+
+word(
+    date       => '2014-05-20',
+    word       => '流石',
+    furigana   => 'さすが',
+);
