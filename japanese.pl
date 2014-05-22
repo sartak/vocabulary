@@ -22045,3 +22045,15 @@ word(
     word       => '流石',
     furigana   => 'さすが',
 );
+
+word(
+    date       => '2014-05-21',
+    word       => '学習',
+    furigana   => 'がくしゅう',
+);
+
+word(
+    date       => '2014-05-21',
+    word       => '精度',
+    furigana   => 'せいど',
+);
