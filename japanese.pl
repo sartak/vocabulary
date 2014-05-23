@@ -22057,3 +22057,15 @@ word(
     word       => '精度',
     furigana   => 'せいど',
 );
+
+word(
+    date       => '2014-05-22',
+    word       => '成り立つ',
+    furigana   => 'なりたつ',
+);
+
+word(
+    date       => '2014-05-22',
+    word       => '圧縮',
+    furigana   => 'あっしゅく',
+);
