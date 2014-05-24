@@ -22069,3 +22069,15 @@ word(
     word       => '圧縮',
     furigana   => 'あっしゅく',
 );
+
+word(
+    date       => '2014-05-23',
+    word       => '場面',
+    furigana   => 'ばめん',
+);
+
+word(
+    date       => '2014-05-23',
+    word       => '両者',
+    furigana   => 'りょうしゃ',
+);
