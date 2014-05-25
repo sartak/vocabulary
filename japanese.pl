@@ -22081,3 +22081,15 @@ word(
     word       => '両者',
     furigana   => 'りょうしゃ',
 );
+
+word(
+    date       => '2014-05-24',
+    word       => '売却',
+    furigana   => 'ばいきゃく',
+);
+
+word(
+    date       => '2014-05-24',
+    word       => '言動',
+    furigana   => 'げんどう',
+);
