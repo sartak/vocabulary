@@ -22105,3 +22105,21 @@ word(
     word       => '取り替え',
     furigana   => 'とりかえ',
 );
+
+word(
+    date       => '2014-05-26',
+    word       => '念',
+    furigana   => 'ねん',
+);
+
+word(
+    date       => '2014-05-26',
+    word       => '素人',
+    furigana   => 'しろうと',
+);
+
+word(
+    date       => '2014-05-26',
+    word       => 'お勧め',
+    furigana   => 'おすすめ',
+);
