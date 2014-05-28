@@ -22123,3 +22123,15 @@ word(
     word       => 'お勧め',
     furigana   => 'おすすめ',
 );
+
+word(
+    date       => '2014-05-27',
+    word       => '後悔',
+    furigana   => 'こうかい',
+);
+
+word(
+    date       => '2014-05-27',
+    word       => '築く',
+    furigana   => 'きずく',
+);
