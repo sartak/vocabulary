@@ -22135,3 +22135,14 @@ word(
     word       => '築く',
     furigana   => 'きずく',
 );
+
+word(
+    date       => '2014-05-28',
+    word       => 'トボトボ',
+);
+
+word(
+    date       => '2014-05-28',
+    word       => '決意',
+    furigana   => 'けつい',
+);
