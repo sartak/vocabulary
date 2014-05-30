@@ -22146,3 +22146,26 @@ word(
     word       => '決意',
     furigana   => 'けつい',
 );
+
+word(
+    date       => '2014-05-29',
+    word       => 'フワフワ',
+);
+
+word(
+    date       => '2014-05-29',
+    word       => '脅かす',
+    furigana   => 'おどかす',
+);
+
+word(
+    date       => '2014-05-29',
+    word       => '生き甲斐',
+    furigana   => 'いきがい',
+);
+
+word(
+    date       => '2014-05-29',
+    word       => '行使',
+    furigana   => 'こうし',
+);
