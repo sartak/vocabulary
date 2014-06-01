@@ -22198,3 +22198,15 @@ word(
     word       => '筋トレ',
     furigana   => 'きんトレ',
 );
+
+word(
+    date       => '2014-06-01',
+    word       => '推奨',
+    furigana   => 'すいしょう',
+);
+
+word(
+    date       => '2014-06-01',
+    word       => '遂に',
+    furigana   => 'ついに',
+);
