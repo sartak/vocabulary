@@ -22180,3 +22180,21 @@ word(
     word       => '着色',
     furigana   => 'ちゃくしょく',
 );
+
+word(
+    date       => '2014-05-31',
+    word       => '業界',
+    furigana   => 'ぎょうかい',
+);
+
+word(
+    date       => '2014-05-31',
+    word       => '雪達磨',
+    furigana   => 'ゆきだるま',
+);
+
+word(
+    date       => '2014-05-31',
+    word       => '筋トレ',
+    furigana   => 'きんトレ',
+);
