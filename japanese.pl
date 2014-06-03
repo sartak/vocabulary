@@ -22210,3 +22210,15 @@ word(
     word       => '遂に',
     furigana   => 'ついに',
 );
+
+word(
+    date       => '2014-06-02',
+    word       => '強調',
+    furigana   => 'きょうちょう',
+);
+
+word(
+    date       => '2014-06-02',
+    word       => '装飾',
+    furigana   => 'そうしょく',
+);
