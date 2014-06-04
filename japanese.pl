@@ -22234,3 +22234,15 @@ word(
     word       => '錆びる',
     furigana   => 'さびる',
 );
+
+word(
+    date       => '2014-06-04',
+    word       => '実践',
+    furigana   => 'じっせん',
+);
+
+word(
+    date       => '2014-06-04',
+    word       => '壮大',
+    furigana   => 'そうだい',
+);
