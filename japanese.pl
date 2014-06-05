@@ -22246,3 +22246,15 @@ word(
     word       => '壮大',
     furigana   => 'そうだい',
 );
+
+word(
+    date       => '2014-06-05',
+    word       => '普及',
+    furigana   => 'ふきゅう',
+);
+
+word(
+    date       => '2014-06-05',
+    word       => '予測',
+    furigana   => 'よそく',
+);
