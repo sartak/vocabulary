@@ -22287,3 +22287,15 @@ word(
     word       => '傾ける',
     furigana   => 'かたむける',
 );
+
+word(
+    date       => '2014-06-08',
+    word       => '駆逐',
+    furigana   => 'くちく',
+);
+
+word(
+    date       => '2014-06-08',
+    word       => '剣士',
+    furigana   => 'けんし',
+);
