@@ -22299,3 +22299,15 @@ word(
     word       => '剣士',
     furigana   => 'けんし',
 );
+
+word(
+    date       => '2014-06-09',
+    word       => '嘗める',
+    furigana   => 'なめる',
+);
+
+word(
+    date       => '2014-06-09',
+    word       => '舌',
+    furigana   => 'した',
+);
