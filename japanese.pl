@@ -22311,3 +22311,14 @@ word(
     word       => '舌',
     furigana   => 'した',
 );
+
+word(
+    date       => '2014-06-10',
+    word       => 'こんがり',
+);
+
+word(
+    date       => '2014-06-10',
+    word       => '激怒',
+    furigana   => 'げきど',
+);
