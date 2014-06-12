@@ -22340,3 +22340,15 @@ word(
     word       => '門番',
     furigana   => 'もんばん',
 );
+
+word(
+    date       => '2014-06-12',
+    word       => '養兵',
+    furigana   => 'ようへい',
+);
+
+word(
+    date       => '2014-06-12',
+    word       => '一家',
+    furigana   => 'いっか',
+);
