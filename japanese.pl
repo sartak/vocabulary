@@ -22322,3 +22322,21 @@ word(
     word       => '激怒',
     furigana   => 'げきど',
 );
+
+word(
+    date       => '2014-06-11',
+    word       => '対策',
+    furigana   => 'たいさく',
+);
+
+word(
+    date       => '2014-06-11',
+    word       => '嬢',
+    furigana   => 'じょう',
+);
+
+word(
+    date       => '2014-06-11',
+    word       => '門番',
+    furigana   => 'もんばん',
+);
