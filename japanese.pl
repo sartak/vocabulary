@@ -22364,3 +22364,15 @@ word(
     word       => '目当て',
     furigana   => 'めあて',
 );
+
+word(
+    date       => '2014-06-14',
+    word       => '慣用句',
+    furigana   => 'かんようく',
+);
+
+word(
+    date       => '2014-06-14',
+    word       => '等価',
+    furigana   => 'とうか',
+);
