@@ -22352,3 +22352,15 @@ word(
     word       => '一家',
     furigana   => 'いっか',
 );
+
+word(
+    date       => '2014-06-13',
+    word       => '無印',
+    furigana   => 'むじるし',
+);
+
+word(
+    date       => '2014-06-13',
+    word       => '目当て',
+    furigana   => 'めあて',
+);
