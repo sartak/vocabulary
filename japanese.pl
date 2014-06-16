@@ -22376,3 +22376,15 @@ word(
     word       => '等価',
     furigana   => 'とうか',
 );
+
+word(
+    date       => '2014-06-15',
+    word       => '中抜き',
+    furigana   => 'なかぬき',
+);
+
+word(
+    date       => '2014-06-15',
+    word       => '線幅',
+    furigana   => 'せんはば',
+);
