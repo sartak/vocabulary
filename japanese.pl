@@ -22388,3 +22388,15 @@ word(
     word       => '線幅',
     furigana   => 'せんはば',
 );
+
+word(
+    date       => '2014-06-16',
+    word       => '強要',
+    furigana   => 'きょうよう',
+);
+
+word(
+    date       => '2014-06-16',
+    word       => '接する',
+    furigana   => 'せっする',
+);
