@@ -22400,3 +22400,15 @@ word(
     word       => '接する',
     furigana   => 'せっする',
 );
+
+word(
+    date       => '2014-06-17',
+    word       => '果てしない',
+    furigana   => 'はてしない',
+);
+
+word(
+    date       => '2014-06-17',
+    word       => '何故',
+    furigana   => 'なにゆえ',
+);
