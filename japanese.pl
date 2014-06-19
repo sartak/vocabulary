@@ -22412,3 +22412,15 @@ word(
     word       => '何故',
     furigana   => 'なにゆえ',
 );
+
+word(
+    date       => '2014-06-18',
+    word       => '輪講',
+    furigana   => 'りんこう',
+);
+
+word(
+    date       => '2014-06-18',
+    word       => '資料',
+    furigana   => 'しりょう',
+);
