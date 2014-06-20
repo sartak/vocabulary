@@ -22424,3 +22424,15 @@ word(
     word       => '資料',
     furigana   => 'しりょう',
 );
+
+word(
+    date       => '2014-06-19',
+    word       => '現況',
+    furigana   => 'げんきょう',
+);
+
+word(
+    date       => '2014-06-19',
+    word       => '内回り',
+    furigana   => 'うちまわり',
+);
