@@ -22436,3 +22436,15 @@ word(
     word       => '内回り',
     furigana   => 'うちまわり',
 );
+
+word(
+    date       => '2014-06-20',
+    word       => '実績',
+    furigana   => 'じっせき',
+);
+
+word(
+    date       => '2014-06-20',
+    word       => '安定',
+    furigana   => 'あんてい',
+);
