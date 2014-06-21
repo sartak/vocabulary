@@ -22448,3 +22448,21 @@ word(
     word       => '安定',
     furigana   => 'あんてい',
 );
+
+word(
+    date       => '2014-06-21',
+    word       => '定める',
+    furigana   => 'さだめる',
+);
+
+word(
+    date       => '2014-06-21',
+    word       => '経由',
+    furigana   => 'けいゆ',
+);
+
+word(
+    date       => '2014-06-21',
+    word       => '寄付',
+    furigana   => 'きふ',
+);
