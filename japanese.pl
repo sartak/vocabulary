@@ -22466,3 +22466,21 @@ word(
     word       => '寄付',
     furigana   => 'きふ',
 );
+
+word(
+    date       => '2014-06-22',
+    word       => '分裂',
+    furigana   => 'ぶんれつ',
+);
+
+word(
+    date       => '2014-06-22',
+    word       => '二足',
+    furigana   => 'にそく',
+);
+
+word(
+    date       => '2014-06-22',
+    word       => '歩行',
+    furigana   => 'ほこう',
+);
