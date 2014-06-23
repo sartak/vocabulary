@@ -22484,3 +22484,20 @@ word(
     word       => '歩行',
     furigana   => 'ほこう',
 );
+
+word(
+    date       => '2014-06-23',
+    word       => '差別',
+    furigana   => 'さべつ',
+);
+
+word(
+    date       => '2014-06-23',
+    word       => '青木',
+    furigana   => 'あおき',
+);
+
+word(
+    date       => '2014-06-23',
+    word       => 'サボる',
+);
