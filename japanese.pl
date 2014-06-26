@@ -22513,3 +22513,26 @@ word(
     word       => '互換',
     furigana   => 'ごかん',
 );
+
+word(
+    date       => '2014-06-25',
+    word       => '寝台',
+    furigana   => 'しんだい',
+);
+
+word(
+    date       => '2014-06-25',
+    word       => '勤勉',
+    furigana   => 'きんべん',
+);
+
+word(
+    date       => '2014-06-25',
+    word       => '実直',
+    furigana   => 'じっちょく',
+);
+
+word(
+    date       => '2014-06-25',
+    word       => 'おっちょこちょい',
+);
