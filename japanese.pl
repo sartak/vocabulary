@@ -22553,3 +22553,15 @@ word(
     word       => '草原',
     furigana   => 'そうげん',
 );
+
+word(
+    date       => '2014-06-27',
+    word       => '惨事',
+    furigana   => 'さんじ',
+);
+
+word(
+    date       => '2014-06-27',
+    word       => '反省',
+    furigana   => 'はんせい',
+);
