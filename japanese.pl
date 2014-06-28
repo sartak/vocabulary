@@ -22565,3 +22565,15 @@ word(
     word       => '反省',
     furigana   => 'はんせい',
 );
+
+word(
+    date       => '2014-06-28',
+    word       => '促す',
+    furigana   => 'うながす',
+);
+
+word(
+    date       => '2014-06-28',
+    word       => '穏便',
+    furigana   => 'おんびん',
+);
