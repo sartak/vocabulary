@@ -22577,3 +22577,15 @@ word(
     word       => '穏便',
     furigana   => 'おんびん',
 );
+
+word(
+    date       => '2014-06-29',
+    word       => '牧歌的',
+    furigana   => 'ぼっかてき',
+);
+
+word(
+    date       => '2014-06-29',
+    word       => '事変',
+    furigana   => 'じへん',
+);
