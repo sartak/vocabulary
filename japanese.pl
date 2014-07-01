@@ -22589,3 +22589,15 @@ word(
     word       => '事変',
     furigana   => 'じへん',
 );
+
+word(
+    date       => '2014-06-30',
+    word       => '有用',
+    furigana   => 'ゆうよう',
+);
+
+word(
+    date       => '2014-06-30',
+    word       => '黎明期',
+    furigana   => 'れいめいき',
+);
