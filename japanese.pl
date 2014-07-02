@@ -22601,3 +22601,15 @@ word(
     word       => '黎明期',
     furigana   => 'れいめいき',
 );
+
+word(
+    date       => '2014-07-01',
+    word       => '一足',
+    furigana   => 'いっそく',
+);
+
+word(
+    date       => '2014-07-01',
+    word       => '寂しい',
+    furigana   => 'さみしい',
+);
