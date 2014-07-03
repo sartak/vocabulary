@@ -22613,3 +22613,15 @@ word(
     word       => '寂しい',
     furigana   => 'さみしい',
 );
+
+word(
+    date       => '2014-07-02',
+    word       => '牽引',
+    furigana   => 'けんいん',
+);
+
+word(
+    date       => '2014-07-02',
+    word       => '汚い',
+    furigana   => 'きたない',
+);
