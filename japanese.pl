@@ -22625,3 +22625,15 @@ word(
     word       => '汚い',
     furigana   => 'きたない',
 );
+
+word(
+    date       => '2014-07-03',
+    word       => '方言',
+    furigana   => 'ほうげん',
+);
+
+word(
+    date       => '2014-07-03',
+    word       => 'お襁褓',
+    furigana   => 'おむつ',
+);
