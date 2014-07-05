@@ -22637,3 +22637,15 @@ word(
     word       => 'お襁褓',
     furigana   => 'おむつ',
 );
+
+word(
+    date       => '2014-07-04',
+    word       => '直感',
+    furigana   => 'ちょっかん',
+);
+
+word(
+    date       => '2014-07-04',
+    word       => '大差',
+    furigana   => 'たいさ',
+);
