@@ -22684,3 +22684,15 @@ word(
     word       => '水先案内',
     furigana   => 'みずさきあんない',
 );
+
+word(
+    date       => '2014-07-08',
+    word       => '最善',
+    furigana   => 'さいぜん',
+);
+
+word(
+    date       => '2014-07-08',
+    word       => '這いずる',
+    furigana   => 'はいずる',
+);
