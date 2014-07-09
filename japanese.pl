@@ -22696,3 +22696,15 @@ word(
     word       => '這いずる',
     furigana   => 'はいずる',
 );
+
+word(
+    date       => '2014-07-09',
+    word       => '需要',
+    furigana   => 'じゅよう',
+);
+
+word(
+    date       => '2014-07-09',
+    word       => '着手',
+    furigana   => 'ちゃくしゅ',
+);
