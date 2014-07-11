@@ -22708,3 +22708,20 @@ word(
     word       => '着手',
     furigana   => 'ちゃくしゅ',
 );
+
+word(
+    date       => '2014-07-10',
+    word       => '家電',
+    furigana   => 'かでん',
+);
+
+word(
+    date       => '2014-07-10',
+    word       => '水面下',
+    furigana   => 'すいめんか',
+);
+
+word(
+    date       => '2014-07-10',
+    word       => 'カタツムリ',
+);
