@@ -22737,3 +22737,15 @@ word(
     word       => '防犯',
     furigana   => 'ぼうはん',
 );
+
+word(
+    date       => '2014-07-12',
+    word       => '沈没',
+    furigana   => 'ちんぼつ',
+);
+
+word(
+    date       => '2014-07-12',
+    word       => '特典',
+    furigana   => 'とくてん',
+);
