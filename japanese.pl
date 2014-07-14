@@ -22749,3 +22749,15 @@ word(
     word       => '特典',
     furigana   => 'とくてん',
 );
+
+word(
+    date       => '2014-07-13',
+    word       => '文脈',
+    furigana   => 'ぶんみゃく',
+);
+
+word(
+    date       => '2014-07-13',
+    word       => '宿酔い',
+    furigana   => 'しゅくすい',
+);
