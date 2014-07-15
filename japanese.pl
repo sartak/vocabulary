@@ -22779,3 +22779,9 @@ word(
     word       => '陣',
     furigana   => 'じん',
 );
+
+word(
+    date       => '2014-07-14',
+    word       => '透視',
+    furigana   => 'とうし',
+);
