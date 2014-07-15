@@ -22761,3 +22761,21 @@ word(
     word       => '宿酔い',
     furigana   => 'しゅくすい',
 );
+
+word(
+    date       => '2014-07-14',
+    word       => '流行り',
+    furigana   => 'はやり',
+);
+
+word(
+    date       => '2014-07-14',
+    word       => '施策',
+    furigana   => 'しさく',
+);
+
+word(
+    date       => '2014-07-14',
+    word       => '陣',
+    furigana   => 'じん',
+);
