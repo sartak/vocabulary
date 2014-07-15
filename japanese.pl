@@ -22785,3 +22785,15 @@ word(
     word       => '透視',
     furigana   => 'とうし',
 );
+
+word(
+    date       => '2014-07-15',
+    word       => '新鋭',
+    furigana   => 'しんえい',
+);
+
+word(
+    date       => '2014-07-15',
+    word       => '愛嬌',
+    furigana   => 'あいきょう',
+);
