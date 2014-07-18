@@ -22826,3 +22826,21 @@ word(
     word       => '衝突',
     furigana   => 'しょうとつ',
 );
+
+word(
+    date       => '2014-07-18',
+    word       => '置換',
+    furigana   => 'ちかん',
+);
+
+word(
+    date       => '2014-07-18',
+    word       => '警報',
+    furigana   => 'けいほう',
+);
+
+word(
+    date       => '2014-07-18',
+    word       => '設備',
+    furigana   => 'せつび',
+);
