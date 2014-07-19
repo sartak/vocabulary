@@ -22844,3 +22844,15 @@ word(
     word       => '設備',
     furigana   => 'せつび',
 );
+
+word(
+    date       => '2014-07-19',
+    word       => '名案',
+    furigana   => 'めいあん',
+);
+
+word(
+    date       => '2014-07-19',
+    word       => '真鍮',
+    furigana   => 'しんちゅう',
+);
