@@ -22856,3 +22856,15 @@ word(
     word       => '真鍮',
     furigana   => 'しんちゅう',
 );
+
+word(
+    date       => '2014-07-20',
+    word       => '紫陽花',
+    furigana   => 'あじさい',
+);
+
+word(
+    date       => '2014-07-20',
+    word       => '殻',
+    furigana   => 'から',
+);
