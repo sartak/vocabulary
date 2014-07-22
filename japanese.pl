@@ -22868,3 +22868,15 @@ word(
     word       => '殻',
     furigana   => 'から',
 );
+
+word(
+    date       => '2014-07-21',
+    word       => '極め',
+    furigana   => 'きわめ',
+);
+
+word(
+    date       => '2014-07-21',
+    word       => '違反',
+    furigana   => 'いはん',
+);
