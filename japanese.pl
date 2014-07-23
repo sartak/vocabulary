@@ -22892,3 +22892,21 @@ word(
     word       => '貴君',
     furigana   => 'きくん',
 );
+
+word(
+    date       => '2014-07-23',
+    word       => '消火',
+    furigana   => 'しょうか',
+);
+
+word(
+    date       => '2014-07-23',
+    word       => '散水',
+    furigana   => 'さんすい',
+);
+
+word(
+    date       => '2014-07-23',
+    word       => '栓',
+    furigana   => 'せん',
+);
