@@ -22880,3 +22880,15 @@ word(
     word       => '違反',
     furigana   => 'いはん',
 );
+
+word(
+    date       => '2014-07-22',
+    word       => '板',
+    furigana   => 'いた',
+);
+
+word(
+    date       => '2014-07-22',
+    word       => '貴君',
+    furigana   => 'きくん',
+);
