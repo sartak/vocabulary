@@ -22922,3 +22922,20 @@ word(
     word       => '吉母',
     furigana   => 'よしも',
 );
+
+word(
+    date       => '2014-07-25',
+    word       => '踏む',
+    furigana   => 'ふむ',
+);
+
+word(
+    date       => '2014-07-25',
+    word       => 'フヨフヨ',
+);
+
+word(
+    date       => '2014-07-25',
+    word       => '漂う',
+    furigana   => 'ただよう',
+);
