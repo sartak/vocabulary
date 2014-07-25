@@ -22910,3 +22910,15 @@ word(
     word       => '栓',
     furigana   => 'せん',
 );
+
+word(
+    date       => '2014-07-24',
+    word       => '日当り',
+    furigana   => 'ひあたり',
+);
+
+word(
+    date       => '2014-07-24',
+    word       => '吉母',
+    furigana   => 'よしも',
+);
