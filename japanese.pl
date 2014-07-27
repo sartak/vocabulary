@@ -22939,3 +22939,14 @@ word(
     word       => '漂う',
     furigana   => 'ただよう',
 );
+
+word(
+    date       => '2014-07-26',
+    word       => 'キビキビ',
+);
+
+word(
+    date       => '2014-07-26',
+    word       => '土',
+    furigana   => 'つち',
+);
