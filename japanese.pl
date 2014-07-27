@@ -22950,3 +22950,15 @@ word(
     word       => '土',
     furigana   => 'つち',
 );
+
+word(
+    date       => '2014-07-27',
+    word       => '故郷',
+    furigana   => 'こきょう',
+);
+
+word(
+    date       => '2014-07-27',
+    word       => '恋しい',
+    furigana   => 'こいしい',
+);
