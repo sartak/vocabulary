@@ -22985,3 +22985,14 @@ word(
     word       => '捲れる',
     furigana   => 'めくれる',
 );
+
+word(
+    date       => '2014-07-30',
+    word       => 'ひりひり',
+);
+
+word(
+    date       => '2014-07-30',
+    word       => '泥',
+    furigana   => 'どろ',
+);
