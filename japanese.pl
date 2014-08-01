@@ -22996,3 +22996,14 @@ word(
     word       => '泥',
     furigana   => 'どろ',
 );
+
+word(
+    date       => '2014-07-31',
+    word       => 'クスクス',
+);
+
+word(
+    date       => '2014-07-31',
+    word       => '往生',
+    furigana   => 'おうじょう',
+);
