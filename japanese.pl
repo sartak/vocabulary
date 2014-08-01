@@ -23007,3 +23007,15 @@ word(
     word       => '往生',
     furigana   => 'おうじょう',
 );
+
+word(
+    date       => '2014-08-01',
+    word       => '経済',
+    furigana   => 'けいざい',
+);
+
+word(
+    date       => '2014-08-01',
+    word       => '大忙し',
+    furigana   => 'おおいそがし',
+);
