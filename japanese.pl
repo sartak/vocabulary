@@ -23019,3 +23019,15 @@ word(
     word       => '大忙し',
     furigana   => 'おおいそがし',
 );
+
+word(
+    date       => '2014-08-02',
+    word       => '孤高',
+    furigana   => 'ここう',
+);
+
+word(
+    date       => '2014-08-02',
+    word       => '獲物',
+    furigana   => 'えもの',
+);
