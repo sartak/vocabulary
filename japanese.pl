@@ -23052,3 +23052,15 @@ word(
     word       => '為す',
     furigana   => 'なす',
 );
+
+word(
+    date       => '2014-08-05',
+    word       => '飛び立つ',
+    furigana   => 'とびたつ',
+);
+
+word(
+    date       => '2014-08-05',
+    word       => '晩白柚',
+    furigana   => 'ばんぺいゆ',
+);
