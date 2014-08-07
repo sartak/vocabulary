@@ -23064,3 +23064,15 @@ word(
     word       => '晩白柚',
     furigana   => 'ばんぺいゆ',
 );
+
+word(
+    date       => '2014-08-06',
+    word       => '蛇足',
+    furigana   => 'だそく',
+);
+
+word(
+    date       => '2014-08-06',
+    word       => '混ざる',
+    furigana   => 'まざる',
+);
