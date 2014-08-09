@@ -23099,3 +23099,15 @@ word(
     word       => '堂々',
     furigana   => 'どうどう',
 );
+
+word(
+    date       => '2014-08-09',
+    word       => '争い',
+    furigana   => 'あらそい',
+);
+
+word(
+    date       => '2014-08-09',
+    word       => '脂肪',
+    furigana   => 'しぼう',
+);
