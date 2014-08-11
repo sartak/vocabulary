@@ -23111,3 +23111,15 @@ word(
     word       => '脂肪',
     furigana   => 'しぼう',
 );
+
+word(
+    date       => '2014-08-10',
+    word       => '別称',
+    furigana   => 'べっしょう',
+);
+
+word(
+    date       => '2014-08-10',
+    word       => '結ぶ',
+    furigana   => 'むすぶ',
+);
