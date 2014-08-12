@@ -23123,3 +23123,15 @@ word(
     word       => '結ぶ',
     furigana   => 'むすぶ',
 );
+
+word(
+    date       => '2014-08-11',
+    word       => '完結',
+    furigana   => 'かんけつ',
+);
+
+word(
+    date       => '2014-08-11',
+    word       => '山陽',
+    furigana   => 'さんよう',
+);
