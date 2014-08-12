@@ -23141,3 +23141,15 @@ word(
     word       => '全品',
     furigana   => 'ぜんぴん',
 );
+
+word(
+    date       => '2014-08-12',
+    word       => '曲折',
+    furigana   => 'きょくせつ',
+);
+
+word(
+    date       => '2014-08-12',
+    word       => '着工',
+    furigana   => 'ちゃっこう',
+);
