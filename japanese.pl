@@ -23153,3 +23153,21 @@ word(
     word       => '着工',
     furigana   => 'ちゃっこう',
 );
+
+word(
+    date       => '2014-08-13',
+    word       => '発着',
+    furigana   => 'はっちゃく',
+);
+
+word(
+    date       => '2014-08-13',
+    word       => '整備',
+    furigana   => 'せいび',
+);
+
+word(
+    date       => '2014-08-13',
+    word       => '事業',
+    furigana   => 'ことわざ',
+);
