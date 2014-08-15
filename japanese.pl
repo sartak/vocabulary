@@ -23171,3 +23171,15 @@ word(
     word       => '事業',
     furigana   => 'ことわざ',
 );
+
+word(
+    date       => '2014-08-14',
+    word       => '消火器',
+    furigana   => 'しょうかき',
+);
+
+word(
+    date       => '2014-08-14',
+    word       => '同伴',
+    furigana   => 'どうはん',
+);
