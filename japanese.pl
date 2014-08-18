@@ -23207,3 +23207,15 @@ word(
     word       => '巣鴨駅',
     furigana   => 'すがもえき',
 );
+
+word(
+    date       => '2014-08-17',
+    word       => '駒込駅',
+    furigana   => 'こまごめえき',
+);
+
+word(
+    date       => '2014-08-17',
+    word       => '田端駅',
+    furigana   => 'たばたえき',
+);
