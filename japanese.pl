@@ -23219,3 +23219,15 @@ word(
     word       => '田端駅',
     furigana   => 'たばたえき',
 );
+
+word(
+    date       => '2014-08-18',
+    word       => '至る',
+    furigana   => 'いたる',
+);
+
+word(
+    date       => '2014-08-18',
+    word       => '京王',
+    furigana   => 'けいおう',
+);
