@@ -23243,3 +23243,15 @@ word(
     word       => '改称',
     furigana   => 'かいしょう',
 );
+
+word(
+    date       => '2014-08-20',
+    word       => '軌道',
+    furigana   => 'きどう',
+);
+
+word(
+    date       => '2014-08-20',
+    word       => '鴬谷駅',
+    furigana   => 'うぐいすだにえき',
+);
