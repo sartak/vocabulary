@@ -23231,3 +23231,15 @@ word(
     word       => '京王',
     furigana   => 'けいおう',
 );
+
+word(
+    date       => '2014-08-19',
+    word       => '旧称',
+    furigana   => 'きゅうしょう',
+);
+
+word(
+    date       => '2014-08-19',
+    word       => '改称',
+    furigana   => 'かいしょう',
+);
