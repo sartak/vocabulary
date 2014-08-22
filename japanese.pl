@@ -23255,3 +23255,15 @@ word(
     word       => '鴬谷駅',
     furigana   => 'うぐいすだにえき',
 );
+
+word(
+    date       => '2014-08-21',
+    word       => '地方',
+    furigana   => 'ちほう',
+);
+
+word(
+    date       => '2014-08-21',
+    word       => '海面',
+    furigana   => 'かいめん',
+);
