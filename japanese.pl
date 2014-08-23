@@ -23267,3 +23267,21 @@ word(
     word       => '海面',
     furigana   => 'かいめん',
 );
+
+word(
+    date       => '2014-08-22',
+    word       => '便器',
+    furigana   => 'べんき',
+);
+
+word(
+    date       => '2014-08-22',
+    word       => '縁',
+    furigana   => 'ふち',
+);
+
+word(
+    date       => '2014-08-22',
+    word       => '敷く',
+    furigana   => 'しく',
+);
