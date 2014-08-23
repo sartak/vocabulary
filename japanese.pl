@@ -23285,3 +23285,15 @@ word(
     word       => '敷く',
     furigana   => 'しく',
 );
+
+word(
+    date       => '2014-08-23',
+    word       => '植木',
+    furigana   => 'うえき',
+);
+
+word(
+    date       => '2014-08-23',
+    word       => '石庭',
+    furigana   => 'せきてい',
+);
