@@ -23297,3 +23297,27 @@ word(
     word       => '石庭',
     furigana   => 'せきてい',
 );
+
+word(
+    date       => '2014-08-24',
+    word       => '劇的',
+    furigana   => 'げきてき',
+);
+
+word(
+    date       => '2014-08-24',
+    word       => '下ろす',
+    furigana   => 'おろす',
+);
+
+word(
+    date       => '2014-08-24',
+    word       => '実質',
+    furigana   => 'じっしつ',
+);
+
+word(
+    date       => '2014-08-24',
+    word       => '薄板',
+    furigana   => 'うすいた',
+);
