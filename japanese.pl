@@ -23321,3 +23321,15 @@ word(
     word       => '薄板',
     furigana   => 'うすいた',
 );
+
+word(
+    date       => '2014-08-25',
+    word       => '御徒町駅',
+    furigana   => 'おかちまちえき',
+);
+
+word(
+    date       => '2014-08-25',
+    word       => '神田駅',
+    furigana   => 'かんだえき',
+);
