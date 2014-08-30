@@ -23366,3 +23366,27 @@ word(
     word       => '盛況',
     furigana   => 'せいきょう',
 );
+
+word(
+    date       => '2014-08-29',
+    word       => '三脚',
+    furigana   => 'さんきゃく',
+);
+
+word(
+    date       => '2014-08-29',
+    word       => '手ブレ',
+    furigana   => 'てブレ',
+);
+
+word(
+    date       => '2014-08-29',
+    word       => '除去',
+    furigana   => 'じょきょ',
+);
+
+word(
+    date       => '2014-08-29',
+    word       => '仕上がり',
+    furigana   => 'しあがり',
+);
