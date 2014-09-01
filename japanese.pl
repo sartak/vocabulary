@@ -23414,3 +23414,15 @@ word(
     word       => '大崎駅',
     furigana   => 'おおさきえき',
 );
+
+word(
+    date       => '2014-09-01',
+    word       => '横断',
+    furigana   => 'おうだん',
+);
+
+word(
+    date       => '2014-09-01',
+    word       => '歩道',
+    furigana   => 'ほどう',
+);
