@@ -23426,3 +23426,9 @@ word(
     word       => '歩道',
     furigana   => 'ほどう',
 );
+
+word(
+    date       => '2014-09-01',
+    word       => '車道',
+    furigana   => 'しゃどう',
+);
