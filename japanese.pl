@@ -23444,3 +23444,15 @@ word(
     word       => '換算',
     furigana   => 'かんさん',
 );
+
+word(
+    date       => '2014-09-03',
+    word       => '魔改造',
+    furigana   => 'まかいぞう',
+);
+
+word(
+    date       => '2014-09-03',
+    word       => '誰得',
+    furigana   => 'だれとく',
+);
