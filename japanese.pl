@@ -23432,3 +23432,15 @@ word(
     word       => '車道',
     furigana   => 'しゃどう',
 );
+
+word(
+    date       => '2014-09-02',
+    word       => '実施',
+    furigana   => 'じっし',
+);
+
+word(
+    date       => '2014-09-02',
+    word       => '換算',
+    furigana   => 'かんさん',
+);
