@@ -23456,3 +23456,21 @@ word(
     word       => '誰得',
     furigana   => 'だれとく',
 );
+
+word(
+    date       => '2014-09-04',
+    word       => '頒布',
+    furigana   => 'はんぷ',
+);
+
+word(
+    date       => '2014-09-04',
+    word       => '天狗',
+    furigana   => 'てんぐ',
+);
+
+word(
+    date       => '2014-09-04',
+    word       => '街道',
+    furigana   => 'かいどう',
+);
