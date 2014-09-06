@@ -23474,3 +23474,15 @@ word(
     word       => '街道',
     furigana   => 'かいどう',
 );
+
+word(
+    date       => '2014-09-05',
+    word       => '草鞋',
+    furigana   => 'わらじ',
+);
+
+word(
+    date       => '2014-09-05',
+    word       => '秘伝',
+    furigana   => 'ひでん',
+);
