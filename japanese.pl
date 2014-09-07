@@ -23486,3 +23486,15 @@ word(
     word       => '秘伝',
     furigana   => 'ひでん',
 );
+
+word(
+    date       => '2014-09-06',
+    word       => '中継',
+    furigana   => 'ちゅうけい',
+);
+
+word(
+    date       => '2014-09-06',
+    word       => '火遁',
+    furigana   => 'かとん',
+);
