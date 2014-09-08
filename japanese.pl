@@ -23498,3 +23498,15 @@ word(
     word       => '火遁',
     furigana   => 'かとん',
 );
+
+word(
+    date       => '2014-09-07',
+    word       => '懇親',
+    furigana   => 'こんしん',
+);
+
+word(
+    date       => '2014-09-07',
+    word       => '物の怪',
+    furigana   => 'もののけ',
+);
