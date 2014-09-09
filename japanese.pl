@@ -23510,3 +23510,15 @@ word(
     word       => '物の怪',
     furigana   => 'もののけ',
 );
+
+word(
+    date       => '2014-09-08',
+    word       => '大根',
+    furigana   => 'だいこん',
+);
+
+word(
+    date       => '2014-09-08',
+    word       => '卸',
+    furigana   => 'おろし',
+);
