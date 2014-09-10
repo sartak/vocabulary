@@ -23522,3 +23522,15 @@ word(
     word       => '卸',
     furigana   => 'おろし',
 );
+
+word(
+    date       => '2014-09-09',
+    word       => '入荷',
+    furigana   => 'にゅうか',
+);
+
+word(
+    date       => '2014-09-09',
+    word       => '常世',
+    furigana   => 'とこよ',
+);
