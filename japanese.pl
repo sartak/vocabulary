@@ -23534,3 +23534,21 @@ word(
     word       => '常世',
     furigana   => 'とこよ',
 );
+
+word(
+    date       => '2014-09-10',
+    word       => '列島',
+    furigana   => 'れっとう',
+);
+
+word(
+    date       => '2014-09-10',
+    word       => '構成',
+    furigana   => 'こうせい',
+);
+
+word(
+    date       => '2014-09-10',
+    word       => '南西',
+    furigana   => 'なんせい',
+);
