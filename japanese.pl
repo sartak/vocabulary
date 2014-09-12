@@ -23552,3 +23552,15 @@ word(
     word       => '南西',
     furigana   => 'なんせい',
 );
+
+word(
+    date       => '2014-09-11',
+    word       => '便座',
+    furigana   => 'べんざ',
+);
+
+word(
+    date       => '2014-09-11',
+    word       => '洗足',
+    furigana   => 'せんぞく',
+);
