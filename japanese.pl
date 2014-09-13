@@ -23576,3 +23576,15 @@ word(
     word       => '楕円',
     furigana   => 'だえん',
 );
+
+word(
+    date       => '2014-09-13',
+    word       => '纏まる',
+    furigana   => 'まとまる',
+);
+
+word(
+    date       => '2014-09-13',
+    word       => '渦',
+    furigana   => 'うず',
+);
