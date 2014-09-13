@@ -23564,3 +23564,15 @@ word(
     word       => '洗足',
     furigana   => 'せんぞく',
 );
+
+word(
+    date       => '2014-09-12',
+    word       => '握る',
+    furigana   => 'にぎる',
+);
+
+word(
+    date       => '2014-09-12',
+    word       => '楕円',
+    furigana   => 'だえん',
+);
