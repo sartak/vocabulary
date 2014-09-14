@@ -23588,3 +23588,15 @@ word(
     word       => '渦',
     furigana   => 'うず',
 );
+
+word(
+    date       => '2014-09-14',
+    word       => '果たす',
+    furigana   => 'はたす',
+);
+
+word(
+    date       => '2014-09-14',
+    word       => '平ら',
+    furigana   => 'たいら',
+);
