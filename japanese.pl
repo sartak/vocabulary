@@ -23600,3 +23600,15 @@ word(
     word       => '平ら',
     furigana   => 'たいら',
 );
+
+word(
+    date       => '2014-09-15',
+    word       => '波線',
+    furigana   => 'なみせん',
+);
+
+word(
+    date       => '2014-09-15',
+    word       => '点線',
+    furigana   => 'てんせん',
+);
