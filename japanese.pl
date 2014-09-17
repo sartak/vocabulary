@@ -23612,3 +23612,15 @@ word(
     word       => '点線',
     furigana   => 'てんせん',
 );
+
+word(
+    date       => '2014-09-16',
+    word       => '国道',
+    furigana   => 'こくどう',
+);
+
+word(
+    date       => '2014-09-16',
+    word       => '関門橋',
+    furigana   => 'かんもんきょう',
+);
