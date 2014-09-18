@@ -23624,3 +23624,15 @@ word(
     word       => '関門橋',
     furigana   => 'かんもんきょう',
 );
+
+word(
+    date       => '2014-09-17',
+    word       => '地上',
+    furigana   => 'ちじょう',
+);
+
+word(
+    date       => '2014-09-17',
+    word       => '人道',
+    furigana   => 'じんどう',
+);
