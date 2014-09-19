@@ -23648,3 +23648,26 @@ word(
     word       => '募る',
     furigana   => 'つのる',
 );
+
+word(
+    date       => '2014-09-19',
+    word       => '溶かす',
+    furigana   => 'とかす',
+);
+
+word(
+    date       => '2014-09-19',
+    word       => '液',
+    furigana   => 'えき',
+);
+
+word(
+    date       => '2014-09-19',
+    word       => 'ポトポト',
+);
+
+word(
+    date       => '2014-09-19',
+    word       => '粒',
+    furigana   => 'つぶ',
+);
