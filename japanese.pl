@@ -23636,3 +23636,15 @@ word(
     word       => '人道',
     furigana   => 'じんどう',
 );
+
+word(
+    date       => '2014-09-18',
+    word       => '初回',
+    furigana   => 'しょかい',
+);
+
+word(
+    date       => '2014-09-18',
+    word       => '募る',
+    furigana   => 'つのる',
+);
