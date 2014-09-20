@@ -23671,3 +23671,16 @@ word(
     word       => '粒',
     furigana   => 'つぶ',
 );
+
+word(
+    date       => '2014-09-20',
+    word       => '市内',
+    furigana   => 'しない',
+);
+
+word(
+    date       => '2014-09-20',
+    word       => '運航',
+    furigana   => 'うんこう',
+);
+
