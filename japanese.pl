@@ -23684,3 +23684,14 @@ word(
     furigana   => 'うんこう',
 );
 
+word(
+    date       => '2014-09-21',
+    word       => '掬う',
+    furigana   => 'すくう',
+);
+
+word(
+    date       => '2014-09-21',
+    word       => '量る',
+    furigana   => 'はかる',
+);
