@@ -23695,3 +23695,15 @@ word(
     word       => '量る',
     furigana   => 'はかる',
 );
+
+word(
+    date       => '2014-09-22',
+    word       => '料金',
+    furigana   => 'りょうきん',
+);
+
+word(
+    date       => '2014-09-22',
+    word       => '殺到',
+    furigana   => 'さっとう',
+);
