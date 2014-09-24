@@ -23707,3 +23707,21 @@ word(
     word       => '殺到',
     furigana   => 'さっとう',
 );
+
+word(
+    date       => '2014-09-23',
+    word       => '急激',
+    furigana   => 'きゅうげき',
+);
+
+word(
+    date       => '2014-09-23',
+    word       => '増加',
+    furigana   => 'ぞうか',
+);
+
+word(
+    date       => '2014-09-23',
+    word       => '値上がり',
+    furigana   => 'ねあがり',
+);
