@@ -23725,3 +23725,16 @@ word(
     word       => '値上がり',
     furigana   => 'ねあがり',
 );
+
+word(
+    date       => '2014-09-24',
+    word       => '鱶',
+    furigana   => 'ふか',
+);
+
+word(
+    date       => '2014-09-24',
+    word       => '心地',
+    furigana   => 'ここち',
+);
+
