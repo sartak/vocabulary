@@ -23738,3 +23738,14 @@ word(
     furigana   => 'ここち',
 );
 
+word(
+    date       => '2014-09-25',
+    word       => '人口',
+    furigana   => 'じんこう',
+);
+
+word(
+    date       => '2014-09-25',
+    word       => '次いで',
+    furigana   => 'ついで',
+);
