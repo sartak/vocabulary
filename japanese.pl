@@ -23788,3 +23788,15 @@ word(
     word       => '嗤い',
     furigana   => 'わらい',
 );
+
+word(
+    date       => '2014-09-29',
+    word       => '州',
+    furigana   => 'しゅう',
+);
+
+word(
+    date       => '2014-09-29',
+    word       => '南東',
+    furigana   => 'なんとう',
+);
