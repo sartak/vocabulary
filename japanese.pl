@@ -23812,3 +23812,15 @@ word(
     word       => '常連',
     furigana   => 'じょうれん',
 );
+
+word(
+    date       => '2014-10-01',
+    word       => '教材',
+    furigana   => 'きょうざいい',
+);
+
+word(
+    date       => '2014-10-01',
+    word       => '安価',
+    furigana   => 'あんか',
+);
