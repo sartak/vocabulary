@@ -23800,3 +23800,15 @@ word(
     word       => '南東',
     furigana   => 'なんとう',
 );
+
+word(
+    date       => '2014-09-30',
+    word       => '厚切り',
+    furigana   => 'あつぎり',
+);
+
+word(
+    date       => '2014-09-30',
+    word       => '常連',
+    furigana   => 'じょうれん',
+);
