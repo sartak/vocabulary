@@ -23824,3 +23824,21 @@ word(
     word       => '安価',
     furigana   => 'あんか',
 );
+
+word(
+    date       => '2014-10-02',
+    word       => '干渉',
+    furigana   => 'かんしょう',
+);
+
+word(
+    date       => '2014-10-02',
+    word       => '注意報',
+    furigana   => 'ちゅういほう',
+);
+
+word(
+    date       => '2014-10-02',
+    word       => '海水浴',
+    furigana   => 'かいすいよく',
+);
