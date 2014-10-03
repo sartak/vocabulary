@@ -23842,3 +23842,15 @@ word(
     word       => '海水浴',
     furigana   => 'かいすいよく',
 );
+
+word(
+    date       => '2014-10-03',
+    word       => '無沙汰',
+    furigana   => 'ぶさた',
+);
+
+word(
+    date       => '2014-10-03',
+    word       => '監視員',
+    furigana   => 'かんしいん',
+);
