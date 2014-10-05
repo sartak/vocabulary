@@ -23854,3 +23854,15 @@ word(
     word       => '監視員',
     furigana   => 'かんしいん',
 );
+
+word(
+    date       => '2014-10-04',
+    word       => '着目',
+    furigana   => 'ちゃくもく',
+);
+
+word(
+    date       => '2014-10-04',
+    word       => '固有',
+    furigana   => 'こゆう',
+);
