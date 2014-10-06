@@ -23884,3 +23884,15 @@ word(
     word       => '煮定食',
     furigana   => 'にていしょく',
 );
+
+word(
+    date       => '2014-10-06',
+    word       => '種別',
+    furigana   => 'しゅべつ',
+);
+
+word(
+    date       => '2014-10-06',
+    word       => '休止',
+    furigana   => 'きゅうし',
+);
