@@ -23866,3 +23866,21 @@ word(
     word       => '固有',
     furigana   => 'こゆう',
 );
+
+word(
+    date       => '2014-10-05',
+    word       => '特濃',
+    furigana   => 'とくのう',
+);
+
+word(
+    date       => '2014-10-05',
+    word       => '四元豚',
+    furigana   => 'よんげんとん',
+);
+
+word(
+    date       => '2014-10-05',
+    word       => '煮定食',
+    furigana   => 'にていしょく',
+);
