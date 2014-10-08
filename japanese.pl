@@ -23896,3 +23896,15 @@ word(
     word       => '休止',
     furigana   => 'きゅうし',
 );
+
+word(
+    date       => '2014-10-07',
+    word       => '原曲',
+    furigana   => 'げんきょく',
+);
+
+word(
+    date       => '2014-10-07',
+    word       => '演奏',
+    furigana   => 'えんそう',
+);
