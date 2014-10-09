@@ -23908,3 +23908,27 @@ word(
     word       => '演奏',
     furigana   => 'えんそう',
 );
+
+word(
+    date       => '2014-10-08',
+    word       => '職権',
+    furigana   => 'しょっけん',
+);
+
+word(
+    date       => '2014-10-08',
+    word       => '数量',
+    furigana   => 'すうりょう',
+);
+
+word(
+    date       => '2014-10-08',
+    word       => '及び',
+    furigana   => 'および',
+);
+
+word(
+    date       => '2014-10-08',
+    word       => '明細',
+    furigana   => 'めいさい',
+);
