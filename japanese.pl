@@ -23932,3 +23932,21 @@ word(
     word       => '明細',
     furigana   => 'めいさい',
 );
+
+word(
+    date       => '2014-10-09',
+    word       => '知人',
+    furigana   => 'ちじん',
+);
+
+word(
+    date       => '2014-10-09',
+    word       => '憚る',
+    furigana   => 'はばかる',
+);
+
+word(
+    date       => '2014-10-09',
+    word       => '多々',
+    furigana   => 'たた',
+);
