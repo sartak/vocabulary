@@ -23950,3 +23950,15 @@ word(
     word       => '多々',
     furigana   => 'たた',
 );
+
+word(
+    date       => '2014-10-10',
+    word       => '今号',
+    furigana   => 'こんごう',
+);
+
+word(
+    date       => '2014-10-10',
+    word       => '是非',
+    furigana   => 'ぜひ',
+);
