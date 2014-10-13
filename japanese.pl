@@ -23986,3 +23986,14 @@ word(
     furigana   => 'ゆうりょう',
 );
 
+word(
+    date       => '2014-10-13',
+    word       => '鍛える',
+    furigana   => 'きたえる',
+);
+
+word(
+    date       => '2014-10-13',
+    word       => '託す',
+    furigana   => 'たくす',
+);
