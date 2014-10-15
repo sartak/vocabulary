@@ -23997,3 +23997,15 @@ word(
     word       => '託す',
     furigana   => 'たくす',
 );
+
+word(
+    date       => '2014-10-14',
+    word       => '精霊',
+    furigana   => 'しょうりょう',
+);
+
+word(
+    date       => '2014-10-14',
+    word       => '呪い',
+    furigana   => 'まじない',
+);
