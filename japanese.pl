@@ -24009,3 +24009,15 @@ word(
     word       => '呪い',
     furigana   => 'まじない',
 );
+
+word(
+    date       => '2014-10-15',
+    word       => '初陣',
+    furigana   => 'ういじん',
+);
+
+word(
+    date       => '2014-10-15',
+    word       => '腑',
+    furigana   => 'ふ',
+);
