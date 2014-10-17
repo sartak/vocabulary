@@ -24021,3 +24021,15 @@ word(
     word       => '腑',
     furigana   => 'ふ',
 );
+
+word(
+    date       => '2014-10-16',
+    word       => '重臣',
+    furigana   => 'じゅうしん',
+);
+
+word(
+    date       => '2014-10-16',
+    word       => '誉める',
+    furigana   => 'ほめる',
+);
