@@ -24033,3 +24033,15 @@ word(
     word       => '誉める',
     furigana   => 'ほめる',
 );
+
+word(
+    date       => '2014-10-17',
+    word       => '褒める',
+    furigana   => 'ほめる',
+);
+
+word(
+    date       => '2014-10-17',
+    word       => '存じる',
+    furigana   => 'ぞんじる',
+);
