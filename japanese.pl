@@ -24056,3 +24056,21 @@ word(
     word       => '何卒',
     furigana   => 'なにとぞ',
 );
+
+word(
+    date       => '2014-10-19',
+    word       => '侯',
+    furigana   => 'こう',
+);
+
+word(
+    date       => '2014-10-19',
+    word       => '馬車',
+    furigana   => 'ばしゃ',
+);
+
+word(
+    date       => '2014-10-19',
+    word       => '誘拐',
+    furigana   => 'ゆうかい',
+);
