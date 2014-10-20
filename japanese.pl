@@ -24074,3 +24074,15 @@ word(
     word       => '誘拐',
     furigana   => 'ゆうかい',
 );
+
+word(
+    date       => '2014-10-20',
+    word       => '捜索隊',
+    furigana   => 'そうさくたい',
+);
+
+word(
+    date       => '2014-10-20',
+    word       => '身代金',
+    furigana   => 'みのしろきん',
+);
