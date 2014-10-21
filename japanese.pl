@@ -24086,3 +24086,15 @@ word(
     word       => '身代金',
     furigana   => 'みのしろきん',
 );
+
+word(
+    date       => '2014-10-21',
+    word       => '分解',
+    furigana   => 'ぶんかい',
+);
+
+word(
+    date       => '2014-10-21',
+    word       => '中間',
+    furigana   => 'ちゅうかん',
+);
