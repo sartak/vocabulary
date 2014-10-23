@@ -24098,3 +24098,15 @@ word(
     word       => '中間',
     furigana   => 'ちゅうかん',
 );
+
+word(
+    date       => '2014-10-22',
+    word       => '貴公',
+    furigana   => 'きこう',
+);
+
+word(
+    date       => '2014-10-22',
+    word       => '弁え',
+    furigana   => 'わきまえ',
+);
