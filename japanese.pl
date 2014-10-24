@@ -24110,3 +24110,15 @@ word(
     word       => '弁え',
     furigana   => 'わきまえ',
 );
+
+word(
+    date       => '2014-10-23',
+    word       => '中略',
+    furigana   => 'ちゅうりゃく',
+);
+
+word(
+    date       => '2014-10-23',
+    word       => '警護',
+    furigana   => 'けいご',
+);
