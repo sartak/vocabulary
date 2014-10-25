@@ -24122,3 +24122,15 @@ word(
     word       => '警護',
     furigana   => 'けいご',
 );
+
+word(
+    date       => '2014-10-24',
+    word       => '甲羅',
+    furigana   => 'こうら',
+);
+
+word(
+    date       => '2014-10-24',
+    word       => '化石',
+    furigana   => 'かせき',
+);
