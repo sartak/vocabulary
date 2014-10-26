@@ -24134,3 +24134,21 @@ word(
     word       => '化石',
     furigana   => 'かせき',
 );
+
+word(
+    date       => '2014-10-25',
+    word       => '貝',
+    furigana   => 'かい',
+);
+
+word(
+    date       => '2014-10-25',
+    word       => '尊敬',
+    furigana   => 'そんけい',
+);
+
+word(
+    date       => '2014-10-25',
+    word       => '家柄',
+    furigana   => 'いえがら',
+);
