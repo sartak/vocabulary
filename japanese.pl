@@ -24152,3 +24152,15 @@ word(
     word       => '家柄',
     furigana   => 'いえがら',
 );
+
+word(
+    date       => '2014-10-26',
+    word       => '称号',
+    furigana   => 'しょうごう',
+);
+
+word(
+    date       => '2014-10-26',
+    word       => '一兵卒',
+    furigana   => 'いっぺいそつ',
+);
