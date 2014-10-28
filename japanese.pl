@@ -24164,3 +24164,15 @@ word(
     word       => '一兵卒',
     furigana   => 'いっぺいそつ',
 );
+
+word(
+    date       => '2014-10-27',
+    word       => '雑感',
+    furigana   => 'ざっかん',
+);
+
+word(
+    date       => '2014-10-27',
+    word       => '卿',
+    furigana   => 'きょう',
+);
