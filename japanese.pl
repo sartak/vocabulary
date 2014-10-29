@@ -24176,3 +24176,15 @@ word(
     word       => '卿',
     furigana   => 'きょう',
 );
+
+word(
+    date       => '2014-10-28',
+    word       => '辛辛',
+    furigana   => 'からがら',
+);
+
+word(
+    date       => '2014-10-28',
+    word       => '蹴散らす',
+    furigana   => 'けちらす',
+);
