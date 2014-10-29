@@ -24188,3 +24188,15 @@ word(
     word       => '蹴散らす',
     furigana   => 'けちらす',
 );
+
+word(
+    date       => '2014-10-29',
+    word       => '一員',
+    furigana   => 'いちいん',
+);
+
+word(
+    date       => '2014-10-29',
+    word       => '武運',
+    furigana   => 'ぶうん',
+);
