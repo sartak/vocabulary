@@ -24200,3 +24200,15 @@ word(
     word       => '武運',
     furigana   => 'ぶうん',
 );
+
+word(
+    date       => '2014-10-30',
+    word       => '骸',
+    furigana   => 'むくろ',
+);
+
+word(
+    date       => '2014-10-30',
+    word       => '旅団',
+    furigana   => 'りょだん',
+);
