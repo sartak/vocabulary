@@ -24212,3 +24212,21 @@ word(
     word       => '旅団',
     furigana   => 'りょだん',
 );
+
+word(
+    date       => '2014-10-31',
+    word       => '貴族',
+    furigana   => 'きぞく',
+);
+
+word(
+    date       => '2014-10-31',
+    word       => '掲げる',
+    furigana   => 'かかげる',
+);
+
+word(
+    date       => '2014-10-31',
+    word       => '義賊',
+    furigana   => 'ぎぞく',
+);
