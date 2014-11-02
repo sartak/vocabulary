@@ -24230,3 +24230,15 @@ word(
     word       => '義賊',
     furigana   => 'ぎぞく',
 );
+
+word(
+    date       => '2014-11-01',
+    word       => '金目',
+    furigana   => 'かねめ',
+);
+
+word(
+    date       => '2014-11-01',
+    word       => 'ならず者',
+    furigana   => 'ならずもの',
+);
