@@ -24242,3 +24242,21 @@ word(
     word       => 'ならず者',
     furigana   => 'ならずもの',
 );
+
+word(
+    date       => '2014-11-02',
+    word       => '放る',
+    furigana   => 'ほうる',
+);
+
+word(
+    date       => '2014-11-02',
+    word       => '消息',
+    furigana   => 'しょうそく',
+);
+
+word(
+    date       => '2014-11-02',
+    word       => '絶つ',
+    furigana   => 'たつ',
+);
