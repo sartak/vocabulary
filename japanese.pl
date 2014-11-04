@@ -24260,3 +24260,21 @@ word(
     word       => '絶つ',
     furigana   => 'たつ',
 );
+
+word(
+    date       => '2014-11-03',
+    word       => '無敵',
+    furigana   => 'むてき',
+);
+
+word(
+    date       => '2014-11-03',
+    word       => '全身',
+    furigana   => 'ぜんしん',
+);
+
+word(
+    date       => '2014-11-03',
+    word       => '凶器',
+    furigana   => 'きょうき',
+);
