@@ -24278,3 +24278,15 @@ word(
     word       => '凶器',
     furigana   => 'きょうき',
 );
+
+word(
+    date       => '2014-11-04',
+    word       => '貿易',
+    furigana   => 'ぼうえき',
+);
+
+word(
+    date       => '2014-11-04',
+    word       => '余計',
+    furigana   => 'よけい',
+);
