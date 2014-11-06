@@ -24290,3 +24290,15 @@ word(
     word       => '余計',
     furigana   => 'よけい',
 );
+
+word(
+    date       => '2014-11-05',
+    word       => '賛否',
+    furigana   => 'さんぴ',
+);
+
+word(
+    date       => '2014-11-05',
+    word       => '両論',
+    furigana   => 'りょうろん',
+);
