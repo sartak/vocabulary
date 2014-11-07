@@ -24302,3 +24302,15 @@ word(
     word       => '両論',
     furigana   => 'りょうろん',
 );
+
+word(
+    date       => '2014-11-06',
+    word       => '応える',
+    furigana   => 'こたえる',
+);
+
+word(
+    date       => '2014-11-06',
+    word       => '背負い込む',
+    furigana   => 'しょいこむ',
+);
