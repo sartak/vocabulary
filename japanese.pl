@@ -24314,3 +24314,15 @@ word(
     word       => '背負い込む',
     furigana   => 'しょいこむ',
 );
+
+word(
+    date       => '2014-11-07',
+    word       => '土下座',
+    furigana   => 'どげざ',
+);
+
+word(
+    date       => '2014-11-07',
+    word       => '勘弁',
+    furigana   => 'かんべん',
+);
