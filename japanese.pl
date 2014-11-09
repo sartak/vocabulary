@@ -24326,3 +24326,16 @@ word(
     word       => '勘弁',
     furigana   => 'かんべん',
 );
+
+word(
+    date       => '2014-11-08',
+    word       => '明滅',
+    furigana   => 'めいめつ',
+);
+
+word(
+    date       => '2014-11-08',
+    word       => '紀州',
+    furigana   => 'きしゅう',
+);
+
