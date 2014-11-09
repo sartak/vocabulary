@@ -24339,3 +24339,14 @@ word(
     furigana   => 'きしゅう',
 );
 
+word(
+    date       => '2014-11-09',
+    word       => '打ち込む',
+    furigana   => 'ぶちこむ',
+);
+
+word(
+    date       => '2014-11-09',
+    word       => '酸っぱい',
+    furigana   => 'すっぱい',
+);
