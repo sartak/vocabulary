@@ -24350,3 +24350,15 @@ word(
     word       => '酸っぱい',
     furigana   => 'すっぱい',
 );
+
+word(
+    date       => '2014-11-10',
+    word       => '芸能',
+    furigana   => 'げいのう',
+);
+
+word(
+    date       => '2014-11-10',
+    word       => '因縁',
+    furigana   => 'いんねん',
+);
