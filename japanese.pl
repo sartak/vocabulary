@@ -24380,3 +24380,15 @@ word(
     word       => '要請',
     furigana   => 'ようせい',
 );
+
+word(
+    date       => '2014-11-12',
+    word       => '保存料',
+    furigana   => 'ほぞんりょう',
+);
+
+word(
+    date       => '2014-11-12',
+    word       => '合成',
+    furigana   => 'ごうせい',
+);
