@@ -24362,3 +24362,21 @@ word(
     word       => '因縁',
     furigana   => 'いんねん',
 );
+
+word(
+    date       => '2014-11-11',
+    word       => '長年',
+    furigana   => 'ながねん',
+);
+
+word(
+    date       => '2014-11-11',
+    word       => '課題',
+    furigana   => 'かだい',
+);
+
+word(
+    date       => '2014-11-11',
+    word       => '要請',
+    furigana   => 'ようせい',
+);
