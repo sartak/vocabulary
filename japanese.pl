@@ -24392,3 +24392,21 @@ word(
     word       => '合成',
     furigana   => 'ごうせい',
 );
+
+word(
+    date       => '2014-11-13',
+    word       => '知育',
+    furigana   => 'ちいく',
+);
+
+word(
+    date       => '2014-11-13',
+    word       => '押釦',
+    furigana   => 'おしぼたん',
+);
+
+word(
+    date       => '2014-11-13',
+    word       => '鳴動',
+    furigana   => 'めいどう',
+);
