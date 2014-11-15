@@ -24410,3 +24410,15 @@ word(
     word       => '鳴動',
     furigana   => 'めいどう',
 );
+
+word(
+    date       => '2014-11-14',
+    word       => '文面',
+    furigana   => 'ぶんめん',
+);
+
+word(
+    date       => '2014-11-14',
+    word       => '調理',
+    furigana   => 'ちょうり',
+);
