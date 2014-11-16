@@ -24422,3 +24422,15 @@ word(
     word       => '調理',
     furigana   => 'ちょうり',
 );
+
+word(
+    date       => '2014-11-15',
+    word       => '謳う',
+    furigana   => 'うたう',
+);
+
+word(
+    date       => '2014-11-15',
+    word       => '漲る',
+    furigana   => 'みなぎる',
+);
