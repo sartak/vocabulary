@@ -24434,3 +24434,15 @@ word(
     word       => '漲る',
     furigana   => 'みなぎる',
 );
+
+word(
+    date       => '2014-11-16',
+    word       => '優秀賞',
+    furigana   => 'ゆうしゅうしょう',
+);
+
+word(
+    date       => '2014-11-16',
+    word       => '受賞',
+    furigana   => 'じゅしょう',
+);
