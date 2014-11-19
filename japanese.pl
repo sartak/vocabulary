@@ -24469,3 +24469,15 @@ word(
     word       => '外貨',
     furigana   => 'がいか',
 );
+
+word(
+    date       => '2014-11-19',
+    word       => '両断',
+    furigana   => 'りょうだん',
+);
+
+word(
+    date       => '2014-11-19',
+    word       => '入浴',
+    furigana   => 'にゅうよく',
+);
