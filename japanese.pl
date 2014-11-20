@@ -24481,3 +24481,21 @@ word(
     word       => '入浴',
     furigana   => 'にゅうよく',
 );
+
+word(
+    date       => '2014-11-20',
+    word       => '宿泊',
+    furigana   => 'しゅくはく',
+);
+
+word(
+    date       => '2014-11-20',
+    word       => '旅客',
+    furigana   => 'りょかく',
+);
+
+word(
+    date       => '2014-11-20',
+    word       => '直結',
+    furigana   => 'ちょっけつ',
+);
