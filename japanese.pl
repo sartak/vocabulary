@@ -24499,3 +24499,15 @@ word(
     word       => '直結',
     furigana   => 'ちょっけつ',
 );
+
+word(
+    date       => '2014-11-21',
+    word       => '洗面',
+    furigana   => 'せんめん',
+);
+
+word(
+    date       => '2014-11-21',
+    word       => '水道',
+    furigana   => 'すいどう',
+);
