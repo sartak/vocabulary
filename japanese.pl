@@ -24511,3 +24511,15 @@ word(
     word       => '水道',
     furigana   => 'すいどう',
 );
+
+word(
+    date       => '2014-11-22',
+    word       => '往復',
+    furigana   => 'おうふく',
+);
+
+word(
+    date       => '2014-11-22',
+    word       => '往路',
+    furigana   => 'おうろ',
+);
