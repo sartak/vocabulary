@@ -24545,3 +24545,15 @@ word(
     word       => 'ドヤ顔',
     furigana   => 'ドヤがお',
 );
+
+word(
+    date       => '2014-11-25',
+    word       => '饂飩',
+    furigana   => 'うどん',
+);
+
+word(
+    date       => '2014-11-25',
+    word       => '返却',
+    furigana   => 'へんきゃく',
+);
