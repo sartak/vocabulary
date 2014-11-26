@@ -24557,3 +24557,27 @@ word(
     word       => '返却',
     furigana   => 'へんきゃく',
 );
+
+word(
+    date       => '2014-11-26',
+    word       => '冷蔵庫',
+    furigana   => 'れいぞうこ',
+);
+
+word(
+    date       => '2014-11-26',
+    word       => '差し込む',
+    furigana   => 'さしこむ',
+);
+
+word(
+    date       => '2014-11-26',
+    word       => '室内',
+    furigana   => 'しつない',
+);
+
+word(
+    date       => '2014-11-26',
+    word       => '照明',
+    furigana   => 'しょうめい',
+);
