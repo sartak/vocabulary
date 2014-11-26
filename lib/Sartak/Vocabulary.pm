@@ -31,7 +31,7 @@ sub word {
 
     my $dupe_key = "$args{word}/" . ($args{furigana}||'');
 
-    if ($seen{$dupe_key} && !$args{not_dupe}) {
+    if ($args{word} ne '' && $seen{$dupe_key} && !$args{not_dupe}) {
         warn "Already seen $args{word} (lines $seen{$dupe_key} and $line)\n";
         if ($dryrun) {
             $failed = 1;
