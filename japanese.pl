@@ -24581,3 +24581,16 @@ word(
     word       => '照明',
     furigana   => 'しょうめい',
 );
+
+word(
+    date       => '2014-11-27',
+    word       => '冷水',
+    furigana   => 'れいすい',
+);
+
+word(
+    date       => '2014-11-27',
+    word       => '〜周',
+    furigana   => '〜しゅう',
+);
+
