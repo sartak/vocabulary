@@ -24622,3 +24622,15 @@ word(
     word       => '堪能',
     furigana   => 'かんのう',
 );
+
+word(
+    date       => '2014-11-30',
+    word       => '紙幣',
+    furigana   => 'しへい',
+);
+
+word(
+    date       => '2014-11-30',
+    word       => '投入',
+    furigana   => 'とうにゅう',
+);
