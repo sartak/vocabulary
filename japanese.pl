@@ -24634,3 +24634,15 @@ word(
     word       => '投入',
     furigana   => 'とうにゅう',
 );
+
+word(
+    date       => '2014-12-01',
+    word       => '炭火',
+    furigana   => 'すみび',
+);
+
+word(
+    date       => '2014-12-01',
+    word       => '名物',
+    furigana   => 'めいぶつ',
+);
