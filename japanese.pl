@@ -24646,3 +24646,15 @@ word(
     word       => '名物',
     furigana   => 'めいぶつ',
 );
+
+word(
+    date       => '2014-12-02',
+    word       => '専門店',
+    furigana   => 'せんもんてん',
+);
+
+word(
+    date       => '2014-12-02',
+    word       => '気軽',
+    furigana   => 'きがる',
+);
