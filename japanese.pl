@@ -24658,3 +24658,15 @@ word(
     word       => '気軽',
     furigana   => 'きがる',
 );
+
+word(
+    date       => '2014-12-03',
+    word       => '国内線',
+    furigana   => 'こくないせん',
+);
+
+word(
+    date       => '2014-12-03',
+    word       => '便',
+    furigana   => 'びん',
+);
