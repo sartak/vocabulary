@@ -24670,3 +24670,15 @@ word(
     word       => '便',
     furigana   => 'びん',
 );
+
+word(
+    date       => '2014-12-04',
+    word       => '定刻',
+    furigana   => 'ていこく',
+);
+
+word(
+    date       => '2014-12-04',
+    word       => '行先',
+    furigana   => 'ゆきさき',
+);
