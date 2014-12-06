@@ -24682,3 +24682,15 @@ word(
     word       => '行先',
     furigana   => 'ゆきさき',
 );
+
+word(
+    date       => '2014-12-05',
+    word       => '便名',
+    furigana   => 'びんめい',
+);
+
+word(
+    date       => '2014-12-05',
+    word       => '備考',
+    furigana   => 'びこう',
+);
