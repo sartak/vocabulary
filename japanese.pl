@@ -24694,3 +24694,15 @@ word(
     word       => '備考',
     furigana   => 'びこう',
 );
+
+word(
+    date       => '2014-12-06',
+    word       => '自主',
+    furigana   => 'じしゅ',
+);
+
+word(
+    date       => '2014-12-06',
+    word       => '規制',
+    furigana   => 'きせい',
+);
