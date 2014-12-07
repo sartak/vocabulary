@@ -24706,3 +24706,15 @@ word(
     word       => '規制',
     furigana   => 'きせい',
 );
+
+word(
+    date       => '2014-12-07',
+    word       => '中立',
+    furigana   => 'ちゅうりつ',
+);
+
+word(
+    date       => '2014-12-07',
+    word       => '上位',
+    furigana   => 'じょうい',
+);
