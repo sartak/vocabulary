@@ -24718,3 +24718,21 @@ word(
     word       => '上位',
     furigana   => 'じょうい',
 );
+
+word(
+    date       => '2014-12-08',
+    word       => '首都',
+    furigana   => 'しゅと',
+);
+
+word(
+    date       => '2014-12-08',
+    word       => '真言種',
+    furigana   => 'しんごんしゅ',
+);
+
+word(
+    date       => '2014-12-08',
+    word       => '寺院',
+    furigana   => 'じいん',
+);
