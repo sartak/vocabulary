@@ -24748,3 +24748,15 @@ word(
     word       => '必勝',
     furigana   => 'ひっしょう',
 );
+
+word(
+    date       => '2014-12-10',
+    word       => '伝授',
+    furigana   => 'でんじゅ',
+);
+
+word(
+    date       => '2014-12-10',
+    word       => '本書',
+    furigana   => 'ほんしょ',
+);
