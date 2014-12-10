@@ -24736,3 +24736,15 @@ word(
     word       => '寺院',
     furigana   => 'じいん',
 );
+
+word(
+    date       => '2014-12-09',
+    word       => '初級',
+    furigana   => 'しょきゅう',
+);
+
+word(
+    date       => '2014-12-09',
+    word       => '必勝',
+    furigana   => 'ひっしょう',
+);
