@@ -24760,3 +24760,21 @@ word(
     word       => '本書',
     furigana   => 'ほんしょ',
 );
+
+word(
+    date       => '2014-12-11',
+    word       => '宅配',
+    furigana   => 'たくはい',
+);
+
+word(
+    date       => '2014-12-11',
+    word       => '飛躍',
+    furigana   => 'ひやく',
+);
+
+word(
+    date       => '2014-12-11',
+    word       => '上達',
+    furigana   => 'じょうたつ',
+);
