@@ -24778,3 +24778,9 @@ word(
     word       => '上達',
     furigana   => 'じょうたつ',
 );
+
+word(
+    date       => '2014-12-11',
+    word       => '実戦',
+    furigana   => 'じっせん',
+);
