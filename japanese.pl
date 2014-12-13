@@ -24796,3 +24796,15 @@ word(
     word       => '陳謝',
     furigana   => 'ちんしゃ',
 );
+
+word(
+    date       => '2014-12-13',
+    word       => '仮',
+    furigana   => 'かり',
+);
+
+word(
+    date       => '2014-12-13',
+    word       => '詫びる',
+    furigana   => 'わびる',
+);
