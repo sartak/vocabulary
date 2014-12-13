@@ -24784,3 +24784,15 @@ word(
     word       => '実戦',
     furigana   => 'じっせん',
 );
+
+word(
+    date       => '2014-12-12',
+    word       => '陳列',
+    furigana   => 'ちんれつ',
+);
+
+word(
+    date       => '2014-12-12',
+    word       => '陳謝',
+    furigana   => 'ちんしゃ',
+);
