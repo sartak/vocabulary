@@ -24808,3 +24808,15 @@ word(
     word       => '詫びる',
     furigana   => 'わびる',
 );
+
+word(
+    date       => '2014-12-14',
+    word       => '憂さ晴らし',
+    furigana   => 'うさばらし',
+);
+
+word(
+    date       => '2014-12-14',
+    word       => '寝不足',
+    furigana   => 'ねぶそく',
+);
