@@ -24727,8 +24727,8 @@ word(
 
 word(
     date       => '2014-12-08',
-    word       => '真言種',
-    furigana   => 'しんごんしゅ',
+    word       => '真言宗',
+    furigana   => 'しんごんしゅう',
 );
 
 word(
